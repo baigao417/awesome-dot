@@ -172,6 +172,18 @@
       "file": "quarkos.png",
       "source": "https://avatars.githubusercontent.com/u/111038444?s=96",
       "sha256": "43cd60ae380427bb9197959944d3931c80e2a1f01d0a9d49e69392291be9aba7"
+    },
+    {
+      "owner": "TokenNotIncluded",
+      "file": "tokennotincluded.png",
+      "source": "https://avatars.githubusercontent.com/u/328455637?s=96",
+      "sha256": "58f70887fdc33aec0a7f8435504a2b3a91d4aba219b6e53f7ae9f89c3ff47c4a"
+    },
+    {
+      "owner": "danvoulez",
+      "file": "danvoulez.png",
+      "source": "https://avatars.githubusercontent.com/u/197788260?s=96",
+      "sha256": "16831241eff9285b110db8b9dd9d5aae978e4c83737eaf82631bb829b6b9cd48"
     }
   ]
 }

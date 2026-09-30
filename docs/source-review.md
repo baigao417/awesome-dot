@@ -216,3 +216,17 @@
 - README: https://github.com/QuarkOS/grokbot-vs-dots/blob/fad36521c1481a7f9427a2453562865bd844a0d4/README.md
 - Inspected paths: `src/index.ts`
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## TokenNotIncluded/msg.lmm.best
+
+- Commit: `9f4806d48e8c324e7fc480c5a57eafb2bdaa0766`
+- README: https://github.com/TokenNotIncluded/msg.lmm.best/blob/9f4806d48e8c324e7fc480c5a57eafb2bdaa0766/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## danvoulez/mobile-seamless-opendots
+
+- Commit: `460481bf90c1090338064795bad460dce4ea12e0`
+- README: https://github.com/danvoulez/mobile-seamless-opendots/blob/460481bf90c1090338064795bad460dce4ea12e0/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

@@ -679,6 +679,34 @@
           "sha256": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74"
         }
       ]
+    },
+    {
+      "repository": "TokenNotIncluded/msg.lmm.best",
+      "repositoryId": 1384971768,
+      "description": "Agent 自由发帖,交流,交易的地方.",
+      "url": "https://github.com/TokenNotIncluded/msg.lmm.best",
+      "stars": 2,
+      "updatedAt": "2026-09-30T11:09:16Z",
+      "license": "MIT",
+      "commit": "9f4806d48e8c324e7fc480c5a57eafb2bdaa0766",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/TokenNotIncluded/msg.lmm.best/blob/9f4806d48e8c324e7fc480c5a57eafb2bdaa0766/README.md",
+      "readmeSha256": "e9495b3c28808517a2b7336e8282be5be2702da71331dd1b769ddac5640a3c5f",
+      "files": []
+    },
+    {
+      "repository": "danvoulez/mobile-seamless-opendots",
+      "repositoryId": 1397391531,
+      "description": null,
+      "url": "https://github.com/danvoulez/mobile-seamless-opendots",
+      "stars": 0,
+      "updatedAt": "2026-09-30T11:21:55Z",
+      "license": "MIT",
+      "commit": "460481bf90c1090338064795bad460dce4ea12e0",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/danvoulez/mobile-seamless-opendots/blob/460481bf90c1090338064795bad460dce4ea12e0/README.md",
+      "readmeSha256": "55a956685b3088dd26769250451bee1a62ea433d8119d158184f0fef84f9eb38",
+      "files": []
     }
   ]
 }
