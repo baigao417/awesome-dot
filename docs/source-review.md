@@ -28,10 +28,10 @@
 - Inspected paths: `client/app/layout.js`, `client/app/not-found.js`
 - Scope: bounded excerpts only; not installed, executed or security-audited.
 
-## diggerhq/opendot
+## diggerhq/opendots
 
 - Commit: `fbdf673f2648507cf4710ed00d480ba787f4e3a8`
-- README: https://github.com/diggerhq/opendot/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/README.md
+- README: https://github.com/diggerhq/opendots/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/README.md
 - Inspected paths: `opencomputer/agents/coordinator/agent.ts`, `opencomputer/agents/coordinator/tools/start-topic.ts`
 - Scope: bounded excerpts only; not installed, executed or security-audited.
 

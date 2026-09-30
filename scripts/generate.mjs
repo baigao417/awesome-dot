@@ -4,7 +4,10 @@ import { createHash } from 'node:crypto';
 const catalog = JSON.parse(readFileSync('data/catalog.json', 'utf8'));
 const localSnapshot = existsSync('data/discovery.json') ? 'data/discovery.json' : 'data/project-evidence.json';
 const localDiscovery = JSON.parse(readFileSync(localSnapshot, 'utf8'));
-const discovery = { checkedAt: localDiscovery.checkedAt, method: 'Fixed-commit public source references and hashes; bounded inspection, not execution.', projects: localDiscovery.projects.map(({ repository, description, url, stars, updatedAt, license, commit, readmePath, readmeUrl, readmeSha256, files }) => ({ repository, description, url, stars, updatedAt, license, commit, readmePath, readmeUrl, readmeSha256, files: files.map(({ path, url, sha256 }) => ({ path, url, sha256 })) })) };
+// 本地快照只覆盖它自己扫描过的仓库；定时任务自动收录写进 project-evidence.json 的条目原样保留
+const published = existsSync('data/project-evidence.json') ? JSON.parse(readFileSync('data/project-evidence.json', 'utf8')).projects : [];
+const snapshotRepos = new Set(localDiscovery.projects.map(p => p.repository));
+const discovery = { checkedAt: localDiscovery.checkedAt, method: 'Fixed-commit public source references and hashes; bounded inspection, not execution.', projects: [...localDiscovery.projects.map(p => ({ repositoryId: published.find(x => x.repository === p.repository)?.repositoryId, ...p })), ...published.filter(p => !snapshotRepos.has(p.repository))].map(({ repository, repositoryId, description, url, stars, updatedAt, license, commit, readmePath, readmeUrl, readmeSha256, files }) => ({ repository, ...(repositoryId ? { repositoryId } : {}), description, url, stars, updatedAt, license, commit, readmePath, readmeUrl, readmeSha256, files: files.map(({ path, url, sha256 }) => ({ path, url, sha256 })) })) };
 writeFileSync('data/project-evidence.json', JSON.stringify(discovery, null, 2) + '\n');
 const counts = {};
 const avatarManifest = JSON.parse(readFileSync('public/avatars/sources.json', 'utf8'));

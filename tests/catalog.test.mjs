@@ -11,10 +11,12 @@ test('every entry has provenance, role, prerequisites and honest verification', 
   assert.ok(catalog.items.length > 0);
   assert.equal(new Set(catalog.items.map(x => x.id)).size, catalog.items.length);
   for (const item of catalog.items) {
-    for (const field of ['id','name','owner','kind','category','description','dotRole','outcome','limits','sourceUrl','verified']) assert.ok(item[field], `${item.id}: ${field}`);
+    for (const field of ['id','name','owner','kind','category','description','dotRole','sourceUrl','verified']) assert.ok(item[field], `${item.id}: ${field}`);
+    // 定时任务按仓库原文自动收录的条目没有人工撰写的 outcome / limits / requirements
+    if (!item.autoAdded) { for (const field of ['outcome','limits']) assert.ok(item[field], `${item.id}: ${field}`); assert.ok(item.requirements.length); }
+    else { assert.ok(Array.isArray(item.requirements)); assert.match(item.autoAdded, /^\d{4}-\d{2}-\d{2}$/); assert.notEqual(item.kind, 'official_case'); }
     assert.ok(kinds[item.kind]);
     assert.ok(categories.some(x => x.id === item.category));
-    assert.ok(item.requirements.length);
     assert.equal(new URL(item.sourceUrl).protocol, 'https:');
     for (const id of item.sourceIds) assert.ok(sources.some(x => x.id === id));
     if (item.tested) assert.ok(item.executionReceipt && item.acceptedOutput);

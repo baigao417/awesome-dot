@@ -36,7 +36,7 @@ Built a Dot-related project or found a useful case? Contributions are welcome:
 - **Issue**: Fill out the [submission template](https://github.com/baigao417/awesome-dot/issues/new?template=project.yml) with the name, link and Dot's role.
 - **Pull Request**: Edit `data/catalog.json` directly. See [CONTRIBUTING.md](CONTRIBUTING.md) for the process.
 
-The repository also scans GitHub for new projects every 12 hours. The maintainer reviews them before adding them to the catalog.
+The repository also scans GitHub every 12 hours: new projects clearly built around OpenAI dots are added automatically using their original repository text, and borderline ones are listed in the [auto-curation report](https://github.com/baigao417/awesome-dot/issues).
 
 ## Local Development
 
@@ -69,7 +69,3 @@ scripts/               Data generation and GitHub scanning scripts
 ## Maintainer
 
 Baigao (白告) · [@baigao111](https://x.com/baigao111)
-
----
-
-Awesome Dot is a community project with no affiliation to OpenAI.

@@ -4,6 +4,7 @@
   "projects": [
     {
       "repository": "mergisi/awesome-dots",
+      "repositoryId": 1396126432,
       "description": "A curated list of resources, guides, tools and use cases for OpenAI Dots — always-on proactive agents (DevDay 2026). Unofficial.",
       "url": "https://github.com/mergisi/awesome-dots",
       "stars": 0,
@@ -17,6 +18,7 @@
     },
     {
       "repository": "mergisi/dots-mcp",
+      "repositoryId": 1396132126,
       "description": "MCP server for OpenAI Dots (unofficial) — search Dots guides, news, tools and use cases from any MCP client.",
       "url": "https://github.com/mergisi/dots-mcp",
       "stars": 0,
@@ -36,6 +38,7 @@
     },
     {
       "repository": "ylwl1997/dotsbase-site",
+      "repositoryId": 1396787399,
       "description": "Project intro for dotsbase.com — unofficial community guide to OpenAI dots (not affiliated with OpenAI)",
       "url": "https://github.com/ylwl1997/dotsbase-site",
       "stars": 0,
@@ -49,6 +52,7 @@
     },
     {
       "repository": "Anil-matcha/open-dots",
+      "repositoryId": 645381450,
       "description": "Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.",
       "url": "https://github.com/Anil-matcha/open-dots",
       "stars": 4669,
@@ -72,7 +76,8 @@
       ]
     },
     {
-      "repository": "diggerhq/opendot",
+      "repository": "diggerhq/opendots",
+      "repositoryId": 1396176191,
       "description": "An always-on personal agent you own, on the model you choose. A model-agnostic alternative to OpenAI's Dots, built on OpenComputer Serverless Agents.",
       "url": "https://github.com/diggerhq/opendots",
       "stars": 6,
@@ -80,23 +85,24 @@
       "license": "MIT",
       "commit": "fbdf673f2648507cf4710ed00d480ba787f4e3a8",
       "readmePath": "README.md",
-      "readmeUrl": "https://github.com/diggerhq/opendot/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/README.md",
+      "readmeUrl": "https://github.com/diggerhq/opendots/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/README.md",
       "readmeSha256": "1d04de421477d0e12d68c70421282f8cdf8c99edac4cac434bb9314d20cccd00",
       "files": [
         {
           "path": "opencomputer/agents/coordinator/agent.ts",
-          "url": "https://github.com/diggerhq/opendot/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/opencomputer/agents/coordinator/agent.ts",
+          "url": "https://github.com/diggerhq/opendots/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/opencomputer/agents/coordinator/agent.ts",
           "sha256": "04f1d8caea857a2ad325c01e0c26c564790579efba50386d79d7053f199c1b12"
         },
         {
           "path": "opencomputer/agents/coordinator/tools/start-topic.ts",
-          "url": "https://github.com/diggerhq/opendot/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/opencomputer/agents/coordinator/tools/start-topic.ts",
+          "url": "https://github.com/diggerhq/opendots/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/opencomputer/agents/coordinator/tools/start-topic.ts",
           "sha256": "d11c7125ea0ddefd95ab96ae0f7cdcf5794d7e50694a776e1305612155fa9753"
         }
       ]
     },
     {
       "repository": "zero-phoenix/zeruel",
+      "repositoryId": 1396750748,
       "description": "Zeruel — Brazo de Dios. Agente autonomo soberano de bajo coste. Alternativa open-source a OpenAI Dots: Google Drive como OS, Apps Script como runtime serverless, Gemini como cerebro. Memoria persistente, grabacion de pantalla, asimilacion de GitHub, HITL, multicanal.",
       "url": "https://github.com/zero-phoenix/zeruel",
       "stars": 0,
@@ -121,6 +127,7 @@
     },
     {
       "repository": "openai/plugins",
+      "repositoryId": 1172963839,
       "description": "OpenAI Plugins",
       "url": "https://github.com/openai/plugins",
       "stars": 7238,
@@ -145,6 +152,7 @@
     },
     {
       "repository": "openai/mcp-extensions",
+      "repositoryId": 1394011672,
       "description": "Build plugins that feel like native, first-class features of ChatGPT.",
       "url": "https://github.com/openai/mcp-extensions",
       "stars": 337,
@@ -169,6 +177,7 @@
     },
     {
       "repository": "abird-ai/dotlink",
+      "repositoryId": 1396941220,
       "description": "Connect ChatGPT dot, web, spaces or Claude.ai to the files and tools on your computer — securely, from a single binary",
       "url": "https://github.com/abird-ai/dotlink",
       "stars": 0,
@@ -188,6 +197,7 @@
     },
     {
       "repository": "mvanhorn/agent-tincan",
+      "repositoryId": 1382439708,
       "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
       "url": "https://github.com/mvanhorn/agent-tincan",
       "stars": 155,
@@ -212,6 +222,7 @@
     },
     {
       "repository": "defog-ai/opendot",
+      "repositoryId": 1396451613,
       "description": "Self-hosted assistant that runs Codex or Claude Code in a locked-down container and asks before it acts. Inspired by OpenAI's dots; not affiliated with OpenAI.",
       "url": "https://github.com/defog-ai/opendot",
       "stars": 0,
@@ -236,6 +247,7 @@
     },
     {
       "repository": "graydeon/dot-panel",
+      "repositoryId": 1397195263,
       "description": "Touch-first companion dashboard for ChatGPT dots",
       "url": "https://github.com/graydeon/dot-panel",
       "stars": 0,
@@ -260,6 +272,7 @@
     },
     {
       "repository": "tcballard/omarchy-plugin-openai-dot",
+      "repositoryId": 1396381617,
       "description": null,
       "url": "https://github.com/tcballard/omarchy-plugin-openai-dot",
       "stars": 0,
@@ -273,6 +286,7 @@
     },
     {
       "repository": "thinkwee/OpenDot",
+      "repositoryId": 1393818395,
       "description": "Your personal agent team, in the real world. Open source, runs on your computer, any AI model.",
       "url": "https://github.com/thinkwee/OpenDot",
       "stars": 2,
@@ -297,6 +311,7 @@
     },
     {
       "repository": "AgentForEach/AgentForEach",
+      "repositoryId": 1395714021,
       "description": "The open-source brain for personal AI agents. One agent for every user of your app, with memory, schedules, tools and approvals, on a hyperscale serverless architecture where idle agents cost only storage.",
       "url": "https://github.com/AgentForEach/AgentForEach",
       "stars": 4,
@@ -321,6 +336,7 @@
     },
     {
       "repository": "beamnxw/dots-vs-grok-bot",
+      "repositoryId": 1397270010,
       "description": "Working paper: Always-On Personal Agents as Competing Operating Primitives - OpenAI Dots vs Grok Bot (29 Sep 2026)",
       "url": "https://github.com/beamnxw/dots-vs-grok-bot",
       "stars": 1,
@@ -334,6 +350,7 @@
     },
     {
       "repository": "Anil-matcha/awesome-dots-connectors",
+      "repositoryId": 1396123534,
       "description": null,
       "url": "https://github.com/Anil-matcha/awesome-dots-connectors",
       "stars": 1,
@@ -358,6 +375,7 @@
     },
     {
       "repository": "Kotodama-Project/Kotodama-project",
+      "repositoryId": 1320251990,
       "description": "会話を監査可能な意図・仕事・成果・学習へつなぐ Local-first Company OS（Incomplete Public Preview）",
       "url": "https://github.com/Kotodama-Project/Kotodama-project",
       "stars": 1,
@@ -382,6 +400,7 @@
     },
     {
       "repository": "chenrui333/codex-docs",
+      "repositoryId": 1162057016,
       "description": "codex docs",
       "url": "https://github.com/chenrui333/codex-docs",
       "stars": 5,
@@ -406,6 +425,7 @@
     },
     {
       "repository": "mehmetbaykar/codex-docs-skill",
+      "repositoryId": 1240209574,
       "description": null,
       "url": "https://github.com/mehmetbaykar/codex-docs-skill",
       "stars": 1,
@@ -419,6 +439,7 @@
     },
     {
       "repository": "openai/tunnel-client",
+      "repositoryId": 1113421659,
       "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
       "url": "https://github.com/openai/tunnel-client",
       "stars": 515,
@@ -443,6 +464,7 @@
     },
     {
       "repository": "PrisacariuRobert/openbot",
+      "repositoryId": 1354886573,
       "description": "A small team of AI teammates on your Mac. They research, write and get things done — and ask before anything important. Free, open source, bring your own AI.",
       "url": "https://github.com/PrisacariuRobert/openbot",
       "stars": 4,
@@ -467,6 +489,7 @@
     },
     {
       "repository": "composio-community/open-dot",
+      "repositoryId": 1395987291,
       "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
       "url": "https://github.com/composio-community/open-dot",
       "stars": 0,
@@ -491,6 +514,7 @@
     },
     {
       "repository": "dots-oai/dots",
+      "repositoryId": 1236103434,
       "description": "dots — an always-on, goal-driven agent runtime.",
       "url": "https://github.com/dots-oai/dots",
       "stars": 66,
@@ -515,6 +539,7 @@
     },
     {
       "repository": "alongor666/InsurHOT",
+      "repositoryId": 1394077392,
       "description": null,
       "url": "https://github.com/alongor666/InsurHOT",
       "stars": 0,
@@ -539,6 +564,7 @@
     },
     {
       "repository": "evan-till/dot-os",
+      "repositoryId": 1396594656,
       "description": null,
       "url": "https://github.com/evan-till/dot-os",
       "stars": 1,
@@ -563,6 +589,7 @@
     },
     {
       "repository": "carlesrabadagarces-hub/dots-catala",
+      "repositoryId": 1397292826,
       "description": null,
       "url": "https://github.com/carlesrabadagarces-hub/dots-catala",
       "stars": 0,
@@ -587,6 +614,7 @@
     },
     {
       "repository": "ruijun1110/dots-screensaver",
+      "repositoryId": 1397106648,
       "description": "A playful native macOS screensaver with bouncing faces and an outline clock. Independent fan project, in development.",
       "url": "https://github.com/ruijun1110/dots-screensaver",
       "stars": 0,
@@ -600,6 +628,7 @@
     },
     {
       "repository": "feder-cr/dots",
+      "repositoryId": 1396688303,
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "url": "https://github.com/feder-cr/dots",
       "stars": 861,
@@ -619,6 +648,7 @@
     },
     {
       "repository": "feder-cr/awesome-dots",
+      "repositoryId": 1396695103,
       "description": "The open-source side of dots: agents you can run yourself, and the pieces every dot is made of.",
       "url": "https://github.com/feder-cr/awesome-dots",
       "stars": 0,
@@ -632,6 +662,7 @@
     },
     {
       "repository": "QuarkOS/grokbot-vs-dots",
+      "repositoryId": 1396568581,
       "description": "Narrated papercraft Remotion video: Grokbot vs ChatGPT Dots",
       "url": "https://github.com/QuarkOS/grokbot-vs-dots",
       "stars": 0,

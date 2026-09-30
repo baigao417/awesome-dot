@@ -2,6 +2,12 @@ name: Publish Directory
 
 on:
   workflow_dispatch:
+  # 自动收录用 GITHUB_TOKEN 推送不会触发 push，所以由 discovery.yml 直接调用并指定要发布的提交
+  workflow_call:
+    inputs:
+      source_sha:
+        required: true
+        type: string
   push:
     branches: [main]
     paths:
@@ -17,16 +23,15 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.source_sha || github.sha }}
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
@@ -41,6 +46,9 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

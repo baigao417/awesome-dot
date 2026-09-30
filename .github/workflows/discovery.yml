@@ -1,35 +1,113 @@
 name: Discover Dot Projects
 
+# 每 12 小时，只用 GitHub 自己：扫描 → 过滤 → 按仓库原文收录 → 测试 → Issue 汇报 → 提交 → 发布站点。
+# 不调用任何外部模型，不需要额外密钥。
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Scan without committing, reporting or publishing'
+        type: boolean
+        default: false
   schedule:
     - cron: '17 */12 * * *'
 
-permissions:
-  contents: read
+permissions: {}
 
 concurrency:
-  group: dot-discovery
+  group: dot-catalog-main
   cancel-in-progress: false
 
 jobs:
-  discover:
+  curate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
+    permissions:
+      contents: write
+      issues: write
+      deployments: read
+    outputs:
+      publish: ${{ steps.site.outputs.publish }}
+      sha: ${{ steps.site.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Scan bounded public GitHub candidates
+          cache: npm
+      - run: npm ci
+      - name: Scan, screen and curate
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: node scripts/scan-github.mjs
-      - name: Save candidates and partial-failure evidence
+          CURATE_DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: node scripts/auto-curate.mjs
+      - name: Validate before anything is committed
+        run: |
+          npm run generate
+          npm test
+          npm run build
+      # 通知失败时整轮不提交，下一轮会完整重做，不会出现「记成已报告却没送达」
+      - name: Report to issue
+        if: ${{ !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/curation-issue.mjs
+      - name: Commit curated data
+        if: ${{ !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          git add -- data/catalog.json data/project-evidence.json data/avatars.json data/curation.json public/avatars docs/catalog.md docs/source-review.md
+          if git diff --cached --quiet; then echo "No data changes"; exit 0; fi
+          added=$(node -e "console.log(require('./output/curation-report.json').added.length)")
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "chore(catalog): auto-curate ${added} new entries"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:refs/heads/${DEFAULT_BRANCH}"
+      # 线上最后一次成功部署落后于最新站点内容时就发布；之前某次发布失败也会在这里补上
+      - name: Decide whether the site needs publishing
+        id: site
+        if: ${{ !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          head=$(git rev-parse HEAD)
+          site=$(git log -1 --format=%H -- src data public index.html package.json package-lock.json vite.config.js)
+          deployed=""
+          for id in $(gh api "repos/${GITHUB_REPOSITORY}/deployments?environment=github-pages&per_page=20" --jq '.[].id'); do
+            if [ "$(gh api "repos/${GITHUB_REPOSITORY}/deployments/${id}/statuses?per_page=1" --jq '.[0].state')" = "success" ]; then
+              deployed=$(gh api "repos/${GITHUB_REPOSITORY}/deployments/${id}" --jq .sha); break
+            fi
+          done
+          echo "sha=${head}" >> "$GITHUB_OUTPUT"
+          if [ -n "$deployed" ] && git merge-base --is-ancestor "$site" "$deployed" 2>/dev/null; then
+            echo "Site is up to date (deployed ${deployed})"; echo "publish=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Site content ${site} is not live yet"; echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Keep the run report
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: dot-discovery-${{ github.run_id }}
-          path: data/candidates.json
-          if-no-files-found: error
-          retention-days: 14
+          name: dot-curation-${{ github.run_id }}
+          path: output/curation-report.json
+          if-no-files-found: warn
+          retention-days: 30
+
+  publish:
+    needs: curate
+    if: needs.curate.outputs.publish == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml
+    with:
+      source_sha: ${{ needs.curate.outputs.sha }}

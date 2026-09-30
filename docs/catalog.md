@@ -16,7 +16,7 @@
 | dotsbase-site | community_project | Dot 社区导览，帮你快速了解产品与相关资源。 | [来源](https://github.com/ylwl1997/dotsbase-site) |
 | OpenAI plugins | building_block | 插件可提供服务工具；具体插件能否由 Dot 使用仍取决于支持、连接与权限。 | [来源](https://github.com/openai/plugins) |
 | MCP extensions | building_block | Dot 周边的开发底座，用于构建 MCP 扩展。 | [来源](https://github.com/openai/mcp-extensions) |
-| opendot | alternative | OpenAI Dot 的独立替代思路，用自己的方式实现常驻 Agent。 | [来源](https://github.com/diggerhq/opendot) |
+| opendot | alternative | OpenAI Dot 的独立替代思路，用自己的方式实现常驻 Agent。 | [来源](https://github.com/diggerhq/opendots) |
 | open-dots | alternative | 独立实现，不表示它接入了 OpenAI Dot 产品。 | [来源](https://github.com/Anil-matcha/open-dots) |
 | zeruel | alternative | 独立替代思路，探索个人 Agent 的流程设计。 | [来源](https://github.com/zero-phoenix/zeruel) |
 | dotlink | community_project | 通过 MCP 与 OpenAI 隧道连接你的 Dot，让它在授权范围内读写本机文件、运行 Git、构建和测试。 | [来源](https://github.com/abird-ai/dotlink) |

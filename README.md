@@ -36,7 +36,7 @@ Awesome Dot 收集 OpenAI dots 的官方场景、社区项目和开发资源，�
 - **Issue**：填写 [提交模板](https://github.com/baigao417/awesome-dot/issues/new?template=project.yml)，写明名称、链接和 Dot 在其中的作用。
 - **Pull Request**：直接编辑 `data/catalog.json`，流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-另外，仓库每 12 小时会自动扫描 GitHub 上的新项目，维护者审阅后收录。
+另外，仓库每 12 小时自动扫描 GitHub：明确围绕 OpenAI dots 的新项目会按仓库原文自动收录，拿不准的会列在 [自动收录报告](https://github.com/baigao417/awesome-dot/issues) 里。
 
 ## 本地开发
 

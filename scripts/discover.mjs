@@ -4,7 +4,7 @@ import { createHash } from 'node:crypto';
 
 const repos = [
   'mergisi/awesome-dots', 'mergisi/dots-mcp', 'ylwl1997/dotsbase-site',
-  'Anil-matcha/open-dots', 'diggerhq/opendot', 'zero-phoenix/zeruel',
+  'Anil-matcha/open-dots', 'diggerhq/opendots', 'zero-phoenix/zeruel',
   'openai/plugins', 'openai/mcp-extensions',
   'abird-ai/dotlink', 'mvanhorn/agent-tincan', 'defog-ai/opendot', 'graydeon/dot-panel',
   'tcballard/omarchy-plugin-openai-dot', 'thinkwee/OpenDot', 'AgentForEach/AgentForEach',
