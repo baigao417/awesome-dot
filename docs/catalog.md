@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-09-30。共 55 条。
+更新日期：2026-09-30。共 59 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -59,3 +59,7 @@
 | msg.lmm.best | community_project | MSG is an open communication space designed for agents such as the newly released ChatGPT Dots and Grok Bot, and the people working with them. | [来源](https://github.com/TokenNotIncluded/msg.lmm.best) |
 | mobile-seamless-opendots | alternative | Open Dots is an open-source alternative to OpenAI Dots: a self-hosted AI workspace for chat, tool use, approvals, connectors, and computer tasks. | [来源](https://github.com/danvoulez/mobile-seamless-opendots) |
 | agent-handoff-bridge | building_block | A small, self-hosted MCP queue and Codex plugin for supervised handoffs among Codex, an OpenAI Dot, and the six STP Grok Bots: General Manager, Engineering, QA/Release, Content, Ops, and Growth. | [来源](https://github.com/1ststepai/agent-handoff-bridge) |
+| awesome-openai-dots | task_template | Discover plugins, connected apps, source packages, and practical use cases for OpenAI dots in ChatGPT. | [来源](https://github.com/VoltAgent/awesome-openai-dots) |
+| OpenAI-Dots | community_project | OpenAI Dots is the always-on agent from DevDay (September 29, 2026). | [来源](https://github.com/OpenAI-Dots/OpenAI-Dots) |
+| pantry-wizard-dots-connector | task_template | A template project meant to be forked into your local github in order to hold the environment variables required for ChatGPT dots | [来源](https://github.com/esper256/pantry-wizard-dots-connector) |
+| motes | community_project | Motes is an open-source alternative to OpenAI Dots — always-on AI agents that connect to your email, calendar, GitHub, maps, and services to work autonomously on your behalf. | [来源](https://github.com/levalencia/motes) |

@@ -190,6 +190,30 @@
       "file": "1ststepai.png",
       "source": "https://avatars.githubusercontent.com/u/270423920?s=96",
       "sha256": "d5eee4bcd6eee66be398ad6aa5b0813bcf0c657c5c22acdaf61972ceb9c96de7"
+    },
+    {
+      "owner": "VoltAgent",
+      "file": "voltagent.png",
+      "source": "https://avatars.githubusercontent.com/u/201282378?s=96",
+      "sha256": "b157b9f223f342d70d0b9394a42c05e58f46478dd606a17df811079109324a4b"
+    },
+    {
+      "owner": "OpenAI-Dots",
+      "file": "openai-dots.png",
+      "source": "https://avatars.githubusercontent.com/u/159426377?s=96",
+      "sha256": "55409dba9d888d54dde639dcd783513c8339d950625d11d59faf3e6120decd03"
+    },
+    {
+      "owner": "esper256",
+      "file": "esper256.png",
+      "source": "https://avatars.githubusercontent.com/u/528155?s=96",
+      "sha256": "49aa610c81fb74c14cb13f77043622d138e354656e6ffbd1da3f7c6ed39a1d52"
+    },
+    {
+      "owner": "levalencia",
+      "file": "levalencia.jpg",
+      "source": "https://avatars.githubusercontent.com/u/6962857?s=96",
+      "sha256": "85fee1446eab5b3b5cfc6bd7078dddc4210fc762edca3b11da6791826e793879"
     }
   ]
 }

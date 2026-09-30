@@ -237,3 +237,31 @@
 - README: https://github.com/1ststepai/agent-handoff-bridge/blob/59f193501d26b8cadb4a2af009432823110d38d2/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## VoltAgent/awesome-openai-dots
+
+- Commit: `c1c1525c38825005d9749c759441050a56d8afb9`
+- README: https://github.com/VoltAgent/awesome-openai-dots/blob/c1c1525c38825005d9749c759441050a56d8afb9/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## OpenAI-Dots/OpenAI-Dots
+
+- Commit: `0a81edcba454e9af5864982fc0f64c5e71a5c75f`
+- README: https://github.com/OpenAI-Dots/OpenAI-Dots/blob/0a81edcba454e9af5864982fc0f64c5e71a5c75f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## esper256/pantry-wizard-dots-connector
+
+- Commit: `0774963711ac8718f19460c320f78aeade255dc2`
+- README: https://github.com/esper256/pantry-wizard-dots-connector/blob/0774963711ac8718f19460c320f78aeade255dc2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## levalencia/motes
+
+- Commit: `810238268e994ac246f4073430a6a49157ca7182`
+- README: https://github.com/levalencia/motes/blob/810238268e994ac246f4073430a6a49157ca7182/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

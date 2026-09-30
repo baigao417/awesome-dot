@@ -27,5 +27,9 @@
   "QuarkOS":"./avatars/quarkos.png",
   "TokenNotIncluded":"./avatars/tokennotincluded.png",
   "danvoulez":"./avatars/danvoulez.png",
-  "1ststepai":"./avatars/1ststepai.png"
+  "1ststepai":"./avatars/1ststepai.png",
+  "VoltAgent":"./avatars/voltagent.png",
+  "OpenAI-Dots":"./avatars/openai-dots.png",
+  "esper256":"./avatars/esper256.png",
+  "levalencia":"./avatars/levalencia.jpg"
 }

@@ -721,6 +721,62 @@
       "readmeUrl": "https://github.com/1ststepai/agent-handoff-bridge/blob/59f193501d26b8cadb4a2af009432823110d38d2/README.md",
       "readmeSha256": "83fae5584ac2a4997bdbf2cf853e1251b01b2780454416951f8b6dc6e70d78fe",
       "files": []
+    },
+    {
+      "repository": "VoltAgent/awesome-openai-dots",
+      "repositoryId": 1397557311,
+      "description": "Community-curated workflows, rules, plugins, and guides for OpenAI dots",
+      "url": "https://github.com/VoltAgent/awesome-openai-dots",
+      "stars": 2,
+      "updatedAt": "2026-09-30T16:02:54Z",
+      "license": "NOASSERTION",
+      "commit": "c1c1525c38825005d9749c759441050a56d8afb9",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/VoltAgent/awesome-openai-dots/blob/c1c1525c38825005d9749c759441050a56d8afb9/README.md",
+      "readmeSha256": "b5b0eeefe4250e82d4fab10beda5bb4cb2fd4286ec2238d1f74dcd046061a1b7",
+      "files": []
+    },
+    {
+      "repository": "OpenAI-Dots/OpenAI-Dots",
+      "repositoryId": 1398398244,
+      "description": "OpenAI Dots is the always-on agent: openai dots, gpt dots, chatgpt dots, 4000 apps, cloud computer. DevDay Sep 29 2026. Pro plan. Windows 10/11 zip, extract and run. Official free download. Download:🡇",
+      "url": "https://github.com/OpenAI-Dots/OpenAI-Dots",
+      "stars": 1,
+      "updatedAt": "2026-09-30T15:48:54Z",
+      "license": "MIT",
+      "commit": "0a81edcba454e9af5864982fc0f64c5e71a5c75f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/OpenAI-Dots/OpenAI-Dots/blob/0a81edcba454e9af5864982fc0f64c5e71a5c75f/README.md",
+      "readmeSha256": "89ff83dd68a5f8e2fb57cc3af244d4ed87b4ced4d81a1dda351934dd79f7b73e",
+      "files": []
+    },
+    {
+      "repository": "esper256/pantry-wizard-dots-connector",
+      "repositoryId": 1398458783,
+      "description": "A template project meant to be forked into your local github in order to hold the environment variables required for ChatGPT dots",
+      "url": "https://github.com/esper256/pantry-wizard-dots-connector",
+      "stars": 0,
+      "updatedAt": "2026-09-30T16:29:25Z",
+      "license": "NOASSERTION",
+      "commit": "0774963711ac8718f19460c320f78aeade255dc2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/esper256/pantry-wizard-dots-connector/blob/0774963711ac8718f19460c320f78aeade255dc2/README.md",
+      "readmeSha256": "1e7ed7a87ffb8b0f844fdf3d79f3f661241ae5d7d382d8dff3b31e81d88567f9",
+      "files": []
+    },
+    {
+      "repository": "levalencia/motes",
+      "repositoryId": 1398360730,
+      "description": "Open-source, model-agnostic, self-hosted personal AI agents. Your agents, your models, your data.",
+      "url": "https://github.com/levalencia/motes",
+      "stars": 0,
+      "updatedAt": "2026-09-30T16:06:17Z",
+      "license": "NOASSERTION",
+      "commit": "810238268e994ac246f4073430a6a49157ca7182",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/levalencia/motes/blob/810238268e994ac246f4073430a6a49157ca7182/README.md",
+      "readmeSha256": "ab957934c65f8df78c379159592a3baf625bc94f26056f3084e174cdc6f329f2",
+      "files": []
     }
   ]
 }
