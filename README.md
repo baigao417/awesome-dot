@@ -69,7 +69,3 @@ scripts/               数据生成与 GitHub 扫描脚本
 ## 维护者
 
 白告 · [@baigao111](https://x.com/baigao111)
-
----
-
-Awesome Dot 是社区项目，与 OpenAI 无隶属关系。
