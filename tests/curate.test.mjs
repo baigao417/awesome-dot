@@ -32,7 +32,7 @@ function fixture(repos) {
   return { root, fetcher, seen };
 }
 const searches = [{ type: 'repositories', q: 'x' }, { type: 'code', q: 'y' }];
-const run = (f, extra = {}) => curate({ root: f.root, fetcher: f.fetcher, token: 't', searches, now: new Date('2026-10-01T00:00:00Z'), ...extra });
+const run = (f, extra = {}) => curate({ root: f.root, fetcher: f.fetcher, token: 't', searches, sleep: async () => {}, now: new Date('2026-10-01T00:00:00Z'), ...extra });
 const readJson = (f, file) => JSON.parse(readFileSync(join(f.root, file), 'utf8'));
 
 const STRONG = { description: 'Connect your ChatGPT dot to local files over MCP', readme: '# dot-link\n\n[![badge](https://x/y.svg)](https://x)\n\nConnect your **ChatGPT dot** to files on your computer. It exposes an MCP server.\n\nWorks with OpenAI dots accounts.' };
@@ -174,8 +174,10 @@ test('search spaces out code searches and retries once after a rate limit', asyn
   const result = await search({ fetcher, token: 't', searches: [{ type: 'code', q: 'learn' }, { type: 'code', q: 'other' }], sleep: async (ms) => { slept.push(ms); } });
   assert.deepEqual(result.repositories, ['a/one', 'b/two']);
   assert.deepEqual(result.errors, []);
-  assert.equal(slept[0], 12000);
-  assert.ok(slept[1] > 0 && slept[1] <= 7000);
+  // 第一次代码搜索前先等间隔，被限流后按 retry-after 等 12 秒重试，第二次代码搜索前再等间隔
+  assert.equal(slept.length, 3);
+  assert.equal(slept[1], 12000);
+  assert.ok([slept[0], slept[2]].every(ms => ms > 0 && ms <= 7000));
 });
 
 test('Dot sentence skips link captions and repeats of the description; kind ignores README body words', async () => {

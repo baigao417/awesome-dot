@@ -187,17 +187,20 @@ export async function search({ fetcher, token, searches = SEARCHES, perQuery = L
   const names = new Map();
   const errors = [];
   let lastCode = 0;
+  let lastSearch = Date.now();
   for (const { type, q } of searches) {
     if (type === 'code' && !token) { errors.push({ q, error: 'code search needs a token' }); continue; }
-    if (type === 'code' && lastCode) await sleep(Math.max(0, codeGapMs - (Date.now() - lastCode)));
+    // 第一次代码搜索前也留间隔：紧跟在一串仓库搜索后面容易触发突发限流
+    if (type === 'code') await sleep(Math.max(0, codeGapMs - (Date.now() - (lastCode || lastSearch))));
     const path = `search/${type}?q=${encodeURIComponent(q)}&per_page=${perQuery}${type === 'repositories' ? '&sort=updated' : ''}`;
     try {
       let body;
-      try { body = await githubJson(fetcher, token, path); }
-      catch (error) {
-        if (![403, 429].includes(error.status)) throw error;
-        await sleep(Math.min(error.retryAfter, 65) * 1000);
-        body = await githubJson(fetcher, token, path);
+      for (let attempt = 0; !body; attempt++) {
+        try { body = await githubJson(fetcher, token, path); }
+        catch (error) {
+          if (![403, 429].includes(error.status) || attempt >= 2) throw error;
+          await sleep(Math.min(error.retryAfter, 65) * 1000);
+        }
       }
       for (const item of body.items ?? []) {
         const repo = type === 'code' ? item.repository : item;
@@ -205,6 +208,7 @@ export async function search({ fetcher, token, searches = SEARCHES, perQuery = L
       }
     } catch (error) { errors.push({ q, error: error.message }); }
     if (type === 'code') lastCode = Date.now();
+    lastSearch = Date.now();
   }
   return { repositories: [...names.values()], errors };
 }
@@ -238,7 +242,7 @@ export function serializeCatalog(catalog) {
 }
 export const serializeAvatars = (avatars) => `${JSON.stringify(avatars, null, 2).replace(/": "/g, '":"')}\n`;
 
-export async function curate({ root = '.', fetcher = fetch, token = process.env.GITHUB_TOKEN, dryRun = false, now = new Date(), limits = LIMITS, searches = SEARCHES } = {}) {
+export async function curate({ root = '.', fetcher = fetch, token = process.env.GITHUB_TOKEN, dryRun = false, now = new Date(), limits = LIMITS, searches = SEARCHES, sleep = wait } = {}) {
   const read = (file, fallback) => existsSync(`${root}/${file}`) ? JSON.parse(readFileSync(`${root}/${file}`, 'utf8')) : fallback;
   const catalog = read('data/catalog.json');
   const evidence = read('data/project-evidence.json', { projects: [] });
@@ -258,7 +262,7 @@ export async function curate({ root = '.', fetcher = fetch, token = process.env.
   // 不收录的仓库记下 README 哈希和最后推送时间；没有新推送就连 README 都不再抓。标了 blocked 的永久排除
   const remember = (meta, readmeSha, reason) => { if (!state.rejected[meta.full_name]?.blocked) state.rejected[meta.full_name] = { readmeSha256: readmeSha, pushedAt: meta.pushed_at, reason, at: today }; };
 
-  const found = await search({ fetcher, token, searches, perQuery: limits.perQuery });
+  const found = await search({ fetcher, token, searches, perQuery: limits.perQuery, sleep });
   report.errors.push(...found.errors);
   report.searched = found.repositories.length;
 
