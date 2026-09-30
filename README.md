@@ -17,7 +17,7 @@ npm run dev
 
 「抽张灵感卡」从当前筛选结果中抽取，多条结果时不会连续重复；「今日一见」按 Asia/Singapore 日期固定选择一条官方场景或社区项目。午夜换日后更新，不需要账号或网络跟踪。维护者为白告 `@baigao111`，关注入口指向其 X 主页。
 
-语言、主题与收藏留在本浏览器，无遥测或后台上传。收录正文的英日韩译文见 `data/catalog-i18n.json`，以中文原文为准。项目与维护者头像来自公开 GitHub 头像服务。建议使用 Node.js 24。
+语言、主题与收藏留在本浏览器，无遥测或后台上传。收录正文的英日韩译文见 `data/catalog-i18n.json`，以中文原文为准。项目与维护者头像已下载到 `public/avatars/` 随站点打包，不依赖第三方头像服务在访问时可用；来源与权益说明见 `THIRD_PARTY_NOTICES.md`。建议使用 Node.js 24。
 
 ```powershell
 npm test
@@ -51,7 +51,7 @@ npm run discover
 
 ## PR / Issue
 
-按 [Issue 模板](https://github.com/baigao417/awesome-dot/issues/new?template=project.yml) 填名称、公开链接、Dot 角色和证据，或按照 [CONTRIBUTING.md](CONTRIBUTING.md) 提 PR。页面支持本地草稿下载与真实 Issue 入口；不会自动向平台发消息，也不把打开投稿页面当作提交成功。
+顶部「提交项目」与侧栏「提交收录」直接打开 [Issue 模板](https://github.com/baigao417/awesome-dot/issues/new?template=project.yml)。填名称、公开链接、Dot 角色和证据，或按照 [CONTRIBUTING.md](CONTRIBUTING.md) 提 PR。打开投稿页面不等于提交成功；本站不会自动向平台发送信息。
 
 ## 发布
 

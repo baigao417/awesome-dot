@@ -6,7 +6,8 @@
     "name": "白告",
     "handle": "@baigao111",
     "url": "https://x.com/baigao111",
-    "avatar": "https://avatars.githubusercontent.com/u/197630059?s=160",
+    "avatar": "./avatars/maintainer-x.jpg",
+    "avatarFallback": "./avatars/maintainer.png",
     "bio": "A person committed to becoming a life hacker"
   }
 }

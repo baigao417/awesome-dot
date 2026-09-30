@@ -115,3 +115,14 @@ test('discovery excludes the hosting repository itself', async () => {
   assert.equal(result.candidates.length,0);
   assert.equal(result.excludedCount,1);
 });
+test('published avatar references are bundled files with correct image types', () => {
+  const avatars = JSON.parse(readFileSync('data/avatars.json','utf8'));
+  const site = JSON.parse(readFileSync('data/site.json','utf8'));
+  for (const reference of [...Object.values(avatars),site.maintainer.avatar,site.maintainer.avatarFallback]) {
+    assert.match(reference,/^\.\/avatars\/[a-z0-9-]+\.(png|jpg)$/);
+    const bytes = readFileSync(`public/${reference.slice(2)}`);
+    assert.equal(bytes.subarray(0,reference.endsWith('.png') ? 8 : 3).toString('hex'),reference.endsWith('.png') ? '89504e470d0a1a0a' : 'ffd8ff');
+  }
+  assert.equal(new URL(site.issueUrl).pathname,'/baigao417/awesome-dot/issues/new');
+  assert.equal(new URL(site.issueUrl).searchParams.get('template'),'project.yml');
+});

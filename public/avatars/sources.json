@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-09-30",
+  "rights": "Avatars identify their owners. Image and trademark rights remain with the original owners, not the software's MIT license.",
+  "images": [
+    {
+      "owner": "baigao111",
+      "file": "maintainer-x.jpg",
+      "source": "https://pbs.twimg.com/profile_images/2105178409412558848/U6ZoWXEg_400x400.jpg",
+      "profile": "https://x.com/baigao111",
+      "permission": "User supplied the X profile and explicitly requested personal promotion and local avatar packaging. Live profile photo URL verified with opencli-mcp.",
+      "sha256": "d97015959996ab4dd4e6b243da0b5dcc8e36dce78355c86ba283341fe1016d0e"
+    },
+    {
+      "owner": "mergisi",
+      "file": "mergisi.jpg",
+      "source": "https://avatars.githubusercontent.com/u/6433678?s=96",
+      "sha256": "9546cbec9c21afd663660e123c2e06b8ec3a87fadb8c37fa12afbc77b7051fef"
+    },
+    {
+      "owner": "ylwl1997",
+      "file": "ylwl1997.jpg",
+      "source": "https://avatars.githubusercontent.com/u/61835397?s=96",
+      "sha256": "0a177688fd7565b1d9c01e103a9cee94b5d2a2e4031d17dcd3f9f065868d8ae6"
+    },
+    {
+      "owner": "openai",
+      "file": "openai.png",
+      "source": "https://avatars.githubusercontent.com/u/14957082?s=96",
+      "sha256": "90f5267cb7f935312bf1d8ee688f13ff80b27b6d3f5379fcc5c942ce38fb4676"
+    },
+    {
+      "owner": "diggerhq",
+      "file": "diggerhq.png",
+      "source": "https://avatars.githubusercontent.com/u/71334590?s=96",
+      "sha256": "c54028a4f6f02871758c92bf71d38b10bcb5a0d825d3f67b79925d4cf8cf3dcf"
+    },
+    {
+      "owner": "Anil-matcha",
+      "file": "anil-matcha.jpg",
+      "source": "https://avatars.githubusercontent.com/u/4326215?s=96",
+      "sha256": "5166373985c5be836589284200be01cc35659a514e49463d4b2967ec8497b39c"
+    },
+    {
+      "owner": "zero-phoenix",
+      "file": "zero-phoenix.png",
+      "source": "https://avatars.githubusercontent.com/u/297772210?s=96",
+      "sha256": "a265f692c7323b1c970e1a61b4bbc07182b72810cf572f3ed23fb55ed00c39c7"
+    },
+    {
+      "owner": "baigao417",
+      "file": "maintainer.png",
+      "source": "https://avatars.githubusercontent.com/u/197630059?s=160",
+      "permission": "Maintainer explicitly requested local avatar packaging.",
+      "sha256": "584954906b5ad29c6a3e77c79e18f09694b7875867aea869bdc1f119ea08e94d"
+    }
+  ]
+}
