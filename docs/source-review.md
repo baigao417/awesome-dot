@@ -230,3 +230,10 @@
 - README: https://github.com/danvoulez/mobile-seamless-opendots/blob/460481bf90c1090338064795bad460dce4ea12e0/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Neetx/ai-research-radar
+
+- Commit: `c7f5dfebd51db488c4ec2f7934756f9b557a1a91`
+- README: https://github.com/Neetx/ai-research-radar/blob/c7f5dfebd51db488c4ec2f7934756f9b557a1a91/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

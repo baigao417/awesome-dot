@@ -707,6 +707,20 @@
       "readmeUrl": "https://github.com/danvoulez/mobile-seamless-opendots/blob/460481bf90c1090338064795bad460dce4ea12e0/README.md",
       "readmeSha256": "55a956685b3088dd26769250451bee1a62ea433d8119d158184f0fef84f9eb38",
       "files": []
+    },
+    {
+      "repository": "Neetx/ai-research-radar",
+      "repositoryId": 1266090450,
+      "description": "AI Research Radar — Evidence-Grounded Trend Ledger for AI Systems",
+      "url": "https://github.com/Neetx/ai-research-radar",
+      "stars": 4,
+      "updatedAt": "2026-09-30T05:54:09Z",
+      "license": "NOASSERTION",
+      "commit": "c7f5dfebd51db488c4ec2f7934756f9b557a1a91",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Neetx/ai-research-radar/blob/c7f5dfebd51db488c4ec2f7934756f9b557a1a91/README.md",
+      "readmeSha256": "274d76bf1aede83fa11961bd23c429fa5369686c8066376ea0d532a0e7b230c9",
+      "files": []
     }
   ]
 }
