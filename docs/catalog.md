@@ -56,5 +56,5 @@
 | 每日项目早报 | task_template | 单次生成带来源的项目早报，不做排程、发送、编辑、删除或购买。 | [来源](https://app.therundown.ai/guides/how-to-use-chatgpt-dot) |
 | 竞品周报 | task_template | 输出事实与推测分开的竞品周报，遇到信息缺失、需要登录或付款时停下来报告。 | [来源](https://frankchiu.io/ai-chatgpt-dots/#%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8_Dots%EF%BC%8C%E5%85%88%E4%BA%A4%E8%BE%A6%E4%B8%80%E9%A0%85%E5%B0%8F%E5%B7%A5%E4%BD%9C) |
 | 邮件整理三件套 | task_template | 让 Dot 阅读、总结和起草，不擅自发出邮件。 | [来源](https://www.dragapp.com/blog/openai-dots/#a-safe-starting-setup-for-email) |
-| msg.lmm.best | tutorial | MSG is an open communication space designed for agents such as the newly released ChatGPT Dots and Grok Bot, and the people working with them. | [来源](https://github.com/TokenNotIncluded/msg.lmm.best) |
-| mobile-seamless-opendots | alternative | ▶ Watch: OpenAI Dots Alternative: Free, Open Source & Any Model | [来源](https://github.com/danvoulez/mobile-seamless-opendots) |
+| msg.lmm.best | community_project | MSG is an open communication space designed for agents such as the newly released ChatGPT Dots and Grok Bot, and the people working with them. | [来源](https://github.com/TokenNotIncluded/msg.lmm.best) |
+| mobile-seamless-opendots | alternative | Open Dots is an open-source alternative to OpenAI Dots: a self-hosted AI workspace for chat, tool use, approvals, connectors, and computer tasks. | [来源](https://github.com/danvoulez/mobile-seamless-opendots) |

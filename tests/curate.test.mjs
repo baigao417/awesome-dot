@@ -161,3 +161,28 @@ test('transient README errors are retried, unreadable text never goes live, rena
   assert.equal(renamedReport.added.length, 1);
   assert.equal(renamedReport.screened.duplicate, 1);
 });
+
+test('search spaces out code searches and retries once after a rate limit', async () => {
+  const { search } = await import('../scripts/auto-curate.mjs');
+  const slept = [];
+  let calls = 0;
+  const fetcher = async (url) => {
+    calls++;
+    if (url.includes('learn') && calls === 1) return { ok: false, status: 429, headers: { get: (h) => (h === 'retry-after' ? '12' : null) }, json: async () => ({}) };
+    return { ok: true, status: 200, json: async () => ({ items: [{ repository: { full_name: url.includes('learn') ? 'a/one' : 'b/two' } }] }) };
+  };
+  const result = await search({ fetcher, token: 't', searches: [{ type: 'code', q: 'learn' }, { type: 'code', q: 'other' }], sleep: async (ms) => { slept.push(ms); } });
+  assert.deepEqual(result.repositories, ['a/one', 'b/two']);
+  assert.deepEqual(result.errors, []);
+  assert.equal(slept[0], 12000);
+  assert.ok(slept[1] > 0 && slept[1] <= 7000);
+});
+
+test('Dot sentence skips link captions and repeats of the description; kind ignores README body words', async () => {
+  const { buildRecords } = await import('../scripts/auto-curate.mjs');
+  const readme = '# Open Dots\n\n[▶ Watch: OpenAI Dots Alternative](https://youtu.be/x)\n\nOpen Dots: Open-Source Alternative to OpenAI Dots\n\nRun an agent like OpenAI Dots on your own Mac, with approvals and connectors.\n\nSee the guide and docs.';
+  assert.equal(dotSentence(readme, { skip: 'Open Dots: Open-Source Alternative to OpenAI Dots' }), 'Run an agent like OpenAI Dots on your own Mac, with approvals and connectors.');
+  const meta = { id: 1, name: 'msg.lmm.best', full_name: 'o/msg.lmm.best', owner: { login: 'o' }, html_url: 'https://github.com/o/msg.lmm.best', description: 'A place where agents post and trade', topics: [], language: 'Python' };
+  const { item } = buildRecords({ meta, commit: SHA, readme: { path: 'README.md', body: 'A forum for ChatGPT dots agents. Read the guide and docs.' }, taken: new Set(), today: '2026-10-01' });
+  assert.equal(item.kind, 'community_project');
+});

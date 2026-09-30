@@ -90,9 +90,12 @@ export function firstParagraph(readme = '') {
 }
 
 // README 里提到 Dot 的那句原话
-export function dotSentence(readme = '') {
-  // 按段落 / 列表项逐块找，跳过标题；取最早提到 Dot 的一句，开头那句通常最能说明项目做什么
-  const blocks = readme.split(/\n\s*\n|\n(?=\s{0,3}(?:[-*+>]|\d+\.)\s)/).filter(block => !/^\s{0,3}#{1,6}\s[^\n]*$/.test(block.trim()));
+export function dotSentence(readme = '', { skip = '' } = {}) {
+  // 按段落 / 列表项逐块找，跳过标题、以链接开头的行（视频、徽章说明）和与简介重复的句子；
+  // 取最早提到 Dot 的一句，开头那句通常最能说明项目做什么
+  const same = (a, b) => a.toLowerCase().replace(/[^a-z0-9一-鿿]/g, '') === b.toLowerCase().replace(/[^a-z0-9一-鿿]/g, '');
+  const blocks = readme.split(/\n\s*\n|\n(?=\s{0,3}(?:[-*+>]|\d+\.)\s)/)
+    .filter(block => !/^\s{0,3}#{1,6}\s[^\n]*$/.test(block.trim()) && !/^[\s>*+-]*(\[|<a\b|<img\b|!\[)/i.test(block));
   for (const block of blocks) {
     const text = plain(block.replace(/^\s{0,3}#{1,6}\s.*$/gm, ''));
     const match = SIGNALS.map(p => p.exec(text)).filter(Boolean).sort((x, y) => x.index - y.index)[0];
@@ -101,7 +104,9 @@ export function dotSentence(readme = '') {
     const start = before < 0 || match.index - before > 220 ? Math.max(0, match.index - 120) : before + (text[before] === '。' ? 1 : 2);
     const stop = text.slice(match.index).search(/[.!?。！？](\s|$)/);
     const end = stop < 0 || stop > 220 ? Math.min(text.length, match.index + 160) : match.index + stop + 1;
-    return text.slice(start, end).trim();
+    const sentence = text.slice(start, end).trim();
+    if (/^[^\p{L}\p{N}]/u.test(sentence) || (skip && same(sentence, skip))) continue;
+    return sentence;
   }
   return '';
 }
@@ -144,8 +149,9 @@ export function slugFor(name, owner, taken) {
 export function buildRecords({ meta, commit, readme, taken, today }) {
   const text = visible(readme.body);
   const description = clip(plain(meta.description ?? '') || firstParagraph(text), 220);
-  const dotRole = clip(dotSentence(text) || plain(meta.description ?? ''), 240);
-  const profile = `${meta.name} ${meta.description ?? ''} ${(meta.topics ?? []).join(' ')} ${text.slice(0, 3000)}`;
+  const dotRole = clip(dotSentence(text, { skip: description }) || plain(meta.description ?? ''), 240);
+  // 类型只看仓库名、简介和 topic：README 正文里偶然出现的 guide、template 容易误判
+  const profile = `${meta.name.replace(/[-_.]/g, ' ')} ${description} ${(meta.topics ?? []).join(' ')}`;
   const kind = guessKind(profile);
   const tags = [...new Set([...(meta.topics ?? []).filter(t => !/^(openai|chatgpt|dots?|openai-dots?|ai)$/i.test(t)), meta.language].filter(Boolean))].slice(0, 3);
   const item = {
@@ -165,22 +171,40 @@ export function buildRecords({ meta, commit, readme, taken, today }) {
 
 async function githubJson(fetcher, token, path) {
   const response = await fetcher(`https://api.github.com/${path}`, { headers: { Accept: 'application/vnd.github+json', 'User-Agent': 'awesome-dot-curator', 'X-GitHub-Api-Version': '2022-11-28', ...(token ? { Authorization: `Bearer ${token}` } : {}) }, signal: AbortSignal.timeout(30000) });
-  if (!response.ok) { const error = new Error(`GitHub HTTP ${response.status} ${path.split('?')[0]}`); error.status = response.status; throw error; }
+  if (!response.ok) {
+    const error = new Error(`GitHub HTTP ${response.status} ${path.split('?')[0]}`);
+    error.status = response.status;
+    const reset = Number(response.headers?.get?.('x-ratelimit-reset'));
+    error.retryAfter = Number(response.headers?.get?.('retry-after')) || (reset ? Math.max(1, reset - Math.floor(Date.now() / 1000)) : 60);
+    throw error;
+  }
   return response.json();
 }
 
-export async function search({ fetcher, token, searches = SEARCHES, perQuery = LIMITS.perQuery }) {
+const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+// 代码搜索每分钟只有 10 次额度：请求之间留间隔，被限流时按 GitHub 给的等待时间重试一次
+export async function search({ fetcher, token, searches = SEARCHES, perQuery = LIMITS.perQuery, sleep = wait, codeGapMs = 7000 }) {
   const names = new Map();
   const errors = [];
+  let lastCode = 0;
   for (const { type, q } of searches) {
     if (type === 'code' && !token) { errors.push({ q, error: 'code search needs a token' }); continue; }
+    if (type === 'code' && lastCode) await sleep(Math.max(0, codeGapMs - (Date.now() - lastCode)));
+    const path = `search/${type}?q=${encodeURIComponent(q)}&per_page=${perQuery}${type === 'repositories' ? '&sort=updated' : ''}`;
     try {
-      const body = await githubJson(fetcher, token, `search/${type}?q=${encodeURIComponent(q)}&per_page=${perQuery}${type === 'repositories' ? '&sort=updated' : ''}`);
+      let body;
+      try { body = await githubJson(fetcher, token, path); }
+      catch (error) {
+        if (![403, 429].includes(error.status)) throw error;
+        await sleep(Math.min(error.retryAfter, 65) * 1000);
+        body = await githubJson(fetcher, token, path);
+      }
       for (const item of body.items ?? []) {
         const repo = type === 'code' ? item.repository : item;
         if (repo?.full_name && !names.has(repo.full_name.toLowerCase())) names.set(repo.full_name.toLowerCase(), repo.full_name);
       }
     } catch (error) { errors.push({ q, error: error.message }); }
+    if (type === 'code') lastCode = Date.now();
   }
   return { repositories: [...names.values()], errors };
 }
