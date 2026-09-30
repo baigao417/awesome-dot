@@ -707,6 +707,20 @@
       "readmeUrl": "https://github.com/danvoulez/mobile-seamless-opendots/blob/460481bf90c1090338064795bad460dce4ea12e0/README.md",
       "readmeSha256": "55a956685b3088dd26769250451bee1a62ea433d8119d158184f0fef84f9eb38",
       "files": []
+    },
+    {
+      "repository": "1ststepai/agent-handoff-bridge",
+      "repositoryId": 1397862625,
+      "description": "Supervised MCP task handoffs across Codex, OpenAI Dots, and Grok Bots",
+      "url": "https://github.com/1ststepai/agent-handoff-bridge",
+      "stars": 0,
+      "updatedAt": "2026-09-30T12:24:23Z",
+      "license": "MIT",
+      "commit": "59f193501d26b8cadb4a2af009432823110d38d2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/1ststepai/agent-handoff-bridge/blob/59f193501d26b8cadb4a2af009432823110d38d2/README.md",
+      "readmeSha256": "83fae5584ac2a4997bdbf2cf853e1251b01b2780454416951f8b6dc6e70d78fe",
+      "files": []
     }
   ]
 }

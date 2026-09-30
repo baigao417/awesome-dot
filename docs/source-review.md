@@ -230,3 +230,10 @@
 - README: https://github.com/danvoulez/mobile-seamless-opendots/blob/460481bf90c1090338064795bad460dce4ea12e0/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## 1ststepai/agent-handoff-bridge
+
+- Commit: `59f193501d26b8cadb4a2af009432823110d38d2`
+- README: https://github.com/1ststepai/agent-handoff-bridge/blob/59f193501d26b8cadb4a2af009432823110d38d2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

@@ -842,7 +842,7 @@
     },
     "King-Austin/daily-activity-forge": {
       "readmeSha256": "ae09e62f684908429a27dc84a56f15a3f1f3e34c674efb4c390f069c10511579",
-      "pushedAt": "2026-09-30T12:37:59Z",
+      "pushedAt": "2026-09-30T13:23:05Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
@@ -873,6 +873,60 @@
     "Neetx/ai-research-radar": {
       "blocked": true,
       "reason": "误收：AI 趋势台账，只是多次提到 OpenAI dots",
+      "at": "2026-09-30"
+    },
+    "izerui/imux": {
+      "readmeSha256": "2a6c6cc8d03976daa9a8a740af1411894b3e6ec380fe1098dde11bcbdfd593b4",
+      "pushedAt": "2026-09-30T08:30:50Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "songleo/songleo.github.io": {
+      "readmeSha256": "ee9876e084b12a7882b3a901088e2fea3e3e96f9e0810eb50ca85dd4bcc788a7",
+      "pushedAt": "2026-09-30T08:36:11Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "Jfo1234/workflow-underwriter": {
+      "readmeSha256": "f55c4eb6fe899cb6cdf1ce3ac4bd21679b6984d77d75117ff762f70a842bba8d",
+      "pushedAt": "2026-09-30T05:00:28Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "adamallcock/tibotattle": {
+      "readmeSha256": "7f9940c4d762006d15fbc4187a5286d3a7cf3ccf176cb96dda425095b49a52b9",
+      "pushedAt": "2026-09-30T13:08:06Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "tushaarmehtaa/tushar-skills": {
+      "readmeSha256": "20db9059644482e2478a81f732372465df7c15190af12b4ef4d122096ac28a3f",
+      "pushedAt": "2026-09-29T20:07:28Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "xkef/swe-digest": {
+      "readmeSha256": "1ebacdd29847a0e008f86d47a4cd5ce1a732dbc1f9daa80bd62094e00a834ec5",
+      "pushedAt": "2026-09-30T12:40:13Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "katecoveny-svg/assemblnz-f0afd79d": {
+      "readmeSha256": "5f668f003cd639e6c9eb76b9eef09838971a6a19a537c305a4f7e195e4f3e948",
+      "pushedAt": "2026-09-30T10:27:35Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "janwilmake/llm-client-context": {
+      "readmeSha256": "95f7065550a6b99ce4defb82b670c21af14ed2776f8d762d31b95cb31696e4f3",
+      "pushedAt": "2026-09-30T05:20:56Z",
+      "reason": "no_dot_signal",
+      "at": "2026-09-30"
+    },
+    "10th-Dimension/Codex-Command-Center": {
+      "readmeSha256": "cbe1919ad025d09c520ee976d6f5d43c533f37d0f1d17bf872f28efa516a3d39",
+      "pushedAt": "2026-09-30T03:31:07Z",
+      "reason": "no_dot_signal",
       "at": "2026-09-30"
     }
   },
@@ -943,7 +997,7 @@
       "at": "2026-09-30"
     },
     "LukasLanghout/LangDot": {
-      "readmeSha256": "5777ddd92108844e48deb7f07fc99bff908fd7bef15193b2739885ff82fe7d3f",
+      "readmeSha256": "090baddd43dea147bc6112c0a6ee1087c59136808f0035201a372f04d2965ecc",
       "score": 3,
       "at": "2026-09-30"
     },
@@ -969,6 +1023,11 @@
     },
     "zyhe16/zyhe16": {
       "readmeSha256": "6800cd3f2e56c2b3092b610aa4d36def277b6ce2b894b41ce3cccbf616a901fe",
+      "score": 2,
+      "at": "2026-09-30"
+    },
+    "swhan0329/codex-101": {
+      "readmeSha256": "a5d055a2a7a94838bb32031e8c23213fe341c96012a8f6c92be3958343754c4b",
       "score": 2,
       "at": "2026-09-30"
     }
