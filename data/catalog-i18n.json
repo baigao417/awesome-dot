@@ -374,7 +374,7 @@
       "en": {
         "name": "dots-mcp",
         "description": "Let MCP clients search Dot-related guides, news and tools and read the community awesome-dots list.",
-        "dotRole": "A tool for finding Dot-related resources, not a control interface for assigning tasks to OpenAI Dot.",
+        "dotRole": "A Dot resource search tool for quickly finding relevant guides, news and tools.",
         "outcome": "Resource entries returned by keyword or section.",
         "requirements": [
           "Node.js",
@@ -391,7 +391,7 @@
       "ja": {
         "name": "dots-mcp",
         "description": "MCP クライアントで Dot 関連のガイド、ニュース、ツールを検索し、コミュニティの awesome-dots 一覧を読み取ります。",
-        "dotRole": "Dot 関連資料の検索ツールであり、OpenAI Dot にタスクを割り当てる制御インターフェースではありません。",
+        "dotRole": "Dot 関連資料の検索ツールで、関連するガイド、ニュース、ツールをすばやく見つけられます。",
         "outcome": "キーワードやカテゴリに応じて返されるリソース項目です。",
         "requirements": [
           "Node.js",
@@ -408,7 +408,7 @@
       "ko": {
         "name": "dots-mcp",
         "description": "MCP 클라이언트에서 Dot 관련 가이드, 뉴스, 도구를 검색하고 커뮤니티의 awesome-dots 목록을 읽습니다.",
-        "dotRole": "Dot 관련 자료 검색 도구이며 OpenAI Dot에 작업을 전달하는 제어 인터페이스가 아닙니다.",
+        "dotRole": "Dot 관련 자료 검색 도구로 관련 가이드, 뉴스, 도구를 빠르게 찾을 수 있습니다.",
         "outcome": "키워드나 섹션에 따라 반환되는 자료 항목입니다.",
         "requirements": [
           "Node.js",
@@ -474,7 +474,7 @@
       "en": {
         "name": "dotsbase-site",
         "description": "An entry point to an unofficial Dot community guide project for learning about this new product and related resources.",
-        "dotRole": "A community guide, not a Dot execution system.",
+        "dotRole": "A Dot community guide to help you quickly learn about the product and related resources.",
         "outcome": "A guide introduction and a project entry point.",
         "requirements": [
           "A browser"
@@ -488,7 +488,7 @@
       "ja": {
         "name": "dotsbase-site",
         "description": "新製品 Dot と関連資料を知るための、非公式コミュニティガイドのプロジェクトへの入口です。",
-        "dotRole": "コミュニティによる案内であり、Dot の実行システムではありません。",
+        "dotRole": "Dot のコミュニティガイドで、製品と関連リソースをすばやく把握できます。",
         "outcome": "ガイドの紹介とプロジェクトへの入口です。",
         "requirements": [
           "ブラウザ"
@@ -502,7 +502,7 @@
       "ko": {
         "name": "dotsbase-site",
         "description": "새 제품 Dot과 관련 자료를 알아보기 위한 비공식 Dot 커뮤니티 가이드 프로젝트의 진입점입니다.",
-        "dotRole": "커뮤니티 안내이며 Dot 실행 시스템이 아닙니다.",
+        "dotRole": "Dot 커뮤니티 가이드로 제품과 관련 자료를 빠르게 이해하도록 돕습니다.",
         "outcome": "가이드 소개와 프로젝트 진입점입니다.",
         "requirements": [
           "브라우저"
@@ -568,7 +568,7 @@
       "en": {
         "name": "MCP extensions",
         "description": "Official MCP extension development resources for building plugin interfaces and interactions better suited to ChatGPT.",
-        "dotRole": "Part of the surrounding development foundation; an MCP extension alone is not grounds for claiming Dot control.",
+        "dotRole": "A development foundation for the Dot ecosystem, used to build MCP extensions.",
         "outcome": "Extension specifications, implementations or examples; consult the actual source at a fixed version.",
         "requirements": [
           "An understanding of MCP and plugin development",
@@ -584,7 +584,7 @@
       "ja": {
         "name": "MCP extensions",
         "description": "ChatGPT により適したプラグインの画面と操作を構築するための、公式 MCP 拡張の開発資料です。",
-        "dotRole": "周辺の開発基盤に属するものであり、MCP 拡張だけを根拠に Dot を制御できるとは主張できません。",
+        "dotRole": "Dot 周辺の開発基盤で、MCP 拡張の構築に使います。",
         "outcome": "拡張の仕様、実装、または例です。実際の固定バージョンの出典を参照します。",
         "requirements": [
           "MCP とプラグイン開発の理解",
@@ -600,7 +600,7 @@
       "ko": {
         "name": "MCP extensions",
         "description": "ChatGPT에 더 적합한 플러그인 화면과 상호작용을 구축하기 위한 공식 MCP 확장 개발 자료입니다.",
-        "dotRole": "주변 개발 기반에 속하며 MCP 확장만으로 Dot을 제어할 수 있다고 주장할 수 없습니다.",
+        "dotRole": "Dot 생태계의 개발 기반으로 MCP 확장을 구축하는 데 사용합니다.",
         "outcome": "확장 명세, 구현 또는 예시입니다. 실제 고정 버전 출처를 참조합니다.",
         "requirements": [
           "MCP와 플러그인 개발에 대한 이해",
@@ -618,7 +618,7 @@
       "en": {
         "name": "opendot",
         "description": "An independent open-source approach to a persistent Agent, with coordinator, topic-task and tool organization patterns to refer to.",
-        "dotRole": "An independent alternative approach to OpenAI Dot, not a Dot plugin; it does not share Dot accounts or memory.",
+        "dotRole": "An independent alternative approach to OpenAI Dot, implementing a persistent Agent in its own way.",
         "outcome": "A coordinator and task architecture available for study.",
         "requirements": [
           "Configure an independent runtime environment according to the project documentation",
@@ -634,7 +634,7 @@
       "ja": {
         "name": "opendot",
         "description": "独立したオープンソースの常駐 Agent 方式です。コーディネーター、話題ごとのタスク、ツールの整理方法を参考にできます。",
-        "dotRole": "OpenAI Dot の独立した代替の考え方であり、Dot のプラグインではありません。Dot のアカウントや記憶も共用しません。",
+        "dotRole": "OpenAI Dot の独立した代替アプローチで、独自の方法で常駐 Agent を実現します。",
         "outcome": "研究対象となるコーディネーターとタスクの構造です。",
         "requirements": [
           "プロジェクト文書に従った独立実行環境の設定",
@@ -650,7 +650,7 @@
       "ko": {
         "name": "opendot",
         "description": "독립적인 오픈 소스 상주 Agent 접근 방식입니다. 코디네이터, 주제별 작업, 도구 구성 방식을 참고할 수 있습니다.",
-        "dotRole": "OpenAI Dot의 독립적인 대안 구상이며 Dot 플러그인이 아닙니다. Dot의 계정이나 메모리도 공유하지 않습니다.",
+        "dotRole": "OpenAI Dot의 독립적인 대안 구상으로 자체 방식으로 상주 Agent를 구현합니다.",
         "outcome": "연구할 수 있는 코디네이터 및 작업 아키텍처입니다.",
         "requirements": [
           "프로젝트 문서에 따라 독립 실행 환경 설정",
@@ -717,8 +717,8 @@
     "zeruel": {
       "en": {
         "name": "zeruel",
-        "description": "A synthetic feasibility prototype for personal Agent workflows and drafts. The README explicitly states that it is not yet an operational Agent, does not observe the desktop and does not process real materials.",
-        "dotRole": "The repository description positions it as an independent alternative approach; it is not an OpenAI Dot extension, nor evidence that persistent tasks have successfully run.",
+        "description": "A synthetic feasibility prototype for personal Agent workflows and drafts.",
+        "dotRole": "An independent alternative approach exploring personal Agent workflow design.",
         "outcome": "Prototype code, simulated tests and notes on unresolved runtime prerequisites.",
         "requirements": [
           "Check the Python and Gemini CLI prerequisites in the current README",
@@ -728,13 +728,13 @@
         "tags": [
           "Independent alternative",
           "Feasibility prototype",
-          "Execution blocker"
+          "Personal Agent"
         ]
       },
       "ja": {
         "name": "zeruel",
-        "description": "個人用 Agent のワークフローと草稿を対象とした、合成ベースの実現可能性プロトタイプです。README には、まだ動作可能な Agent ではなく、デスクトップを観察せず、実際の資料も処理しないと明記されています。",
-        "dotRole": "リポジトリの説明では独立した代替の考え方と位置付けられています。OpenAI Dot の拡張ではなく、常駐タスクの動作完了を示すものでもありません。",
+        "description": "個人用 Agent のワークフローと草稿を対象とした、合成ベースの実現可能性プロトタイプです。",
+        "dotRole": "独立した代替アプローチとして、個人用 Agent のワークフロー設計を探ります。",
         "outcome": "プロトタイプのコード、模擬テスト、未解決の実行前提の説明です。",
         "requirements": [
           "現行 README の Python と Gemini CLI の前提条件の確認",
@@ -744,13 +744,13 @@
         "tags": [
           "独立した代替案",
           "実現可能性プロトタイプ",
-          "実行の阻害要因"
+          "個人用 Agent"
         ]
       },
       "ko": {
         "name": "zeruel",
-        "description": "개인 Agent 워크플로와 초안을 위한 합성 기반 타당성 프로토타입입니다. README는 아직 작동 가능한 Agent가 아니며 데스크톱을 관찰하지 않고 실제 자료도 처리하지 않는다고 명시합니다.",
-        "dotRole": "저장소 설명에서는 독립적인 대안 구상으로 제시합니다. OpenAI Dot 확장이 아니며 상주 작업이 정상 실행되었다는 의미도 아닙니다.",
+        "description": "개인 Agent 워크플로와 초안을 위한 합성 기반 타당성 프로토타입입니다.",
+        "dotRole": "독립적인 대안 구상으로 개인 Agent의 워크플로 설계를 탐구합니다.",
         "outcome": "프로토타입 코드, 모의 테스트, 해결되지 않은 실행 전제 조건에 대한 설명입니다.",
         "requirements": [
           "현재 README의 Python 및 Gemini CLI 전제 조건 확인",
@@ -760,7 +760,7 @@
         "tags": [
           "독립 대안",
           "타당성 프로토타입",
-          "실행 장애 요인"
+          "개인 Agent"
         ]
       }
     }
