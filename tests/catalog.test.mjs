@@ -37,7 +37,9 @@ test('search handles Chinese, owner and AND tokens', () => {
 });
 test('category, kind and favorites compose without mutating source', () => {
   const original = catalog.items.map(x => x.id);
-  assert.equal(filterItems(catalog.items, { category:'content' }).length, 1);
+  const content = filterItems(catalog.items, { category:'content' });
+  assert.ok(content.length > 0 && content.every(x => x.category === 'content'));
+  assert.equal(content.length, catalog.items.filter(x => x.category === 'content').length);
   assert.ok(filterItems(catalog.items, { kind:'alternative' }).every(x => x.kind === 'alternative'));
   assert.equal(filterItems(catalog.items, { savedOnly:true, favorites:['dots-mcp'] })[0].id,'dots-mcp');
   assert.equal(filterItems(catalog.items, { savedOnly:true }).length,0);
@@ -77,7 +79,7 @@ test('partial and total discovery failures remain visible', async () => {
 });
 test('tag any/all, stars and source-only filters compose correctly', () => {
   const indexed = catalog.items.map(item => ({ ...item, stars: discovery.projects.find(p => p.repository === item.repository)?.stars }));
-  assert.equal(filterItems(indexed, { tags:['MCP'] }).length, 2);
+  assert.equal(filterItems(indexed, { tags:['MCP'] }).length, indexed.filter(x => x.tags.includes('MCP')).length);
   assert.equal(filterItems(indexed, { tags:['MCP','资源搜索'], tagMode:'all' })[0].id,'dots-mcp');
   assert.ok(filterItems(indexed, { tags:['MCP','采访'], tagMode:'any' }).length > filterItems(indexed, { tags:['MCP','采访'], tagMode:'all' }).length);
   assert.ok(filterItems(indexed, { minStars:1000 }).every(item => item.stars >= 1000));

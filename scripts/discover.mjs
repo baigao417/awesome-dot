@@ -6,6 +6,13 @@ const repos = [
   'mergisi/awesome-dots', 'mergisi/dots-mcp', 'ylwl1997/dotsbase-site',
   'Anil-matcha/open-dots', 'diggerhq/opendot', 'zero-phoenix/zeruel',
   'openai/plugins', 'openai/mcp-extensions',
+  'abird-ai/dotlink', 'mvanhorn/agent-tincan', 'defog-ai/opendot', 'graydeon/dot-panel',
+  'tcballard/omarchy-plugin-openai-dot', 'thinkwee/OpenDot', 'AgentForEach/AgentForEach',
+  'beamnxw/dots-vs-grok-bot', 'Anil-matcha/awesome-dots-connectors', 'Kotodama-Project/Kotodama-project',
+  'chenrui333/codex-docs', 'mehmetbaykar/codex-docs-skill', 'openai/tunnel-client',
+  'PrisacariuRobert/openbot', 'composio-community/open-dot', 'dots-oai/dots',
+  'alongor666/InsurHOT', 'evan-till/dot-os', 'carlesrabadagarces-hub/dots-catala',
+  'ruijun1110/dots-screensaver', 'feder-cr/dots', 'feder-cr/awesome-dots', 'QuarkOS/grokbot-vs-dots',
 ];
 const api = (path) => {
   const output = execFileSync(process.env.OPENCLI_BASH ?? 'bash', ['-lc', `opencli gh api '${path}'`], { encoding: 'utf8', timeout: 60000, maxBuffer: 8 * 1024 * 1024 });

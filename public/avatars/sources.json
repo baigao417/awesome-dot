@@ -52,6 +52,126 @@
       "source": "https://avatars.githubusercontent.com/u/197630059?s=160",
       "permission": "Maintainer explicitly requested local avatar packaging.",
       "sha256": "584954906b5ad29c6a3e77c79e18f09694b7875867aea869bdc1f119ea08e94d"
+    },
+    {
+      "owner": "abird-ai",
+      "file": "abird-ai.png",
+      "source": "https://avatars.githubusercontent.com/u/278337010?s=96",
+      "sha256": "9c1a552ed53e5130a73e82bbf32334abdbfa3d763857412d6621ca36bb371997"
+    },
+    {
+      "owner": "mvanhorn",
+      "file": "mvanhorn.jpg",
+      "source": "https://avatars.githubusercontent.com/u/455140?s=96",
+      "sha256": "0a5f86f1c74ec628cf16a961e2e4c0575ed238b09670b2a50f4f7983df760a39"
+    },
+    {
+      "owner": "defog-ai",
+      "file": "defog-ai.png",
+      "source": "https://avatars.githubusercontent.com/u/79135711?s=96",
+      "sha256": "a29fd60d9347911acfb5b8f3144738d82ae4b898e1d5919406d2f5a1da87527c"
+    },
+    {
+      "owner": "graydeon",
+      "file": "graydeon.png",
+      "source": "https://avatars.githubusercontent.com/u/206638944?s=96",
+      "sha256": "12d656843a282c541669a536cebbcf594bdc1b23448ccaf47f9aa7e63dde78d5"
+    },
+    {
+      "owner": "tcballard",
+      "file": "tcballard.jpg",
+      "source": "https://avatars.githubusercontent.com/u/213978628?s=96",
+      "sha256": "f96f733364f909995ab08c29887c0da320d338f596beed09c1e434d8aff4c89f"
+    },
+    {
+      "owner": "thinkwee",
+      "file": "thinkwee.png",
+      "source": "https://avatars.githubusercontent.com/u/11889052?s=96",
+      "sha256": "62bf0661695ca9390c378d0f0ffa526588b657d23996d0d53a46b5442f0dc46e"
+    },
+    {
+      "owner": "AgentForEach",
+      "file": "agentforeach.png",
+      "source": "https://avatars.githubusercontent.com/u/335615270?s=96",
+      "sha256": "4a4a634601b295c0ecd542120051e62020d62e01d0f35c9af96afb49fdd98d5d"
+    },
+    {
+      "owner": "beamnxw",
+      "file": "beamnxw.jpg",
+      "source": "https://avatars.githubusercontent.com/u/127671431?s=96",
+      "sha256": "f28daec861e7aba4ada464b158ed18bfff840ce378fd97cac43e6301a7c26932"
+    },
+    {
+      "owner": "Kotodama-Project",
+      "file": "kotodama-project.jpg",
+      "source": "https://avatars.githubusercontent.com/u/243161541?s=96",
+      "sha256": "2358bb1171cf8b8350988c6679a782a2220efccc3acd1e1c57965f67a24e80d5"
+    },
+    {
+      "owner": "chenrui333",
+      "file": "chenrui333.jpg",
+      "source": "https://avatars.githubusercontent.com/u/1580956?s=96",
+      "sha256": "1a2a2d9714d405bf2b2f78d41f83b24b802767ee3db4e115e07b5429c20e0bcc"
+    },
+    {
+      "owner": "mehmetbaykar",
+      "file": "mehmetbaykar.jpg",
+      "source": "https://avatars.githubusercontent.com/u/20362928?s=96",
+      "sha256": "07771869fb1cedef8ff174e5afeae425ba56466dd60b3a0e77d04cf739dbac40"
+    },
+    {
+      "owner": "PrisacariuRobert",
+      "file": "prisacariurobert.jpg",
+      "source": "https://avatars.githubusercontent.com/u/145539911?s=96",
+      "sha256": "dc65319c3d83e35811ed5b93ee0fe37ba440ffb485360d1d122d4ebb95433898"
+    },
+    {
+      "owner": "composio-community",
+      "file": "composio-community.png",
+      "source": "https://avatars.githubusercontent.com/u/267807433?s=96",
+      "sha256": "eb6791f03e72ef1081bf166cf4f332b335928cf998f91f188b6b0fcee76eface"
+    },
+    {
+      "owner": "dots-oai",
+      "file": "dots-oai.png",
+      "source": "https://avatars.githubusercontent.com/u/9956217?s=96",
+      "sha256": "1a4cfa15ab370c198a831887bfd5cec271b8523a2192a3ccab90204ab888862d"
+    },
+    {
+      "owner": "alongor666",
+      "file": "alongor666.png",
+      "source": "https://avatars.githubusercontent.com/u/132310018?s=96",
+      "sha256": "74ed0af10693384421a9a0fd7072dedc40e1bc4d0948d36539667e111c803978"
+    },
+    {
+      "owner": "evan-till",
+      "file": "evan-till.jpg",
+      "source": "https://avatars.githubusercontent.com/u/273240054?s=96",
+      "sha256": "70989e2ab8c5048bc775eb38ce6801976e80a1e8430d3f918ccceeabf5e3cc55"
+    },
+    {
+      "owner": "carlesrabadagarces-hub",
+      "file": "carlesrabadagarces-hub.png",
+      "source": "https://avatars.githubusercontent.com/u/263713131?s=96",
+      "sha256": "b1b643c2d26781e8f16ca3c38ba10fe672084810e58778943172d98406d7b4dd"
+    },
+    {
+      "owner": "ruijun1110",
+      "file": "ruijun1110.jpg",
+      "source": "https://avatars.githubusercontent.com/u/89934388?s=96",
+      "sha256": "06c349062317d1cd7a2554b30d2bf9dd93fd2ab6c361914db4fd7d4363a8aef1"
+    },
+    {
+      "owner": "feder-cr",
+      "file": "feder-cr.jpg",
+      "source": "https://avatars.githubusercontent.com/u/85809106?s=96",
+      "sha256": "7006acf529f11173a72f3ff9a33f8d920f6ae43e82cda25074f1f3b239124fe1"
+    },
+    {
+      "owner": "QuarkOS",
+      "file": "quarkos.png",
+      "source": "https://avatars.githubusercontent.com/u/111038444?s=96",
+      "sha256": "43cd60ae380427bb9197959944d3931c80e2a1f01d0a9d49e69392291be9aba7"
     }
   ]
 }

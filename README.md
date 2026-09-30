@@ -24,6 +24,8 @@ Awesome Dot 收集 OpenAI dots 的官方场景、社区项目和开发资源，�
 | 社区项目 | 社区开发、与 Dot 相关的公开项目 |
 | 开发资源 | 插件、MCP 等搭建 Dot 应用的工具 |
 | 独立替代 | 其他 Agent 实现方案 |
+| 教程与文章 | 上手教程、使用技巧与深度解读 |
+| 任务模板 | 可以直接交给 Dot 的任务、规则与 Skill 模板 |
 
 完整清单见 [docs/catalog.md](docs/catalog.md)。
 

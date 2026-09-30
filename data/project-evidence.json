@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T05:43:19.387Z",
+  "checkedAt": "2026-09-30T10:36:00.627Z",
   "method": "Fixed-commit public source references and hashes; bounded inspection, not execution.",
   "projects": [
     {
@@ -7,12 +7,12 @@
       "description": "A curated list of resources, guides, tools and use cases for OpenAI Dots — always-on proactive agents (DevDay 2026). Unofficial.",
       "url": "https://github.com/mergisi/awesome-dots",
       "stars": 0,
-      "updatedAt": "2026-09-29T19:57:23Z",
+      "updatedAt": "2026-09-30T07:53:53Z",
       "license": "NOASSERTION",
-      "commit": "db80d6f5e76e40c359eaf60bbf4eecc303c6748f",
+      "commit": "1a2b641b5c1aed3da1d2ce10bf26961891bb03c7",
       "readmePath": "README.md",
-      "readmeUrl": "https://github.com/mergisi/awesome-dots/blob/db80d6f5e76e40c359eaf60bbf4eecc303c6748f/README.md",
-      "readmeSha256": "e336c24e7416d7fde199969a24d6111483a3e1c466a73829aa92762a8b95307c",
+      "readmeUrl": "https://github.com/mergisi/awesome-dots/blob/1a2b641b5c1aed3da1d2ce10bf26961891bb03c7/README.md",
+      "readmeSha256": "04b60074c8a47f0fa836d03af168726d061f97515aa29d6e16e80b544cae26ef",
       "files": []
     },
     {
@@ -51,22 +51,22 @@
       "repository": "Anil-matcha/open-dots",
       "description": "Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.",
       "url": "https://github.com/Anil-matcha/open-dots",
-      "stars": 4579,
-      "updatedAt": "2026-09-29T20:36:26Z",
+      "stars": 4669,
+      "updatedAt": "2026-09-30T09:17:42Z",
       "license": "MIT",
-      "commit": "617ac65fca19a524e9747b69b08ff398a60516b2",
+      "commit": "568e3f9abdfc09ab2d43dbe222d7de22209bbcef",
       "readmePath": "README.md",
-      "readmeUrl": "https://github.com/Anil-matcha/open-dots/blob/617ac65fca19a524e9747b69b08ff398a60516b2/README.md",
-      "readmeSha256": "b47af6b2ced810669656c7688cc5d500383155680d2967a486387d69e363a9e1",
+      "readmeUrl": "https://github.com/Anil-matcha/open-dots/blob/568e3f9abdfc09ab2d43dbe222d7de22209bbcef/README.md",
+      "readmeSha256": "aefbbeb7f82f186797c42ff979ac402cd80eef592207e402ce157c83eab63159",
       "files": [
         {
           "path": "client/app/layout.js",
-          "url": "https://github.com/Anil-matcha/open-dots/blob/617ac65fca19a524e9747b69b08ff398a60516b2/client/app/layout.js",
+          "url": "https://github.com/Anil-matcha/open-dots/blob/568e3f9abdfc09ab2d43dbe222d7de22209bbcef/client/app/layout.js",
           "sha256": "612ca1143a6ca88d04184f29487afc48ba4b51f45c6b017a7d6480b5df9ffda3"
         },
         {
           "path": "client/app/not-found.js",
-          "url": "https://github.com/Anil-matcha/open-dots/blob/617ac65fca19a524e9747b69b08ff398a60516b2/client/app/not-found.js",
+          "url": "https://github.com/Anil-matcha/open-dots/blob/568e3f9abdfc09ab2d43dbe222d7de22209bbcef/client/app/not-found.js",
           "sha256": "d6745e2819e3dc2434b9d697be889d9365332fd917a04176566e231e564324b9"
         }
       ]
@@ -123,7 +123,7 @@
       "repository": "openai/plugins",
       "description": "OpenAI Plugins",
       "url": "https://github.com/openai/plugins",
-      "stars": 7237,
+      "stars": 7238,
       "updatedAt": "2026-09-28T17:08:10Z",
       "license": "NOASSERTION",
       "commit": "5fd93af4cd0c623e020d0cc7e9ce178b4ac1f70f",
@@ -147,7 +147,7 @@
       "repository": "openai/mcp-extensions",
       "description": "Build plugins that feel like native, first-class features of ChatGPT.",
       "url": "https://github.com/openai/mcp-extensions",
-      "stars": 289,
+      "stars": 337,
       "updatedAt": "2026-09-29T19:30:39Z",
       "license": "Apache-2.0",
       "commit": "e314720a0daac326217d1f123fcf51647868fa9f",
@@ -164,6 +164,488 @@
           "path": "plugins/bits-and-bolts/.codex-plugin/plugin.json",
           "url": "https://github.com/openai/mcp-extensions/blob/e314720a0daac326217d1f123fcf51647868fa9f/plugins/bits-and-bolts/.codex-plugin/plugin.json",
           "sha256": "67001856d1585e6254cea2cb0e53b008f55c259ee87ae063aea4b6b12e39a1b5"
+        }
+      ]
+    },
+    {
+      "repository": "abird-ai/dotlink",
+      "description": "Connect ChatGPT dot, web, spaces or Claude.ai to the files and tools on your computer — securely, from a single binary",
+      "url": "https://github.com/abird-ai/dotlink",
+      "stars": 0,
+      "updatedAt": "2026-09-30T10:24:54Z",
+      "license": "MIT",
+      "commit": "238dfd30097b0719db4d88e6d1bc4ebc37def429",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/abird-ai/dotlink/blob/238dfd30097b0719db4d88e6d1bc4ebc37def429/README.md",
+      "readmeSha256": "36b27c7ad4745d677d6dbeb641dc9b25d20dfe40cde822448e8d38f14b82bdb7",
+      "files": [
+        {
+          "path": "src/main.rs",
+          "url": "https://github.com/abird-ai/dotlink/blob/238dfd30097b0719db4d88e6d1bc4ebc37def429/src/main.rs",
+          "sha256": "b0d4f7f3403b29e695f8eec212d61e8d137779c7b33ce538e332edcfd817c78e"
+        }
+      ]
+    },
+    {
+      "repository": "mvanhorn/agent-tincan",
+      "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+      "url": "https://github.com/mvanhorn/agent-tincan",
+      "stars": 155,
+      "updatedAt": "2026-09-30T07:32:34Z",
+      "license": "MIT",
+      "commit": "abb0a98465bf07694669a8bcf0fc4506213da9e3",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/mvanhorn/agent-tincan/blob/abb0a98465bf07694669a8bcf0fc4506213da9e3/README.md",
+      "readmeSha256": "2de8e95b2a8c50ab858ff82b4699b7df4a35d28efc31a363607d815c6c67fef6",
+      "files": [
+        {
+          "path": "cmd/tincan/main.go",
+          "url": "https://github.com/mvanhorn/agent-tincan/blob/abb0a98465bf07694669a8bcf0fc4506213da9e3/cmd/tincan/main.go",
+          "sha256": "3e09b58d7d7ac94cf28c94fdfcb9cd87af89c79115a3e19f70915dedf95d7ff6"
+        },
+        {
+          "path": "internal/cli/agent.go",
+          "url": "https://github.com/mvanhorn/agent-tincan/blob/abb0a98465bf07694669a8bcf0fc4506213da9e3/internal/cli/agent.go",
+          "sha256": "c8cdcb971953bb8dcc2fdc90b212c57c2e9ece00f25c33df09016c46199a2a41"
+        }
+      ]
+    },
+    {
+      "repository": "defog-ai/opendot",
+      "description": "Self-hosted assistant that runs Codex or Claude Code in a locked-down container and asks before it acts. Inspired by OpenAI's dots; not affiliated with OpenAI.",
+      "url": "https://github.com/defog-ai/opendot",
+      "stars": 0,
+      "updatedAt": "2026-09-30T07:07:03Z",
+      "license": "Apache-2.0",
+      "commit": "687c15b5ca18c0b90853a8b02e33158e3fae5e6b",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/defog-ai/opendot/blob/687c15b5ca18c0b90853a8b02e33158e3fae5e6b/README.md",
+      "readmeSha256": "cb21e2b6436c1129438e99a8d7599c61ce0215ee817d64b3aadc84f5ba0d2072",
+      "files": [
+        {
+          "path": "src/opendot/__main__.py",
+          "url": "https://github.com/defog-ai/opendot/blob/687c15b5ca18c0b90853a8b02e33158e3fae5e6b/src/opendot/__main__.py",
+          "sha256": "8f091105b7aa65c105515c9fbbf9d4c8bffeee222f7af12b1c16eb74450e7151"
+        },
+        {
+          "path": "src/opendot/gateway/server.py",
+          "url": "https://github.com/defog-ai/opendot/blob/687c15b5ca18c0b90853a8b02e33158e3fae5e6b/src/opendot/gateway/server.py",
+          "sha256": "1d00c2f7483e9849be0005b0319b811eb9d769065bddc2c7e4973c2ecfe2d48a"
+        }
+      ]
+    },
+    {
+      "repository": "graydeon/dot-panel",
+      "description": "Touch-first companion dashboard for ChatGPT dots",
+      "url": "https://github.com/graydeon/dot-panel",
+      "stars": 0,
+      "updatedAt": "2026-09-30T08:51:41Z",
+      "license": "AGPL-3.0",
+      "commit": "333a3aa88d33b45afe856a4dc9b3b1013005e1e7",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/graydeon/dot-panel/blob/333a3aa88d33b45afe856a4dc9b3b1013005e1e7/README.md",
+      "readmeSha256": "5c43b53a4019f3669cebc08f67bb51a405588d466d4b07d1922847c5fd3ddda0",
+      "files": [
+        {
+          "path": "agent-skills/template/manifest.ts",
+          "url": "https://github.com/graydeon/dot-panel/blob/333a3aa88d33b45afe856a4dc9b3b1013005e1e7/agent-skills/template/manifest.ts",
+          "sha256": "b674e0f4c3c28d182c10d6fe30d2351e60dbf67dfaf917c71519d1aef9e5fad9"
+        },
+        {
+          "path": "agent-skills/template/snapshot-model.ts",
+          "url": "https://github.com/graydeon/dot-panel/blob/333a3aa88d33b45afe856a4dc9b3b1013005e1e7/agent-skills/template/snapshot-model.ts",
+          "sha256": "9009a9a5d39ef1802890487dab943ee4d2ccbaa036ece37d7707397a15c14e49"
+        }
+      ]
+    },
+    {
+      "repository": "tcballard/omarchy-plugin-openai-dot",
+      "description": null,
+      "url": "https://github.com/tcballard/omarchy-plugin-openai-dot",
+      "stars": 0,
+      "updatedAt": "2026-09-29T19:30:53Z",
+      "license": "MIT",
+      "commit": "7f1385449627726c410fd53926acb539349044df",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/tcballard/omarchy-plugin-openai-dot/blob/7f1385449627726c410fd53926acb539349044df/README.md",
+      "readmeSha256": "3e0ca9af810190a98fb1e2d3dc76ad3ecbdd8e0f6a36a42e55bea242e802426a",
+      "files": []
+    },
+    {
+      "repository": "thinkwee/OpenDot",
+      "description": "Your personal agent team, in the real world. Open source, runs on your computer, any AI model.",
+      "url": "https://github.com/thinkwee/OpenDot",
+      "stars": 2,
+      "updatedAt": "2026-09-29T23:02:16Z",
+      "license": "MIT",
+      "commit": "18a98c10d3f0237c1183ca87f3d2de6f5c59c164",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/thinkwee/OpenDot/blob/18a98c10d3f0237c1183ca87f3d2de6f5c59c164/README.md",
+      "readmeSha256": "26905667058ec9f5ce8f416bbbc42b9e2708979b7e6e050287506418a2b4d2f6",
+      "files": [
+        {
+          "path": "opendot/__main__.py",
+          "url": "https://github.com/thinkwee/OpenDot/blob/18a98c10d3f0237c1183ca87f3d2de6f5c59c164/opendot/__main__.py",
+          "sha256": "9201da3544789740052feb53b4ffb16e1b7097daedb0101e348e31970803a75c"
+        },
+        {
+          "path": "opendot/connectors.py",
+          "url": "https://github.com/thinkwee/OpenDot/blob/18a98c10d3f0237c1183ca87f3d2de6f5c59c164/opendot/connectors.py",
+          "sha256": "e3fb4b37fed1dc334a082f4a7a16939b65321e7e9751725e6580a33b810a257b"
+        }
+      ]
+    },
+    {
+      "repository": "AgentForEach/AgentForEach",
+      "description": "The open-source brain for personal AI agents. One agent for every user of your app, with memory, schedules, tools and approvals, on a hyperscale serverless architecture where idle agents cost only storage.",
+      "url": "https://github.com/AgentForEach/AgentForEach",
+      "stars": 4,
+      "updatedAt": "2026-09-30T10:35:06Z",
+      "license": "Apache-2.0",
+      "commit": "99be3b8d52417099b2d248b7f57d2107364e25cb",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AgentForEach/AgentForEach/blob/99be3b8d52417099b2d248b7f57d2107364e25cb/README.md",
+      "readmeSha256": "f94f07d7cddc5e48f391665a9de0537fadeef95d1466606497be35540630784e",
+      "files": [
+        {
+          "path": "gateway/attachments/index.ts",
+          "url": "https://github.com/AgentForEach/AgentForEach/blob/99be3b8d52417099b2d248b7f57d2107364e25cb/gateway/attachments/index.ts",
+          "sha256": "369033fb05cde1c6d4c155f994ef01c9245cee57bbd3023e55514992d63391b3"
+        },
+        {
+          "path": "gateway/auth/index.ts",
+          "url": "https://github.com/AgentForEach/AgentForEach/blob/99be3b8d52417099b2d248b7f57d2107364e25cb/gateway/auth/index.ts",
+          "sha256": "e7e066823f257a57ec49cd16aa6a3d09d242b10ec1ffd2ccc1930a34f27064cc"
+        }
+      ]
+    },
+    {
+      "repository": "beamnxw/dots-vs-grok-bot",
+      "description": "Working paper: Always-On Personal Agents as Competing Operating Primitives - OpenAI Dots vs Grok Bot (29 Sep 2026)",
+      "url": "https://github.com/beamnxw/dots-vs-grok-bot",
+      "stars": 1,
+      "updatedAt": "2026-09-30T07:27:47Z",
+      "license": "NOASSERTION",
+      "commit": "270428bb62defd1ec0815ae6aeea289f56a8ff53",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/beamnxw/dots-vs-grok-bot/blob/270428bb62defd1ec0815ae6aeea289f56a8ff53/README.md",
+      "readmeSha256": "076972222a1e3d39fa583390072e1474fd77729c6dd1665236b8535ee9004c59",
+      "files": []
+    },
+    {
+      "repository": "Anil-matcha/awesome-dots-connectors",
+      "description": null,
+      "url": "https://github.com/Anil-matcha/awesome-dots-connectors",
+      "stars": 1,
+      "updatedAt": "2026-09-29T17:16:02Z",
+      "license": "MIT",
+      "commit": "17ce31d70e1d7c45d9a5371e3a0d104b57979b71",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Anil-matcha/awesome-dots-connectors/blob/17ce31d70e1d7c45d9a5371e3a0d104b57979b71/README.md",
+      "readmeSha256": "5d2d29c121189e77bf9cd6248bb92a94011a3e9d44d1c24d405ae74e829816e9",
+      "files": [
+        {
+          "path": "connectors/airtable/bin/airtable.py",
+          "url": "https://github.com/Anil-matcha/awesome-dots-connectors/blob/17ce31d70e1d7c45d9a5371e3a0d104b57979b71/connectors/airtable/bin/airtable.py",
+          "sha256": "07413e5f3444847e6ee3689ac80573d240209919fd8695c2f20d3f14b2e4cf09"
+        },
+        {
+          "path": "connectors/alphavantage/bin/alphavantage.py",
+          "url": "https://github.com/Anil-matcha/awesome-dots-connectors/blob/17ce31d70e1d7c45d9a5371e3a0d104b57979b71/connectors/alphavantage/bin/alphavantage.py",
+          "sha256": "6f6de75dc01a4409bf3c07abf91598ec697f1ebd7d4246b78dfcb529de90cd9a"
+        }
+      ]
+    },
+    {
+      "repository": "Kotodama-Project/Kotodama-project",
+      "description": "会話を監査可能な意図・仕事・成果・学習へつなぐ Local-first Company OS（Incomplete Public Preview）",
+      "url": "https://github.com/Kotodama-Project/Kotodama-project",
+      "stars": 1,
+      "updatedAt": "2026-09-30T02:57:48Z",
+      "license": "MIT",
+      "commit": "b60630f79a7a02b69f94be8a45ec165bbe792b91",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Kotodama-Project/Kotodama-project/blob/b60630f79a7a02b69f94be8a45ec165bbe792b91/README.md",
+      "readmeSha256": "fec49614577ce28544ba39a7493107f97323e1936afdf7c8974f4301720b320f",
+      "files": [
+        {
+          "path": "runtime/cloudflare-edge/src/index.js",
+          "url": "https://github.com/Kotodama-Project/Kotodama-project/blob/b60630f79a7a02b69f94be8a45ec165bbe792b91/runtime/cloudflare-edge/src/index.js",
+          "sha256": "2cd745b95fb18285b1c55844ec5a144ed5e8997ae74d731fead6b50c30df8ce0"
+        },
+        {
+          "path": "runtime/discord-template/dots-plugin/mcp.json",
+          "url": "https://github.com/Kotodama-Project/Kotodama-project/blob/b60630f79a7a02b69f94be8a45ec165bbe792b91/runtime/discord-template/dots-plugin/mcp.json",
+          "sha256": "8885fac4245601f6714b49c2782091c5e7bf663fc2597cfb9bbf0fcbbf964882"
+        }
+      ]
+    },
+    {
+      "repository": "chenrui333/codex-docs",
+      "description": "codex docs",
+      "url": "https://github.com/chenrui333/codex-docs",
+      "stars": 5,
+      "updatedAt": "2026-09-30T04:31:03Z",
+      "license": "MIT",
+      "commit": "c8bff52c1aafb50afd6617fc3ade4a57f4377e02",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/chenrui333/codex-docs/blob/c8bff52c1aafb50afd6617fc3ade4a57f4377e02/README.md",
+      "readmeSha256": "8c6f7c471b6cea7aa5483449083b0caaba393bf315ad2d6b874dce9bc8ca2b94",
+      "files": [
+        {
+          "path": "weekly/events/2026-09-05.json",
+          "url": "https://github.com/chenrui333/codex-docs/blob/c8bff52c1aafb50afd6617fc3ade4a57f4377e02/weekly/events/2026-09-05.json",
+          "sha256": "0cc21b0626ebdc1f2b3532db5e7cc961a72c42c686142b79e5511d4e54ae9cac"
+        },
+        {
+          "path": "weekly/events/2026-09-09.json",
+          "url": "https://github.com/chenrui333/codex-docs/blob/c8bff52c1aafb50afd6617fc3ade4a57f4377e02/weekly/events/2026-09-09.json",
+          "sha256": "712b3f1b46f5b5110f2a28cfb7fdb27b316e041e0ce99e0c7e168edbea708d16"
+        }
+      ]
+    },
+    {
+      "repository": "mehmetbaykar/codex-docs-skill",
+      "description": null,
+      "url": "https://github.com/mehmetbaykar/codex-docs-skill",
+      "stars": 1,
+      "updatedAt": "2026-09-30T01:06:02Z",
+      "license": "NOASSERTION",
+      "commit": "c9c684eb9b067145bc4d296796bd8c9ffd2a18ed",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/mehmetbaykar/codex-docs-skill/blob/c9c684eb9b067145bc4d296796bd8c9ffd2a18ed/README.md",
+      "readmeSha256": "d5300be5a13f9cfd4f043db8cd51cfc3eba9f54a675a8258b28e0e5b06f07e35",
+      "files": []
+    },
+    {
+      "repository": "openai/tunnel-client",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "url": "https://github.com/openai/tunnel-client",
+      "stars": 515,
+      "updatedAt": "2026-09-29T17:54:22Z",
+      "license": "Apache-2.0",
+      "commit": "ea3ae1a24f8a32ec9fd3cd6da0ce601abd5395f5",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/openai/tunnel-client/blob/ea3ae1a24f8a32ec9fd3cd6da0ce601abd5395f5/README.md",
+      "readmeSha256": "464a8a5630498b3ff3af351817cfec546264fbd3c7c7b8c72603e910fd482da5",
+      "files": [
+        {
+          "path": "adminui/src/main.ts",
+          "url": "https://github.com/openai/tunnel-client/blob/ea3ae1a24f8a32ec9fd3cd6da0ce601abd5395f5/adminui/src/main.ts",
+          "sha256": "4bc45d9593013ccf4d058962fced11abea041f3601b339d348cdaf1437c9245c"
+        },
+        {
+          "path": "cmd/client-runtime-cloudflared/main.go",
+          "url": "https://github.com/openai/tunnel-client/blob/ea3ae1a24f8a32ec9fd3cd6da0ce601abd5395f5/cmd/client-runtime-cloudflared/main.go",
+          "sha256": "c563ccb49b816a8008609eaeacfc4cb892c23bad7e5de5e3c7e20ec71cd13407"
+        }
+      ]
+    },
+    {
+      "repository": "PrisacariuRobert/openbot",
+      "description": "A small team of AI teammates on your Mac. They research, write and get things done — and ask before anything important. Free, open source, bring your own AI.",
+      "url": "https://github.com/PrisacariuRobert/openbot",
+      "stars": 4,
+      "updatedAt": "2026-09-29T22:20:55Z",
+      "license": "MIT",
+      "commit": "cae09097f123ffb2caf1704dbb55e2bcdb852763",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/PrisacariuRobert/openbot/blob/cae09097f123ffb2caf1704dbb55e2bcdb852763/README.md",
+      "readmeSha256": "982d1b2fa215fa7621d60552c162834cc37680d5939e4dc17346adfe6aef96f2",
+      "files": [
+        {
+          "path": "scripts/relay-server.ts",
+          "url": "https://github.com/PrisacariuRobert/openbot/blob/cae09097f123ffb2caf1704dbb55e2bcdb852763/scripts/relay-server.ts",
+          "sha256": "1840b2ba0e0d8ac6ea1d7d8fb5de6c037b42e83f7592a872fee52033a930d694"
+        },
+        {
+          "path": "src/ConnectorIcon.tsx",
+          "url": "https://github.com/PrisacariuRobert/openbot/blob/cae09097f123ffb2caf1704dbb55e2bcdb852763/src/ConnectorIcon.tsx",
+          "sha256": "ff17dc328cce8876c9713eb1d1b6225bb5fcc8d91eee8638c9ab04160ae50cc6"
+        }
+      ]
+    },
+    {
+      "repository": "composio-community/open-dot",
+      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "url": "https://github.com/composio-community/open-dot",
+      "stars": 0,
+      "updatedAt": "2026-09-30T02:36:37Z",
+      "license": "NOASSERTION",
+      "commit": "500d5f255cbfb2a66cb6be65cc3037f783af4adc",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/composio-community/open-dot/blob/500d5f255cbfb2a66cb6be65cc3037f783af4adc/README.md",
+      "readmeSha256": "ab8b77d4bc3df2e17f5943df551e5be234be84901a1bc8b8880664671edfec01",
+      "files": [
+        {
+          "path": "src/app/actions.ts",
+          "url": "https://github.com/composio-community/open-dot/blob/500d5f255cbfb2a66cb6be65cc3037f783af4adc/src/app/actions.ts",
+          "sha256": "9fc334f0af63047ab37932a767215e9624d57122f2df49bc28b23bfc208c1cca"
+        },
+        {
+          "path": "src/app/api/apps/[slug]/route.ts",
+          "url": "https://github.com/composio-community/open-dot/blob/500d5f255cbfb2a66cb6be65cc3037f783af4adc/src/app/api/apps/[slug]/route.ts",
+          "sha256": "6e7fcc5c99faf59f20d940a1a3086de8084f783621c70d294f577a53bd8ed8f2"
+        }
+      ]
+    },
+    {
+      "repository": "dots-oai/dots",
+      "description": "dots — an always-on, goal-driven agent runtime.",
+      "url": "https://github.com/dots-oai/dots",
+      "stars": 66,
+      "updatedAt": "2026-09-29T22:55:50Z",
+      "license": "MIT",
+      "commit": "280c08d6bf308fcea633f6b981f9d51d3ead8636",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/dots-oai/dots/blob/280c08d6bf308fcea633f6b981f9d51d3ead8636/README.md",
+      "readmeSha256": "747efa0b1307a5c50da6760ec5a1e819c3f1f11db6fc70b6a5b0f822336aac45",
+      "files": [
+        {
+          "path": "__main__.py",
+          "url": "https://github.com/dots-oai/dots/blob/280c08d6bf308fcea633f6b981f9d51d3ead8636/__main__.py",
+          "sha256": "67aabe70485ebc793741dd2a837a528600bb0b6cdfcd16a4a84ed16c0c74d3a0"
+        },
+        {
+          "path": "src/dots/__main__.py",
+          "url": "https://github.com/dots-oai/dots/blob/280c08d6bf308fcea633f6b981f9d51d3ead8636/src/dots/__main__.py",
+          "sha256": "67aabe70485ebc793741dd2a837a528600bb0b6cdfcd16a4a84ed16c0c74d3a0"
+        }
+      ]
+    },
+    {
+      "repository": "alongor666/InsurHOT",
+      "description": null,
+      "url": "https://github.com/alongor666/InsurHOT",
+      "stars": 0,
+      "updatedAt": "2026-09-30T10:32:25Z",
+      "license": "MIT",
+      "commit": "32a3fad42bba397239a155ffd0112698588a2c1f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/alongor666/InsurHOT/blob/32a3fad42bba397239a155ffd0112698588a2c1f/README.md",
+      "readmeSha256": "9af09ab9582039bc31bf0234880fba7a0f378368d7c8a47fed90000f21d1d860",
+      "files": [
+        {
+          "path": "apps/api/src/app.ts",
+          "url": "https://github.com/alongor666/InsurHOT/blob/32a3fad42bba397239a155ffd0112698588a2c1f/apps/api/src/app.ts",
+          "sha256": "a7bb0296fae1a90fa6eb9373e4e51ad581de1e6593e126f70d879b18b705fcb3"
+        },
+        {
+          "path": "apps/api/src/http/respond.ts",
+          "url": "https://github.com/alongor666/InsurHOT/blob/32a3fad42bba397239a155ffd0112698588a2c1f/apps/api/src/http/respond.ts",
+          "sha256": "c457710f0eb03138f53ebae95e2b1995b603a87e66e993f67c2c9966a4833b04"
+        }
+      ]
+    },
+    {
+      "repository": "evan-till/dot-os",
+      "description": null,
+      "url": "https://github.com/evan-till/dot-os",
+      "stars": 1,
+      "updatedAt": "2026-09-30T04:37:09Z",
+      "license": "NOASSERTION",
+      "commit": "5d51e242e6330abf346847952e59a45da9ef50af",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/evan-till/dot-os/blob/5d51e242e6330abf346847952e59a45da9ef50af/README.md",
+      "readmeSha256": "9235e7426dcf03f1cfa326355c8e2c2ac182a1c0a48750912b7b37dd8fb9c1fe",
+      "files": [
+        {
+          "path": "packages/cli/src/index.ts",
+          "url": "https://github.com/evan-till/dot-os/blob/5d51e242e6330abf346847952e59a45da9ef50af/packages/cli/src/index.ts",
+          "sha256": "9c3d945d5240cc4974fdc491fff4e0838366e25c8e82144368cb6bf0d976e047"
+        },
+        {
+          "path": "packages/core/src/index.ts",
+          "url": "https://github.com/evan-till/dot-os/blob/5d51e242e6330abf346847952e59a45da9ef50af/packages/core/src/index.ts",
+          "sha256": "55b2a38ab3e47595c8671c417e493a6c7b6141930e854dfbe74134cf1bcdde73"
+        }
+      ]
+    },
+    {
+      "repository": "carlesrabadagarces-hub/dots-catala",
+      "description": null,
+      "url": "https://github.com/carlesrabadagarces-hub/dots-catala",
+      "stars": 0,
+      "updatedAt": "2026-09-30T10:40:37Z",
+      "license": "MIT",
+      "commit": "76183c214a2bd9681b81b883e66d683e049f2290",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/carlesrabadagarces-hub/dots-catala/blob/76183c214a2bd9681b81b883e66d683e049f2290/README.md",
+      "readmeSha256": "9b1a6e86fa565458d5016bbd8def09e2e8ec213fd44969e6a29fe20ded4dfcca",
+      "files": [
+        {
+          "path": "client/app/admin/page.js",
+          "url": "https://github.com/carlesrabadagarces-hub/dots-catala/blob/76183c214a2bd9681b81b883e66d683e049f2290/client/app/admin/page.js",
+          "sha256": "6a15efa24387edd6b8a15b9ebf18aa4dc3d73195a380ff261a90b314daa999c8"
+        },
+        {
+          "path": "client/app/layout.js",
+          "url": "https://github.com/carlesrabadagarces-hub/dots-catala/blob/76183c214a2bd9681b81b883e66d683e049f2290/client/app/layout.js",
+          "sha256": "612ca1143a6ca88d04184f29487afc48ba4b51f45c6b017a7d6480b5df9ffda3"
+        }
+      ]
+    },
+    {
+      "repository": "ruijun1110/dots-screensaver",
+      "description": "A playful native macOS screensaver with bouncing faces and an outline clock. Independent fan project, in development.",
+      "url": "https://github.com/ruijun1110/dots-screensaver",
+      "stars": 0,
+      "updatedAt": "2026-09-30T07:52:20Z",
+      "license": "MIT",
+      "commit": "97d613c66cca4611116e74564bf1562348a20c53",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ruijun1110/dots-screensaver/blob/97d613c66cca4611116e74564bf1562348a20c53/README.md",
+      "readmeSha256": "20a99ea58ca41dc1e53318f3d315f3978e765ed7e67af68201b73cf2fd5689b7",
+      "files": []
+    },
+    {
+      "repository": "feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "stars": 861,
+      "updatedAt": "2026-09-29T23:24:01Z",
+      "license": "MIT",
+      "commit": "2ff9848c1c8a80460d89242d97beacf23dff05ca",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/feder-cr/dots/blob/2ff9848c1c8a80460d89242d97beacf23dff05ca/README.md",
+      "readmeSha256": "f1fec3a64fa65cb5d2c87c7a276fbb6a35084d7fc96f4467c05370b4099eba4a",
+      "files": [
+        {
+          "path": "src/dots/__main__.py",
+          "url": "https://github.com/feder-cr/dots/blob/2ff9848c1c8a80460d89242d97beacf23dff05ca/src/dots/__main__.py",
+          "sha256": "6d8b7d7846a845059d7a3107143f11131f63c5511d669b44085b15ec5e3d2279"
+        }
+      ]
+    },
+    {
+      "repository": "feder-cr/awesome-dots",
+      "description": "The open-source side of dots: agents you can run yourself, and the pieces every dot is made of.",
+      "url": "https://github.com/feder-cr/awesome-dots",
+      "stars": 0,
+      "updatedAt": "2026-09-29T23:13:38Z",
+      "license": "MIT",
+      "commit": "6ab9d296acea76d3672e131846d1d13c2c575812",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/feder-cr/awesome-dots/blob/6ab9d296acea76d3672e131846d1d13c2c575812/README.md",
+      "readmeSha256": "7e4b6753e57350769e9161c00cce897114c4c2ef3f3a01d3123a0b2f2a2f81ae",
+      "files": []
+    },
+    {
+      "repository": "QuarkOS/grokbot-vs-dots",
+      "description": "Narrated papercraft Remotion video: Grokbot vs ChatGPT Dots",
+      "url": "https://github.com/QuarkOS/grokbot-vs-dots",
+      "stars": 0,
+      "updatedAt": "2026-09-29T20:39:50Z",
+      "license": "NOASSERTION",
+      "commit": "fad36521c1481a7f9427a2453562865bd844a0d4",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/QuarkOS/grokbot-vs-dots/blob/fad36521c1481a7f9427a2453562865bd844a0d4/README.md",
+      "readmeSha256": "8cfc34b7197cf567de1fa8f85dc7220d2cb883a4aa0eebe28c87724e6d300082",
+      "files": [
+        {
+          "path": "src/index.ts",
+          "url": "https://github.com/QuarkOS/grokbot-vs-dots/blob/fad36521c1481a7f9427a2453562865bd844a0d4/src/index.ts",
+          "sha256": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74"
         }
       ]
     }

@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-09-30。共 15 条。
+更新日期：2026-09-30。共 52 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -19,3 +19,40 @@
 | opendot | alternative | OpenAI Dot 的独立替代思路，用自己的方式实现常驻 Agent。 | [来源](https://github.com/diggerhq/opendot) |
 | open-dots | alternative | 独立实现，不表示它接入了 OpenAI Dot 产品。 | [来源](https://github.com/Anil-matcha/open-dots) |
 | zeruel | alternative | 独立替代思路，探索个人 Agent 的流程设计。 | [来源](https://github.com/zero-phoenix/zeruel) |
+| dotlink | community_project | 通过 MCP 与 OpenAI 隧道连接你的 Dot，让它在授权范围内读写本机文件、运行 Git、构建和测试。 | [来源](https://github.com/abird-ai/dotlink) |
+| Agent Tincan | community_project | dot-web 适配把你的 Dot 接入 Agent 团队：可以向其他 Agent 发请求，也能接收请求，发往 Dot 的请求默认等你批准。 | [来源](https://github.com/mvanhorn/agent-tincan) |
+| OpenDot（defog-ai） | alternative | 受 OpenAI dots 启发的独立开源实现，用你已有的 AI 订阅跑常驻助手。 | [来源](https://github.com/defog-ai/opendot) |
+| Dot Panel | building_block | 通过 MCP 让 Dot 把需要你决定的问题推到面板上，回答后自动回到项目状态。 | [来源](https://github.com/graydeon/dot-panel) |
+| Omarchy 的 OpenAI Dot 插件 | community_project | 用独立浏览器窗口打开真实的 Dot 界面，沿用浏览器里的 ChatGPT 登录。 | [来源](https://github.com/tcballard/omarchy-plugin-openai-dot) |
+| OpenDot（thinkwee） | alternative | 以 OpenAI Dot 等产品为灵感的开源实现，Agent 主动盯事，需要决定时再来找你。 | [来源](https://github.com/thinkwee/OpenDot) |
+| AgentForEach | building_block | 提供 Dots 类产品背后的记忆、定时任务、工具、审批和多渠道能力。 | [来源](https://github.com/AgentForEach/AgentForEach) |
+| Dots 与 Grok Bot 对比研究 | tutorial | 两者都由前沿模型、云端机器、连接器和审批关卡组成，分歧在于工作单元：Dots 把虚拟机绑定在一个具名 Agent 上。 | [来源](https://github.com/beamnxw/dots-vs-grok-bot) |
+| Awesome Dots Connectors | community_project | 帮你找到可以接给 Dot 的连接器和 Skill，并附有连接器模板。 | [来源](https://github.com/Anil-matcha/awesome-dots-connectors) |
+| Kotodama | building_block | 把 OpenAI Dots 作为日常入口，附带 Dots 插件，经电脑桥接 Discord 请求与操作审批。 | [来源](https://github.com/Kotodama-Project/Kotodama-project) |
+| codex-docs 文档镜像 | community_project | 用 Git 历史追踪 Dots 官方文档的每次改动。 | [来源](https://github.com/chenrui333/codex-docs) |
+| Codex Docs Skill | building_block | 让你的 Agent 随时查阅最新的 Dots 文档。 | [来源](https://github.com/mehmetbaykar/codex-docs-skill) |
+| Secure MCP Tunnel 客户端 | building_block | dotlink 等工具借助这条隧道把本机能力开放给 Dot。 | [来源](https://github.com/openai/tunnel-client) |
+| OpenBot | alternative | 把 OpenAI dots 等云端 Agent 列为对比对象的本地替代，用你已经付费的 ChatGPT、Claude 等账号。 | [来源](https://github.com/PrisacariuRobert/openbot) |
+| Open Dot（Composio） | alternative | 用 OpenAI 模型和 Composio 应用连接，复刻 dot 的工作方式：聊天或语音派活，完成后通知你。 | [来源](https://github.com/composio-community/open-dot) |
+| dots runtime（dots-oai） | alternative | 用规划、执行、监督三类角色组织长期目标，并区分可自主执行与需要审批的动作。 | [来源](https://github.com/dots-oai/dots) |
+| InsurHOT 保险行业情报 | community_project | Dot 负责采集与解读公开信息，交给项目自己的接收端存档和展示。 | [来源](https://github.com/alongor666/InsurHOT) |
+| Dot OS | community_project | 用八个分工不同的 Dot 节点演示多 Agent 并行与冲突合并。 | [来源](https://github.com/evan-till/dot-os) |
+| superDOTats（Open Dots + WhatsApp） | alternative | 在开源替代的基础上，把每个 Agent 接到你自己的 WhatsApp 号码。 | [来源](https://github.com/carlesrabadagarces-hub/dots-catala) |
+| Dots 屏保 | community_project | 粉丝创作，把 dots 的视觉语言做成桌面屏保。 | [来源](https://github.com/ruijun1110/dots-screensaver) |
+| dots（feder-cr） | alternative | 把「模型 + 浏览器」做成可替换的开源 Agent，模型换一个参数即可。 | [来源](https://github.com/feder-cr/dots) |
+| Awesome Dots（开源篇） | community_project | 按模型、浏览器、记忆、工具等部件整理开源方案，帮你理解一个 dot 是怎么搭起来的。 | [来源](https://github.com/feder-cr/awesome-dots) |
+| Grokbot vs ChatGPT Dots 动画 | community_project | 用动画讲解常驻 Agent 的工作方式，可作为视频创作参考。 | [来源](https://github.com/QuarkOS/grokbot-vs-dots) |
+| Get started with your dot | tutorial | 按步骤创建你的 Dot，并为第一项持续任务设好来源、审批方式和汇报节奏。 | [来源](https://learn.chatgpt.com/docs/dots/getting-started) |
+| Tasks and memory | tutorial | 讲清怎样写好一项持续任务：来源、时区、通知条件和交付位置。 | [来源](https://learn.chatgpt.com/docs/dots/tasks-and-memory) |
+| Control your dot | tutorial | 帮你为不同动作选择审批方式，并分别停止主任务、委派任务和未来的定时任务。 | [来源](https://learn.chatgpt.com/docs/dots/controls) |
+| A deep dive into OpenAI dots | tutorial | 演示如何把 Slack 和邮件里的反馈整理成交给 Dot 的持续任务，以及何时连接本机、交给 Codex。 | [来源](https://flaviocopes.com/openai-dots/) |
+| ChatGPT Dot: How to Set Up and Use Your AI Agent | tutorial | 从一份可检查的简报开始，验收通过后再升级为定时工作流。 | [来源](https://app.therundown.ai/guides/how-to-use-chatgpt-dot) |
+| How to create your first dot | tutorial | 帮你在接入账户前理解审批模式，分清草拟、发送与持续授权。 | [来源](https://dotsguide.com/get-started) |
+| ChatGPT Dots 是什麼？用途、方案與工作交辦方式 | tutorial | 示范一份只读的竞品周报指令：保留来源、区分事实与推测，再逐步放宽权限。 | [来源](https://frankchiu.io/ai-chatgpt-dots/) |
+| 챗GPT 닷 설정하기 | tutorial | 用韩文带你完成首次设置，分清阅读、草拟、发送和需要本人处理的动作。 | [来源](https://aimatters.co.kr/ai-tool/53699/) |
+| OpenAI Dots and Email | tutorial | 让 Dot 先只读筛出待回复邮件和未兑现的承诺，发送和转发仍由你把关。 | [来源](https://www.dragapp.com/blog/openai-dots/) |
+| Custom Rules 规则包 | task_template | 让 Dot 持续阅读和草拟，同时在发送、购买、共享、删除和生产操作前停下来问你。 | [来源](https://github.com/mergisi/awesome-dots/blob/1a2b641b5c1aed3da1d2ce10bf26961891bb03c7/CUSTOM-RULES.md) |
+| 用户反馈持续汇总 | task_template | 持续汇总用户反馈，不代你回复客户。 | [来源](https://flaviocopes.com/openai-dots/#give-it-a-responsibility-not-a-request) |
+| 每日项目早报 | task_template | 单次生成带来源的项目早报，不做排程、发送、编辑、删除或购买。 | [来源](https://app.therundown.ai/guides/how-to-use-chatgpt-dot) |
+| 竞品周报 | task_template | 输出事实与推测分开的竞品周报，遇到信息缺失、需要登录或付款时停下来报告。 | [来源](https://frankchiu.io/ai-chatgpt-dots/#%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8_Dots%EF%BC%8C%E5%85%88%E4%BA%A4%E8%BE%A6%E4%B8%80%E9%A0%85%E5%B0%8F%E5%B7%A5%E4%BD%9C) |
+| 邮件整理三件套 | task_template | 让 Dot 阅读、总结和起草，不擅自发出邮件。 | [来源](https://www.dragapp.com/blog/openai-dots/#a-safe-starting-setup-for-email) |

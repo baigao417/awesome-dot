@@ -24,6 +24,8 @@ Awesome Dot collects official OpenAI dots use cases, community projects and deve
 | Community | Public projects built by the community and related to Dot |
 | Dev material | Tools for building Dot applications, including plugins and MCP |
 | Indep. alt. | Other Agent implementations |
+| Tutorials & articles | Getting-started tutorials, practical tips and in-depth analysis |
+| Task templates | Task, rule and Skill templates ready to give to Dot |
 
 See [docs/catalog.md](docs/catalog.md) for the full catalog.
 

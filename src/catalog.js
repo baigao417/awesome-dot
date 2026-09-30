@@ -14,8 +14,10 @@ export const kinds = {
   community_project: { label: '社区项目', color: 'blue' },
   building_block: { label: '开发资源', color: 'amber' },
   alternative: { label: '独立替代', color: 'violet' },
+  tutorial: { label: '教程与文章', color: 'paper' },
+  task_template: { label: '任务模板', color: 'dotted' },
 };
-export const evidenceLabels = { official_example: '官方示例 · 未实测', source_reviewed: '局部源码审阅 · 未运行', readme_reviewed: 'README 审阅 · 未运行' };
+export const evidenceLabels = { official_example: '官方示例 · 未实测', source_reviewed: '局部源码审阅 · 未运行', readme_reviewed: 'README 审阅 · 未运行', content_reviewed: '内容审阅 · 未实测' };
 export function filterItems(items, { query = '', category = 'all', kind = 'all', tags = [], tagMode = 'any', minStars = 0, sourceOnly = false, savedOnly = false, favorites = [], sort = 'curated' } = {}) {
   const tokens = query.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
   const list = items.filter(item => {

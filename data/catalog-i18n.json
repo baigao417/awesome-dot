@@ -763,6 +763,1850 @@
           "개인 Agent"
         ]
       }
+    },
+    "dotlink": {
+      "en": {
+        "name": "dotlink",
+        "description": "A single-file Rust tool that securely gives ChatGPT on the web and your Dot access to files and tools on your computer.",
+        "dotRole": "Connects your Dot through MCP and an OpenAI tunnel so it can read and write local files, run Git, build and test within the permissions you grant.",
+        "outcome": "Dot works directly with local data and projects, without repeated uploads and downloads.",
+        "requirements": [
+          "A working local machine or server",
+          "A ChatGPT account with Dot access",
+          "Directories and tools to expose as needed"
+        ],
+        "limits": "Permissions are enabled individually through configuration; uses the Bubblewrap sandbox on Linux.",
+        "tags": [
+          "MCP",
+          "Local connection",
+          "Rust"
+        ]
+      },
+      "ja": {
+        "name": "dotlink",
+        "description": "パソコンのファイルやツールを、安全にウェブ版 ChatGPT と自分の Dot に公開する単一ファイルの Rust ツール。",
+        "dotRole": "MCP と OpenAI のトンネルを通じて Dot を接続し、許可された範囲でローカルファイルの読み書き、Git の実行、ビルド、テストを行えるようにします。",
+        "outcome": "アップロードやダウンロードを繰り返さず、Dot がローカルのデータやプロジェクトを直接扱えます。",
+        "requirements": [
+          "稼働できるローカルマシンまたはサーバー",
+          "Dot を利用できる ChatGPT アカウント",
+          "必要に応じて公開するディレクトリとツール"
+        ],
+        "limits": "権限は設定で個別に有効化します。Linux では Bubblewrap サンドボックスを使用します。",
+        "tags": [
+          "MCP",
+          "ローカル接続",
+          "Rust"
+        ]
+      },
+      "ko": {
+        "name": "dotlink",
+        "description": "컴퓨터의 파일과 도구를 웹 버전 ChatGPT와 자신의 Dot에 안전하게 개방하는 단일 파일 Rust 도구입니다.",
+        "dotRole": "MCP와 OpenAI 터널로 Dot을 연결하여 허용된 범위에서 로컬 파일 읽기·쓰기, Git 실행, 빌드, 테스트를 수행하게 합니다.",
+        "outcome": "반복해서 업로드하고 다운로드할 필요 없이 Dot이 로컬 데이터와 프로젝트를 직접 처리합니다.",
+        "requirements": [
+          "실행 가능한 로컬 컴퓨터 또는 서버",
+          "Dot을 이용할 수 있는 ChatGPT 계정",
+          "필요에 따라 개방할 디렉터리와 도구"
+        ],
+        "limits": "설정에서 권한을 항목별로 개방하며, Linux에서는 Bubblewrap 샌드박스를 사용합니다.",
+        "tags": [
+          "MCP",
+          "로컬 연결",
+          "Rust"
+        ]
+      }
+    },
+    "agent-tincan": {
+      "en": {
+        "name": "Agent Tincan",
+        "description": "Lets your AI Agents ask each other for help and hand off tasks through Tailscale, wherever they run.",
+        "dotRole": "The dot-web adapter brings your Dot into an Agent team to send and receive requests. Requests sent to Dot await your approval by default.",
+        "outcome": "Dot works alongside personal Agents such as Grok Bot and Muse.",
+        "requirements": [
+          "A Tailscale network",
+          "A browser signed in to ChatGPT and the extension",
+          "At least two Agents to collaborate"
+        ],
+        "limits": "Dot connects through a signed-in web session.",
+        "tags": [
+          "Multi-Agent collaboration",
+          "Tailscale",
+          "Go"
+        ]
+      },
+      "ja": {
+        "name": "Agent Tincan",
+        "description": "複数の AI Agent が、実行場所を問わず Tailscale 経由で助けを求め合い、タスクを引き継げるようにします。",
+        "dotRole": "dot-web アダプターで Dot を Agent チームに接続し、ほかの Agent とリクエストを送受信できます。Dot 宛てのリクエストは、初期設定ではあなたの承認を待ちます。",
+        "outcome": "Dot が Grok Bot や Muse などの個人用 Agent と協力して働きます。",
+        "requirements": [
+          "Tailscale ネットワーク",
+          "ChatGPT にログインしたブラウザと拡張機能",
+          "協力する Agent が最低 2 つ"
+        ],
+        "limits": "Dot はログイン済みのウェブセッションを通じて接続します。",
+        "tags": [
+          "複数 Agent の連携",
+          "Tailscale",
+          "Go"
+        ]
+      },
+      "ko": {
+        "name": "Agent Tincan",
+        "description": "어디에서 실행되든 여러 AI Agent가 Tailscale을 통해 서로 도움을 요청하고 작업을 넘겨줄 수 있게 합니다.",
+        "dotRole": "dot-web 어댑터로 Dot을 Agent 팀에 연결하여 다른 Agent와 요청을 주고받습니다. Dot에 보내는 요청은 기본적으로 사용자의 승인을 기다립니다.",
+        "outcome": "Dot이 Grok Bot, Muse 등 개인 Agent와 함께 일합니다.",
+        "requirements": [
+          "Tailscale 네트워크",
+          "ChatGPT에 로그인한 브라우저와 확장 프로그램",
+          "협업할 Agent 최소 2개"
+        ],
+        "limits": "Dot은 로그인된 웹 세션으로 연결됩니다.",
+        "tags": [
+          "다중 Agent 협업",
+          "Tailscale",
+          "Go"
+        ]
+      }
+    },
+    "defog-opendot": {
+      "en": {
+        "name": "OpenDot（defog-ai）",
+        "description": "A self-hosted assistant that runs Codex, Claude Code or opencode in a hardened local container and takes tasks through Slack or the terminal.",
+        "dotRole": "An independent open-source implementation inspired by OpenAI dots, using your existing AI subscriptions to run an always-on assistant.",
+        "outcome": "Make a request in Slack and it researches, changes code and opens a PR automatically.",
+        "requirements": [
+          "Local Docker",
+          "A Codex / Claude Code / opencode subscription",
+          "A Slack workspace (optional)"
+        ],
+        "limits": "Agent actions are executed directly by the program; read the repository's SECURITY.md before use.",
+        "tags": [
+          "Independent alternative",
+          "Self-hosted",
+          "Slack"
+        ]
+      },
+      "ja": {
+        "name": "OpenDot（defog-ai）",
+        "description": "強化されたローカルコンテナで Codex、Claude Code、opencode を実行し、Slack やターミナルでタスクを受け取るセルフホスト型アシスタント。",
+        "dotRole": "OpenAI dots に着想を得た独立したオープンソース実装で、既存の AI サブスクリプションを使って常駐アシスタントを動かします。",
+        "outcome": "Slack で依頼すると、自動で調査し、コードを変更して PR を作成します。",
+        "requirements": [
+          "ローカルの Docker",
+          "Codex / Claude Code / opencode のサブスクリプション",
+          "Slack ワークスペース（任意）"
+        ],
+        "limits": "Agent のアクションはプログラムが直接実行します。使用前にリポジトリの SECURITY.md をお読みください。",
+        "tags": [
+          "独立した代替案",
+          "セルフホスト",
+          "Slack"
+        ]
+      },
+      "ko": {
+        "name": "OpenDot（defog-ai）",
+        "description": "보안을 강화한 로컬 컨테이너에서 Codex, Claude Code 또는 opencode를 실행하고 Slack이나 터미널로 작업을 받는 셀프 호스팅 어시스턴트입니다.",
+        "dotRole": "OpenAI dots에서 영감을 받은 독립 오픈 소스 구현으로, 기존 AI 구독을 이용해 상시 어시스턴트를 실행합니다.",
+        "outcome": "Slack에서 요청하면 자동으로 조사하고 코드를 수정한 뒤 PR을 만듭니다.",
+        "requirements": [
+          "로컬 Docker",
+          "Codex / Claude Code / opencode 구독",
+          "Slack 워크스페이스(선택)"
+        ],
+        "limits": "Agent의 동작은 프로그램이 직접 실행합니다. 사용 전에 저장소의 SECURITY.md를 읽으세요.",
+        "tags": [
+          "독립 대안",
+          "셀프 호스팅",
+          "Slack"
+        ]
+      }
+    },
+    "dot-panel": {
+      "en": {
+        "name": "Dot Panel",
+        "description": "A touchscreen companion panel for ChatGPT dots: project status, decisions awaiting you and a schedule snapshot, all on one screen.",
+        "dotRole": "Uses MCP to let Dot push questions requiring your decision to the panel, then automatically returns to the project status once you answer.",
+        "outcome": "Handle Dot's pending decisions on one panel without searching chat history.",
+        "requirements": [
+          "Cloudflare Workers and D1",
+          "An MCP connection",
+          "A touchscreen or tablet"
+        ],
+        "limits": "Early Beta.",
+        "tags": [
+          "MCP",
+          "Dashboard",
+          "Cloudflare"
+        ]
+      },
+      "ja": {
+        "name": "Dot Panel",
+        "description": "ChatGPT dots 向けのタッチパネル。プロジェクトの状況、判断待ちの質問、予定の概要を一画面で確認できます。",
+        "dotRole": "MCP 経由で Dot が判断の必要な質問をパネルに送り、回答後は自動でプロジェクトの状況表示に戻ります。",
+        "outcome": "チャット履歴を探さず、一つのパネルで Dot の判断待ち事項に対応できます。",
+        "requirements": [
+          "Cloudflare Workers と D1",
+          "MCP 接続",
+          "タッチスクリーンまたはタブレット"
+        ],
+        "limits": "初期 Beta 版。",
+        "tags": [
+          "MCP",
+          "ダッシュボード",
+          "Cloudflare"
+        ]
+      },
+      "ko": {
+        "name": "Dot Panel",
+        "description": "ChatGPT dots용 터치스크린 보조 패널로, 프로젝트 상태와 결정할 질문, 일정 개요를 한 화면에서 확인합니다.",
+        "dotRole": "MCP를 통해 Dot이 사용자의 결정이 필요한 질문을 패널로 보내고, 답변하면 자동으로 프로젝트 상태 화면으로 돌아갑니다.",
+        "outcome": "채팅 기록을 뒤지지 않고 하나의 패널에서 Dot의 결정 대기 항목을 처리합니다.",
+        "requirements": [
+          "Cloudflare Workers와 D1",
+          "MCP 연결",
+          "터치스크린 또는 태블릿"
+        ],
+        "limits": "초기 Beta 버전입니다.",
+        "tags": [
+          "MCP",
+          "대시보드",
+          "Cloudflare"
+        ]
+      }
+    },
+    "omarchy-dot": {
+      "en": {
+        "name": "OpenAI Dot plugin for Omarchy",
+        "description": "An Omarchy desktop plugin that opens your Dot from the status bar with one click.",
+        "dotRole": "Opens the actual Dot interface in a separate browser window, using your existing ChatGPT browser login.",
+        "outcome": "Bring up Dot anytime on your Linux desktop.",
+        "requirements": [
+          "Omarchy desktop",
+          "A browser signed in to ChatGPT",
+          "An account with Dot access"
+        ],
+        "limits": "Development preview.",
+        "tags": [
+          "Desktop plugin",
+          "Linux",
+          "Quick access"
+        ]
+      },
+      "ja": {
+        "name": "Omarchy 用 OpenAI Dot プラグイン",
+        "description": "ステータスバーからワンクリックで Dot を開く Omarchy デスクトップ用プラグイン。",
+        "dotRole": "ブラウザの ChatGPT ログインを引き継ぎ、独立したブラウザウィンドウで実際の Dot 画面を開きます。",
+        "outcome": "Linux デスクトップでいつでも Dot を呼び出せます。",
+        "requirements": [
+          "Omarchy デスクトップ",
+          "ChatGPT にログインしたブラウザ",
+          "Dot を利用できるアカウント"
+        ],
+        "limits": "開発プレビュー版。",
+        "tags": [
+          "デスクトッププラグイン",
+          "Linux",
+          "クイックアクセス"
+        ]
+      },
+      "ko": {
+        "name": "Omarchy용 OpenAI Dot 플러그인",
+        "description": "상태 표시줄에서 한 번의 클릭으로 Dot을 여는 Omarchy 데스크톱 플러그인입니다.",
+        "dotRole": "브라우저의 기존 ChatGPT 로그인을 유지하며 별도 브라우저 창에서 실제 Dot 화면을 엽니다.",
+        "outcome": "Linux 데스크톱에서 언제든 Dot을 불러옵니다.",
+        "requirements": [
+          "Omarchy 데스크톱",
+          "ChatGPT에 로그인한 브라우저",
+          "Dot을 이용할 수 있는 계정"
+        ],
+        "limits": "개발 프리뷰 버전입니다.",
+        "tags": [
+          "데스크톱 플러그인",
+          "Linux",
+          "빠른 접근"
+        ]
+      }
+    },
+    "thinkwee-opendot": {
+      "en": {
+        "name": "OpenDot（thinkwee）",
+        "description": "A personal Agent team running on your computer. Each Agent has its own computer, email address and phone number, with support for any model.",
+        "dotRole": "An open-source implementation inspired by products such as OpenAI Dot. Agents proactively follow things up and come to you when a decision is needed.",
+        "outcome": "Divide everyday tasks among Agents and just give your approval.",
+        "requirements": [
+          "An always-on computer",
+          "An API for any large language model",
+          "A dedicated email address for Agents"
+        ],
+        "limits": "Agents do not make payments for you; they prepare the links and hand them to you.",
+        "tags": [
+          "Independent alternative",
+          "Personal Agent team",
+          "Chinese documentation"
+        ]
+      },
+      "ja": {
+        "name": "OpenDot（thinkwee）",
+        "description": "自分のパソコンで動く個人用 Agent チーム。各 Agent に専用のパソコン、メールアドレス、電話番号があり、任意のモデルに対応します。",
+        "dotRole": "OpenAI Dot などの製品に着想を得たオープンソース実装。Agent が自ら物事を追跡し、判断が必要なときに相談します。",
+        "outcome": "雑務を複数の Agent に分担させ、あなたは承認するだけで済みます。",
+        "requirements": [
+          "常時稼働するパソコン",
+          "任意の大規模言語モデルの API",
+          "Agent 専用のメールアドレス"
+        ],
+        "limits": "Agent は支払いを代行せず、リンクを用意してあなたに渡します。",
+        "tags": [
+          "独立した代替案",
+          "個人用 Agent チーム",
+          "中国語ドキュメント"
+        ]
+      },
+      "ko": {
+        "name": "OpenDot（thinkwee）",
+        "description": "자신의 컴퓨터에서 실행되는 개인 Agent 팀입니다. 각 Agent는 전용 컴퓨터, 이메일 주소, 전화번호를 가지며 어떤 모델이든 사용할 수 있습니다.",
+        "dotRole": "OpenAI Dot 같은 제품에서 영감을 받은 오픈 소스 구현입니다. Agent가 능동적으로 상황을 살피다가 결정이 필요하면 사용자에게 묻습니다.",
+        "outcome": "여러 Agent에게 잡무를 나누어 맡기고 승인만 하면 됩니다.",
+        "requirements": [
+          "항상 켜 두는 컴퓨터",
+          "원하는 대규모 언어 모델의 API",
+          "Agent 전용 이메일 주소"
+        ],
+        "limits": "Agent는 결제를 대신하지 않고 링크를 준비해 사용자에게 전달합니다.",
+        "tags": [
+          "독립 대안",
+          "개인 Agent 팀",
+          "중국어 문서"
+        ]
+      }
+    },
+    "agentforeach": {
+      "en": {
+        "name": "AgentForEach",
+        "description": "An open-source personal Agent backend for building products like Muse, Grok and Dots: one Agent per user.",
+        "dotRole": "Provides the memory, scheduled tasks, tools, approvals and multichannel capabilities behind Dots-like products.",
+        "outcome": "Give every user of your own application an always-on Agent.",
+        "requirements": [
+          "An Azure account",
+          "A development team",
+          "A large language model API"
+        ],
+        "limits": "Currently supports Azure; AWS and Google Cloud are on the roadmap.",
+        "tags": [
+          "Agent backend",
+          "Serverless",
+          "Azure"
+        ]
+      },
+      "ja": {
+        "name": "AgentForEach",
+        "description": "Muse、Grok、Dots のような製品を構築するためのオープンソースの個人用 Agent バックエンド。ユーザーごとに一つの Agent を用意します。",
+        "dotRole": "Dots 型の製品を支える記憶、定期タスク、ツール、承認、複数チャネル対応の機能を提供します。",
+        "outcome": "自分のアプリでも、各ユーザーに常駐 Agent を提供できます。",
+        "requirements": [
+          "Azure アカウント",
+          "開発チーム",
+          "大規模言語モデルの API"
+        ],
+        "limits": "現在は Azure に対応し、AWS と Google Cloud はロードマップに含まれています。",
+        "tags": [
+          "Agent バックエンド",
+          "Serverless",
+          "Azure"
+        ]
+      },
+      "ko": {
+        "name": "AgentForEach",
+        "description": "Muse, Grok, Dots 같은 제품을 만드는 오픈 소스 개인 Agent 백엔드로, 사용자마다 Agent 하나를 제공합니다.",
+        "dotRole": "Dots형 제품의 기반이 되는 기억, 예약 작업, 도구, 승인, 다중 채널 기능을 제공합니다.",
+        "outcome": "자신의 앱에서도 사용자마다 상시 Agent를 제공할 수 있습니다.",
+        "requirements": [
+          "Azure 계정",
+          "개발 팀",
+          "대규모 언어 모델 API"
+        ],
+        "limits": "현재 Azure를 지원하며 AWS와 Google Cloud는 로드맵에 포함되어 있습니다.",
+        "tags": [
+          "Agent 백엔드",
+          "Serverless",
+          "Azure"
+        ]
+      }
+    },
+    "dots-vs-grok-bot": {
+      "en": {
+        "name": "A comparative study of Dots and Grok Bot",
+        "description": "A working paper comparing the design of OpenAI Dots and Grok Bot, two always-on personal Agents.",
+        "dotRole": "Both combine frontier models, cloud machines, connectors and approval gates. They differ in their unit of work: Dots binds a virtual machine to a named Agent.",
+        "outcome": "Understand Dots' design trade-offs and how it differs from similar products.",
+        "requirements": [
+          "English reading"
+        ],
+        "limits": "Working paper; snapshot dated 2026-09-29.",
+        "tags": [
+          "In-depth analysis",
+          "Product comparison",
+          "Paper"
+        ]
+      },
+      "ja": {
+        "name": "Dots と Grok Bot の比較研究",
+        "description": "常駐型の個人用 Agent である OpenAI Dots と Grok Bot の設計を比較するワーキングペーパー。",
+        "dotRole": "両者は最先端モデル、クラウドマシン、コネクター、承認ゲートで構成されます。違いは作業単位で、Dots は名前の付いた Agent に仮想マシンを結び付けます。",
+        "outcome": "Dots の設計上のトレードオフと、類似製品との違いを理解できます。",
+        "requirements": [
+          "英語の読解"
+        ],
+        "limits": "ワーキングペーパー。スナップショットの日付は 2026-09-29。",
+        "tags": [
+          "詳しい解説",
+          "製品比較",
+          "論文"
+        ]
+      },
+      "ko": {
+        "name": "Dots와 Grok Bot 비교 연구",
+        "description": "상시 개인 Agent인 OpenAI Dots와 Grok Bot의 설계를 비교한 워킹 페이퍼입니다.",
+        "dotRole": "두 제품 모두 최첨단 모델, 클라우드 컴퓨터, 커넥터, 승인 관문으로 구성됩니다. 차이는 작업 단위에 있으며, Dots는 이름이 지정된 Agent에 가상 머신을 연결합니다.",
+        "outcome": "Dots의 설계상 절충점과 유사 제품과의 차이를 이해합니다.",
+        "requirements": [
+          "영어 읽기"
+        ],
+        "limits": "워킹 페이퍼이며 스냅샷 날짜는 2026-09-29입니다.",
+        "tags": [
+          "심층 해설",
+          "제품 비교",
+          "논문"
+        ]
+      }
+    },
+    "awesome-dots-connectors": {
+      "en": {
+        "name": "Awesome Dots Connectors",
+        "description": "A connector and Skill directory for OpenAI Dots, listing 150 community connectors with permissions and sources.",
+        "dotRole": "Helps you find connectors and Skills to add to Dot, with connector templates included.",
+        "outcome": "Quickly see which applications Dot can connect to.",
+        "requirements": [
+          "Accounts and permissions required by each connector"
+        ],
+        "limits": "Connector descriptions carry over from the Muse version and need to be checked against the Dots documentation.",
+        "tags": [
+          "Connectors",
+          "Skill",
+          "Directory"
+        ]
+      },
+      "ja": {
+        "name": "Awesome Dots Connectors",
+        "description": "OpenAI Dots 向けのコネクターと Skill のディレクトリ。150 のコミュニティ製コネクターを、権限の説明と出典付きで収録しています。",
+        "dotRole": "Dot に接続できるコネクターや Skill を探せます。コネクターのテンプレートも付属しています。",
+        "outcome": "Dot がどのアプリに接続できるかをすばやく把握できます。",
+        "requirements": [
+          "各コネクターの要件に応じたアカウントと権限"
+        ],
+        "limits": "コネクターの説明は Muse 版を引き継いでいるため、Dots の文書に照らして確認が必要です。",
+        "tags": [
+          "コネクター",
+          "Skill",
+          "ディレクトリ"
+        ]
+      },
+      "ko": {
+        "name": "Awesome Dots Connectors",
+        "description": "OpenAI Dots용 커넥터와 Skill 디렉터리로, 커뮤니티 커넥터 150개의 권한 설명과 출처를 수록합니다.",
+        "dotRole": "Dot에 연결할 커넥터와 Skill을 찾도록 도와주며 커넥터 템플릿도 제공합니다.",
+        "outcome": "Dot이 어떤 앱에 연결할 수 있는지 빠르게 파악합니다.",
+        "requirements": [
+          "각 커넥터의 요구 사항에 맞는 계정과 권한"
+        ],
+        "limits": "커넥터 설명은 Muse 버전의 내용을 사용하므로 Dots 문서에 맞춰 확인해야 합니다.",
+        "tags": [
+          "커넥터",
+          "Skill",
+          "디렉터리"
+        ]
+      }
+    },
+    "kotodama": {
+      "en": {
+        "name": "Kotodama",
+        "description": "A local-first preview of a \"company operating system\" that turns conversations into auditable intent, work, outputs and lessons.",
+        "dotRole": "Uses OpenAI Dots as the everyday entry point, with a Dots plugin and a computer bridge for Discord requests and action approvals.",
+        "outcome": "The team makes requests in Discord, and Dot takes over while keeping approval records.",
+        "requirements": [
+          "An existing Dot",
+          "A local computer bridge",
+          "Discord"
+        ],
+        "limits": "Unfinished public preview.",
+        "tags": [
+          "Team collaboration",
+          "Discord",
+          "Japanese documentation"
+        ]
+      },
+      "ja": {
+        "name": "Kotodama",
+        "description": "会話を監査可能な意図、作業、成果、学びに変える、ローカルファーストの「会社 OS」プレビュー。",
+        "dotRole": "OpenAI Dots を日常の入口とし、Dots プラグインを同梱。パソコン経由で Discord の依頼と操作の承認を橋渡しします。",
+        "outcome": "チームが Discord で依頼し、Dot が引き継いで承認記録を残します。",
+        "requirements": [
+          "既存の Dot",
+          "ローカルのコンピューターブリッジ",
+          "Discord"
+        ],
+        "limits": "未完成の公開プレビュー版。",
+        "tags": [
+          "チーム共同作業",
+          "Discord",
+          "日本語ドキュメント"
+        ]
+      },
+      "ko": {
+        "name": "Kotodama",
+        "description": "대화를 감사 가능한 의도, 작업, 성과, 경험으로 바꾸는 로컬 우선의 '회사 운영체제' 프리뷰입니다.",
+        "dotRole": "OpenAI Dots를 일상적인 진입점으로 사용하며, Dots 플러그인과 컴퓨터 브리지로 Discord 요청 및 동작 승인을 연결합니다.",
+        "outcome": "팀이 Discord에서 요청하면 Dot이 맡아서 처리하고 승인 기록을 남깁니다.",
+        "requirements": [
+          "기존 Dot",
+          "로컬 컴퓨터 브리지",
+          "Discord"
+        ],
+        "limits": "미완성 공개 프리뷰 버전입니다.",
+        "tags": [
+          "팀 협업",
+          "Discord",
+          "일본어 문서"
+        ]
+      }
+    },
+    "codex-docs-mirror": {
+      "en": {
+        "name": "codex-docs documentation mirror",
+        "description": "Regularly syncs official OpenAI documentation and keeps its change history, including the complete Dots documentation.",
+        "dotRole": "Tracks every change to the official Dots documentation through Git history.",
+        "outcome": "See what changed in the Dots documentation as soon as it is updated.",
+        "requirements": [
+          "GitHub access"
+        ],
+        "limits": "A community-maintained mirror; official documentation takes precedence.",
+        "tags": [
+          "Official documentation",
+          "Change tracking",
+          "Mirror"
+        ]
+      },
+      "ja": {
+        "name": "codex-docs ドキュメントミラー",
+        "description": "OpenAI の公式文書を定期的に同期し、変更履歴を保存します。Dots の文書をすべて含みます。",
+        "dotRole": "Git の履歴で Dots 公式文書の変更を一つずつ追跡します。",
+        "outcome": "Dots 文書の更新内容をいち早く確認できます。",
+        "requirements": [
+          "GitHub へのアクセス"
+        ],
+        "limits": "コミュニティが管理するミラーです。公式文書を基準とします。",
+        "tags": [
+          "公式文書",
+          "変更追跡",
+          "ミラー"
+        ]
+      },
+      "ko": {
+        "name": "codex-docs 문서 미러",
+        "description": "OpenAI 공식 문서를 정기적으로 동기화하고 변경 이력을 보존하며, Dots 문서 전체를 포함합니다.",
+        "dotRole": "Git 이력으로 Dots 공식 문서의 모든 변경을 추적합니다.",
+        "outcome": "Dots 문서에서 무엇이 바뀌었는지 빠르게 확인합니다.",
+        "requirements": [
+          "GitHub 접근"
+        ],
+        "limits": "커뮤니티가 관리하는 미러이며 공식 문서를 기준으로 합니다.",
+        "tags": [
+          "공식 문서",
+          "변경 추적",
+          "미러"
+        ]
+      }
+    },
+    "codex-docs-skill": {
+      "en": {
+        "name": "Codex Docs Skill",
+        "description": "Packages OpenAI documentation as a local Agent Skill, automatically syncing every three hours and including Dots-related pages.",
+        "dotRole": "Lets your Agent consult the latest Dots documentation anytime.",
+        "outcome": "Your Agent can cite official guidance directly when writing Dot-related tasks.",
+        "requirements": [
+          "An Agent that supports Skills",
+          "npx"
+        ],
+        "limits": "The documentation content belongs to OpenAI.",
+        "tags": [
+          "Skill",
+          "Official documentation",
+          "Automatic sync"
+        ]
+      },
+      "ja": {
+        "name": "Codex Docs Skill",
+        "description": "OpenAI の文書をローカルの Agent Skill としてまとめ、3 時間ごとに自動同期します。Dots 関連のページも含みます。",
+        "dotRole": "Agent がいつでも最新の Dots 文書を参照できるようにします。",
+        "outcome": "Dot 関連のタスクを書く際に、Agent が公式の説明を直接引用できます。",
+        "requirements": [
+          "Skills に対応する Agent",
+          "npx"
+        ],
+        "limits": "文書の内容は OpenAI に帰属します。",
+        "tags": [
+          "Skill",
+          "公式文書",
+          "自動同期"
+        ]
+      },
+      "ko": {
+        "name": "Codex Docs Skill",
+        "description": "OpenAI 문서를 로컬 Agent Skill로 묶어 3시간마다 자동 동기화하며 Dots 관련 페이지를 포함합니다.",
+        "dotRole": "Agent가 언제든 최신 Dots 문서를 참고할 수 있게 합니다.",
+        "outcome": "Dot 관련 작업을 작성할 때 Agent가 공식 설명을 직접 인용할 수 있습니다.",
+        "requirements": [
+          "Skills를 지원하는 Agent",
+          "npx"
+        ],
+        "limits": "문서 내용은 OpenAI에 귀속됩니다.",
+        "tags": [
+          "Skill",
+          "공식 문서",
+          "자동 동기화"
+        ]
+      }
+    },
+    "tunnel-client": {
+      "en": {
+        "name": "Secure MCP Tunnel client",
+        "description": "OpenAI's official Secure MCP Tunnel client connects private or local MCP services to products such as ChatGPT and Codex without exposing them to the public internet.",
+        "dotRole": "Tools such as dotlink use this tunnel to make local capabilities available to Dot.",
+        "outcome": "Let cloud products access your MCP service without opening firewall ports.",
+        "requirements": [
+          "An MCP service",
+          "OpenAI tunnel configuration",
+          "A machine that can run continuously"
+        ],
+        "limits": "The official documentation lists ChatGPT, Codex, Responses API and AgentKit.",
+        "tags": [
+          "MCP",
+          "Official repository",
+          "Tunnel"
+        ]
+      },
+      "ja": {
+        "name": "Secure MCP Tunnel クライアント",
+        "description": "OpenAI 公式の Secure MCP Tunnel クライアント。非公開またはローカルの MCP サービスを、インターネットに公開せず ChatGPT や Codex などの製品に接続します。",
+        "dotRole": "dotlink などのツールが、このトンネルを使ってローカルの機能を Dot に公開します。",
+        "outcome": "ファイアウォールのポートを開かずに、クラウド製品から MCP サービスにアクセスできます。",
+        "requirements": [
+          "MCP サービス",
+          "OpenAI トンネルの設定",
+          "常時稼働できるマシン"
+        ],
+        "limits": "公式文書に記載されているのは ChatGPT、Codex、Responses API、AgentKit です。",
+        "tags": [
+          "MCP",
+          "公式リポジトリ",
+          "トンネル"
+        ]
+      },
+      "ko": {
+        "name": "Secure MCP Tunnel 클라이언트",
+        "description": "비공개 또는 로컬 MCP 서비스를 공개 인터넷에 노출하지 않고 ChatGPT, Codex 등의 제품에 연결하는 OpenAI 공식 Secure MCP Tunnel 클라이언트입니다.",
+        "dotRole": "dotlink 같은 도구가 이 터널을 이용해 로컬 기능을 Dot에 개방합니다.",
+        "outcome": "방화벽 포트를 열지 않아도 클라우드 제품이 MCP 서비스에 접근할 수 있습니다.",
+        "requirements": [
+          "MCP 서비스",
+          "OpenAI 터널 설정",
+          "상시 실행 가능한 컴퓨터"
+        ],
+        "limits": "공식 문서에는 ChatGPT, Codex, Responses API, AgentKit이 명시되어 있습니다.",
+        "tags": [
+          "MCP",
+          "공식 저장소",
+          "터널"
+        ]
+      }
+    },
+    "openbot": {
+      "en": {
+        "name": "OpenBot",
+        "description": "A small team of AI colleagues running on your Mac: they research, write and handle tasks, asking you before important actions.",
+        "dotRole": "A local alternative that compares itself with cloud Agents such as OpenAI dots, using ChatGPT, Claude and other accounts you already pay for.",
+        "outcome": "Have an Agent team on your own Mac without another subscription fee.",
+        "requirements": [
+          "A Mac",
+          "Existing AI subscriptions or a model API"
+        ],
+        "limits": "Supports macOS only.",
+        "tags": [
+          "Independent alternative",
+          "macOS",
+          "Multi-Agent"
+        ]
+      },
+      "ja": {
+        "name": "OpenBot",
+        "description": "Mac 上で動く AI の同僚チーム。調査、執筆、用事をこなし、重要な操作の前にはあなたに確認します。",
+        "dotRole": "OpenAI dots などのクラウド Agent を比較対象とするローカルの代替案。すでに契約している ChatGPT や Claude などのアカウントを使います。",
+        "outcome": "追加のサブスクリプション料金なしで、自分の Mac に Agent チームを持てます。",
+        "requirements": [
+          "Mac",
+          "既存の AI サブスクリプションまたはモデル API"
+        ],
+        "limits": "macOS のみに対応。",
+        "tags": [
+          "独立した代替案",
+          "macOS",
+          "複数 Agent"
+        ]
+      },
+      "ko": {
+        "name": "OpenBot",
+        "description": "Mac에서 실행되는 소규모 AI 동료 팀으로, 조사와 글쓰기, 각종 일을 처리하고 중요한 동작 전에는 사용자에게 묻습니다.",
+        "dotRole": "OpenAI dots 같은 클라우드 Agent를 비교 대상으로 삼는 로컬 대안으로, 이미 유료로 이용하는 ChatGPT, Claude 등의 계정을 사용합니다.",
+        "outcome": "별도 구독료 없이 자신의 Mac에서 Agent 팀을 운영합니다.",
+        "requirements": [
+          "Mac",
+          "기존 AI 구독 또는 모델 API"
+        ],
+        "limits": "macOS만 지원합니다.",
+        "tags": [
+          "독립 대안",
+          "macOS",
+          "다중 Agent"
+        ]
+      }
+    },
+    "composio-open-dot": {
+      "en": {
+        "name": "Open Dot（Composio）",
+        "description": "An open-source personal Agent app for Mac. Each Agent is called a \"dot\" and has its own computer, browser, memory and rules.",
+        "dotRole": "Uses OpenAI models and Composio app connections to recreate the dot workflow: assign tasks by chat or voice and get notified when they are done.",
+        "outcome": "Keep a few dots on your own computer that can use a browser and remember things.",
+        "requirements": [
+          "A Mac",
+          "OpenAI API",
+          "A Composio account"
+        ],
+        "limits": "The repository does not specify a license.",
+        "tags": [
+          "Independent alternative",
+          "Voice",
+          "Composio"
+        ]
+      },
+      "ja": {
+        "name": "Open Dot（Composio）",
+        "description": "Mac 向けのオープンソースの個人用 Agent アプリ。各 Agent は「dot」と呼ばれ、専用のパソコン、ブラウザ、記憶、ルールを持ちます。",
+        "dotRole": "OpenAI モデルと Composio のアプリ接続で dot の働き方を再現します。チャットや音声で依頼し、完了したら通知を受け取ります。",
+        "outcome": "自分のパソコンで、ブラウザを使い、物事を覚えられる dot をいくつか育てられます。",
+        "requirements": [
+          "Mac",
+          "OpenAI API",
+          "Composio アカウント"
+        ],
+        "limits": "リポジトリにライセンスの記載がありません。",
+        "tags": [
+          "独立した代替案",
+          "音声",
+          "Composio"
+        ]
+      },
+      "ko": {
+        "name": "Open Dot（Composio）",
+        "description": "Mac용 오픈 소스 개인 Agent 앱입니다. 각 Agent는 'dot'이라 불리며 전용 컴퓨터, 브라우저, 기억, 규칙을 갖습니다.",
+        "dotRole": "OpenAI 모델과 Composio 앱 연결로 dot의 작업 방식을 재현합니다. 채팅이나 음성으로 일을 맡기면 완료 후 알림을 보냅니다.",
+        "outcome": "자신의 컴퓨터에서 브라우저를 사용하고 기억할 수 있는 dot 여러 개를 키웁니다.",
+        "requirements": [
+          "Mac",
+          "OpenAI API",
+          "Composio 계정"
+        ],
+        "limits": "저장소에 라이선스가 명시되어 있지 않습니다.",
+        "tags": [
+          "독립 대안",
+          "음성",
+          "Composio"
+        ]
+      }
+    },
+    "dots-runtime": {
+      "en": {
+        "name": "dots runtime（dots-oai）",
+        "description": "An always-on, goal-driven Python Agent runtime: give it a responsibility and it keeps working on it.",
+        "dotRole": "Organizes long-term goals across planning, execution and supervision roles, distinguishing autonomous actions from those needing approval.",
+        "outcome": "Run an Agent in your own environment that continuously advances a goal.",
+        "requirements": [
+          "A Python environment",
+          "A large language model API"
+        ],
+        "limits": "An independent project with no affiliation to OpenAI.",
+        "tags": [
+          "Independent alternative",
+          "Agent runtime",
+          "Python"
+        ]
+      },
+      "ja": {
+        "name": "dots runtime（dots-oai）",
+        "description": "常駐型で目標駆動の Python Agent ランタイム。責任を一つ任せると、継続して取り組みます。",
+        "dotRole": "計画、実行、監督の三つの役割で長期目標を進め、自律実行できる操作と承認が必要な操作を区別します。",
+        "outcome": "目標を継続的に進める Agent を自分の環境で動かせます。",
+        "requirements": [
+          "Python 環境",
+          "大規模言語モデルの API"
+        ],
+        "limits": "OpenAI に所属しない独立したプロジェクト。",
+        "tags": [
+          "独立した代替案",
+          "Agent ランタイム",
+          "Python"
+        ]
+      },
+      "ko": {
+        "name": "dots runtime（dots-oai）",
+        "description": "상시 실행되는 목표 중심 Python Agent 런타임으로, 한 가지 책임을 맡기면 계속 수행합니다.",
+        "dotRole": "계획, 실행, 감독의 세 역할로 장기 목표를 추진하며 자율 실행 가능한 동작과 승인이 필요한 동작을 구분합니다.",
+        "outcome": "자신의 환경에서 목표를 지속적으로 추진하는 Agent를 실행합니다.",
+        "requirements": [
+          "Python 환경",
+          "대규모 언어 모델 API"
+        ],
+        "limits": "OpenAI와 소속 관계가 없는 독립 프로젝트입니다.",
+        "tags": [
+          "독립 대안",
+          "Agent 런타임",
+          "Python"
+        ]
+      }
+    },
+    "insurhot": {
+      "en": {
+        "name": "InsurHOT insurance industry intelligence",
+        "description": "A public information and trend intelligence platform for the insurance industry, with plans for Dot to collect and interpret industry information.",
+        "dotRole": "Dot collects and interprets public information, passing it to the project's own receiver for archiving and display.",
+        "outcome": "A Chinese-language industry use case: have Dot continuously track changes in an industry.",
+        "requirements": [
+          "An account with Dot access",
+          "The project's receiver service"
+        ],
+        "limits": "Dot integration is in the planning and receiver development stage.",
+        "tags": [
+          "Industry intelligence",
+          "Chinese",
+          "Ongoing follow-up"
+        ]
+      },
+      "ja": {
+        "name": "InsurHOT 保険業界インテリジェンス",
+        "description": "保険業界向けの公開情報・トレンド分析プラットフォーム。Dot による業界情報の収集と解説を計画しています。",
+        "dotRole": "Dot が公開情報を収集・解説し、プロジェクト独自の受信サービスに渡して保存・表示します。",
+        "outcome": "Dot に業界の変化を継続的に追わせる、中国語の業界活用事例。",
+        "requirements": [
+          "Dot を利用できるアカウント",
+          "プロジェクトの受信サービス"
+        ],
+        "limits": "Dot の接続は計画と受信サービスの開発段階です。",
+        "tags": [
+          "業界インテリジェンス",
+          "中国語",
+          "継続フォロー"
+        ]
+      },
+      "ko": {
+        "name": "InsurHOT 보험 업계 인텔리전스",
+        "description": "보험 업계의 공개 정보와 동향을 다루는 인텔리전스 플랫폼으로, Dot의 업계 정보 수집과 해석을 계획하고 있습니다.",
+        "dotRole": "Dot이 공개 정보를 수집·해석하여 프로젝트 자체 수신 서비스에 전달하면 보관하고 표시합니다.",
+        "outcome": "Dot이 한 업계의 변화를 지속적으로 살피게 하는 중국어 산업 활용 사례입니다.",
+        "requirements": [
+          "Dot을 이용할 수 있는 계정",
+          "프로젝트의 수신 서비스"
+        ],
+        "limits": "Dot 연동은 계획 및 수신 서비스 개발 단계입니다.",
+        "tags": [
+          "업계 인텔리전스",
+          "중국어",
+          "지속 관리"
+        ]
+      }
+    },
+    "dot-os": {
+      "en": {
+        "name": "Dot OS",
+        "description": "A multi-instance \"operating system\" envisioned around OpenAI Dots: eight Dot Agents work in parallel and merge their changes into one desktop world.",
+        "dotRole": "Uses eight Dot nodes with different roles to demonstrate parallel multi-Agent work and conflict merging.",
+        "outcome": "A creative prototype of multiple Dots working together.",
+        "requirements": [
+          "Set up the runtime environment following the repository instructions"
+        ],
+        "limits": "Concept prototype.",
+        "tags": [
+          "Creative prototype",
+          "Multi-Agent",
+          "Desktop"
+        ]
+      },
+      "ja": {
+        "name": "Dot OS",
+        "description": "OpenAI Dots を軸に構想した複数インスタンスの「OS」。8 つの Dot Agent が並行して働き、一つのデスクトップ世界に変更を統合します。",
+        "dotRole": "役割の異なる 8 つの Dot ノードで、複数 Agent の並行作業と競合の統合を示します。",
+        "outcome": "複数の Dot の連携を描く創造的なプロトタイプ。",
+        "requirements": [
+          "リポジトリの説明に従って実行環境を構築"
+        ],
+        "limits": "コンセプトプロトタイプ。",
+        "tags": [
+          "創造的なプロトタイプ",
+          "複数 Agent",
+          "デスクトップ"
+        ]
+      },
+      "ko": {
+        "name": "Dot OS",
+        "description": "OpenAI Dots를 중심으로 구상한 다중 인스턴스 '운영체제'로, Dot Agent 8개가 병렬로 작업하며 변경 사항을 하나의 데스크톱 세계에 병합합니다.",
+        "dotRole": "역할이 다른 Dot 노드 8개로 다중 Agent의 병렬 작업과 충돌 병합을 보여줍니다.",
+        "outcome": "여러 Dot의 협업을 다루는 창의적 프로토타입입니다.",
+        "requirements": [
+          "저장소 설명에 따라 실행 환경 구성"
+        ],
+        "limits": "개념 프로토타입입니다.",
+        "tags": [
+          "창의적 프로토타입",
+          "다중 Agent",
+          "데스크톱"
+        ]
+      }
+    },
+    "superdotats": {
+      "en": {
+        "name": "superDOTats（Open Dots + WhatsApp）",
+        "description": "A fork of Open Dots adding WhatsApp access, over 80 ready-made Dot templates, an admin dashboard and multi-user login.",
+        "dotRole": "Builds on an open-source alternative to connect each Agent to your own WhatsApp number.",
+        "outcome": "Chat and assign tasks to your self-hosted Dot through WhatsApp.",
+        "requirements": [
+          "A self-hosted environment",
+          "A WhatsApp number"
+        ],
+        "limits": "A fork of Open Dots.",
+        "tags": [
+          "Independent alternative",
+          "WhatsApp",
+          "Templates"
+        ]
+      },
+      "ja": {
+        "name": "superDOTats（Open Dots + WhatsApp）",
+        "description": "Open Dots のフォーク。WhatsApp 接続、80 以上の既製 Dot テンプレート、管理画面、複数ユーザーのログインを追加しています。",
+        "dotRole": "オープンソースの代替案を基に、各 Agent を自分の WhatsApp 番号に接続します。",
+        "outcome": "自分で構築した Dot と WhatsApp で会話し、タスクを依頼できます。",
+        "requirements": [
+          "セルフホスト環境",
+          "WhatsApp の番号"
+        ],
+        "limits": "Open Dots のフォーク。",
+        "tags": [
+          "独立した代替案",
+          "WhatsApp",
+          "テンプレート"
+        ]
+      },
+      "ko": {
+        "name": "superDOTats（Open Dots + WhatsApp）",
+        "description": "Open Dots의 포크로, WhatsApp 연결, 80개 이상의 완성된 Dot 템플릿, 관리 화면, 다중 사용자 로그인을 추가합니다.",
+        "dotRole": "오픈 소스 대안을 기반으로 각 Agent를 자신의 WhatsApp 번호에 연결합니다.",
+        "outcome": "WhatsApp으로 직접 구축한 Dot과 대화하고 작업을 맡깁니다.",
+        "requirements": [
+          "셀프 호스팅 환경",
+          "WhatsApp 번호"
+        ],
+        "limits": "Open Dots의 포크입니다.",
+        "tags": [
+          "독립 대안",
+          "WhatsApp",
+          "템플릿"
+        ]
+      }
+    },
+    "dots-screensaver": {
+      "en": {
+        "name": "Dots screensaver",
+        "description": "A macOS screensaver inspired by the DevDay dots visuals, with flat little faces drifting around and an outlined digital clock.",
+        "dotRole": "A fan creation that turns the dots visual language into a desktop screensaver.",
+        "outcome": "Give your Mac a dots-style screensaver.",
+        "requirements": [
+          "macOS 13 or later"
+        ],
+        "limits": "Early development preview.",
+        "tags": [
+          "Fan creation",
+          "Screensaver",
+          "macOS"
+        ]
+      },
+      "ja": {
+        "name": "Dots スクリーンセーバー",
+        "description": "DevDay の dots のビジュアルに着想を得た macOS スクリーンセーバー。平面的な小さな顔が漂い、輪郭線のデジタル時計も表示されます。",
+        "dotRole": "dots のビジュアル表現をデスクトップのスクリーンセーバーにしたファン作品。",
+        "outcome": "Mac に dots 風のスクリーンセーバーを設定できます。",
+        "requirements": [
+          "macOS 13 以降"
+        ],
+        "limits": "初期開発プレビュー。",
+        "tags": [
+          "ファン作品",
+          "スクリーンセーバー",
+          "macOS"
+        ]
+      },
+      "ko": {
+        "name": "Dots 화면 보호기",
+        "description": "DevDay dots의 시각적 디자인에서 영감을 받은 macOS 화면 보호기로, 납작한 작은 얼굴들이 떠다니고 윤곽선 디지털 시계가 표시됩니다.",
+        "dotRole": "dots의 시각적 표현을 데스크톱 화면 보호기로 만든 팬 작품입니다.",
+        "outcome": "Mac에 dots 스타일의 화면 보호기를 적용합니다.",
+        "requirements": [
+          "macOS 13 이상"
+        ],
+        "limits": "초기 개발 프리뷰입니다.",
+        "tags": [
+          "팬 작품",
+          "화면 보호기",
+          "macOS"
+        ]
+      }
+    },
+    "feder-dots": {
+      "en": {
+        "name": "dots（feder-cr）",
+        "description": "An open-source web version of dots: an AI Agent with its own browser that is less likely to be blocked by websites, launched with one command.",
+        "dotRole": "Combines a model and browser into a swappable open-source Agent; switching models takes just one parameter.",
+        "outcome": "Open a local chat and live browser, and let the Agent handle tasks online for you.",
+        "requirements": [
+          "uv",
+          "An OpenRouter API Key"
+        ],
+        "limits": "Runs locally, with models accessed through OpenRouter.",
+        "tags": [
+          "Independent alternative",
+          "Browser Agent",
+          "Python"
+        ]
+      },
+      "ja": {
+        "name": "dots（feder-cr）",
+        "description": "オープンソースのウェブ版 dots。専用ブラウザを備え、サイトにブロックされにくい AI Agent を一行のコマンドで起動できます。",
+        "dotRole": "「モデル + ブラウザ」を差し替え可能なオープンソース Agent にします。パラメーターを一つ変えるだけでモデルを切り替えられます。",
+        "outcome": "ローカルでチャットとリアルタイムのブラウザを開き、Agent にオンラインの用事を任せられます。",
+        "requirements": [
+          "uv",
+          "OpenRouter API Key"
+        ],
+        "limits": "ローカルで実行し、モデルは OpenRouter 経由で呼び出します。",
+        "tags": [
+          "独立した代替案",
+          "ブラウザ Agent",
+          "Python"
+        ]
+      },
+      "ko": {
+        "name": "dots（feder-cr）",
+        "description": "오픈 소스 웹 버전 dots로, 전용 브라우저를 갖추고 웹사이트에 차단될 가능성이 낮은 AI Agent를 한 줄의 명령으로 실행합니다.",
+        "dotRole": "'모델 + 브라우저'를 교체 가능한 오픈 소스 Agent로 구성하며, 매개변수 하나로 모델을 바꿉니다.",
+        "outcome": "로컬에서 채팅과 실시간 브라우저를 열고 Agent에게 온라인 업무를 맡깁니다.",
+        "requirements": [
+          "uv",
+          "OpenRouter API Key"
+        ],
+        "limits": "로컬에서 실행하며 모델은 OpenRouter를 통해 호출합니다.",
+        "tags": [
+          "독립 대안",
+          "브라우저 Agent",
+          "Python"
+        ]
+      }
+    },
+    "feder-awesome-dots": {
+      "en": {
+        "name": "Awesome Dots: the open-source side",
+        "description": "The open-source side of dots: Agents you can run yourself and the components that make up a dot.",
+        "dotRole": "Organizes open-source options by component, including models, browsers, memory and tools, to show how a dot is built.",
+        "outcome": "Find the open-source components needed to build your own dot.",
+        "requirements": [
+          "GitHub access"
+        ],
+        "limits": "Focuses on open-source and self-hosted options.",
+        "tags": [
+          "Resource list",
+          "Open source",
+          "Self-hosted"
+        ]
+      },
+      "ja": {
+        "name": "Awesome Dots：オープンソース編",
+        "description": "dots のオープンソースの側面を紹介。自分で動かせる Agent と、dot を構成する各部品をまとめています。",
+        "dotRole": "モデル、ブラウザ、記憶、ツールなどの部品別にオープンソースの選択肢を整理し、dot の組み立て方を理解できるようにします。",
+        "outcome": "自分で dot を構築するためのオープンソース部品が見つかります。",
+        "requirements": [
+          "GitHub へのアクセス"
+        ],
+        "limits": "オープンソースとセルフホストの選択肢に焦点を当てています。",
+        "tags": [
+          "リソース一覧",
+          "オープンソース",
+          "セルフホスト"
+        ]
+      },
+      "ko": {
+        "name": "Awesome Dots: 오픈 소스 편",
+        "description": "직접 실행할 수 있는 Agent와 dot을 구성하는 각 요소를 소개하는 dots의 오픈 소스 편입니다.",
+        "dotRole": "모델, 브라우저, 기억, 도구 등 구성 요소별로 오픈 소스 방안을 정리하여 dot의 구축 방식을 이해하도록 돕습니다.",
+        "outcome": "직접 dot을 만드는 데 필요한 오픈 소스 구성 요소를 찾습니다.",
+        "requirements": [
+          "GitHub 접근"
+        ],
+        "limits": "오픈 소스 및 셀프 호스팅 방안에 집중합니다.",
+        "tags": [
+          "리소스 목록",
+          "오픈 소스",
+          "셀프 호스팅"
+        ]
+      }
+    },
+    "grokbot-vs-dots": {
+      "en": {
+        "name": "Grokbot vs ChatGPT Dots animation",
+        "description": "A roughly 43-second paper-cut-style explainer animation made with Remotion, comparing Grok Bot and ChatGPT Dots.",
+        "dotRole": "Explains how always-on Agents work through animation, serving as a reference for video creation.",
+        "outcome": "Get explainer video source code you can adapt.",
+        "requirements": [
+          "Node.js",
+          "Remotion"
+        ],
+        "limits": "A comparison from the creator's perspective.",
+        "tags": [
+          "Video",
+          "Remotion",
+          "Product comparison"
+        ]
+      },
+      "ja": {
+        "name": "Grokbot vs ChatGPT Dots アニメーション",
+        "description": "Remotion で制作した約 43 秒の切り絵風解説アニメーション。Grok Bot と ChatGPT Dots を比較します。",
+        "dotRole": "常駐 Agent の働き方をアニメーションで解説し、動画制作の参考にできます。",
+        "outcome": "改編できる解説動画のソースコードを入手できます。",
+        "requirements": [
+          "Node.js",
+          "Remotion"
+        ],
+        "limits": "制作者の視点による比較コンテンツ。",
+        "tags": [
+          "動画",
+          "Remotion",
+          "製品比較"
+        ]
+      },
+      "ko": {
+        "name": "Grokbot vs ChatGPT Dots 애니메이션",
+        "description": "Remotion으로 만든 약 43초 분량의 종이 오리기 스타일 해설 애니메이션으로, Grok Bot과 ChatGPT Dots를 비교합니다.",
+        "dotRole": "상시 Agent의 작업 방식을 애니메이션으로 설명하여 영상 제작에 참고할 수 있습니다.",
+        "outcome": "각색 가능한 해설 영상 소스 코드를 얻습니다.",
+        "requirements": [
+          "Node.js",
+          "Remotion"
+        ],
+        "limits": "제작자의 관점에서 비교한 콘텐츠입니다.",
+        "tags": [
+          "영상",
+          "Remotion",
+          "제품 비교"
+        ]
+      }
+    },
+    "guide-get-started": {
+      "en": {
+        "name": "Get started with your dot",
+        "description": "OpenAI's official introduction: create a Dot, connect tools and turn one-off requests into ongoing responsibilities.",
+        "dotRole": "Guides you through creating your Dot and setting sources, approvals and a reporting cadence for its first ongoing task.",
+        "outcome": "Complete the initial setup and hand off your first ongoing task.",
+        "requirements": [
+          "English reading",
+          "An account with Dot access"
+        ],
+        "limits": "Official documentation.",
+        "tags": [
+          "Official introduction",
+          "Task delegation",
+          "Permission settings"
+        ]
+      },
+      "ja": {
+        "name": "Get started with your dot",
+        "description": "OpenAI 公式の入門ガイド。Dot を作成し、ツールを接続して、単発の依頼を継続的に担当する仕事へ変えます。",
+        "dotRole": "手順に沿って Dot を作成し、最初の継続タスクに必要な情報源、承認方法、報告頻度を設定します。",
+        "outcome": "初回設定を終え、最初の継続タスクを任せられます。",
+        "requirements": [
+          "英語の読解",
+          "Dot を利用できるアカウント"
+        ],
+        "limits": "公式文書。",
+        "tags": [
+          "公式入門",
+          "タスクの依頼",
+          "権限設定"
+        ]
+      },
+      "ko": {
+        "name": "Get started with your dot",
+        "description": "Dot을 만들고 도구를 연결하여 일회성 요청을 지속적으로 책임지는 업무로 바꾸는 OpenAI 공식 입문 가이드입니다.",
+        "dotRole": "단계별로 Dot을 만들고 첫 지속 작업의 출처, 승인 방식, 보고 주기를 설정합니다.",
+        "outcome": "초기 설정을 마치고 첫 지속 작업을 맡깁니다.",
+        "requirements": [
+          "영어 읽기",
+          "Dot을 이용할 수 있는 계정"
+        ],
+        "limits": "공식 문서입니다.",
+        "tags": [
+          "공식 입문",
+          "작업 위임",
+          "권한 설정"
+        ]
+      }
+    },
+    "guide-tasks-memory": {
+      "en": {
+        "name": "Tasks and memory",
+        "description": "Official OpenAI documentation on ongoing tasks, scheduled and event triggers, delegated work, and context and memory across channels.",
+        "dotRole": "Explains how to write an effective ongoing task, covering sources, time zones, notification conditions and delivery destinations.",
+        "outcome": "Learn to schedule tasks and check delegated work.",
+        "requirements": [
+          "English reading"
+        ],
+        "limits": "Official documentation.",
+        "tags": [
+          "Scheduled tasks",
+          "Event triggers",
+          "Context and memory"
+        ]
+      },
+      "ja": {
+        "name": "Tasks and memory",
+        "description": "継続タスク、時刻・イベントによる起動、作業の委任、チャネルをまたぐ文脈と記憶についての OpenAI 公式文書。",
+        "dotRole": "情報源、タイムゾーン、通知条件、成果物の届け先を含め、継続タスクの書き方を説明します。",
+        "outcome": "定期タスクの設定と、委任した作業の確認方法を学べます。",
+        "requirements": [
+          "英語の読解"
+        ],
+        "limits": "公式文書。",
+        "tags": [
+          "定期タスク",
+          "イベント起動",
+          "文脈と記憶"
+        ]
+      },
+      "ko": {
+        "name": "Tasks and memory",
+        "description": "지속 작업, 시간 및 이벤트 기반 실행, 작업 위임, 채널 간 맥락과 기억을 설명하는 OpenAI 공식 문서입니다.",
+        "dotRole": "출처, 시간대, 알림 조건, 결과 전달 위치를 포함하여 지속 작업을 잘 작성하는 방법을 설명합니다.",
+        "outcome": "작업을 예약하고 위임한 업무를 확인하는 방법을 배웁니다.",
+        "requirements": [
+          "영어 읽기"
+        ],
+        "limits": "공식 문서입니다.",
+        "tags": [
+          "예약 작업",
+          "이벤트 기반 실행",
+          "맥락과 기억"
+        ]
+      }
+    },
+    "guide-controls": {
+      "en": {
+        "name": "Control your dot",
+        "description": "Official OpenAI documentation on activity records, custom rules, app permissions, and stopping and deleting a Dot.",
+        "dotRole": "Helps you choose approvals for different actions and separately stop main tasks, delegated tasks and future scheduled tasks.",
+        "outcome": "Set clear action boundaries for Dot before connecting real accounts.",
+        "requirements": [
+          "English reading"
+        ],
+        "limits": "Official documentation.",
+        "tags": [
+          "Permission controls",
+          "Activity records",
+          "Stopping tasks"
+        ]
+      },
+      "ja": {
+        "name": "Control your dot",
+        "description": "活動履歴の確認、カスタムルール、アプリの権限、Dot の停止と削除についての OpenAI 公式文書。",
+        "dotRole": "操作ごとの承認方法を選び、主タスク、委任タスク、今後の定期タスクをそれぞれ停止する方法を案内します。",
+        "outcome": "実際のアカウントを接続する前に、Dot の行動範囲を明確に設定できます。",
+        "requirements": [
+          "英語の読解"
+        ],
+        "limits": "公式文書。",
+        "tags": [
+          "権限制御",
+          "活動履歴",
+          "タスクの停止"
+        ]
+      },
+      "ko": {
+        "name": "Control your dot",
+        "description": "활동 기록 확인, 사용자 지정 규칙, 앱 권한, Dot 중지와 삭제를 다루는 OpenAI 공식 문서입니다.",
+        "dotRole": "동작별 승인 방식을 선택하고 주 작업, 위임 작업, 향후 예약 작업을 각각 중지하는 방법을 안내합니다.",
+        "outcome": "실제 계정을 연결하기 전에 Dot의 행동 범위를 명확히 설정합니다.",
+        "requirements": [
+          "영어 읽기"
+        ],
+        "limits": "공식 문서입니다.",
+        "tags": [
+          "권한 제어",
+          "활동 기록",
+          "작업 중지"
+        ]
+      }
+    },
+    "guide-flavio": {
+      "en": {
+        "name": "A deep dive into OpenAI dots",
+        "description": "An in-depth tutorial centered on a user feedback workflow, covering ongoing responsibilities, schedules and events, Codex collaboration and safety controls.",
+        "dotRole": "Demonstrates how to turn feedback from Slack and email into ongoing tasks for Dot, and when to connect a local machine or hand work to Codex.",
+        "outcome": "Develop a complete approach to a feedback follow-up workflow.",
+        "requirements": [
+          "English reading"
+        ],
+        "limits": "Based on official documentation.",
+        "tags": [
+          "In-depth tutorial",
+          "Ongoing tasks",
+          "Development collaboration"
+        ]
+      },
+      "ja": {
+        "name": "A deep dive into OpenAI dots",
+        "description": "ユーザーフィードバックのワークフローを軸に、継続的な責任、時刻・イベント、Codex との連携、安全管理を解説する長編チュートリアル。",
+        "dotRole": "Slack やメールのフィードバックを Dot の継続タスクにまとめる方法と、ローカル接続や Codex への委任のタイミングを示します。",
+        "outcome": "フィードバックを継続的に追うワークフローの全体像を描けます。",
+        "requirements": [
+          "英語の読解"
+        ],
+        "limits": "公式文書に基づいて執筆。",
+        "tags": [
+          "詳しいチュートリアル",
+          "継続タスク",
+          "開発連携"
+        ]
+      },
+      "ko": {
+        "name": "A deep dive into OpenAI dots",
+        "description": "사용자 피드백 워크플로를 중심으로 지속적인 책임, 시간 및 이벤트, Codex 협업, 안전 제어를 설명하는 장문의 심층 튜토리얼입니다.",
+        "dotRole": "Slack과 이메일의 피드백을 Dot에 맡길 지속 작업으로 정리하는 방법과 로컬 컴퓨터 연결 및 Codex 위임 시점을 보여줍니다.",
+        "outcome": "피드백 후속 관리 워크플로의 전체적인 구상을 세웁니다.",
+        "requirements": [
+          "영어 읽기"
+        ],
+        "limits": "공식 문서를 바탕으로 작성되었습니다.",
+        "tags": [
+          "심층 튜토리얼",
+          "지속 작업",
+          "개발 협업"
+        ]
+      }
+    },
+    "guide-rundown": {
+      "en": {
+        "name": "ChatGPT Dot: How to Set Up and Use Your AI Agent",
+        "description": "A seven-step practical guide using a daily project brief: set rules, check facts, correct inputs, connect sources and arrange recurring execution.",
+        "dotRole": "Starts with a brief you can verify, then upgrades it to a scheduled workflow after acceptance.",
+        "outcome": "Get a project brief that can be generated automatically every day.",
+        "requirements": [
+          "English reading",
+          "Project information sources"
+        ],
+        "limits": "Exercise files and courses are paid Rundown Pro content; the article is public.",
+        "tags": [
+          "Practical guide",
+          "Project brief",
+          "Output acceptance"
+        ]
+      },
+      "ja": {
+        "name": "ChatGPT Dot: How to Set Up and Use Your AI Agent",
+        "description": "毎日のプロジェクト概要を例にした 7 ステップの実践ガイド。ルール設定、事実確認、入力の修正、情報源の接続、繰り返し実行の設定を扱います。",
+        "dotRole": "検証できる概要から始め、内容を確認して合格したら定期ワークフローに移行します。",
+        "outcome": "毎日自動生成できるプロジェクト概要を得られます。",
+        "requirements": [
+          "英語の読解",
+          "プロジェクトの情報源"
+        ],
+        "limits": "演習ファイルとコースは Rundown Pro の有料コンテンツです。本文は公開されています。",
+        "tags": [
+          "実践ガイド",
+          "プロジェクト概要",
+          "成果の確認"
+        ]
+      },
+      "ko": {
+        "name": "ChatGPT Dot: How to Set Up and Use Your AI Agent",
+        "description": "일일 프로젝트 브리핑을 예로 규칙 설정, 사실 확인, 입력 수정, 출처 연결, 반복 실행 설정을 다루는 7단계 실전 가이드입니다.",
+        "dotRole": "검증 가능한 브리핑부터 시작하여 결과가 검수를 통과하면 예약 워크플로로 확장합니다.",
+        "outcome": "매일 자동으로 생성할 수 있는 프로젝트 브리핑을 얻습니다.",
+        "requirements": [
+          "영어 읽기",
+          "프로젝트 자료 출처"
+        ],
+        "limits": "실습 파일과 강의는 Rundown Pro 유료 콘텐츠이며 본문은 공개되어 있습니다.",
+        "tags": [
+          "실전 가이드",
+          "프로젝트 브리핑",
+          "결과 검수"
+        ]
+      }
+    },
+    "guide-dotsguide": {
+      "en": {
+        "name": "How to create your first dot",
+        "description": "A community quick-start guide to creating your first Dot, four types of custom action rules and privacy considerations.",
+        "dotRole": "Helps you understand approval modes before connecting accounts, distinguishing drafting, sending and ongoing authorization.",
+        "outcome": "Understand how to create your first Dot in a few minutes.",
+        "requirements": [
+          "English reading"
+        ],
+        "limits": "Community resource.",
+        "tags": [
+          "Quick start",
+          "Approval rules",
+          "Privacy"
+        ]
+      },
+      "ja": {
+        "name": "How to create your first dot",
+        "description": "初めての Dot の作成手順、4 種類のカスタム行動ルール、プライバシー上の注意点を扱うコミュニティの入門ガイド。",
+        "dotRole": "アカウント接続前に承認モードを理解し、下書き、送信、継続的な許可を区別できるようにします。",
+        "outcome": "数分で最初の Dot の作り方を理解できます。",
+        "requirements": [
+          "英語の読解"
+        ],
+        "limits": "コミュニティのリソース。",
+        "tags": [
+          "クイックスタート",
+          "承認ルール",
+          "プライバシー"
+        ]
+      },
+      "ko": {
+        "name": "How to create your first dot",
+        "description": "첫 Dot 생성 과정, 네 가지 사용자 지정 행동 규칙, 개인정보 보호 유의 사항을 소개하는 커뮤니티 빠른 시작 가이드입니다.",
+        "dotRole": "계정을 연결하기 전에 승인 모드를 이해하고 초안 작성, 전송, 지속적인 권한 부여를 구분하도록 돕습니다.",
+        "outcome": "몇 분 안에 첫 Dot을 만드는 방법을 이해합니다.",
+        "requirements": [
+          "영어 읽기"
+        ],
+        "limits": "커뮤니티 리소스입니다.",
+        "tags": [
+          "빠른 시작",
+          "승인 규칙",
+          "개인정보 보호"
+        ]
+      }
+    },
+    "guide-frankchiu": {
+      "en": {
+        "name": "What Is ChatGPT Dots? Uses, Plans and How to Delegate Work",
+        "description": "A Traditional Chinese tutorial using competitor weekly reports, interview content and product information updates to explain how to delegate and review ongoing work.",
+        "dotRole": "Demonstrates a read-only competitor weekly report instruction: keep sources, distinguish facts from speculation and gradually expand permissions.",
+        "outcome": "Learn to assign content and research work to Dot in Chinese.",
+        "requirements": [
+          "An account with Dot access"
+        ],
+        "limits": "The example tasks are illustrative.",
+        "tags": [
+          "Chinese tutorial",
+          "Competitor weekly report",
+          "Content work"
+        ]
+      },
+      "ja": {
+        "name": "ChatGPT Dots とは？用途・プラン・仕事の任せ方",
+        "description": "競合の週次レポート、インタビューコンテンツ、製品情報の更新という三つの例で、継続業務の依頼と成果の確認を解説する繁体字中国語のチュートリアル。",
+        "dotRole": "読み取り専用の競合週次レポートの指示例を示します。出典を残し、事実と推測を分け、段階的に権限を広げます。",
+        "outcome": "中国語で Dot にコンテンツ制作や調査の仕事を任せる方法を学べます。",
+        "requirements": [
+          "Dot を利用できるアカウント"
+        ],
+        "limits": "例示用のタスクです。",
+        "tags": [
+          "中国語チュートリアル",
+          "競合週次レポート",
+          "コンテンツ業務"
+        ]
+      },
+      "ko": {
+        "name": "ChatGPT Dots란? 활용법, 요금제, 업무 위임 방법",
+        "description": "경쟁사 주간 보고서, 인터뷰 콘텐츠, 제품 자료 업데이트의 세 가지 예로 지속 업무의 위임과 검수 방법을 설명하는 번체 중국어 튜토리얼입니다.",
+        "dotRole": "출처를 남기고 사실과 추측을 구분한 뒤 권한을 단계적으로 넓히는 읽기 전용 경쟁사 주간 보고서 지시문을 보여줍니다.",
+        "outcome": "중국어로 Dot에 콘텐츠 및 조사 업무를 맡기는 방법을 배웁니다.",
+        "requirements": [
+          "Dot을 이용할 수 있는 계정"
+        ],
+        "limits": "예시 작업은 설명용입니다.",
+        "tags": [
+          "중국어 튜토리얼",
+          "경쟁사 주간 보고서",
+          "콘텐츠 업무"
+        ]
+      }
+    },
+    "guide-aimatters": {
+      "en": {
+        "name": "Setting up ChatGPT Dot",
+        "description": "A Korean how-to guide covering seven parts of creating a Dot, connecting apps, assigning tasks, scheduling, behavior rules and memory management.",
+        "dotRole": "Walks you through the initial setup in Korean, distinguishing reading, drafting, sending and actions you need to handle personally.",
+        "outcome": "Korean-speaking users can follow along to complete the setup.",
+        "requirements": [
+          "Korean reading"
+        ],
+        "limits": "Based on the official help center.",
+        "tags": [
+          "Korean tutorial",
+          "Initial setup",
+          "Behavior rules"
+        ]
+      },
+      "ja": {
+        "name": "ChatGPT Dot の設定",
+        "description": "Dot の作成、アプリ接続、タスクの依頼、スケジュール、行動ルール、記憶管理を 7 つの段階で紹介する韓国語の操作ガイド。",
+        "dotRole": "韓国語で初回設定を案内し、読み取り、下書き、送信、自分で行う必要のある操作を区別します。",
+        "outcome": "韓国語ユーザーが手順に沿って設定を完了できます。",
+        "requirements": [
+          "韓国語の読解"
+        ],
+        "limits": "公式ヘルプセンターに基づいて執筆。",
+        "tags": [
+          "韓国語チュートリアル",
+          "初回設定",
+          "行動ルール"
+        ]
+      },
+      "ko": {
+        "name": "챗GPT 닷 설정하기",
+        "description": "Dot 생성, 앱 연결, 작업 지시, 예약, 행동 규칙, 기억 관리를 일곱 단계로 소개하는 한국어 사용 가이드입니다.",
+        "dotRole": "한국어로 초기 설정을 안내하며 읽기, 초안 작성, 전송, 사용자가 직접 처리할 동작을 구분합니다.",
+        "outcome": "한국어 사용자가 따라 하며 설정을 완료할 수 있습니다.",
+        "requirements": [
+          "한국어 읽기"
+        ],
+        "limits": "공식 도움말 센터를 바탕으로 작성되었습니다.",
+        "tags": [
+          "한국어 튜토리얼",
+          "초기 설정",
+          "행동 규칙"
+        ]
+      }
+    },
+    "guide-drag-email": {
+      "en": {
+        "name": "OpenAI Dots and Email",
+        "description": "An email use-case guide with an initial permissions table and three copyable instructions for organizing your inbox, drafting replies and following up on commitments.",
+        "dotRole": "Starts with read-only access to identify emails awaiting replies and unfulfilled commitments, while you retain control over sending and forwarding.",
+        "outcome": "Start using Dot safely with email.",
+        "requirements": [
+          "English reading",
+          "An email connection"
+        ],
+        "limits": "The author is from the email tool Drag, and the article includes an introduction to their own product.",
+        "tags": [
+          "Email organization",
+          "Permissions table",
+          "Prompts"
+        ]
+      },
+      "ja": {
+        "name": "OpenAI Dots and Email",
+        "description": "受信トレイの整理、返信の下書き、約束のフォローに使える初期権限表と、コピー可能な 3 つの指示を収録したメール活用ガイド。",
+        "dotRole": "まず読み取り専用で返信待ちメールと未履行の約束を抽出させ、送信と転送はあなたが管理します。",
+        "outcome": "メールから安全に Dot を使い始められます。",
+        "requirements": [
+          "英語の読解",
+          "メール接続"
+        ],
+        "limits": "著者はメールツール Drag の関係者で、記事には自社製品の紹介が含まれます。",
+        "tags": [
+          "メール整理",
+          "権限表",
+          "プロンプト"
+        ]
+      },
+      "ko": {
+        "name": "OpenAI Dots and Email",
+        "description": "받은편지함 정리, 답장 초안 작성, 약속 후속 관리를 위한 초기 권한표와 복사 가능한 지시문 세 개를 담은 이메일 활용 가이드입니다.",
+        "dotRole": "먼저 읽기 전용으로 답장이 필요한 이메일과 이행하지 않은 약속을 추려내며, 전송과 전달은 사용자가 관리합니다.",
+        "outcome": "이메일부터 시작해 Dot을 안전하게 활용합니다.",
+        "requirements": [
+          "영어 읽기",
+          "이메일 연결"
+        ],
+        "limits": "저자는 이메일 도구 Drag 소속이며 글에 자사 제품 소개가 포함되어 있습니다.",
+        "tags": [
+          "이메일 정리",
+          "권한표",
+          "프롬프트"
+        ]
+      }
+    },
+    "template-custom-rules": {
+      "en": {
+        "name": "Custom Rules pack",
+        "description": "A copyable rules pack covering email, calendars, purchases, files, code and privacy, with approval modes for each type of action.",
+        "dotRole": "Lets Dot keep reading and drafting while stopping to ask you before sending, buying, sharing, deleting or performing production operations.",
+        "outcome": "A ready-to-use set of action boundaries.",
+        "requirements": [
+          "Add the rules individually in Dot settings"
+        ],
+        "limits": "Community-recommended rules.",
+        "tags": [
+          "Custom rules",
+          "Safety boundaries",
+          "Approval templates"
+        ]
+      },
+      "ja": {
+        "name": "Custom Rules ルール集",
+        "description": "メール、カレンダー、購入、ファイル、コード、プライバシーを網羅し、操作ごとの承認方法を示すコピー可能なルール集。",
+        "dotRole": "Dot が継続的に読み取りと下書きを行い、送信、購入、共有、削除、本番環境での操作の前には止まってあなたに確認するようにします。",
+        "outcome": "すぐに使える行動範囲のルール一式。",
+        "requirements": [
+          "Dot の設定でルールを一つずつ追加"
+        ],
+        "limits": "コミュニティが提案するルール。",
+        "tags": [
+          "カスタムルール",
+          "安全な行動範囲",
+          "承認テンプレート"
+        ]
+      },
+      "ko": {
+        "name": "Custom Rules 규칙 모음",
+        "description": "이메일, 일정, 구매, 파일, 코드, 개인정보 보호를 다루며 동작 유형별 승인 방식을 제시하는 복사 가능한 규칙 모음입니다.",
+        "dotRole": "Dot이 지속적으로 읽고 초안을 작성하되 전송, 구매, 공유, 삭제, 운영 환경 작업 전에는 멈추고 사용자에게 묻게 합니다.",
+        "outcome": "바로 사용할 수 있는 행동 범위 규칙을 얻습니다.",
+        "requirements": [
+          "Dot 설정에서 규칙을 하나씩 추가"
+        ],
+        "limits": "커뮤니티 권장 규칙입니다.",
+        "tags": [
+          "사용자 지정 규칙",
+          "안전 경계",
+          "승인 템플릿"
+        ]
+      }
+    },
+    "template-feedback-digest": {
+      "en": {
+        "name": "Ongoing user feedback digest",
+        "description": "A task instruction for Dot to read Slack feedback and Gmail support emails, categorize issues, distinguish bugs from feature requests and include links to the original messages.",
+        "dotRole": "Continuously summarizes user feedback without replying to customers on your behalf.",
+        "outcome": "An issue list that updates automatically as new feedback arrives.",
+        "requirements": [
+          "Connect Slack and Gmail",
+          "Set the digest frequency"
+        ],
+        "limits": "From Flavio Copes' in-depth tutorial.",
+        "tags": [
+          "User feedback",
+          "Ongoing digest",
+          "Read-only"
+        ]
+      },
+      "ja": {
+        "name": "ユーザーフィードバックの継続集約",
+        "description": "Dot に Slack のフィードバックと Gmail のサポートメールを読ませ、問題を分類し、不具合と要望を区別して元メッセージのリンクを付けさせるタスク指示。",
+        "dotRole": "顧客への返信は代行せず、ユーザーフィードバックを継続的にまとめます。",
+        "outcome": "新しいフィードバックに応じて自動更新される問題一覧。",
+        "requirements": [
+          "Slack と Gmail を接続",
+          "集約の頻度を設定"
+        ],
+        "limits": "Flavio Copes の詳しいチュートリアルから。",
+        "tags": [
+          "ユーザーフィードバック",
+          "継続集約",
+          "読み取り専用"
+        ]
+      },
+      "ko": {
+        "name": "사용자 피드백 지속 요약",
+        "description": "Dot이 Slack 피드백과 Gmail 지원 이메일을 읽고 문제를 분류하며 결함과 요구 사항을 구분하고 원본 메시지 링크를 첨부하도록 하는 작업 지시문입니다.",
+        "dotRole": "고객에게 대신 답하지 않고 사용자 피드백을 지속적으로 요약합니다.",
+        "outcome": "새 피드백이 들어오면 자동으로 갱신되는 문제 목록을 얻습니다.",
+        "requirements": [
+          "Slack과 Gmail 연결",
+          "요약 주기 설정"
+        ],
+        "limits": "Flavio Copes의 심층 튜토리얼에서 가져왔습니다.",
+        "tags": [
+          "사용자 피드백",
+          "지속 요약",
+          "읽기 전용"
+        ]
+      }
+    },
+    "template-morning-brief": {
+      "en": {
+        "name": "Daily project morning brief",
+        "description": "A task instruction to generate a one-time morning brief from specified project materials and a calendar, listing meetings, priorities, missing updates and pending decisions with sources and check times.",
+        "dotRole": "Generates a single sourced project morning brief without scheduling, sending, editing, deleting or buying.",
+        "outcome": "A project morning brief you can verify, then make daily once you are satisfied.",
+        "requirements": [
+          "Links to project materials",
+          "A calendar (optional)",
+          "Your time zone"
+        ],
+        "limits": "See step 6 of the original article.",
+        "tags": [
+          "Morning brief",
+          "Source checks",
+          "Project management"
+        ]
+      },
+      "ja": {
+        "name": "毎朝のプロジェクトブリーフ",
+        "description": "指定したプロジェクト資料とカレンダーから朝の概要を一度作成し、会議、優先事項、未提供の更新情報、判断待ち事項を、出典と確認時刻付きで一覧にするタスク指示。",
+        "dotRole": "出典付きのプロジェクトブリーフを一度作成します。スケジュール設定、送信、編集、削除、購入は行いません。",
+        "outcome": "確認できるプロジェクトブリーフを得て、内容に満足したら毎日実行に変更できます。",
+        "requirements": [
+          "プロジェクト資料へのリンク",
+          "カレンダー（任意）",
+          "利用するタイムゾーン"
+        ],
+        "limits": "原文のステップ 6 を参照。",
+        "tags": [
+          "朝のブリーフ",
+          "出典確認",
+          "プロジェクト管理"
+        ]
+      },
+      "ko": {
+        "name": "일일 프로젝트 아침 브리핑",
+        "description": "지정한 프로젝트 자료와 일정으로 아침 브리핑을 한 번 생성하고, 회의, 우선순위, 누락된 업데이트, 결정 대기 사항을 출처 및 확인 시각과 함께 정리하는 작업 지시문입니다.",
+        "dotRole": "출처가 있는 프로젝트 아침 브리핑을 한 번 생성하며 예약, 전송, 편집, 삭제, 구매는 하지 않습니다.",
+        "outcome": "검증 가능한 프로젝트 아침 브리핑을 얻고, 만족하면 매일 실행하도록 바꿉니다.",
+        "requirements": [
+          "프로젝트 자료 링크",
+          "일정(선택)",
+          "사용자 시간대"
+        ],
+        "limits": "원문의 6단계를 참조하세요.",
+        "tags": [
+          "아침 브리핑",
+          "출처 확인",
+          "프로젝트 관리"
+        ]
+      }
+    },
+    "template-competitor-weekly": {
+      "en": {
+        "name": "Competitor weekly report",
+        "description": "A Chinese task instruction to check three competitors' official websites weekly and list dates, sources, changes and possible impacts.",
+        "dotRole": "Produces a competitor weekly report separating facts from speculation, stopping to report when information is missing or login or payment is required.",
+        "outcome": "A weekly update on competitors with sources.",
+        "requirements": [
+          "Three competitors' website URLs",
+          "Your time zone"
+        ],
+        "limits": "From Frank Chiu's Chinese tutorial.",
+        "tags": [
+          "Chinese template",
+          "Competitor monitoring",
+          "Weekly report"
+        ]
+      },
+      "ja": {
+        "name": "競合週次レポート",
+        "description": "毎週 3 社の競合公式サイトを確認し、日付、出典、変化、想定される影響をまとめる中国語のタスク指示。",
+        "dotRole": "事実と推測を分けた競合週次レポートを作成し、情報の不足、ログインや支払いの必要があれば停止して報告します。",
+        "outcome": "出典付きの競合動向を毎週確認できます。",
+        "requirements": [
+          "競合 3 社のサイト URL",
+          "利用するタイムゾーン"
+        ],
+        "limits": "Frank Chiu の中国語チュートリアルから。",
+        "tags": [
+          "中国語テンプレート",
+          "競合監視",
+          "週次レポート"
+        ]
+      },
+      "ko": {
+        "name": "경쟁사 주간 보고서",
+        "description": "매주 경쟁사 세 곳의 공식 웹사이트를 확인하고 날짜, 출처, 변화, 예상 영향을 정리하는 중국어 작업 지시문입니다.",
+        "dotRole": "사실과 추측을 구분한 경쟁사 주간 보고서를 작성하며, 정보가 없거나 로그인 또는 결제가 필요하면 멈추고 보고합니다.",
+        "outcome": "출처가 있는 경쟁사 동향을 매주 받아봅니다.",
+        "requirements": [
+          "경쟁사 세 곳의 웹사이트 주소",
+          "사용자 시간대"
+        ],
+        "limits": "Frank Chiu의 중국어 튜토리얼에서 가져왔습니다.",
+        "tags": [
+          "중국어 템플릿",
+          "경쟁사 모니터링",
+          "주간 보고서"
+        ]
+      }
+    },
+    "template-email-starter": {
+      "en": {
+        "name": "Three-part email organization kit",
+        "description": "Three task instructions plus a permissions table: an awaiting-reply list, reply drafts and a weekly check of unfulfilled commitments.",
+        "dotRole": "Lets Dot read, summarize and draft, but not send emails on its own.",
+        "outcome": "See your inbox's tasks and commitments at a glance.",
+        "requirements": [
+          "An email connection",
+          "Your time zone"
+        ],
+        "limits": "The drafting task saves email drafts; grant permission as needed.",
+        "tags": [
+          "Email templates",
+          "Commitment follow-up",
+          "Drafts first"
+        ]
+      },
+      "ja": {
+        "name": "メール整理の 3 点セット",
+        "description": "返信待ち一覧、返信の下書き、未履行の約束の週次確認という 3 つのタスク指示と権限表。",
+        "dotRole": "Dot に読み取り、要約、下書きをさせ、勝手にメールを送信させません。",
+        "outcome": "受信トレイの用事と約束を一目で把握できます。",
+        "requirements": [
+          "メール接続",
+          "利用するタイムゾーン"
+        ],
+        "limits": "下書きタスクはメールの下書きを保存します。必要に応じて権限を付与してください。",
+        "tags": [
+          "メールテンプレート",
+          "約束のフォロー",
+          "下書き優先"
+        ]
+      },
+      "ko": {
+        "name": "이메일 정리 3종 세트",
+        "description": "답장 대기 목록, 답장 초안, 미이행 약속의 주간 점검을 위한 작업 지시문 세 개와 권한표입니다.",
+        "dotRole": "Dot이 읽고 요약하고 초안을 작성하되 임의로 이메일을 보내지 않게 합니다.",
+        "outcome": "받은편지함의 할 일과 약속을 한눈에 확인합니다.",
+        "requirements": [
+          "이메일 연결",
+          "사용자 시간대"
+        ],
+        "limits": "초안 작업은 이메일 초안을 저장하므로 필요에 따라 권한을 부여하세요.",
+        "tags": [
+          "이메일 템플릿",
+          "약속 후속 관리",
+          "초안 우선"
+        ]
+      }
     }
   }
 }
