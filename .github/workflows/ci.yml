@@ -20,4 +20,6 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test
+      # generate 会读取头像等文件，登记和文件不一致时在这里就能发现，不用等到发布失败
+      - run: npm run generate
       - run: npm run build
