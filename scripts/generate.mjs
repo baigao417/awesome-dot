@@ -11,7 +11,7 @@ const avatarManifest = JSON.parse(readFileSync('public/avatars/sources.json', 'u
 for (const image of avatarManifest.images) image.sha256 = createHash('sha256').update(readFileSync(`public/avatars/${image.file}`)).digest('hex');
 writeFileSync('public/avatars/sources.json', JSON.stringify(avatarManifest, null, 2) + '\n');
 for (const item of catalog.items) counts[item.kind] = (counts[item.kind] ?? 0) + 1;
-const lines = ['# Awesome Dot 收录清单', '', `核验日期：${catalog.checkedAt}。共 ${catalog.items.length} 条。官方示例不等于实测，独立替代品不等于 Dot 集成。`, '', '| 名称 | 类型 | Dot 的具体角色 | 出处 |', '| --- | --- | --- | --- |'];
+const lines = ['# Awesome Dot 收录清单', '', `更新日期：${catalog.checkedAt}。共 ${catalog.items.length} 条。`, '', '| 名称 | 类型 | Dot 的具体角色 | 出处 |', '| --- | --- | --- | --- |'];
 for (const item of catalog.items) lines.push(`| ${item.name} | ${item.kind} | ${item.dotRole.replaceAll('|', '\\|')} | [来源](${item.sourceUrl}) |`);
 mkdirSync('docs', { recursive: true });
 writeFileSync('docs/catalog.md', lines.join('\n') + '\n');
