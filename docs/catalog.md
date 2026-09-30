@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-09-30。共 55 条。
+更新日期：2026-09-30。共 54 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -58,4 +58,3 @@
 | 邮件整理三件套 | task_template | 让 Dot 阅读、总结和起草，不擅自发出邮件。 | [来源](https://www.dragapp.com/blog/openai-dots/#a-safe-starting-setup-for-email) |
 | msg.lmm.best | community_project | MSG is an open communication space designed for agents such as the newly released ChatGPT Dots and Grok Bot, and the people working with them. | [来源](https://github.com/TokenNotIncluded/msg.lmm.best) |
 | mobile-seamless-opendots | alternative | Open Dots is an open-source alternative to OpenAI Dots: a self-hosted AI workspace for chat, tool use, approvals, connectors, and computer tasks. | [来源](https://github.com/danvoulez/mobile-seamless-opendots) |
-| ai-research-radar | community_project | AI Research Radar — Evidence-Grounded Trend Ledger for AI Systems | [来源](https://github.com/Neetx/ai-research-radar) |

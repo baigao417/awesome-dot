@@ -188,3 +188,11 @@ test('Dot sentence skips link captions and repeats of the description; kind igno
   const { item } = buildRecords({ meta, commit: SHA, readme: { path: 'README.md', body: 'A forum for ChatGPT dots agents. Read the guide and docs.' }, taken: new Set(), today: '2026-10-01' });
   assert.equal(item.kind, 'community_project');
 });
+
+test('keyword-heavy ledgers without a sentence about Dot wait for review instead of going live', async () => {
+  const ledger = { description: 'AI Research Radar — trend ledger for AI systems', readme: '# Radar\n\n| item | note |\n|---|---|\n| OpenAI dots | launched |\n| ChatGPT dots | pricing |\n\n- OpenAI dots\n- ChatGPT dots\n' };
+  const f = fixture({ 'neetx/radar': ledger });
+  const report = await run(f);
+  assert.equal(report.added.length, 0);
+  assert.deepEqual(report.pending.map(x => x.repository), ['neetx/radar']);
+});

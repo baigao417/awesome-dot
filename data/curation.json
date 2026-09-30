@@ -869,6 +869,11 @@
       "pushedAt": "2026-09-29T19:12:50Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
+    },
+    "Neetx/ai-research-radar": {
+      "blocked": true,
+      "reason": "误收：AI 趋势台账，只是多次提到 OpenAI dots",
+      "at": "2026-09-30"
     }
   },
   "reported": {

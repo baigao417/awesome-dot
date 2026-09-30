@@ -68,7 +68,8 @@ jobs:
           added=$(node -e "console.log(require('./output/curation-report.json').added.length)")
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m "chore(catalog): auto-curate ${added} new entries"
+          if [ "$added" -gt 0 ]; then msg="chore(catalog): auto-curate ${added} new entries"; else msg="chore(catalog): update curation state"; fi
+          git commit -m "$msg"
           git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:refs/heads/${DEFAULT_BRANCH}"
       # 线上最后一次成功部署落后于最新站点内容时就发布；之前某次发布失败也会在这里补上
       - name: Decide whether the site needs publishing

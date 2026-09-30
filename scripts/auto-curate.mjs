@@ -95,7 +95,7 @@ export function dotSentence(readme = '', { skip = '' } = {}) {
   // 取最早提到 Dot 的一句，开头那句通常最能说明项目做什么
   const same = (a, b) => a.toLowerCase().replace(/[^a-z0-9一-鿿]/g, '') === b.toLowerCase().replace(/[^a-z0-9一-鿿]/g, '');
   const blocks = readme.split(/\n\s*\n|\n(?=\s{0,3}(?:[-*+>]|\d+\.)\s)/)
-    .filter(block => !/^\s{0,3}#{1,6}\s[^\n]*$/.test(block.trim()) && !/^[\s>*+-]*(\[|<a\b|<img\b|!\[)/i.test(block));
+    .filter(block => !/^\s{0,3}#{1,6}\s[^\n]*$/.test(block.trim()) && !/^[\s>*+-]*(\[|<a\b|<img\b|!\[)/i.test(block) && !/^\s*\|/m.test(block));
   for (const block of blocks) {
     const text = plain(block.replace(/^\s{0,3}#{1,6}\s.*$/gm, ''));
     const match = SIGNALS.map(p => p.exec(text)).filter(Boolean).sort((x, y) => x.index - y.index)[0];
@@ -105,7 +105,9 @@ export function dotSentence(readme = '', { skip = '' } = {}) {
     const stop = text.slice(match.index).search(/[.!?。！？](\s|$)/);
     const end = stop < 0 || stop > 220 ? Math.min(text.length, match.index + 160) : match.index + stop + 1;
     const sentence = text.slice(start, end).trim();
-    if (/^[^\p{L}\p{N}]/u.test(sentence) || (skip && same(sentence, skip))) continue;
+    // 必须是像样的正文句子：英文至少 6 个词，中日韩至少 15 个字；表格行、短列表项不算
+    const prose = sentence.split(/\s+/).length >= 6 || (sentence.match(/[一-鿿぀-ヿ가-힯]/g)?.length ?? 0) >= 15;
+    if (!prose || /^[^\p{L}\p{N}]/u.test(sentence) || (skip && same(sentence, skip))) continue;
     return sentence;
   }
   return '';
@@ -310,8 +312,9 @@ export async function curate({ root = '.', fetcher = fetch, token = process.env.
     }
     if (report.added.length >= limits.maxNew) { report.skipped.push({ repository: meta.full_name, reason: 'run_cap_reached' }); continue; }
     const records = buildRecords({ meta, commit, readme, taken, today });
-    // 取不到可读的简介或 Dot 相关句子时不上线，改为待确认
-    if (!records.item.description || !records.item.dotRole) {
+    // 取不到可读的简介，或者正文里找不到一句讲 Dot 的话（只在长列表、台账里反复出现关键词）时不上线，改为待确认
+    const explained = dotSentence(visible(readme.body), { skip: records.item.description }) || dotSignals(records.item.description).length;
+    if (!records.item.description || !records.item.dotRole || !explained) {
       state.reported[meta.full_name] = { readmeSha256: readmeSha, score, at: today };
       report.pending.push({ repository: meta.full_name, url: meta.html_url, stars: meta.stargazers_count, description: meta.description, score, signals, reason: 'no_readable_text' });
       continue;
