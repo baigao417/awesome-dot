@@ -2,6 +2,15 @@ name: Publish Directory
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'data/**'
+      - 'index.html'
+      - 'package*.json'
+      - 'vite.config.js'
+      - '.github/workflows/pages.yml'
 
 permissions:
   contents: read

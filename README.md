@@ -39,7 +39,7 @@ npm run build
 
 `.github/workflows/discovery.yml` 配置为 UTC `00:17 / 12:17`，约对应新加坡时间 `08:17 / 20:17`。GitHub 可能延迟执行；实际启用状态与运行结果见仓库的 [Actions](https://github.com/baigao417/awesome-dot/actions/workflows/discovery.yml)。
 
-扫描最多每个查询 30 个公开仓库，排除 dotnet/dotfiles 等误匹配，去重后产出 `data/candidates.json`。只给候选，不自动把未审阅项目写进正式目录；结果作为 Actions artifact 保留 14 天。失败也保留回执，不伪报完整覆盖。工作流只有读取仓库权限。
+扫描最多每个查询 30 个公开仓库，排除本站自身、dotnet/dotfiles 等误匹配，去重后产出 `data/candidates.json`。只给候选，不自动把未审阅项目写进正式目录；结果作为 Actions artifact 保留 14 天。失败也保留回执，不伪报完整覆盖。工作流只有读取仓库权限。
 
 本机只读扫描：
 
@@ -55,7 +55,7 @@ npm run discover
 
 ## 发布
 
-GitHub Pages 使用 `.github/workflows/pages.yml`。配置 Pages 来源为 GitHub Actions 后，可手动运行 Publish Directory。实际发布结果见 [发布工作流](https://github.com/baigao417/awesome-dot/actions/workflows/pages.yml)。本机静态构建成功不等于线上部署成功。
+GitHub Pages 使用 `.github/workflows/pages.yml`。Pages 来源为 GitHub Actions，可手动运行 Publish Directory；默认分支的站点源码或数据更新也会部署。实际发布结果见 [发布工作流](https://github.com/baigao417/awesome-dot/actions/workflows/pages.yml)。本机静态构建成功不等于线上部署成功。
 
 设计参照：https://logicrw.github.io/awesome-jev-projects/ 。使用独立编写的实现，未拷贝原站源码或品牌资产。参照站 MIT 许可证已核对，致谢见 `THIRD_PARTY_NOTICES.md`。
 

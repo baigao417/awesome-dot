@@ -109,3 +109,9 @@ test('daily discovery is stable across item order and changes at Singapore midni
   assert.equal(dailyItem([],before),null);
   assert.ok(['official_case','community_project'].includes(dailyItem(catalog.items,before).kind));
 });
+test('discovery excludes the hosting repository itself', async () => {
+  const own = {name:'awesome-dot',full_name:'owner/awesome-dot',description:'OpenAI dots directory'};
+  const result = await scan({queriesToRun:['dots'],excludedRepositories:['owner/awesome-dot'],fetcher:async()=>({ok:true,json:async()=>({items:[own]})})});
+  assert.equal(result.candidates.length,0);
+  assert.equal(result.excludedCount,1);
+});
