@@ -1,0 +1,768 @@
+{
+  "sourceLang": "zh",
+  "note": "machine translation by Codex; Chinese original is authoritative",
+  "items": {
+    "feedback-to-fix": {
+      "en": {
+        "name": "From product feedback to a draft fix",
+        "description": "Give Dot user-reported bugs and the code project to investigate issues on an ongoing basis and prepare fixes for human review.",
+        "dotRole": "Follow up on feedback sources, investigate reproduction steps, coordinate coding tasks and summarize fixes and verification results.",
+        "outcome": "Issue diagnosis, draft changes and testing notes; human review before merging.",
+        "requirements": [
+          "A clearly identified feedback source",
+          "An accessible code project",
+          "Configure a Codex environment first if cloud-based coding is needed"
+        ],
+        "limits": "A usage example from official documentation, not run by this site; connecting a code project does not grant permission to merge or deploy.",
+        "tags": [
+          "Bug fixes",
+          "Codex",
+          "Ongoing follow-up"
+        ]
+      },
+      "ja": {
+        "name": "製品へのフィードバックから修正草稿へ",
+        "description": "ユーザーから報告された Bug とコードプロジェクトを Dot に渡し、問題を継続的に調査して、人が確認できる修正を準備します。",
+        "dotRole": "フィードバック元を追跡し、再現手順を調査し、コード作業を調整して、修正内容と検証結果をまとめます。",
+        "outcome": "問題の特定、変更草稿、テストの説明です。マージ前に人が確認します。",
+        "requirements": [
+          "明確なフィードバック元",
+          "アクセス可能なコードプロジェクト",
+          "クラウドでのコーディングが必要な場合は、事前に Codex 環境を設定"
+        ],
+        "limits": "公式文書の利用例であり、当サイトでは実行していません。コードプロジェクトの接続は、マージやデプロイの権限付与を意味しません。",
+        "tags": [
+          "Bug 修正",
+          "Codex",
+          "継続フォロー"
+        ]
+      },
+      "ko": {
+        "name": "제품 피드백에서 수정 초안까지",
+        "description": "사용자가 보고한 Bug와 코드 프로젝트를 Dot에 전달하여 문제를 지속적으로 조사하고 사람이 검토할 수 있는 수정안을 준비합니다.",
+        "dotRole": "피드백 출처를 지속적으로 확인하고 재현 경로를 조사하며 코드 작업을 조율하고 수정 및 검증 결과를 정리합니다.",
+        "outcome": "문제 원인 파악, 변경 초안, 테스트 설명을 얻습니다. 병합 전에 사람이 검토합니다.",
+        "requirements": [
+          "명확한 피드백 출처",
+          "접근 가능한 코드 프로젝트",
+          "클라우드 코딩이 필요한 경우 Codex 환경을 먼저 설정"
+        ],
+        "limits": "공식 문서의 활용 예시이며 이 사이트에서는 실행하지 않았습니다. 코드 프로젝트 연결이 병합이나 배포 권한 부여를 의미하지는 않습니다.",
+        "tags": [
+          "Bug 수정",
+          "Codex",
+          "지속적인 후속 관리"
+        ]
+      }
+    },
+    "interview-content": {
+      "en": {
+        "name": "One interview, multiple content drafts",
+        "description": "Share interview materials and photos to get captions, show notes and ideas for short-video excerpts; continue adjusting titles and tone on your phone.",
+        "dotRole": "Organize the interview context, prepare content drafts for different formats and handle subsequent revisions within the same task.",
+        "outcome": "Copy, show notes and excerpt suggestions awaiting review, not content that has already been published.",
+        "requirements": [
+          "Interview materials",
+          "Photos you have permission to use"
+        ],
+        "limits": "This is an official example; it does not guarantee automatic video editing or authorize publishing on your behalf.",
+        "tags": [
+          "Content creation",
+          "Interviews",
+          "Cross-device collaboration"
+        ]
+      },
+      "ja": {
+        "name": "一度のインタビューから複数のコンテンツ草稿へ",
+        "description": "インタビュー資料と写真を共有し、キャプション、番組説明、短い動画に使う抜粋のアイデアを得ます。スマートフォンでも引き続きタイトルや語調を調整できます。",
+        "dotRole": "インタビューの文脈を整理し、各媒体向けのコンテンツ草稿を準備して、同じタスク内で後続の修正を受け付けます。",
+        "outcome": "確認待ちの文章、番組説明、抜粋の提案です。公開済みのコンテンツではありません。",
+        "requirements": [
+          "インタビュー資料",
+          "使用権限のある写真"
+        ],
+        "limits": "公式の例であり、動画の自動編集を保証するものでも、代理での公開を許可するものでもありません。",
+        "tags": [
+          "コンテンツ制作",
+          "インタビュー",
+          "複数端末での共同作業"
+        ]
+      },
+      "ko": {
+        "name": "한 번의 인터뷰, 여러 콘텐츠 초안",
+        "description": "인터뷰 자료와 사진을 공유하여 캡션, 방송 설명, 짧은 영상에 사용할 발췌 구간 아이디어를 얻습니다. 휴대전화에서도 제목과 어조를 계속 조정합니다.",
+        "dotRole": "인터뷰 맥락을 정리하고 매체별 콘텐츠 초안을 준비하며 같은 작업에서 후속 수정을 받습니다.",
+        "outcome": "검토 대기 중인 문안, 방송 설명, 발췌 구간 제안입니다. 이미 게시된 콘텐츠가 아닙니다.",
+        "requirements": [
+          "인터뷰 자료",
+          "사용 권한이 있는 사진"
+        ],
+        "limits": "공식 예시이며 자동으로 영상을 편집해 준다는 보장은 없고 대신 게시하도록 권한을 부여하지도 않습니다.",
+        "tags": [
+          "콘텐츠 창작",
+          "인터뷰",
+          "여러 기기에서의 협업"
+        ]
+      }
+    },
+    "sales-proposal": {
+      "en": {
+        "name": "A sales proposal that tracks changing requirements",
+        "description": "When customer headcount or terms change, update the proposal's figures, follow up on security and technical reviews and bring back the next decision to be made.",
+        "dotRole": "Keep the proposal aligned with customer requirements, identify changes and track unfinished reviews.",
+        "outcome": "An updated proposal draft, to-dos and a list of decisions.",
+        "requirements": [
+          "The original proposal",
+          "A source for customer requirements",
+          "An explicit basis for calculating prices"
+        ],
+        "limits": "An official example; commercial terms and quotes need human confirmation, and the output cannot be treated as a closed deal.",
+        "tags": [
+          "Sales",
+          "Proposals",
+          "Change tracking"
+        ]
+      },
+      "ja": {
+        "name": "要件の変化に合わせて更新する営業提案",
+        "description": "顧客側の人数や条件が変わったら、提案内の数値を更新し、セキュリティと技術の審査をフォローして、次に必要な判断を持ち帰ります。",
+        "dotRole": "提案と顧客要件の対応関係を維持し、変更を特定して、未完了の審査を追跡します。",
+        "outcome": "更新した提案草稿、やること、判断事項の一覧です。",
+        "requirements": [
+          "提案の原稿",
+          "顧客要件の情報源",
+          "明確な価格計算の根拠"
+        ],
+        "limits": "公式の例です。取引条件と見積もりは人による確認が必要であり、出力を成約とみなすことはできません。",
+        "tags": [
+          "営業",
+          "提案",
+          "変更追跡"
+        ]
+      },
+      "ko": {
+        "name": "요구 사항에 맞춰 갱신하는 영업 제안서",
+        "description": "고객 측 인원수나 조건이 바뀌면 제안서의 수치를 갱신하고 보안 및 기술 심사를 지속적으로 확인하며 다음 결정 사항을 가져옵니다.",
+        "dotRole": "제안서와 고객 요구 사항 사이의 대응 관계를 유지하고 변경 사항을 파악하며 완료되지 않은 심사를 추적합니다.",
+        "outcome": "갱신한 제안서 초안, 할 일, 결정 사항 목록입니다.",
+        "requirements": [
+          "제안서 원본",
+          "고객 요구 사항의 출처",
+          "명확한 가격 계산 근거"
+        ],
+        "limits": "공식 예시입니다. 거래 조건과 견적은 사람이 확인해야 하며 결과물을 거래 성사로 간주할 수 없습니다.",
+        "tags": [
+          "영업",
+          "제안서",
+          "변경 추적"
+        ]
+      }
+    },
+    "launch-alignment": {
+      "en": {
+        "name": "Keep launch materials aligned with product updates",
+        "description": "Connect the launch channel and provide briefs, presentations and approved visuals so product changes are reflected in marketing materials.",
+        "dotRole": "Identify product changes that affect promotional content and prepare updated copy, slides and speaker notes.",
+        "outcome": "Draft revisions to materials and differences that need confirmation from the person responsible.",
+        "requirements": [
+          "A source of launch information",
+          "Briefs and presentations",
+          "Approved visual assets"
+        ],
+        "limits": "An official example; automatic monitoring of any platform has not been verified, and the monitoring scope must still be specified after connecting a channel.",
+        "tags": [
+          "Product launches",
+          "Materials",
+          "Team collaboration"
+        ]
+      },
+      "ja": {
+        "name": "製品更新に合わせて公開用資料も更新",
+        "description": "公開情報のチャンネルを接続し、ブリーフ、プレゼンテーション、承認済みのビジュアル資料を渡して、製品の変更をマーケティング資料に反映します。",
+        "dotRole": "宣伝内容に影響する製品の変更を特定し、更新した文章、スライド、発表原稿を準備します。",
+        "outcome": "資料の改訂草稿と、担当者による確認が必要な差分です。",
+        "requirements": [
+          "公開情報の情報源",
+          "ブリーフとプレゼンテーション",
+          "承認済みのビジュアル素材"
+        ],
+        "limits": "公式の例です。いずれのプラットフォームについても自動監視は検証しておらず、チャンネル接続後も監視範囲を明確にする必要があります。",
+        "tags": [
+          "製品公開",
+          "資料",
+          "チーム共同作業"
+        ]
+      },
+      "ko": {
+        "name": "제품 갱신에 맞춰 출시 자료도 갱신",
+        "description": "출시 채널을 연결하고 브리프, 발표 자료, 승인된 시각 자료를 제공하여 제품 변경 사항을 마케팅 자료에 반영합니다.",
+        "dotRole": "홍보 콘텐츠에 영향을 주는 제품 변경 사항을 파악하고 갱신한 문안, 슬라이드, 발표 원고를 준비합니다.",
+        "outcome": "자료 수정 초안과 담당자의 확인이 필요한 차이점입니다.",
+        "requirements": [
+          "출시 정보의 출처",
+          "브리프 및 발표 자료",
+          "승인된 시각 자료"
+        ],
+        "limits": "공식 예시입니다. 어떤 플랫폼의 자동 모니터링도 검증하지 않았으며 채널을 연결한 후에도 모니터링 범위를 명확히 해야 합니다.",
+        "tags": [
+          "제품 출시",
+          "자료",
+          "팀 협업"
+        ]
+      }
+    },
+    "study-results": {
+      "en": {
+        "name": "Keep research conclusions current as new data arrives",
+        "description": "Give Dot research materials and new measurement results to update comparison charts, explain differences between batches and propose the next round of testing.",
+        "dotRole": "Connect new data to the existing research context and prepare difference analyses and suggestions for follow-up experiments.",
+        "outcome": "Charts, a summary of findings and test suggestions awaiting review.",
+        "requirements": [
+          "Research materials",
+          "Measurement data and units",
+          "Batch definitions and a comparison baseline"
+        ],
+        "limits": "An official example; this site has not recalculated the data or conducted research trials, and the sources and calculations behind the results need to be checked.",
+        "tags": [
+          "Research",
+          "Data analysis",
+          "Experiments"
+        ]
+      },
+      "ja": {
+        "name": "新しい研究データに合わせて結論を継続更新",
+        "description": "研究資料と新しい測定結果を Dot に渡し、比較グラフを更新して、バッチ間の差を説明し、次のテストを提案します。",
+        "dotRole": "新しいデータを既存の研究の文脈に結び付け、差分分析と後続実験の提案を準備します。",
+        "outcome": "グラフ、発見事項の要約、確認待ちのテスト提案です。",
+        "requirements": [
+          "研究資料",
+          "測定データと単位",
+          "バッチの定義基準と比較の基準値"
+        ],
+        "limits": "公式の例です。当サイトではデータの再計算や研究の実地検証を行っていないため、結果の出典と計算を確認する必要があります。",
+        "tags": [
+          "研究",
+          "データ分析",
+          "実験"
+        ]
+      },
+      "ko": {
+        "name": "새 연구 데이터에 맞춰 결론을 지속 갱신",
+        "description": "연구 자료와 새로운 측정 결과를 Dot에 전달하여 비교 차트를 갱신하고 배치 간 차이를 설명하며 다음 테스트를 제안합니다.",
+        "dotRole": "새 데이터를 기존 연구 맥락에 연결하고 차이 분석과 후속 실험 제안을 준비합니다.",
+        "outcome": "차트, 발견 사항 요약, 검토 대기 중인 테스트 제안입니다.",
+        "requirements": [
+          "연구 자료",
+          "측정 데이터와 단위",
+          "배치별 정의 기준과 비교 기준선"
+        ],
+        "limits": "공식 예시입니다. 이 사이트에서는 데이터 재계산이나 연구의 실제 테스트를 수행하지 않았으며 결과의 출처와 계산을 확인해야 합니다.",
+        "tags": [
+          "연구",
+          "데이터 분석",
+          "실험"
+        ]
+      }
+    },
+    "offsite-planning": {
+      "en": {
+        "name": "Event planning: keep track of budgets and deadlines",
+        "description": "Provide an event plan and venue emails to identify this week's decisions affecting the budget, deadlines and whose response is still pending.",
+        "dotRole": "Keep planning activities connected, update the status as people confirm and prepare suggested replies.",
+        "outcome": "Lists of decisions, deadlines and pending matters, plus unsent reply drafts.",
+        "requirements": [
+          "An event plan",
+          "Venue emails you have permission to read",
+          "Budget limits"
+        ],
+        "limits": "An official example; requesting quote adjustments, sending emails and making bookings are actions requiring separate authorization.",
+        "tags": [
+          "Event planning",
+          "Email",
+          "To-dos"
+        ]
+      },
+      "ja": {
+        "name": "イベント準備：予算と期限の把握",
+        "description": "イベント計画と会場からのメールを渡し、今週の予算に影響する判断、期限、誰の返答を待っているかを整理します。",
+        "dotRole": "準備事項のつながりを維持し、関係者の確認に応じて状況を更新して、返信案を準備します。",
+        "outcome": "判断事項、期限、返答待ち事項の一覧と、未送信の返信草稿です。",
+        "requirements": [
+          "イベント計画",
+          "閲覧を許可された会場からのメール",
+          "予算の上限・範囲"
+        ],
+        "limits": "公式の例です。見積もり変更の依頼、メール送信、予約は、別途許可が必要な行動です。",
+        "tags": [
+          "イベント準備",
+          "メール",
+          "やること"
+        ]
+      },
+      "ko": {
+        "name": "행사 준비: 예산과 마감일 관리",
+        "description": "행사 계획과 장소 관련 이메일을 제공하여 이번 주 예산에 영향을 주는 결정, 마감일, 아직 누구의 응답을 기다리는지 정리합니다.",
+        "dotRole": "준비 사항의 연속성을 유지하고 관계자의 확인에 따라 상황을 갱신하며 답장 제안을 준비합니다.",
+        "outcome": "결정, 마감일, 대기 사항 목록과 아직 보내지 않은 답장 초안입니다.",
+        "requirements": [
+          "행사 계획",
+          "읽기 권한을 받은 장소 관련 이메일",
+          "예산 범위"
+        ],
+        "limits": "공식 예시입니다. 견적 조정 요청, 이메일 발송, 예약은 별도의 승인이 필요한 행동입니다.",
+        "tags": [
+          "행사 준비",
+          "이메일",
+          "할 일"
+        ]
+      }
+    },
+    "planning-checkin": {
+      "en": {
+        "name": "Regular checks, alerts only when risks arise",
+        "description": "Check the planning channel using an explicit time zone, update changes and bring back deadline risks or decisions requiring a person.",
+        "dotRole": "Save recurring tasks, check sources, maintain status and report according to the specified notification conditions.",
+        "outcome": "A confirmed schedule and an update list; routine changes stay in the list.",
+        "requirements": [
+          "A supported source connection",
+          "Frequency, time zone and end date",
+          "Confirmation after saving the schedule"
+        ],
+        "limits": "An official example; connecting a channel does not automatically start monitoring, and pausing the main task does not cancel the schedule.",
+        "tags": [
+          "Recurring tasks",
+          "Risk alerts",
+          "Schedules"
+        ]
+      },
+      "ja": {
+        "name": "定期確認、リスクが生じたときだけ通知",
+        "description": "明確に指定したタイムゾーンで準備用チャンネルを確認し、変更点を更新して、期限のリスクや人の判断が必要な事項を持ち帰ります。",
+        "dotRole": "定期タスクを保存し、情報源を確認し、状態を維持して、指定の通知条件に従って報告します。",
+        "outcome": "確認済みのスケジュールと更新一覧です。通常の変更は一覧に保持します。",
+        "requirements": [
+          "接続に対応している情報源",
+          "頻度、タイムゾーン、終了日",
+          "スケジュール保存後の確認"
+        ],
+        "limits": "公式の例です。チャンネルの接続だけで監視は始まらず、主タスクの一時停止はスケジュールの取消を意味しません。",
+        "tags": [
+          "定期タスク",
+          "リスク通知",
+          "スケジュール"
+        ]
+      },
+      "ko": {
+        "name": "정기 점검, 위험 발생 시에만 알림",
+        "description": "명확히 지정한 시간대에 따라 준비 채널을 확인하고 변경 사항을 갱신하며 마감 위험이나 사람의 결정이 필요한 사항을 가져옵니다.",
+        "dotRole": "반복 작업을 저장하고 출처를 확인하며 상태를 유지하고 지정한 알림 조건에 따라 보고합니다.",
+        "outcome": "확인된 일정과 갱신 목록입니다. 일반적인 변경 사항은 목록에 유지합니다.",
+        "requirements": [
+          "연결이 지원되는 출처",
+          "빈도, 시간대, 종료일",
+          "일정 저장 후 확인"
+        ],
+        "limits": "공식 예시입니다. 채널 연결이 자동으로 모니터링을 시작하지는 않으며 주 작업을 일시 중지해도 일정이 취소되는 것은 아닙니다.",
+        "tags": [
+          "반복 작업",
+          "위험 알림",
+          "일정"
+        ]
+      }
+    },
+    "dots-mcp": {
+      "en": {
+        "name": "dots-mcp",
+        "description": "Let MCP clients search Dot-related guides, news and tools and read the community awesome-dots list.",
+        "dotRole": "A tool for finding Dot-related resources, not a control interface for assigning tasks to OpenAI Dot.",
+        "outcome": "Resource entries returned by keyword or section.",
+        "requirements": [
+          "Node.js",
+          "An MCP-compatible client",
+          "Access to public GitHub content"
+        ],
+        "limits": "src/index.ts has been reviewed; the current implementation provides resource listings and search. Sending tasks and checking Dot status remain on the author's roadmap and have not been tested.",
+        "tags": [
+          "MCP",
+          "Resource search",
+          "TypeScript"
+        ]
+      },
+      "ja": {
+        "name": "dots-mcp",
+        "description": "MCP クライアントで Dot 関連のガイド、ニュース、ツールを検索し、コミュニティの awesome-dots 一覧を読み取ります。",
+        "dotRole": "Dot 関連資料の検索ツールであり、OpenAI Dot にタスクを割り当てる制御インターフェースではありません。",
+        "outcome": "キーワードやカテゴリに応じて返されるリソース項目です。",
+        "requirements": [
+          "Node.js",
+          "MCP 対応クライアント",
+          "公開の GitHub コンテンツへのアクセス"
+        ],
+        "limits": "src/index.ts を確認済みです。現在の実装は資料一覧と検索です。タスク送信と Dot の状態確認は作者のロードマップ上の機能であり、実行検証していません。",
+        "tags": [
+          "MCP",
+          "資料検索",
+          "TypeScript"
+        ]
+      },
+      "ko": {
+        "name": "dots-mcp",
+        "description": "MCP 클라이언트에서 Dot 관련 가이드, 뉴스, 도구를 검색하고 커뮤니티의 awesome-dots 목록을 읽습니다.",
+        "dotRole": "Dot 관련 자료 검색 도구이며 OpenAI Dot에 작업을 전달하는 제어 인터페이스가 아닙니다.",
+        "outcome": "키워드나 섹션에 따라 반환되는 자료 항목입니다.",
+        "requirements": [
+          "Node.js",
+          "MCP 지원 클라이언트",
+          "공개 GitHub 콘텐츠에 대한 읽기 접근"
+        ],
+        "limits": "src/index.ts를 검토했습니다. 현재 구현은 자료 목록과 검색입니다. 작업 전송과 Dot 상태 조회는 여전히 작성자의 로드맵에 있으며 직접 테스트하지 않았습니다.",
+        "tags": [
+          "MCP",
+          "자료 검색",
+          "TypeScript"
+        ]
+      }
+    },
+    "awesome-dots": {
+      "en": {
+        "name": "awesome-dots",
+        "description": "A community-maintained Dot resource list bringing together official entry points, getting-started materials, tools and alternatives.",
+        "dotRole": "Help discover resources around Dot; the list itself does not execute Dot tasks.",
+        "outcome": "A browsable resource index and a way to contribute.",
+        "requirements": [
+          "A browser"
+        ],
+        "limits": "The README has been reviewed; news, prices and compatibility still need to be checked individually, and the author's statements are not treated as official facts.",
+        "tags": [
+          "Awesome List",
+          "Resource library",
+          "Community"
+        ]
+      },
+      "ja": {
+        "name": "awesome-dots",
+        "description": "コミュニティが維持する Dot の資料一覧です。公式の入口、入門資料、ツール、代替案をまとめています。",
+        "dotRole": "Dot 周辺の資料を見つけるためのものであり、一覧自体は Dot のタスクを実行しません。",
+        "outcome": "閲覧可能な資料索引と、貢献のための入口です。",
+        "requirements": [
+          "ブラウザ"
+        ],
+        "limits": "README を確認済みです。ニュース、価格、互換性は引き続き個別に照合する必要があり、作者の記述を公式の事実とはみなしません。",
+        "tags": [
+          "Awesome List",
+          "資料集",
+          "コミュニティ"
+        ]
+      },
+      "ko": {
+        "name": "awesome-dots",
+        "description": "커뮤니티가 관리하는 Dot 자료 목록으로 공식 진입점, 시작 자료, 도구, 대안을 한곳에 정리합니다.",
+        "dotRole": "Dot 주변 자료를 찾도록 돕습니다. 목록 자체는 Dot 작업을 실행하지 않습니다.",
+        "outcome": "열람 가능한 자료 색인과 기여 경로입니다.",
+        "requirements": [
+          "브라우저"
+        ],
+        "limits": "README를 검토했습니다. 뉴스, 가격, 호환성은 여전히 항목별로 검증해야 하며 작성자의 주장을 공식 사실로 간주하지 않습니다.",
+        "tags": [
+          "Awesome List",
+          "자료 모음",
+          "커뮤니티"
+        ]
+      }
+    },
+    "dotsbase": {
+      "en": {
+        "name": "dotsbase-site",
+        "description": "An entry point to an unofficial Dot community guide project for learning about this new product and related resources.",
+        "dotRole": "A community guide, not a Dot execution system.",
+        "outcome": "A guide introduction and a project entry point.",
+        "requirements": [
+          "A browser"
+        ],
+        "limits": "The current public repository has been reviewed only through its README and directory structure; no claim is made of a full site implementation review or official endorsement.",
+        "tags": [
+          "Getting started",
+          "Community guide"
+        ]
+      },
+      "ja": {
+        "name": "dotsbase-site",
+        "description": "新製品 Dot と関連資料を知るための、非公式コミュニティガイドのプロジェクトへの入口です。",
+        "dotRole": "コミュニティによる案内であり、Dot の実行システムではありません。",
+        "outcome": "ガイドの紹介とプロジェクトへの入口です。",
+        "requirements": [
+          "ブラウザ"
+        ],
+        "limits": "現在の公開リポジトリは README とディレクトリのみを確認しています。サイト実装全体の確認や公式の認定を主張するものではありません。",
+        "tags": [
+          "入門",
+          "コミュニティガイド"
+        ]
+      },
+      "ko": {
+        "name": "dotsbase-site",
+        "description": "새 제품 Dot과 관련 자료를 알아보기 위한 비공식 Dot 커뮤니티 가이드 프로젝트의 진입점입니다.",
+        "dotRole": "커뮤니티 안내이며 Dot 실행 시스템이 아닙니다.",
+        "outcome": "가이드 소개와 프로젝트 진입점입니다.",
+        "requirements": [
+          "브라우저"
+        ],
+        "limits": "현재 공개 저장소는 README와 디렉터리만 검토했습니다. 전체 사이트 구현을 검토했다거나 공식 인정을 받았다고 주장하지 않습니다.",
+        "tags": [
+          "입문",
+          "커뮤니티 가이드"
+        ]
+      }
+    },
+    "openai-plugins": {
+      "en": {
+        "name": "OpenAI plugins",
+        "description": "The official plugin repository. Dot uses plugins that are supported, installed and authorized for access; this is a development entry point for understanding the plugin ecosystem.",
+        "dotRole": "Plugins can provide service tools; whether Dot can use a particular plugin still depends on support, connection and permissions.",
+        "outcome": "Developer resources and plugin-related project materials.",
+        "requirements": [
+          "Check the support status of the specific plugin",
+          "The corresponding account connection and action permissions"
+        ],
+        "limits": "An official development resource, not a Dot integration case verified by this site. Not all plugins in the repository can be counted as Dot projects.",
+        "tags": [
+          "Official repository",
+          "Plugins",
+          "Developers"
+        ]
+      },
+      "ja": {
+        "name": "OpenAI plugins",
+        "description": "公式のプラグインリポジトリです。Dot は、対応しており、インストール済みで、アクセスを許可されたプラグインを使用します。ここはプラグインのエコシステムを理解するための開発入口です。",
+        "dotRole": "プラグインはサービスのツールを提供できます。特定のプラグインを Dot が使用できるかどうかは、対応状況、接続、権限に依存します。",
+        "outcome": "開発者向けリソースと、プラグイン関連のプロジェクト資料です。",
+        "requirements": [
+          "対象プラグインの対応状況の確認",
+          "該当アカウントの接続と操作権限"
+        ],
+        "limits": "公式の開発資料であり、当サイトで検証した Dot 連携事例ではありません。リポジトリ内の全プラグインを Dot プロジェクトとして数えることはできません。",
+        "tags": [
+          "公式リポジトリ",
+          "プラグイン",
+          "開発者"
+        ]
+      },
+      "ko": {
+        "name": "OpenAI plugins",
+        "description": "공식 플러그인 저장소입니다. Dot은 지원되고 설치되어 있으며 접근이 허용된 플러그인을 사용합니다. 플러그인 생태계를 이해하기 위한 개발 진입점입니다.",
+        "dotRole": "플러그인은 서비스 도구를 제공할 수 있습니다. 특정 플러그인을 Dot에서 사용할 수 있는지는 여전히 지원 여부, 연결, 권한에 달려 있습니다.",
+        "outcome": "개발자 자료와 플러그인 관련 프로젝트 자료입니다.",
+        "requirements": [
+          "특정 플러그인의 지원 상태 확인",
+          "해당 계정 연결과 작업 권한"
+        ],
+        "limits": "공식 개발 자료이며 이 사이트에서 검증한 Dot 통합 사례가 아닙니다. 저장소의 모든 플러그인을 Dot 프로젝트로 집계할 수 없습니다.",
+        "tags": [
+          "공식 저장소",
+          "플러그인",
+          "개발자"
+        ]
+      }
+    },
+    "mcp-extensions": {
+      "en": {
+        "name": "MCP extensions",
+        "description": "Official MCP extension development resources for building plugin interfaces and interactions better suited to ChatGPT.",
+        "dotRole": "Part of the surrounding development foundation; an MCP extension alone is not grounds for claiming Dot control.",
+        "outcome": "Extension specifications, implementations or examples; consult the actual source at a fixed version.",
+        "requirements": [
+          "An understanding of MCP and plugin development",
+          "Review the runtime prerequisites of the specific extension"
+        ],
+        "limits": "A development resource, not evidence of a completed end-to-end Dot connection; this site has not installed or run it.",
+        "tags": [
+          "MCP",
+          "Plugin extensions",
+          "Official repository"
+        ]
+      },
+      "ja": {
+        "name": "MCP extensions",
+        "description": "ChatGPT により適したプラグインの画面と操作を構築するための、公式 MCP 拡張の開発資料です。",
+        "dotRole": "周辺の開発基盤に属するものであり、MCP 拡張だけを根拠に Dot を制御できるとは主張できません。",
+        "outcome": "拡張の仕様、実装、または例です。実際の固定バージョンの出典を参照します。",
+        "requirements": [
+          "MCP とプラグイン開発の理解",
+          "対象拡張の実行前提の確認"
+        ],
+        "limits": "開発資料であり、Dot へのエンドツーエンドの接続完了を意味しません。当サイトではインストールも実行もしていません。",
+        "tags": [
+          "MCP",
+          "プラグイン拡張",
+          "公式リポジトリ"
+        ]
+      },
+      "ko": {
+        "name": "MCP extensions",
+        "description": "ChatGPT에 더 적합한 플러그인 화면과 상호작용을 구축하기 위한 공식 MCP 확장 개발 자료입니다.",
+        "dotRole": "주변 개발 기반에 속하며 MCP 확장만으로 Dot을 제어할 수 있다고 주장할 수 없습니다.",
+        "outcome": "확장 명세, 구현 또는 예시입니다. 실제 고정 버전 출처를 참조합니다.",
+        "requirements": [
+          "MCP와 플러그인 개발에 대한 이해",
+          "특정 확장의 실행 전제 조건 확인"
+        ],
+        "limits": "개발 자료이며 Dot의 엔드투엔드 연결이 완료되었다는 의미가 아닙니다. 이 사이트에서는 설치하거나 실행하지 않았습니다.",
+        "tags": [
+          "MCP",
+          "플러그인 확장",
+          "공식 저장소"
+        ]
+      }
+    },
+    "opendot": {
+      "en": {
+        "name": "opendot",
+        "description": "An independent open-source approach to a persistent Agent, with coordinator, topic-task and tool organization patterns to refer to.",
+        "dotRole": "An independent alternative approach to OpenAI Dot, not a Dot plugin; it does not share Dot accounts or memory.",
+        "outcome": "A coordinator and task architecture available for study.",
+        "requirements": [
+          "Configure an independent runtime environment according to the project documentation",
+          "Review the models, tools and permissions yourself"
+        ],
+        "limits": "Coordinator source excerpts at a fixed version have been reviewed, but it has not been deployed; it cannot be described as an OpenAI Dot usage case.",
+        "tags": [
+          "Independent alternative",
+          "Persistent Agent",
+          "Coordinator"
+        ]
+      },
+      "ja": {
+        "name": "opendot",
+        "description": "独立したオープンソースの常駐 Agent 方式です。コーディネーター、話題ごとのタスク、ツールの整理方法を参考にできます。",
+        "dotRole": "OpenAI Dot の独立した代替の考え方であり、Dot のプラグインではありません。Dot のアカウントや記憶も共用しません。",
+        "outcome": "研究対象となるコーディネーターとタスクの構造です。",
+        "requirements": [
+          "プロジェクト文書に従った独立実行環境の設定",
+          "モデル、ツール、権限の自己確認"
+        ],
+        "limits": "固定バージョンのコーディネーターのソース断片を確認済みですが、デプロイしていません。OpenAI Dot の利用事例とは呼べません。",
+        "tags": [
+          "独立した代替案",
+          "常駐 Agent",
+          "コーディネーター"
+        ]
+      },
+      "ko": {
+        "name": "opendot",
+        "description": "독립적인 오픈 소스 상주 Agent 접근 방식입니다. 코디네이터, 주제별 작업, 도구 구성 방식을 참고할 수 있습니다.",
+        "dotRole": "OpenAI Dot의 독립적인 대안 구상이며 Dot 플러그인이 아닙니다. Dot의 계정이나 메모리도 공유하지 않습니다.",
+        "outcome": "연구할 수 있는 코디네이터 및 작업 아키텍처입니다.",
+        "requirements": [
+          "프로젝트 문서에 따라 독립 실행 환경 설정",
+          "모델, 도구, 권한을 직접 검토"
+        ],
+        "limits": "고정 버전의 코디네이터 소스 코드 일부를 검토했으며 배포하지 않았습니다. OpenAI Dot 활용 사례라고 부를 수 없습니다.",
+        "tags": [
+          "독립 대안",
+          "상주 Agent",
+          "코디네이터"
+        ]
+      }
+    },
+    "open-dots": {
+      "en": {
+        "name": "open-dots",
+        "description": "Positioned by its author as a self-hosted Dot alternative covering chat, tools, approvals, connectors and computer tasks.",
+        "dotRole": "An independent implementation, not an indication that it connects to the OpenAI Dot product.",
+        "outcome": "A reference implementation of a self-hosted Agent application.",
+        "requirements": [
+          "Prepare the frontend, backend and model configuration according to the project documentation",
+          "Review account, execution and approval boundaries"
+        ],
+        "limits": "The README and a limited set of frontend files have been reviewed; the core execution chain has not been fully reviewed, let alone deployed or security-audited.",
+        "tags": [
+          "Self-hosting",
+          "Independent alternative",
+          "Approvals"
+        ]
+      },
+      "ja": {
+        "name": "open-dots",
+        "description": "作者はセルフホスト型の Dot 代替案と位置付けており、チャット、ツール、承認、コネクター、コンピューター上のタスクを対象としています。",
+        "dotRole": "独立した実装であり、OpenAI Dot 製品への接続を意味するものではありません。",
+        "outcome": "セルフホスト型 Agent アプリケーションの参照実装です。",
+        "requirements": [
+          "プロジェクト文書に従ったフロントエンド、バックエンド、モデル設定の準備",
+          "アカウント、実行、承認の境界の確認"
+        ],
+        "limits": "README と限られたフロントエンドファイルを確認済みです。中核の実行経路は確認し終えておらず、デプロイやセキュリティ監査も行っていません。",
+        "tags": [
+          "セルフホスト",
+          "独立した代替案",
+          "承認"
+        ]
+      },
+      "ko": {
+        "name": "open-dots",
+        "description": "작성자가 셀프 호스팅 Dot 대안으로 제시하며 채팅, 도구, 승인, 커넥터, 컴퓨터 작업을 포함합니다.",
+        "dotRole": "독립 구현이며 OpenAI Dot 제품에 연결되었다는 의미는 아닙니다.",
+        "outcome": "셀프 호스팅 Agent 애플리케이션의 참조 구현입니다.",
+        "requirements": [
+          "프로젝트 문서에 따라 프런트엔드, 백엔드, 모델 설정 준비",
+          "계정, 실행, 승인 범위 검토"
+        ],
+        "limits": "README와 제한된 프런트엔드 파일을 검토했습니다. 핵심 실행 경로의 검토가 끝나지 않았으며 배포나 보안 감사도 하지 않았습니다.",
+        "tags": [
+          "셀프 호스팅",
+          "독립 대안",
+          "승인"
+        ]
+      }
+    },
+    "zeruel": {
+      "en": {
+        "name": "zeruel",
+        "description": "A synthetic feasibility prototype for personal Agent workflows and drafts. The README explicitly states that it is not yet an operational Agent, does not observe the desktop and does not process real materials.",
+        "dotRole": "The repository description positions it as an independent alternative approach; it is not an OpenAI Dot extension, nor evidence that persistent tasks have successfully run.",
+        "outcome": "Prototype code, simulated tests and notes on unresolved runtime prerequisites.",
+        "requirements": [
+          "Check the Python and Gemini CLI prerequisites in the current README",
+          "Resolve the provider blocker recorded by the author before considering trials with a real account"
+        ],
+        "limits": "The README and repository description differ noticeably; the README at the fixed version is authoritative. The author reports a provider blocker; this site has only carried out a partial review and has not verified execution or costs.",
+        "tags": [
+          "Independent alternative",
+          "Feasibility prototype",
+          "Execution blocker"
+        ]
+      },
+      "ja": {
+        "name": "zeruel",
+        "description": "個人用 Agent のワークフローと草稿を対象とした、合成ベースの実現可能性プロトタイプです。README には、まだ動作可能な Agent ではなく、デスクトップを観察せず、実際の資料も処理しないと明記されています。",
+        "dotRole": "リポジトリの説明では独立した代替の考え方と位置付けられています。OpenAI Dot の拡張ではなく、常駐タスクの動作完了を示すものでもありません。",
+        "outcome": "プロトタイプのコード、模擬テスト、未解決の実行前提の説明です。",
+        "requirements": [
+          "現行 README の Python と Gemini CLI の前提条件の確認",
+          "実際のアカウントでの試行を検討する前に、作者が記録した提供元による阻害要因を解消"
+        ],
+        "limits": "README とリポジトリの説明には明確な差があるため、固定バージョンの README を基準とします。作者は提供元による阻害要因を報告しています。当サイトでは一部のみを確認し、実行や費用は検証していません。",
+        "tags": [
+          "独立した代替案",
+          "実現可能性プロトタイプ",
+          "実行の阻害要因"
+        ]
+      },
+      "ko": {
+        "name": "zeruel",
+        "description": "개인 Agent 워크플로와 초안을 위한 합성 기반 타당성 프로토타입입니다. README는 아직 작동 가능한 Agent가 아니며 데스크톱을 관찰하지 않고 실제 자료도 처리하지 않는다고 명시합니다.",
+        "dotRole": "저장소 설명에서는 독립적인 대안 구상으로 제시합니다. OpenAI Dot 확장이 아니며 상주 작업이 정상 실행되었다는 의미도 아닙니다.",
+        "outcome": "프로토타입 코드, 모의 테스트, 해결되지 않은 실행 전제 조건에 대한 설명입니다.",
+        "requirements": [
+          "현재 README의 Python 및 Gemini CLI 전제 조건 확인",
+          "실제 계정 시험 실행을 논하기 전에 작성자가 기록한 제공자 측 장애 요인을 먼저 해결"
+        ],
+        "limits": "README와 저장소 설명에 뚜렷한 차이가 있어 고정 버전 README를 기준으로 합니다. 작성자는 제공자 측 장애 요인을 보고했습니다. 이 사이트는 일부만 검토했으며 실행이나 비용은 검증하지 않았습니다.",
+        "tags": [
+          "독립 대안",
+          "타당성 프로토타입",
+          "실행 장애 요인"
+        ]
+      }
+    }
+  }
+}

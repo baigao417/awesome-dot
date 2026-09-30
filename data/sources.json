@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-09-30",
+  "sources": [
+    {"id":"overview","title":"Meet dots","url":"https://learn.chatgpt.com/docs/dots","kind":"official","supports":"持续代理及官方责任场景。官方示例不代表本站做过实测。"},
+    {"id":"computers","title":"Connect computers and apps","url":"https://learn.chatgpt.com/docs/dots/computers-and-apps","kind":"official","supports":"云端与本机环境、独立登录态、插件和本地 Skill 的前提。"},
+    {"id":"tasks","title":"Tasks and memory","url":"https://learn.chatgpt.com/docs/dots/tasks-and-memory","kind":"official","supports":"持续任务、保存的日程、支持的事件监控及上下文边界。"},
+    {"id":"controls","title":"Control your dot","url":"https://learn.chatgpt.com/docs/dots/controls","kind":"official","supports":"审批、发送边界和停止任务；暂停不等于取消全部任务。"}
+  ]
+}

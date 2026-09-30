@@ -1,0 +1,171 @@
+{
+  "checkedAt": "2026-09-30T05:43:19.387Z",
+  "method": "Fixed-commit public source references and hashes; bounded inspection, not execution.",
+  "projects": [
+    {
+      "repository": "mergisi/awesome-dots",
+      "description": "A curated list of resources, guides, tools and use cases for OpenAI Dots — always-on proactive agents (DevDay 2026). Unofficial.",
+      "url": "https://github.com/mergisi/awesome-dots",
+      "stars": 0,
+      "updatedAt": "2026-09-29T19:57:23Z",
+      "license": "NOASSERTION",
+      "commit": "db80d6f5e76e40c359eaf60bbf4eecc303c6748f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/mergisi/awesome-dots/blob/db80d6f5e76e40c359eaf60bbf4eecc303c6748f/README.md",
+      "readmeSha256": "e336c24e7416d7fde199969a24d6111483a3e1c466a73829aa92762a8b95307c",
+      "files": []
+    },
+    {
+      "repository": "mergisi/dots-mcp",
+      "description": "MCP server for OpenAI Dots (unofficial) — search Dots guides, news, tools and use cases from any MCP client.",
+      "url": "https://github.com/mergisi/dots-mcp",
+      "stars": 0,
+      "updatedAt": "2026-09-29T17:18:58Z",
+      "license": "MIT",
+      "commit": "d9c535c7ee3bd2884c2ea924e1cc9f8108e505f1",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/mergisi/dots-mcp/blob/d9c535c7ee3bd2884c2ea924e1cc9f8108e505f1/README.md",
+      "readmeSha256": "3ed0ebdd2bd53af0e34cbc92aab445b4aa8dce299bf13bd40b06b65b74bfefb6",
+      "files": [
+        {
+          "path": "src/index.ts",
+          "url": "https://github.com/mergisi/dots-mcp/blob/d9c535c7ee3bd2884c2ea924e1cc9f8108e505f1/src/index.ts",
+          "sha256": "0145d20651f8338441fefec5b6610e9bf0da3a9dcc6c17d3512ea085a1f0e561"
+        }
+      ]
+    },
+    {
+      "repository": "ylwl1997/dotsbase-site",
+      "description": "Project intro for dotsbase.com — unofficial community guide to OpenAI dots (not affiliated with OpenAI)",
+      "url": "https://github.com/ylwl1997/dotsbase-site",
+      "stars": 0,
+      "updatedAt": "2026-09-30T01:16:38Z",
+      "license": "NOASSERTION",
+      "commit": "bbd39d0df8ab24833b79aac46e37800c24ac47ea",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ylwl1997/dotsbase-site/blob/bbd39d0df8ab24833b79aac46e37800c24ac47ea/README.md",
+      "readmeSha256": "49e0eef4ca73c18fc3077560926bc80a9f03f0235c8547c8790924ab60b1ed64",
+      "files": []
+    },
+    {
+      "repository": "Anil-matcha/open-dots",
+      "description": "Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.",
+      "url": "https://github.com/Anil-matcha/open-dots",
+      "stars": 4579,
+      "updatedAt": "2026-09-29T20:36:26Z",
+      "license": "MIT",
+      "commit": "617ac65fca19a524e9747b69b08ff398a60516b2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Anil-matcha/open-dots/blob/617ac65fca19a524e9747b69b08ff398a60516b2/README.md",
+      "readmeSha256": "b47af6b2ced810669656c7688cc5d500383155680d2967a486387d69e363a9e1",
+      "files": [
+        {
+          "path": "client/app/layout.js",
+          "url": "https://github.com/Anil-matcha/open-dots/blob/617ac65fca19a524e9747b69b08ff398a60516b2/client/app/layout.js",
+          "sha256": "612ca1143a6ca88d04184f29487afc48ba4b51f45c6b017a7d6480b5df9ffda3"
+        },
+        {
+          "path": "client/app/not-found.js",
+          "url": "https://github.com/Anil-matcha/open-dots/blob/617ac65fca19a524e9747b69b08ff398a60516b2/client/app/not-found.js",
+          "sha256": "d6745e2819e3dc2434b9d697be889d9365332fd917a04176566e231e564324b9"
+        }
+      ]
+    },
+    {
+      "repository": "diggerhq/opendot",
+      "description": "An always-on personal agent you own, on the model you choose. A model-agnostic alternative to OpenAI's Dots, built on OpenComputer Serverless Agents.",
+      "url": "https://github.com/diggerhq/opendots",
+      "stars": 6,
+      "updatedAt": "2026-09-29T17:49:49Z",
+      "license": "MIT",
+      "commit": "fbdf673f2648507cf4710ed00d480ba787f4e3a8",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/diggerhq/opendot/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/README.md",
+      "readmeSha256": "1d04de421477d0e12d68c70421282f8cdf8c99edac4cac434bb9314d20cccd00",
+      "files": [
+        {
+          "path": "opencomputer/agents/coordinator/agent.ts",
+          "url": "https://github.com/diggerhq/opendot/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/opencomputer/agents/coordinator/agent.ts",
+          "sha256": "04f1d8caea857a2ad325c01e0c26c564790579efba50386d79d7053f199c1b12"
+        },
+        {
+          "path": "opencomputer/agents/coordinator/tools/start-topic.ts",
+          "url": "https://github.com/diggerhq/opendot/blob/fbdf673f2648507cf4710ed00d480ba787f4e3a8/opencomputer/agents/coordinator/tools/start-topic.ts",
+          "sha256": "d11c7125ea0ddefd95ab96ae0f7cdcf5794d7e50694a776e1305612155fa9753"
+        }
+      ]
+    },
+    {
+      "repository": "zero-phoenix/zeruel",
+      "description": "Zeruel — Brazo de Dios. Agente autonomo soberano de bajo coste. Alternativa open-source a OpenAI Dots: Google Drive como OS, Apps Script como runtime serverless, Gemini como cerebro. Memoria persistente, grabacion de pantalla, asimilacion de GitHub, HITL, multicanal.",
+      "url": "https://github.com/zero-phoenix/zeruel",
+      "stars": 0,
+      "updatedAt": "2026-09-30T04:53:20Z",
+      "license": "NOASSERTION",
+      "commit": "f12980cd3632f7c7914fa564acfb6a9c1ed76808",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zero-phoenix/zeruel/blob/f12980cd3632f7c7914fa564acfb6a9c1ed76808/README.md",
+      "readmeSha256": "6ff52aa61ffd4c00534d49d6bd0a6f4ad72be3f31d4dd44e9572a45aa7e4c24f",
+      "files": [
+        {
+          "path": "apps-script/appsscript.json",
+          "url": "https://github.com/zero-phoenix/zeruel/blob/f12980cd3632f7c7914fa564acfb6a9c1ed76808/apps-script/appsscript.json",
+          "sha256": "c52005a98b7ddda150e5dca1d3389e1c92f124e4f9ccf2ebd5d4ed6af7171296"
+        },
+        {
+          "path": "web/app.js",
+          "url": "https://github.com/zero-phoenix/zeruel/blob/f12980cd3632f7c7914fa564acfb6a9c1ed76808/web/app.js",
+          "sha256": "0f75174dd9d5ef68148459cc90d15d2d18d90b38b9395132208e192282a6452d"
+        }
+      ]
+    },
+    {
+      "repository": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "url": "https://github.com/openai/plugins",
+      "stars": 7237,
+      "updatedAt": "2026-09-28T17:08:10Z",
+      "license": "NOASSERTION",
+      "commit": "5fd93af4cd0c623e020d0cc7e9ce178b4ac1f70f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/openai/plugins/blob/5fd93af4cd0c623e020d0cc7e9ce178b4ac1f70f/README.md",
+      "readmeSha256": "b3681ebd15797bdee1d638c6520c7ba10a36e676760ea5c251530f53f843c852",
+      "files": [
+        {
+          "path": ".agents/plugins/api_marketplace.json",
+          "url": "https://github.com/openai/plugins/blob/5fd93af4cd0c623e020d0cc7e9ce178b4ac1f70f/.agents/plugins/api_marketplace.json",
+          "sha256": "59ed8bac0f2c1a4abb95547688e0e81385bd7965a810865f80e645ee594ca9b9"
+        },
+        {
+          "path": ".agents/plugins/marketplace.json",
+          "url": "https://github.com/openai/plugins/blob/5fd93af4cd0c623e020d0cc7e9ce178b4ac1f70f/.agents/plugins/marketplace.json",
+          "sha256": "62ed7a1c906a7e486a84ee3f2f7eba048d075e360e355072e1b0823a128f432e"
+        }
+      ]
+    },
+    {
+      "repository": "openai/mcp-extensions",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "stars": 289,
+      "updatedAt": "2026-09-29T19:30:39Z",
+      "license": "Apache-2.0",
+      "commit": "e314720a0daac326217d1f123fcf51647868fa9f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/openai/mcp-extensions/blob/e314720a0daac326217d1f123fcf51647868fa9f/README.md",
+      "readmeSha256": "8ce2e3ce76ee1c323a3c2bd68ddb6caeb3205f3c18aaaa77f0f63bf18bd9d40b",
+      "files": [
+        {
+          "path": ".agents/plugins/marketplace.json",
+          "url": "https://github.com/openai/mcp-extensions/blob/e314720a0daac326217d1f123fcf51647868fa9f/.agents/plugins/marketplace.json",
+          "sha256": "8df57ead38e285d9f8e23c4df1f489802bc3715911ec3dc1a054f3020710770a"
+        },
+        {
+          "path": "plugins/bits-and-bolts/.codex-plugin/plugin.json",
+          "url": "https://github.com/openai/mcp-extensions/blob/e314720a0daac326217d1f123fcf51647868fa9f/plugins/bits-and-bolts/.codex-plugin/plugin.json",
+          "sha256": "67001856d1585e6254cea2cb0e53b008f55c259ee87ae063aea4b6b12e39a1b5"
+        }
+      ]
+    }
+  ]
+}

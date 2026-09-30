@@ -1,0 +1,35 @@
+name: Discover Dot Projects
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */12 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dot-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Scan bounded public GitHub candidates
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/scan-github.mjs
+      - name: Save candidates and partial-failure evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dot-discovery-${{ github.run_id }}
+          path: data/candidates.json
+          if-no-files-found: error
+          retention-days: 14

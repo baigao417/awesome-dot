@@ -1,0 +1,16 @@
+{
+  "name": "awesome-dot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "discover": "node scripts/scan-github.mjs",
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": { "lucide": "1.49.0" },
+  "devDependencies": { "vite": "8.3.1" }
+}

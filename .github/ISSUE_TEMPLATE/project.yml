@@ -1,0 +1,42 @@
+name: Submit a Dot project or case
+description: Suggest a source-backed Dot case, community resource or independent alternative.
+title: '[Submission] '
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project or case name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Public URL
+      placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: textarea
+    id: role
+    attributes:
+      label: What specifically does OpenAI Dot do here?
+      description: Say explicitly if this is a resource, building block or independent alternative.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source or execution evidence
+      description: Fixed-commit source links, official example, public demonstration or trial receipt. Never include credentials or private conversations.
+    validations:
+      required: true
+  - type: dropdown
+    id: verification
+    attributes:
+      label: Verification status
+      options:
+        - Official illustrative example
+        - README inspected only
+        - Source inspected, not run
+        - Executed, with public evidence
+    validations:
+      required: true

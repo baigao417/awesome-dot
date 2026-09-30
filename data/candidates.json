@@ -1,0 +1,94 @@
+{
+  "checkedAt": "2026-09-30T05:56:35.315Z",
+  "status": "success",
+  "queries": [
+    "\"openai dots\" in:name,description,readme",
+    "\"chatgpt dots\" in:name,description,readme",
+    "topic:openai-dots"
+  ],
+  "candidates": [
+    {
+      "repository": "zero-phoenix/zeruel",
+      "url": "https://github.com/zero-phoenix/zeruel",
+      "description": "Zeruel — Brazo de Dios. Agente autonomo soberano de bajo coste. Alternativa open-source a OpenAI Dots: Google Drive como OS, Apps Script como runtime serverless, Gemini como cerebro. Memoria persistente, grabacion de pantalla, asimilacion de GitHub, HITL, multicanal.",
+      "stars": 0,
+      "updatedAt": "2026-09-30T04:53:20Z",
+      "alreadyListed": true,
+      "status": "pending_source_review",
+      "tested": false
+    },
+    {
+      "repository": "ylwl1997/dotsbase-site",
+      "url": "https://github.com/ylwl1997/dotsbase-site",
+      "description": "Project intro for dotsbase.com — unofficial community guide to OpenAI dots (not affiliated with OpenAI)",
+      "stars": 0,
+      "updatedAt": "2026-09-30T01:16:38Z",
+      "alreadyListed": true,
+      "status": "pending_source_review",
+      "tested": false
+    },
+    {
+      "repository": "Anil-matcha/open-dots",
+      "url": "https://github.com/Anil-matcha/open-dots",
+      "description": "Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.",
+      "stars": 4586,
+      "updatedAt": "2026-09-29T20:36:26Z",
+      "alreadyListed": true,
+      "status": "pending_source_review",
+      "tested": false
+    },
+    {
+      "repository": "mergisi/awesome-dots",
+      "url": "https://github.com/mergisi/awesome-dots",
+      "description": "A curated list of resources, guides, tools and use cases for OpenAI Dots — always-on proactive agents (DevDay 2026). Unofficial.",
+      "stars": 0,
+      "updatedAt": "2026-09-29T19:57:23Z",
+      "alreadyListed": true,
+      "status": "pending_source_review",
+      "tested": false
+    },
+    {
+      "repository": "mergisi/dots-mcp",
+      "url": "https://github.com/mergisi/dots-mcp",
+      "description": "MCP server for OpenAI Dots (unofficial) — search Dots guides, news, tools and use cases from any MCP client.",
+      "stars": 0,
+      "updatedAt": "2026-09-29T17:18:58Z",
+      "alreadyListed": true,
+      "status": "pending_source_review",
+      "tested": false
+    },
+    {
+      "repository": "QuarkOS/grokbot-vs-dots",
+      "url": "https://github.com/QuarkOS/grokbot-vs-dots",
+      "description": "Narrated papercraft Remotion video: Grokbot vs ChatGPT Dots",
+      "stars": 0,
+      "updatedAt": "2026-09-29T20:39:50Z",
+      "alreadyListed": false,
+      "status": "pending_source_review",
+      "tested": false
+    },
+    {
+      "repository": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "stars": 332,
+      "updatedAt": "2026-09-29T23:24:01Z",
+      "alreadyListed": false,
+      "status": "pending_source_review",
+      "tested": false
+    },
+    {
+      "repository": "feder-cr/awesome-dots",
+      "url": "https://github.com/feder-cr/awesome-dots",
+      "description": "The open-source side of dots: agents you can run yourself, and the pieces every dot is made of.",
+      "stars": 0,
+      "updatedAt": "2026-09-29T23:13:38Z",
+      "alreadyListed": false,
+      "status": "pending_source_review",
+      "tested": false
+    }
+  ],
+  "errors": [],
+  "excludedCount": 36,
+  "searchCoverage": "Bounded: up to 30 results per query; not a full GitHub census."
+}

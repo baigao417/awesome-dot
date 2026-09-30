@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+.playwright-cli/
+output/playwright/
+output/
+docs/agent-runs/
+skills/
+data/discovery.json
