@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-09-30。共 59 条。
+更新日期：2026-10-01。共 67 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -63,3 +63,11 @@
 | OpenAI-Dots | community_project | OpenAI Dots is the always-on agent from DevDay (September 29, 2026). | [来源](https://github.com/OpenAI-Dots/OpenAI-Dots) |
 | pantry-wizard-dots-connector | task_template | A template project meant to be forked into your local github in order to hold the environment variables required for ChatGPT dots | [来源](https://github.com/esper256/pantry-wizard-dots-connector) |
 | motes | community_project | Motes is an open-source alternative to OpenAI Dots — always-on AI agents that connect to your email, calendar, GitHub, maps, and services to work autonomously on your behalf. | [来源](https://github.com/levalencia/motes) |
+| tarocub | building_block | Always-on personal AI bots like Grok Bot, OpenAI dots, and Meta Muse, but running on your own machine and living in Feishu/Lark. | [来源](https://github.com/cloveric/tarocub) |
+| awesome-dots | community_project | Awesome Dots: A curated collection of architectures, tools, policies, and workflows for the OpenAI Dots ecosystem. | [来源](https://github.com/0x-Shashi/awesome-dots) |
+| odotsy | community_project | The first click opens ChatGPT Dots as an Omarchy web app in your default browser, using your normal browser profile. | [来源](https://github.com/Telep-IO/odotsy) |
+| dot | community_project | OpenAI Dots — análise, comparativo e críticas (PT/EN/ES) | [来源](https://github.com/inematds/dot) |
+| dotline | building_block | A direct line between your ChatGPT dot and Claude Code. | [来源](https://github.com/Grit-77/dotline) |
+| agent-phone | community_project | Built for individuals and organizations who want personal AI agents with clear control — without depending on OpenAI Dots or heavy cloud lock-in. | [来源](https://github.com/mrzulqarnainnadabo/agent-phone) |
+| oposse | community_project | All your personal assistants behind one icon in the Omarchy bar: Muse, ChatGPT Dots and your Grok Bot roster. | [来源](https://github.com/Telep-IO/oposse) |
+| dot-meeting-meter-test | community_project | Sandbox project for testing ChatGPT Dot, GitHub, and Cursor Cloud Agent coordination. | [来源](https://github.com/trpl333/dot-meeting-meter-test) |

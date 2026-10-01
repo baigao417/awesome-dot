@@ -265,3 +265,59 @@
 - README: https://github.com/levalencia/motes/blob/810238268e994ac246f4073430a6a49157ca7182/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## cloveric/tarocub
+
+- Commit: `9c5154aa8b897e84e88ee7cc7a86145fd7112215`
+- README: https://github.com/cloveric/tarocub/blob/9c5154aa8b897e84e88ee7cc7a86145fd7112215/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## 0x-Shashi/awesome-dots
+
+- Commit: `ea7fd9c4e1856aae37931712ad4e1fb1ff00c0fc`
+- README: https://github.com/0x-Shashi/awesome-dots/blob/ea7fd9c4e1856aae37931712ad4e1fb1ff00c0fc/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Telep-IO/odotsy
+
+- Commit: `79ba0951770c6040e3a10d50a2412f580d22fdc7`
+- README: https://github.com/Telep-IO/odotsy/blob/79ba0951770c6040e3a10d50a2412f580d22fdc7/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## inematds/dot
+
+- Commit: `15440de669f0e25d97f587fffab96aaf3d97dd76`
+- README: https://github.com/inematds/dot/blob/15440de669f0e25d97f587fffab96aaf3d97dd76/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Grit-77/dotline
+
+- Commit: `897f62c209d8221caf5a2bc8109fc1ae13adaafa`
+- README: https://github.com/Grit-77/dotline/blob/897f62c209d8221caf5a2bc8109fc1ae13adaafa/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## mrzulqarnainnadabo/agent-phone
+
+- Commit: `2d7ea915cfa1c1d69a335dd9f9d4f011e2af8983`
+- README: https://github.com/mrzulqarnainnadabo/agent-phone/blob/2d7ea915cfa1c1d69a335dd9f9d4f011e2af8983/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Telep-IO/oposse
+
+- Commit: `50485ff1f8df369096032297fad134412bc51a4c`
+- README: https://github.com/Telep-IO/oposse/blob/50485ff1f8df369096032297fad134412bc51a4c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## trpl333/dot-meeting-meter-test
+
+- Commit: `5d419ee1ccfdf14126a59f4b97b985067654f343`
+- README: https://github.com/trpl333/dot-meeting-meter-test/blob/5d419ee1ccfdf14126a59f4b97b985067654f343/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
