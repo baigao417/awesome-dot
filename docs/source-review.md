@@ -321,3 +321,59 @@
 - README: https://github.com/trpl333/dot-meeting-meter-test/blob/5d419ee1ccfdf14126a59f4b97b985067654f343/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## knownothing20/dots-panel
+
+- Commit: `d1e25b6efdd87c7adf5dcac36916020ef57d492a`
+- README: https://github.com/knownothing20/dots-panel/blob/d1e25b6efdd87c7adf5dcac36916020ef57d492a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Tiee7/dot-green-book
+
+- Commit: `02a24efddb1f1a1efb446e1b4566541306e46043`
+- README: https://github.com/Tiee7/dot-green-book/blob/02a24efddb1f1a1efb446e1b4566541306e46043/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## xAmirHamza77/Poka-Bot
+
+- Commit: `33a936b759dda05a060d6bc6f7d80774d850c876`
+- README: https://github.com/xAmirHamza77/Poka-Bot/blob/33a936b759dda05a060d6bc6f7d80774d850c876/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Blueteak/Discord-DotBot
+
+- Commit: `0d7ac6bf41f4a12f9e3f5d2c1d982374996e492b`
+- README: https://github.com/Blueteak/Discord-DotBot/blob/0d7ac6bf41f4a12f9e3f5d2c1d982374996e492b/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## aieo-product/dots_stackchan
+
+- Commit: `b40b7c4d1b60acf7215aaedbcfbebb3561d52421`
+- README: https://github.com/aieo-product/dots_stackchan/blob/b40b7c4d1b60acf7215aaedbcfbebb3561d52421/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## brainsparker/you.md
+
+- Commit: `18b31a37fdf92b583d5e5fe23894aefe27d07e6a`
+- README: https://github.com/brainsparker/you.md/blob/18b31a37fdf92b583d5e5fe23894aefe27d07e6a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Audiofool934/prismo
+
+- Commit: `519f2d4d845ddf1c07978a07d6decd74b51cf37c`
+- README: https://github.com/Audiofool934/prismo/blob/519f2d4d845ddf1c07978a07d6decd74b51cf37c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## xlabsg/nori
+
+- Commit: `4d1e9c4b4098c9ad34fb57abfc7fc379d90c3485`
+- README: https://github.com/xlabsg/nori/blob/4d1e9c4b4098c9ad34fb57abfc7fc379d90c3485/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

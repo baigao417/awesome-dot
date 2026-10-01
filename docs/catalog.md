@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-01。共 67 条。
+更新日期：2026-10-01。共 75 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -71,3 +71,11 @@
 | agent-phone | community_project | Built for individuals and organizations who want personal AI agents with clear control — without depending on OpenAI Dots or heavy cloud lock-in. | [来源](https://github.com/mrzulqarnainnadabo/agent-phone) |
 | oposse | community_project | All your personal assistants behind one icon in the Omarchy bar: Muse, ChatGPT Dots and your Grok Bot roster. | [来源](https://github.com/Telep-IO/oposse) |
 | dot-meeting-meter-test | community_project | Sandbox project for testing ChatGPT Dot, GitHub, and Cursor Cloud Agent coordination. | [来源](https://github.com/trpl333/dot-meeting-meter-test) |
+| dots-panel | community_project | 为 OpenAI dot 云电脑打造的开源辅助面板，让任务进度与成果看得见。 | [来源](https://github.com/knownothing20/dots-panel) |
+| dot-green-book | tutorial | 一本循序渐进教你使用 ChatGPT Dot 的开源中文手册。从第一次交代小任务，走到资料连接、持续跟进、任务委派和成果验收。 | [来源](https://github.com/Tiee7/dot-green-book) |
+| Poka-Bot | alternative | ostable, and inspectable open-source alternative for developers, researchers, and individuals evaluating solutions like OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, or ChatGPT agent. | [来源](https://github.com/xAmirHamza77/Poka-Bot) |
+| Discord-DotBot | community_project | A self-hosted Discord bot for talking to your OpenAI Dot from the Discord servers you choose. | [来源](https://github.com/Blueteak/Discord-DotBot) |
+| dots_stackchan | building_block | Give your OpenAI Dot a body: connect an always-on OpenAI Dot agent to a Stack-chan robot (M5Stack CoreS3 / K151). | [来源](https://github.com/aieo-product/dots_stackchan) |
+| you.md | task_template | Write it once, keep it under your control, and take it everywhere: coding tools like Claude, Cursor, Codex, and Gemini, and personal agents like OpenClaw, Hermes, Muse, Instinct, ChatGPT dots, and Grok Bot. | [来源](https://github.com/brainsparker/you.md) |
+| prismo | community_project | Prismo can also be used as your ChatGPT dot's appearance where custom pet selection is available. | [来源](https://github.com/Audiofool934/prismo) |
+| nori | community_project | A self-hostable assistant inspired by ChatGPT dots: describe the work once, connect your tools, and let scheduled background tasks bring results back to you. | [来源](https://github.com/xlabsg/nori) |
