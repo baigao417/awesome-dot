@@ -405,3 +405,45 @@
 - README: https://github.com/quotechick/Swigglies/blob/6bbe610b02f3d12d9e45c9eb986fb7d2d323094c/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## demeyer1/Autobot
+
+- Commit: `2ce1e1deab54e437c2b9a27c30596b9d586740b5`
+- README: https://github.com/demeyer1/Autobot/blob/2ce1e1deab54e437c2b9a27c30596b9d586740b5/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## momijiina/laravel-admin-next
+
+- Commit: `c777351aefabe3f3c488278bbcf668f908c63d4a`
+- README: https://github.com/momijiina/laravel-admin-next/blob/c777351aefabe3f3c488278bbcf668f908c63d4a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## up-and-down-0618/dot-local-workspace-fix
+
+- Commit: `61ddf2bd053731d6fde48611b4c098995ab17ea5`
+- README: https://github.com/up-and-down-0618/dot-local-workspace-fix/blob/61ddf2bd053731d6fde48611b4c098995ab17ea5/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ClawdsAgent/Clawds
+
+- Commit: `bc22e20fe34990f455ca7b19168ab17b33c50e1c`
+- README: https://github.com/ClawdsAgent/Clawds/blob/bc22e20fe34990f455ca7b19168ab17b33c50e1c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Fanch-hui/codex-bridge
+
+- Commit: `1be81ce45e1c764d89f58fcbf51916d5d35fa553`
+- README: https://github.com/Fanch-hui/codex-bridge/blob/1be81ce45e1c764d89f58fcbf51916d5d35fa553/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## HamidYaraliOfficial/Open-Dots-Open-Source-Personal-AI-Agent-Workspace
+
+- Commit: `3cc996a8c7ffd93a2c5a2b6267aab7059dd4b6a5`
+- README: https://github.com/HamidYaraliOfficial/Open-Dots-Open-Source-Personal-AI-Agent-Workspace/blob/3cc996a8c7ffd93a2c5a2b6267aab7059dd4b6a5/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-02。共 79 条。
+更新日期：2026-10-02。共 85 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -83,3 +83,9 @@
 | chatgpt-dots-notes | community_project | These are personal observations from using ChatGPT Dots intensively for long-running creative and development work. | [来源](https://github.com/vvvvvvvvvashhh/chatgpt-dots-notes) |
 | opendots | alternative | Opensource OpenAI dots and grok bot alternative | [来源](https://github.com/milisp/opendots) |
 | Swigglies | community_project | In the reference run, all five seats are played by one ChatGPT Dot running five independent player instances. | [来源](https://github.com/quotechick/Swigglies) |
+| Autobot | community_project | OpenAI’s Dots work from their own cloud computer. | [来源](https://github.com/demeyer1/Autobot) |
+| laravel-admin-next | community_project | Laravel Admin Next は、z-song/laravel-admin をもとに、メンテナーが OpenAI Dots を活用して保守・改善する独立したプロジェクトです。 | [来源](https://github.com/momijiina/laravel-admin-next) |
+| dot-local-workspace-fix | community_project | Windows 上 ChatGPT dot 显示电脑已连接、已授权，但创建本地任务时报 DesktopTaskWorkspaceUnavailableError 的一种已验证修复方法。 | [来源](https://github.com/up-and-down-0618/dot-local-workspace-fix) |
+| Clawds | alternative | Clawds is an open, local alternative to products like OpenAI Dots and xAI Grok Bot: a group of named, long-living agents that talk to you and to each other in a normal chat. | [来源](https://github.com/ClawdsAgent/Clawds) |
+| codex-bridge | building_block | Codex Bridge 是面向个人自托管场景的桌面 App 与后台服务，将 ChatGPT 网页版、OpenAI Dot、Qwen Studio 和本机工作台接入已授权的本地项目，并统一管理 Codex、OpenCode、DeepSeek Harness、Antigravity、Pi 与 Qoder 的任务、审批和会话。 | [来源](https://github.com/Fanch-hui/codex-bridge) |
+| Open-Dots-Open-Source-Personal-AI-Agent-Workspace | community_project | It can be evaluated by people searching for open-source alternatives to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, or ChatGPT agent; it is an early prototype, not a feature-equivalent replacement for those produc… | [来源](https://github.com/HamidYaraliOfficial/Open-Dots-Open-Source-Personal-AI-Agent-Workspace) |
