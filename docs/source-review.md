@@ -377,3 +377,31 @@
 - README: https://github.com/xlabsg/nori/blob/4d1e9c4b4098c9ad34fb57abfc7fc379d90c3485/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ElijahUSA/chatgpt-dot-codex-bridge
+
+- Commit: `84e85b2039acedefaa0754b3fe0aa2667d47ce45`
+- README: https://github.com/ElijahUSA/chatgpt-dot-codex-bridge/blob/84e85b2039acedefaa0754b3fe0aa2667d47ce45/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## vvvvvvvvvashhh/chatgpt-dots-notes
+
+- Commit: `b3906cb38f3396a056ed25e0c68eb50ad02e1b14`
+- README: https://github.com/vvvvvvvvvashhh/chatgpt-dots-notes/blob/b3906cb38f3396a056ed25e0c68eb50ad02e1b14/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## milisp/opendots
+
+- Commit: `6136450e6151e5a8e5d30d070bbf7bd14aab66ab`
+- README: https://github.com/milisp/opendots/blob/6136450e6151e5a8e5d30d070bbf7bd14aab66ab/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## quotechick/Swigglies
+
+- Commit: `6bbe610b02f3d12d9e45c9eb986fb7d2d323094c`
+- README: https://github.com/quotechick/Swigglies/blob/6bbe610b02f3d12d9e45c9eb986fb7d2d323094c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

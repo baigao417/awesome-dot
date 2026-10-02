@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-01。共 75 条。
+更新日期：2026-10-02。共 79 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -79,3 +79,7 @@
 | you.md | task_template | Write it once, keep it under your control, and take it everywhere: coding tools like Claude, Cursor, Codex, and Gemini, and personal agents like OpenClaw, Hermes, Muse, Instinct, ChatGPT dots, and Grok Bot. | [来源](https://github.com/brainsparker/you.md) |
 | prismo | community_project | Prismo can also be used as your ChatGPT dot's appearance where custom pet selection is available. | [来源](https://github.com/Audiofool934/prismo) |
 | nori | community_project | A self-hostable assistant inspired by ChatGPT dots: describe the work once, connect your tools, and let scheduled background tasks bring results back to you. | [来源](https://github.com/xlabsg/nori) |
+| chatgpt-dot-codex-bridge | community_project | A reusable skill and packet ledger for exchanging delegated tasks between a registered ChatGPT dot conversation and a human-selected local Codex chat. | [来源](https://github.com/ElijahUSA/chatgpt-dot-codex-bridge) |
+| chatgpt-dots-notes | community_project | These are personal observations from using ChatGPT Dots intensively for long-running creative and development work. | [来源](https://github.com/vvvvvvvvvashhh/chatgpt-dots-notes) |
+| opendots | alternative | Opensource OpenAI dots and grok bot alternative | [来源](https://github.com/milisp/opendots) |
+| Swigglies | community_project | In the reference run, all five seats are played by one ChatGPT Dot running five independent player instances. | [来源](https://github.com/quotechick/Swigglies) |

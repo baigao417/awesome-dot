@@ -1001,6 +1001,62 @@
       "readmeUrl": "https://github.com/xlabsg/nori/blob/4d1e9c4b4098c9ad34fb57abfc7fc379d90c3485/README.md",
       "readmeSha256": "df1333a47bc3d73b70ef73d48367d11c5b513cf5e9e56c9e2c725a8d84e17772",
       "files": []
+    },
+    {
+      "repository": "ElijahUSA/chatgpt-dot-codex-bridge",
+      "repositoryId": 1400738280,
+      "description": "Two-way task handoff between ChatGPT dots and local Codex, with durable receipts, cancellation handling, and conservative recovery.",
+      "url": "https://github.com/ElijahUSA/chatgpt-dot-codex-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-01T21:54:40Z",
+      "license": "MIT",
+      "commit": "84e85b2039acedefaa0754b3fe0aa2667d47ce45",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ElijahUSA/chatgpt-dot-codex-bridge/blob/84e85b2039acedefaa0754b3fe0aa2667d47ce45/README.md",
+      "readmeSha256": "18f99805f0d1dd9f4bd9d12bf044b3c0eed1c713652ed6a30496edf13244351e",
+      "files": []
+    },
+    {
+      "repository": "vvvvvvvvvashhh/chatgpt-dots-notes",
+      "repositoryId": 1400569221,
+      "description": null,
+      "url": "https://github.com/vvvvvvvvvashhh/chatgpt-dots-notes",
+      "stars": 0,
+      "updatedAt": "2026-10-01T18:45:06Z",
+      "license": "NOASSERTION",
+      "commit": "b3906cb38f3396a056ed25e0c68eb50ad02e1b14",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/vvvvvvvvvashhh/chatgpt-dots-notes/blob/b3906cb38f3396a056ed25e0c68eb50ad02e1b14/README.md",
+      "readmeSha256": "0a39484a9d07770fd5d59bd85a9985f45449e2d5f521ee5c68b7cf45d0d2f974",
+      "files": []
+    },
+    {
+      "repository": "milisp/opendots",
+      "repositoryId": 1400904361,
+      "description": "Opensource OpenAI dots and grok bot alternative",
+      "url": "https://github.com/milisp/opendots",
+      "stars": 0,
+      "updatedAt": "2026-10-02T05:14:40Z",
+      "license": "NOASSERTION",
+      "commit": "6136450e6151e5a8e5d30d070bbf7bd14aab66ab",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/milisp/opendots/blob/6136450e6151e5a8e5d30d070bbf7bd14aab66ab/README.md",
+      "readmeSha256": "db6bbea6c3dbe1e6942120d6abedf6d91170f6c51ec82f7368ef25a7d33e47f9",
+      "files": []
+    },
+    {
+      "repository": "quotechick/Swigglies",
+      "repositoryId": 1329519482,
+      "description": "Five persistent agents with their own wallets, memory, and goals, living inside one tiny economy. Built with Dots, every move is visible and every transaction is real.      6ffV3Sb4SqY7CH4tWwQVzBrwuvuXK39tdxRF1j3qpump",
+      "url": "https://github.com/quotechick/Swigglies",
+      "stars": 0,
+      "updatedAt": "2026-09-30T22:26:13Z",
+      "license": "MIT",
+      "commit": "6bbe610b02f3d12d9e45c9eb986fb7d2d323094c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/quotechick/Swigglies/blob/6bbe610b02f3d12d9e45c9eb986fb7d2d323094c/README.md",
+      "readmeSha256": "1e60b391a0a15bd442eaffecc2f55afaf87deac2a058987971dabfed298c7378",
+      "files": []
     }
   ]
 }
