@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-02。共 85 条。
+更新日期：2026-10-03。共 89 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -89,3 +89,7 @@
 | Clawds | alternative | Clawds is an open, local alternative to products like OpenAI Dots and xAI Grok Bot: a group of named, long-living agents that talk to you and to each other in a normal chat. | [来源](https://github.com/ClawdsAgent/Clawds) |
 | codex-bridge | building_block | Codex Bridge 是面向个人自托管场景的桌面 App 与后台服务，将 ChatGPT 网页版、OpenAI Dot、Qwen Studio 和本机工作台接入已授权的本地项目，并统一管理 Codex、OpenCode、DeepSeek Harness、Antigravity、Pi 与 Qoder 的任务、审批和会话。 | [来源](https://github.com/Fanch-hui/codex-bridge) |
 | Open-Dots-Open-Source-Personal-AI-Agent-Workspace | community_project | It can be evaluated by people searching for open-source alternatives to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, or ChatGPT agent; it is an early prototype, not a feature-equivalent replacement for those produc… | [来源](https://github.com/HamidYaraliOfficial/Open-Dots-Open-Source-Personal-AI-Agent-Workspace) |
+| dots-second-brain | community_project | A source-backed Obsidian second brain for a personal agent on OpenAI dots. | [来源](https://github.com/AgriciDaniel/dots-second-brain) |
+| shipmate | alternative | OpenAI Dots and Grok Bot, open source, on your laptop. Your keys, nobody in between. Built on Charter. | [来源](https://github.com/r28ai/shipmate) |
+| meridian-agents | community_project | Meridian — CRM, prospection, propositions, réunions, gestion de projets et comptabilité — dans Grok Bot, Muse (Meta) et OpenAI Dots. | [来源](https://github.com/signalorange/meridian-agents) |
+| pearlbook | community_project | Distinct setup paths for ChatGPT dots, local Codex, OpenClaw, Claude, and private tool hosts | [来源](https://github.com/aloopy/pearlbook) |

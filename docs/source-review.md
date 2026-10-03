@@ -447,3 +447,31 @@
 - README: https://github.com/HamidYaraliOfficial/Open-Dots-Open-Source-Personal-AI-Agent-Workspace/blob/3cc996a8c7ffd93a2c5a2b6267aab7059dd4b6a5/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AgriciDaniel/dots-second-brain
+
+- Commit: `65f7159ac15920898621d7d88f250c68340a8f33`
+- README: https://github.com/AgriciDaniel/dots-second-brain/blob/65f7159ac15920898621d7d88f250c68340a8f33/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## r28ai/shipmate
+
+- Commit: `b62deb68e14f7da2a6e2f47990abbcdb2a808574`
+- README: https://github.com/r28ai/shipmate/blob/b62deb68e14f7da2a6e2f47990abbcdb2a808574/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## signalorange/meridian-agents
+
+- Commit: `906101d4b8e8f35232d4e7b495e10c39746346da`
+- README: https://github.com/signalorange/meridian-agents/blob/906101d4b8e8f35232d4e7b495e10c39746346da/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## aloopy/pearlbook
+
+- Commit: `136295cb373a8fd6792d53430c65ca312dafd1d5`
+- README: https://github.com/aloopy/pearlbook/blob/136295cb373a8fd6792d53430c65ca312dafd1d5/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

@@ -1141,6 +1141,62 @@
       "readmeUrl": "https://github.com/HamidYaraliOfficial/Open-Dots-Open-Source-Personal-AI-Agent-Workspace/blob/3cc996a8c7ffd93a2c5a2b6267aab7059dd4b6a5/README.md",
       "readmeSha256": "f603797edf62fdfaa09e5f7ea47fd42d7510654c83293ae693a295e17af896c5",
       "files": []
+    },
+    {
+      "repository": "AgriciDaniel/dots-second-brain",
+      "repositoryId": 1400693089,
+      "description": "Source-backed Obsidian second brain for a personal agent on OpenAI dots",
+      "url": "https://github.com/AgriciDaniel/dots-second-brain",
+      "stars": 0,
+      "updatedAt": "2026-10-01T20:42:23Z",
+      "license": "MIT",
+      "commit": "65f7159ac15920898621d7d88f250c68340a8f33",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AgriciDaniel/dots-second-brain/blob/65f7159ac15920898621d7d88f250c68340a8f33/README.md",
+      "readmeSha256": "7a5138976171dcf863d61219957b88c8aa3e6b5c8a9a535991bc65836a0435db",
+      "files": []
+    },
+    {
+      "repository": "r28ai/shipmate",
+      "repositoryId": 1402309436,
+      "description": "OpenAI Dots and Grok Bot, open source, on your laptop. Your keys, nobody in between. Built on Charter.",
+      "url": "https://github.com/r28ai/shipmate",
+      "stars": 0,
+      "updatedAt": "2026-10-02T23:12:10Z",
+      "license": "Apache-2.0",
+      "commit": "b62deb68e14f7da2a6e2f47990abbcdb2a808574",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/r28ai/shipmate/blob/b62deb68e14f7da2a6e2f47990abbcdb2a808574/README.md",
+      "readmeSha256": "a847e9af6d5e12dd27c31b67b2edeae483d9f3305b1399f97280eae839a841df",
+      "files": []
+    },
+    {
+      "repository": "signalorange/meridian-agents",
+      "repositoryId": 1402408592,
+      "description": null,
+      "url": "https://github.com/signalorange/meridian-agents",
+      "stars": 0,
+      "updatedAt": "2026-10-02T22:19:08Z",
+      "license": "NOASSERTION",
+      "commit": "906101d4b8e8f35232d4e7b495e10c39746346da",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/signalorange/meridian-agents/blob/906101d4b8e8f35232d4e7b495e10c39746346da/README.md",
+      "readmeSha256": "dc80f1b0a95d31632b9791f324531503870ebc21a714085798ad7541ab5bdb35",
+      "files": []
+    },
+    {
+      "repository": "aloopy/pearlbook",
+      "repositoryId": 1345225031,
+      "description": "A personal knowledge system for clinical learning and personalized agentic context",
+      "url": "https://github.com/aloopy/pearlbook",
+      "stars": 0,
+      "updatedAt": "2026-10-02T23:09:10Z",
+      "license": "MIT",
+      "commit": "136295cb373a8fd6792d53430c65ca312dafd1d5",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/aloopy/pearlbook/blob/136295cb373a8fd6792d53430c65ca312dafd1d5/README.md",
+      "readmeSha256": "9d30590d10d491a9742787b79d9e87e8056027b98373446daa98d0224fb8a7da",
+      "files": []
     }
   ]
 }

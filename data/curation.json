@@ -32,7 +32,7 @@
     },
     "jpau2569/jpmr-negocios-": {
       "readmeSha256": "72553593bfc285d28420734e4936d5f12e832eb434086208e759c489afcae6b2",
-      "pushedAt": "2026-10-02T10:40:36Z",
+      "pushedAt": "2026-10-02T18:44:09Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
@@ -43,10 +43,10 @@
       "at": "2026-09-30"
     },
     "themaker00001/chaos-bringer": {
-      "readmeSha256": "00c46e079baeba1c85ca296c9eadf0c7a990dbd844f030032a4a1cf74f19eb61",
-      "pushedAt": "2026-10-02T16:58:15Z",
+      "readmeSha256": "7ba00cf3a545e787477ae619e2b356e18850256323953ea1d5f0fddbb2f8fd35",
+      "pushedAt": "2026-10-02T18:41:21Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "marc-ko/daily-trending-repo": {
       "readmeSha256": "60ac685375b7c785d89eecbb326b894674aad80137d0d5ec3e201de9724b496c",
@@ -73,10 +73,10 @@
       "at": "2026-10-02"
     },
     "tech-anupam/awesome-agentic-ecosystem": {
-      "readmeSha256": "85914630c95e651cf263690369677855a059e24515b78259564d5f40a0eac6c2",
-      "pushedAt": "2026-10-02T05:17:15Z",
+      "readmeSha256": "2d508802b3fc8c7f8d4ef629eb088152d5d9f9f5e9a5233ed5e81fe9ba07bfbd",
+      "pushedAt": "2026-10-03T05:00:00Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "gwanhun1/Blog": {
       "readmeSha256": "3bab3665530bc2c0feddfb45efe10d62dee8f8fa4747b0fbcc0a4f33269fef50",
@@ -85,16 +85,16 @@
       "at": "2026-10-01"
     },
     "pygarap/my-awesome-stars": {
-      "readmeSha256": "4a6e4e2e8232080fba87acc11205fd8723ca59f179fed4e9d3ef33d20902a400",
-      "pushedAt": "2026-10-02T00:20:54Z",
+      "readmeSha256": "1af26d1e0c28974ae94a0d8730abb01cea625529b5c6c2d7714bbde20bd1abe0",
+      "pushedAt": "2026-10-03T00:06:17Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "yezuofan/free-internet-guide": {
-      "readmeSha256": "92ab503da027436c56dea552ed51a767793be2205a5cb909c2745a0eb99323db",
-      "pushedAt": "2026-10-01T23:09:57Z",
+      "readmeSha256": "2db45896bccbc6bc362675fe2d2d4bb5565499b9fed2585761b3a6abc84140fd",
+      "pushedAt": "2026-10-03T00:05:43Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "0xashrk/beret": {
       "readmeSha256": "97b48b8571747a10216b1611f57951c065d78e99e1020f3051f03c9573572f9c",
@@ -139,10 +139,10 @@
       "at": "2026-09-30"
     },
     "majiayu000/awesome-grok-bot": {
-      "readmeSha256": "08e3a0bd61621ca173d09f7e9754821506a7fff5fb7bbecc98f3064f5112debf",
-      "pushedAt": "2026-10-02T16:30:36Z",
+      "readmeSha256": "54919d07a05de6fd50dd4d36cc9152ceec071838127db48e70662504803358fe",
+      "pushedAt": "2026-10-03T00:56:29Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "dueyama/dueyama.github.io": {
       "readmeSha256": "3664dde89090cd637096bb08c74d5f01b3a6c025ac4cc8583c8a4d5bfbbce645",
@@ -158,7 +158,7 @@
     },
     "cs68614-hash/awesome-grokbot-templates": {
       "readmeSha256": "274f8dcb2244e87e7e24eb448f7dc3ae774f43e9c143ed69cedc846bf6fc6f9e",
-      "pushedAt": "2026-10-02T00:21:20Z",
+      "pushedAt": "2026-10-03T00:10:43Z",
       "reason": "low_prominence:0",
       "at": "2026-10-02"
     },
@@ -194,7 +194,7 @@
     },
     "openai/openai-dotnet": {
       "readmeSha256": "c084b2cc74f2cc16a96b72e756739d8eb4e3df37b0445ee799441c4bcd91011d",
-      "pushedAt": "2026-10-02T06:35:25Z",
+      "pushedAt": "2026-10-02T18:41:05Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
@@ -260,7 +260,7 @@
     },
     "Egezenn/OpenDotaGuides": {
       "readmeSha256": "4c2ecef370d7a1e07f569c349d8d1c0ef0150591a4e89c682c7c1e047668f0a9",
-      "pushedAt": "2026-10-02T04:31:05Z",
+      "pushedAt": "2026-10-03T04:14:07Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
@@ -704,7 +704,7 @@
     },
     "jamesroutley/news.routley.io": {
       "readmeSha256": "975068b155b23282616b610d3cf49b8252205234e0d308d9b0478a6f530b2d57",
-      "pushedAt": "2026-10-02T13:37:22Z",
+      "pushedAt": "2026-10-03T01:45:30Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
@@ -746,13 +746,13 @@
     },
     "duanyytop/agents-radar": {
       "readmeSha256": "aedd5b9691b3efc81b8ab99cdeaef8ddf3eb5cb093b9334c1c5f50e2858c5ac2",
-      "pushedAt": "2026-10-02T01:52:53Z",
+      "pushedAt": "2026-10-03T01:28:07Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
     "rxmna8502/vybe-intelligence-vault": {
       "readmeSha256": "e538475907d808e073eab2dc000934c4050ece69453ed6b0b73ca3f6d623ddc3",
-      "pushedAt": "2026-10-02T15:33:44Z",
+      "pushedAt": "2026-10-03T04:16:09Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
@@ -763,22 +763,22 @@
       "at": "2026-09-30"
     },
     "ttmens/ai-radar-wiki": {
-      "readmeSha256": "1993ef1c25df7e0655344cc5e113a3a7cfee62addc70cbf8d54c60cd89457986",
-      "pushedAt": "2026-10-02T10:02:01Z",
+      "readmeSha256": "a5aabff5f6d0f47128fc2656a665a90bb55e63bb339843802211f7b414f04b7b",
+      "pushedAt": "2026-10-03T00:04:52Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "ua-community/ua-discord-archive": {
       "readmeSha256": "5501c1ffdc59222eb4df2f279157d04387ca9c0cd27c79c67b80ce134c30e92b",
-      "pushedAt": "2026-10-02T13:56:23Z",
+      "pushedAt": "2026-10-03T05:08:23Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
     "TangSY/dailydawn": {
-      "readmeSha256": "a85eccbc1b52d8d34ccc3e04e7a00c633328d2300c82845e253fe97c6d18a329",
-      "pushedAt": "2026-10-02T04:51:06Z",
+      "readmeSha256": "cd354fff520e51d070bbfea0cfcdf91656da33afaa2a7a1a5e8c8c7767916a19",
+      "pushedAt": "2026-10-03T04:36:12Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "avadhesh18/rssTea": {
       "readmeSha256": "9deac56a895f5d8b98d53b3955680b01080f0661bcd0c3fa2b29a00dcd61b5ce",
@@ -973,21 +973,21 @@
     },
     "Gizziio/allternit-platform": {
       "readmeSha256": "e8df0e6c301bb21a1b39095111f9ffa6ff245c8c44dadf9a17fea7ec7b3d8194",
-      "pushedAt": "2026-10-02T13:03:49Z",
+      "pushedAt": "2026-10-03T05:17:04Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
     "kentcdodds/kody": {
       "readmeSha256": "e686670b92a612f6ef1c668c4bc5f0068587a2921e900ca3a5d50ef801e9fe4f",
-      "pushedAt": "2026-10-02T17:31:12Z",
+      "pushedAt": "2026-10-03T05:04:55Z",
       "reason": "no_dot_signal",
       "at": "2026-09-30"
     },
     "kherrick/hacker-news": {
-      "readmeSha256": "00a48518a5e0d79f6af8900133f9a2e323b795bf7471147f696f029ba26c9ac5",
-      "pushedAt": "2026-10-02T16:43:06Z",
+      "readmeSha256": "a50c365021bed30fa642cf9d7f67de8eabb29195b08d66f798e8fe0787ba45d8",
+      "pushedAt": "2026-10-03T00:23:53Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "WickTech/autoflow": {
       "readmeSha256": "548d8a5ed4b5daa899d83bfcdb8a4561f84766be8a69caf20cc09871321c9f9f",
@@ -1008,22 +1008,22 @@
       "at": "2026-10-01"
     },
     "anomixer/openclaw-news": {
-      "readmeSha256": "547dae56740b4793bc01e7052e7421dde220c4773fe3cc8de76cb92f5e2e19ae",
-      "pushedAt": "2026-10-02T02:00:00Z",
+      "readmeSha256": "a8b9add4678ebda94c7c5ec072739132ff5742e9abafd8516f02defc4bc00327",
+      "pushedAt": "2026-10-03T04:29:45Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "zhaoolee/garss": {
-      "readmeSha256": "8cda5de82d5a885f75720a45502a42ec155359bb1700d3a5a505b8c2fdff543b",
-      "pushedAt": "2026-10-01T01:14:10Z",
-      "reason": "low_prominence:0",
-      "at": "2026-10-01"
+      "readmeSha256": "3bcbcbc5c47eabdf0d8771eaf242ba84f0739555ea90a7f879078ee7b5593e16",
+      "pushedAt": "2026-10-03T01:04:50Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
     },
     "suwa-sh/zenn-contents": {
-      "readmeSha256": "29e527808070371c3db03afd6225671faef25fc65e0f40f47dff3e5f3b709d69",
-      "pushedAt": "2026-10-02T01:13:24Z",
+      "readmeSha256": "7445629bbcc323772806fcbf86349c81f4afc8218047c188667e384f99414884",
+      "pushedAt": "2026-10-03T02:24:53Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "Lijithvmv/Enterprise-AI-OS": {
       "readmeSha256": "5713ad8ca1fee8e953e1b91f9a3c23d90d4a8bd9887e2a2651cd5b5a4102897f",
@@ -1081,13 +1081,13 @@
     },
     "SSWConsulting/SSW.Rules.Content": {
       "readmeSha256": "44c30f650cc04eef2abef73a78a43b3fa56344c46d11369c6d995dfac274154e",
-      "pushedAt": "2026-10-02T06:16:20Z",
+      "pushedAt": "2026-10-03T00:33:35Z",
       "reason": "no_dot_signal",
       "at": "2026-10-01"
     },
     "Ratimon/openquok-monorepo": {
       "readmeSha256": "67987cb20fcb26ae339e980ba5d10319845414d30421bf48a58d4ee58add83d5",
-      "pushedAt": "2026-10-02T14:36:41Z",
+      "pushedAt": "2026-10-03T00:41:39Z",
       "reason": "no_dot_signal",
       "at": "2026-10-01"
     },
@@ -1104,16 +1104,16 @@
       "at": "2026-10-01"
     },
     "hongsw/clawfit": {
-      "readmeSha256": "00a1f0f928937d9103eae80efce86c550a4dc2304a29331c0162c20040fc348e",
-      "pushedAt": "2026-10-02T00:08:21Z",
+      "readmeSha256": "2c92b85897a5bc79261cc813781878ae4345b09539fc2026b4a068c6c681c957",
+      "pushedAt": "2026-10-03T00:09:13Z",
       "reason": "low_prominence:1",
-      "at": "2026-10-01"
+      "at": "2026-10-03"
     },
     "SoftMissT/tudo-sobre-vibe-coding": {
-      "readmeSha256": "b53cbecf9a1c6456d718b59b698376f39a30eebc6aeb1d768420dbc847ea5abb",
-      "pushedAt": "2026-10-02T01:49:55Z",
+      "readmeSha256": "7d532dddde756a19eb5ada623fc164f45f34ed257dda98113188ee700f3bc923",
+      "pushedAt": "2026-10-02T23:06:34Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "Samrudh2006/Brahma": {
       "readmeSha256": "b5bab2972904767f63da6fe7724558cf449e899a2664890ed24ca2b3b6c2e409",
@@ -1140,10 +1140,10 @@
       "at": "2026-10-01"
     },
     "SoorimSun/hello-human": {
-      "readmeSha256": "abc3843766799281398fa347e2d7bbc38ea2fa7bf16068c630a4144a39899767",
-      "pushedAt": "2026-10-02T17:27:30Z",
+      "readmeSha256": "df7436ff36298f0e133dbd0a461b66d3fb8a5bbdda6104ad960b5bf62cd4d9d1",
+      "pushedAt": "2026-10-03T03:20:17Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "jiang-lin17/awesome-ai-skills": {
       "readmeSha256": "af99aa68c9a35c5f029e03c5d7c51272a236fc986eeef68aad0299c4838ae1a3",
@@ -1182,32 +1182,32 @@
       "at": "2026-10-02"
     },
     "cwijayasundara/openai_dot_replica_v1.0": {
-      "readmeSha256": null,
-      "pushedAt": "2026-10-02T17:09:27Z",
-      "reason": "no_readme",
-      "at": "2026-10-02"
+      "readmeSha256": "2a183c6ca0b5edc936ffc416aa7f93eb729339c0cf42490413c51265723b1fdc",
+      "pushedAt": "2026-10-03T05:05:56Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
     },
     "sddvacav/opendot": {
-      "readmeSha256": "5e299de367420eca3667eacbdbb0a822c81a5bd7bac823333391663faab89a0c",
-      "pushedAt": "2026-10-02T17:50:03Z",
+      "readmeSha256": "041fb0831a9c0a96be1dcac658ec9936499f146cfb448da873894e505b8d7b24",
+      "pushedAt": "2026-10-03T02:36:35Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "CopilotKit/OpenDots": {
-      "readmeSha256": "b59b34b5e88f03bbea28fbf726e93f606af7a4a7b2dd58bc7ece82a216095bc7",
-      "pushedAt": "2026-10-01T21:53:58Z",
+      "readmeSha256": "b5c3bd4920f780c1136346330cc99a180e49fe8975a559d8f007d92fe504c3a6",
+      "pushedAt": "2026-10-02T21:16:45Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "Lumiwealth/lumibot": {
       "readmeSha256": "290b50bae3195ea5961e5a97e8dc30134f9b36fcba865fb2eaca1febf40a2809",
-      "pushedAt": "2026-10-02T00:14:52Z",
+      "pushedAt": "2026-10-03T04:45:00Z",
       "reason": "no_dot_signal",
       "at": "2026-10-01"
     },
     "EntasisLabs/Medousa": {
       "readmeSha256": "c5b6349689e3955e6c14160e1268de887dfc3a22a0456ba6d97d4f2a3f77df46",
-      "pushedAt": "2026-10-02T02:47:03Z",
+      "pushedAt": "2026-10-02T18:13:35Z",
       "reason": "no_dot_signal",
       "at": "2026-10-01"
     },
@@ -1272,10 +1272,10 @@
       "at": "2026-10-02"
     },
     "muhammadshehzaib/What-I-learn-today": {
-      "readmeSha256": "fe0820178945d41b837e356fff818cc6c24e03c5cf0f709ebba424f1aea34bde",
-      "pushedAt": "2026-10-01T19:25:07Z",
+      "readmeSha256": "4a8b9b9ebcce2042a4a0695b0cb7982175d7ed04697bbf8acb38dc3f3a751426",
+      "pushedAt": "2026-10-02T21:33:38Z",
       "reason": "low_prominence:0",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "mojiTMJ/mojiTMJ": {
       "readmeSha256": "cb619c2a279665717d4c24487a9c552321e83471a6395815fda24db32ef686b5",
@@ -1290,22 +1290,22 @@
       "at": "2026-10-02"
     },
     "WenyuChiou/awesome-agentic-ai-zh": {
-      "readmeSha256": "3d20d54bfc84203ca9ea2c7a919157feb07dbe716d2a1d43e612828283b4657f",
-      "pushedAt": "2026-10-02T17:51:10Z",
+      "readmeSha256": "feaeb6fd671a10650729dcbc7f7eb5d0e6c038c9394050c1c6088c0a5188aa43",
+      "pushedAt": "2026-10-02T21:47:31Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "robinebers/openusage": {
       "readmeSha256": "d6becb4b93c61249fa0c2d13494460c0335d475462b622ba7bf84ba95bfff934",
-      "pushedAt": "2026-10-02T17:52:52Z",
+      "pushedAt": "2026-10-02T18:04:48Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
     },
     "ultrametricai/ultrametric": {
-      "readmeSha256": "abd36aa094c55324f97ff6b949b4df763aa9a55c5176d1ec2150e44b4b533d37",
-      "pushedAt": "2026-10-02T17:52:01Z",
+      "readmeSha256": "ab3924655908e32bb6eb1aeba21def9c65d4e74239662d372b2070f560422343",
+      "pushedAt": "2026-10-03T05:17:25Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "NaNMesh/nanmesh-mcp": {
       "readmeSha256": "471062b2af1f88783261e39267a9fc65972e836223f07af9e04437141eb0aa76",
@@ -1314,10 +1314,10 @@
       "at": "2026-10-02"
     },
     "Develata/AI-Barking": {
-      "readmeSha256": "5895733e325323339d488bad26707d8cf6527a0de52316eba236b4d76517cd58",
-      "pushedAt": "2026-10-02T12:42:16Z",
+      "readmeSha256": "3ca66915ee76d02317779a8a0c331c579118faf95b5de352d3318ac7c9622981",
+      "pushedAt": "2026-10-03T00:43:42Z",
       "reason": "no_dot_signal",
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "builtbymario/aster": {
       "readmeSha256": "b24155e9153a8967382136184b08406d6a4e14e7c16403316c81abdc2ed65da3",
@@ -1327,7 +1327,7 @@
     },
     "vpittamp/nixos-config": {
       "readmeSha256": "defc46f3a796ba2772ddd9abbc059060fa914ea65a79574b86855bed300203a1",
-      "pushedAt": "2026-10-01T23:44:31Z",
+      "pushedAt": "2026-10-02T22:55:37Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
     },
@@ -1339,13 +1339,13 @@
     },
     "OCselected/ttoos": {
       "readmeSha256": "7b7395a4d44699167197dfd4725236e601ac5c89123e9d9d7d753336d202d600",
-      "pushedAt": "2026-10-01T21:16:42Z",
+      "pushedAt": "2026-10-02T21:33:54Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
     },
     "oratis/LISA": {
       "readmeSha256": "a39128a287651f8c52ce0dd0a8980a44420aacc36ae06bc6e681dd883060f3b4",
-      "pushedAt": "2026-10-02T17:42:44Z",
+      "pushedAt": "2026-10-02T18:00:45Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
     },
@@ -1411,7 +1411,7 @@
     },
     "warengonzaga/opendots-railway": {
       "readmeSha256": "b15bad417b913d048935b44e177cf7529c6ad33c2579ed332a8af7accedea6f3",
-      "pushedAt": "2026-10-02T16:07:31Z",
+      "pushedAt": "2026-10-02T19:04:10Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
     },
@@ -1429,13 +1429,13 @@
     },
     "k82022603/k82022603.github.io": {
       "readmeSha256": "0df46113f98baf5ee59fa51871318c5e4445604df48680072291a32e3b61df0a",
-      "pushedAt": "2026-10-02T12:34:32Z",
+      "pushedAt": "2026-10-03T01:33:57Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
     },
     "HarnessMD/munder-difflin": {
       "readmeSha256": "756581d803b75c9de1cff8798aa509baf7bc561f1a25c006fcb46e71003c907c",
-      "pushedAt": "2026-10-02T16:21:56Z",
+      "pushedAt": "2026-10-03T01:26:43Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
     },
@@ -1444,6 +1444,84 @@
       "pushedAt": "2026-10-02T17:00:41Z",
       "reason": "no_dot_signal",
       "at": "2026-10-02"
+    },
+    "heardlabs/heard": {
+      "readmeSha256": "1f2ef69220bf4af022d634dfa848f9544ec161460e0a32748f282cb2b83f7394",
+      "pushedAt": "2026-10-03T05:18:51Z",
+      "reason": "low_prominence:0",
+      "at": "2026-10-03"
+    },
+    "BotShelfVampire/botshelf": {
+      "readmeSha256": "1fce76821c93687f1ed062ac7815b5f3fd54b7219f3921a8572bee39e23f64b8",
+      "pushedAt": "2026-10-03T04:50:13Z",
+      "reason": "low_prominence:0",
+      "at": "2026-10-03"
+    },
+    "CameronWDavis/Slopbot": {
+      "readmeSha256": "ba83ff28f5bb66731fc7698582175f2079d9af9d495ba000c6f75766eac1dcb8",
+      "pushedAt": "2026-10-03T03:20:28Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "loic-nazaries/loic-nazaries": {
+      "readmeSha256": "31285cd8d6ecf0bbb45ba9639c19e1520b10eed7e9be147aafb2c3335e3508c8",
+      "pushedAt": "2026-10-03T04:11:21Z",
+      "reason": "low_prominence:0",
+      "at": "2026-10-03"
+    },
+    "jasonxtsai/pages": {
+      "readmeSha256": "3b6ff61f5eb9272892c9a957f2c7ddb8e9edd1d29cef9e6691ad05a1dd23a0e0",
+      "pushedAt": "2026-10-03T03:45:27Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "wouthh/discord-context-bridge": {
+      "readmeSha256": "57214a141d8e1d136d3e43bce3fdf52fca7cf42905950ef4158fb04df840f5b3",
+      "pushedAt": "2026-10-02T23:56:36Z",
+      "reason": "low_prominence:0",
+      "at": "2026-10-03"
+    },
+    "asteloleh-gif/astel-hyper-crew": {
+      "readmeSha256": "012c48741d5eca6521a3aebb5ae7b4b86a880b5489acbaa30ee3e24ebdc080dc",
+      "pushedAt": "2026-10-02T22:53:56Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "nix-tkobayashi/wsl-workbench": {
+      "readmeSha256": "57bbc6469491b9dab0978c23a91c4fc17bb99c8f09c3a56aa3a929a2256d2eeb",
+      "pushedAt": "2026-10-02T19:01:34Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "kamaravichow/opendots-railway-template": {
+      "readmeSha256": "9b13dfa4182f34c6a36604591dd63d4b506e16bb2160b28c4f1247f304433524",
+      "pushedAt": "2026-10-02T19:30:16Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "itsperini/opendot": {
+      "readmeSha256": "9c1ce5c95ba5f1604aa083e768a0703dea993919c8f68758bcbf6870c36b5dc2",
+      "pushedAt": "2026-08-08T05:05:16Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "citizendev9c/yt-assets": {
+      "readmeSha256": "10769a06d6181b5fd9c387a1d26eda49678c9ac249a87105fc2337321579f202",
+      "pushedAt": "2026-10-03T03:20:23Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "intendant-dev/Intendant": {
+      "readmeSha256": "de93e8ec8883e399ca8c417bb264facdab9d0fd0b1bf15a91249d18827f14305",
+      "pushedAt": "2026-10-03T04:40:59Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
+    },
+    "TakeInterestInc/dot-observatory": {
+      "readmeSha256": "bed245d625c7e28ee68e6d41899b6b2fae7d458489be8d94e389e4f048c0429d",
+      "pushedAt": "2026-10-02T22:05:14Z",
+      "reason": "no_dot_signal",
+      "at": "2026-10-03"
     }
   },
   "reported": {
@@ -1468,9 +1546,9 @@
       "at": "2026-09-30"
     },
     "tykimos/ai-whatchelin": {
-      "readmeSha256": "b535b908d3f23c4ef221a38168b07a4a4a291fe9ff50ee43b048e819e65b87dd",
+      "readmeSha256": "6434becf51d414e9b12b06e82266a98e8133339c6e5861d71bf33d190fc905dc",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "hongsw/clawfit": {
       "readmeSha256": "2135b35caa40ac95e2b5c3f3fbc239576d83f00ba9c72f934317fe4ccf302368",
@@ -1493,9 +1571,9 @@
       "at": "2026-09-30"
     },
     "SmokeyS30/orbit-buddy": {
-      "readmeSha256": "0b1b8987a8d353f75eb499893025fd37ad6847f7661434ae5e6f571e96559cbf",
+      "readmeSha256": "eb358b7699aae6f321aae61d58b5db435bd96e45f8a414a04890339385fe64b3",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "suwa-sh/zenn-contents": {
       "readmeSha256": "5a04f7a202938c071160d83927d04b299a227544f15a127f2a8830a2ffc4ae29",
@@ -1545,7 +1623,7 @@
     "swhan0329/codex-101": {
       "readmeSha256": "e024a9f10208924c134ca93cb609f1b5421164c026e06166e36aa3097035e942",
       "score": 4,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "Ian729/HackerNewsArchive": {
       "readmeSha256": "900f3587a1d52b06680302c166e30f08a184c39ca77d281e59c0e4202820ad6c",
@@ -1573,9 +1651,9 @@
       "at": "2026-10-01"
     },
     "RongleCat/awesome-grok-bot": {
-      "readmeSha256": "643946415e46236e2824c3538978665c8724d43d608012988b475b027fc23f1d",
+      "readmeSha256": "69577f6c0d749a53b91ab850f3ebf25d5ab0810bde8db9086aaeb8a08d77ab73",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "airesearch-official/AI-Weekly-News": {
       "readmeSha256": "da346821418f48fb7ea6fd4388cf89e9a761d6752629eafa18261673c8c51018",
@@ -1598,9 +1676,9 @@
       "at": "2026-10-01"
     },
     "LiverJust/AILearner": {
-      "readmeSha256": "eefa73dc5a36187b4fbbb56d42319c8eceecbeaba594214997214af64c3908e6",
-      "score": 2,
-      "at": "2026-10-01"
+      "readmeSha256": "99860929328ea1fa72ccdd7a7c4aabe03502c41fa7a3ea6492c4a00a399548e0",
+      "score": 4,
+      "at": "2026-10-03"
     },
     "obaid/live-avatars": {
       "readmeSha256": "53f75f7024ecd48cfc99cba8d7fa9ac199f366fb19cba04141fd4e8ca7b82e2d",
@@ -1693,14 +1771,14 @@
       "at": "2026-10-02"
     },
     "NastyRunner13/teambot": {
-      "readmeSha256": "623cdda883896dfa9626f99e5cc699d7d25fc91b4f3aad1b7bcc8ee3f8d73a78",
+      "readmeSha256": "373089ebd6a5f78b84aeec2c000135f1cff4b1829744334ef0a8ece0c641047a",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "ergou-yu/lumen": {
-      "readmeSha256": "ac4798a92d543fb2c3a7e330f131bde57f7610a23fb2a716980939f4e5217688",
+      "readmeSha256": "15fa5fa6ea652267049e2f877a52c707db68ec09e7e245508e152f20217b87ba",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "eliasluimeme/agentx": {
       "readmeSha256": "0fd460f0d10bfb53f5e7db1a2d16c31db106e77c2054a16a49fe3515135a8c60",
@@ -1713,9 +1791,9 @@
       "at": "2026-10-02"
     },
     "NotSpookyGhost/Playdot": {
-      "readmeSha256": "e0acc1b7b7a33fe4471c0c25452c2ae7d7f7bf39c6828d74aeb8471b6c2cf30c",
+      "readmeSha256": "f10a51e8cb618d9939d278272f05f9b9a503d66f016a1a169bfa91d639246505",
       "score": 3,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "Ares-X/Agents-Slack-Bridge": {
       "readmeSha256": "3b2b1d5c0dfadc2c81c723605c1d0dcd3b625144f39156f37a267e635da21ec7",
@@ -1723,19 +1801,19 @@
       "at": "2026-10-02"
     },
     "Bitterbot-AI/bitterbot-desktop": {
-      "readmeSha256": "2a6188bde359937090b87a899203915934f4038bb5ff4a65107604b9a4e08a3b",
+      "readmeSha256": "31017d9c3b27d3cbe88d10fbbfcca73fff67d72258f691b9f897f17c1623f3b6",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "HJK6/pentacle": {
-      "readmeSha256": "75097d2755a9324522a032a06aa37686a367ea19f5e9dea16feac53f0853bc27",
+      "readmeSha256": "8a0b4cd6bb7e8858bf3c1b8c56b40728afdd5710964b96464c04e007acd04edb",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "harmonia-vault/workspace": {
-      "readmeSha256": "d7aa295032897732bdf05be56202b0cf7b497a921c81e77efb07d7a1744b3d2a",
+      "readmeSha256": "10549f110cd0584dac574dd8d42b323074b064dd899f5b1bb5b736838e60aad5",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "OnFiala/Dots-Brain": {
       "readmeSha256": "c093f69d118456a7371a64fa877985c38aac6c7d94d24dcb4ba2e064165424bc",
@@ -1743,9 +1821,9 @@
       "at": "2026-10-02"
     },
     "lvisockas/aa": {
-      "readmeSha256": "9643a4e987d8ce6fd96c16388dd38506d0537eb808b0e8ab93122d1c4ae8b2d3",
+      "readmeSha256": "37da78884b28837e93be8bf3f1cc0b98801ab1bc105b2c2bbd4a1e95688a5cfa",
       "score": 2,
-      "at": "2026-10-02"
+      "at": "2026-10-03"
     },
     "ramput-labs/web-search": {
       "readmeSha256": "0f30a3a717f052079e3862b9c1c33287af6ce74640cae4dea00153f17d10ed5e",
@@ -1771,6 +1849,31 @@
       "readmeSha256": "7dc69528be633b92e326b0bd8b9b427a32fe79fefc8289b6c3b7c916803c9ad9",
       "score": 2,
       "at": "2026-10-02"
+    },
+    "NikkoTesla/factura-bot": {
+      "readmeSha256": "77a00f2209f81bf48eeb0645a9157473cd027f812f123dcb076f91ab6746cfa1",
+      "score": 3,
+      "at": "2026-10-03"
+    },
+    "yaoxinyan55-ai/AI-Agent-Daily": {
+      "readmeSha256": "7f637f0676d6d8526ab14e18da73249ae8354da5c2b2b1fd466b13d4d24779ce",
+      "score": 3,
+      "at": "2026-10-03"
+    },
+    "hkaba-bit/-": {
+      "readmeSha256": "51e27ebd7418b95bc22ad2d1dfaf44ccc6d9027a3b6c160ff2d9eb9894a3b055",
+      "score": 2,
+      "at": "2026-10-03"
+    },
+    "AnkitDevCode/Rss-Feed": {
+      "readmeSha256": "89d92d7accc018c190e44078737df9b1d90f9317c1f9e9b005dd0e6fc40c5bd7",
+      "score": 2,
+      "at": "2026-10-03"
+    },
+    "visavv/hive": {
+      "readmeSha256": "2a1c7228376d0caf28a7069c60b262ed956ed8617125c7276d4c7baf0e1d507b",
+      "score": 2,
+      "at": "2026-10-03"
     }
   }
 }
