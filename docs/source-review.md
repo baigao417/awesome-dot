@@ -475,3 +475,10 @@
 - README: https://github.com/aloopy/pearlbook/blob/136295cb373a8fd6792d53430c65ca312dafd1d5/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## LightSpeedC/20261003-personal-ai-assistant
+
+- Commit: `d5c0ed2b229ea4200ca0dc5d4363af71b701e0c4`
+- README: https://github.com/LightSpeedC/20261003-personal-ai-assistant/blob/d5c0ed2b229ea4200ca0dc5d4363af71b701e0c4/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

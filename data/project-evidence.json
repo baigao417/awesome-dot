@@ -1197,6 +1197,20 @@
       "readmeUrl": "https://github.com/aloopy/pearlbook/blob/136295cb373a8fd6792d53430c65ca312dafd1d5/README.md",
       "readmeSha256": "9d30590d10d491a9742787b79d9e87e8056027b98373446daa98d0224fb8a7da",
       "files": []
+    },
+    {
+      "repository": "LightSpeedC/20261003-personal-ai-assistant",
+      "repositoryId": 1403234959,
+      "description": "2026年のパーソナルAIアシスタント（常駐型エージェント）の人気・機能・日本で使えるか・料金の調査",
+      "url": "https://github.com/LightSpeedC/20261003-personal-ai-assistant",
+      "stars": 0,
+      "updatedAt": "2026-10-03T13:53:19Z",
+      "license": "NOASSERTION",
+      "commit": "d5c0ed2b229ea4200ca0dc5d4363af71b701e0c4",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/LightSpeedC/20261003-personal-ai-assistant/blob/d5c0ed2b229ea4200ca0dc5d4363af71b701e0c4/README.md",
+      "readmeSha256": "d08e9d5eda0a782481268732ef80804adfba117ee028829a80b539fddce28a8d",
+      "files": []
     }
   ]
 }

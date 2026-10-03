@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-03。共 89 条。
+更新日期：2026-10-03。共 90 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -93,3 +93,4 @@
 | shipmate | alternative | OpenAI Dots and Grok Bot, open source, on your laptop. Your keys, nobody in between. Built on Charter. | [来源](https://github.com/r28ai/shipmate) |
 | meridian-agents | community_project | Meridian — CRM, prospection, propositions, réunions, gestion de projets et comptabilité — dans Grok Bot, Muse (Meta) et OpenAI Dots. | [来源](https://github.com/signalorange/meridian-agents) |
 | pearlbook | community_project | Distinct setup paths for ChatGPT dots, local Codex, OpenClaw, Claude, and private tool hosts | [来源](https://github.com/aloopy/pearlbook) |
+| 20261003-personal-ai-assistant | community_project | Gemini Spark と ChatGPT dots は、それぞれ Gemini と ChatGPT のアプリの中の機能なので、アプリの評価に含まれる。 | [来源](https://github.com/LightSpeedC/20261003-personal-ai-assistant) |
