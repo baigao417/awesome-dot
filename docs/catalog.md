@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-04。共 93 条。
+更新日期：2026-10-04。共 101 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -97,3 +97,11 @@
 | Agents-Slack-Bridge | community_project | Connect Muse, Grok Bot, Hermes, and ChatGPT DOTS for collaboration in Slack. | [来源](https://github.com/Ares-X/Agents-Slack-Bridge) |
 | dot-watch | community_project | An experimental iPhone and Apple Watch client for voice calls with an existing ChatGPT Dot. | [来源](https://github.com/jyh1/dot-watch) |
 | openclaw-dots-pairing | task_template | A small, browser-mediated handoff procedure for an OpenClaw assistant and the user's existing OpenAI dot. | [来源](https://github.com/JakeDred81/openclaw-dots-pairing) |
+| dots2api | community_project | Use your own OpenAI Dot through an OpenAI-compatible HTTP API on a personal server. | [来源](https://github.com/yelixir-dev/dots2api) |
+| chatgpt-dots-guide | tutorial | ChatGPT 不再等你提问：OpenAI Dots 是什么，能做什么，靠不靠谱？ | [来源](https://github.com/xianyu110/chatgpt-dots-guide) |
+| emplo | alternative | An open source alternative to OpenAI Dots and Grok Bot. Setup and deploy 24/7 autonomous AI employees and agentic workflows. | [来源](https://github.com/sbmmahato/emplo) |
+| wechat-dot-bridge | building_block | 在微信里和已有的 OpenAI dot 聊天，支持文字、图片和文件。 | [来源](https://github.com/cd233ljx/wechat-dot-bridge) |
+| DotDial | community_project | Cooking, stretching, or thinking out loud on the sofa? Call your ChatGPT dot without reaching for your laptop. | [来源](https://github.com/aaamosh/DotDial) |
+| dot-wake | community_project | A local, menu-bar-only macOS keyword listener for your configured ChatGPT dot. | [来源](https://github.com/awesamarth/dot-wake) |
+| tp-dots-autonomous-agents | community_project | Production runtime blueprints, event mesh dispatchers, and state checkpointing engines for OpenAI Dots (v3.2). | [来源](https://github.com/Pradeeptalari14/tp-dots-autonomous-agents) |
+| mcp-webhook-events | building_block | As of 3 October 2026, a ChatGPT dot that subscribes to your event gets woken up when you deliver it, but the event's data never reaches the dot (reported here). | [来源](https://github.com/s1980amber-commits/mcp-webhook-events) |

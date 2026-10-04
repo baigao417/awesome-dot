@@ -503,3 +503,59 @@
 - README: https://github.com/JakeDred81/openclaw-dots-pairing/blob/3477998ec428f1d7d57207187397c4d79334243c/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## yelixir-dev/dots2api
+
+- Commit: `2036a29178a4db83cc411577e87f255b97813699`
+- README: https://github.com/yelixir-dev/dots2api/blob/2036a29178a4db83cc411577e87f255b97813699/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## xianyu110/chatgpt-dots-guide
+
+- Commit: `7094dbd2120d660e3b274e24371e474ddb67aafd`
+- README: https://github.com/xianyu110/chatgpt-dots-guide/blob/7094dbd2120d660e3b274e24371e474ddb67aafd/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## sbmmahato/emplo
+
+- Commit: `8dd86c60cc7291cddbe26bbe57f27956630dba67`
+- README: https://github.com/sbmmahato/emplo/blob/8dd86c60cc7291cddbe26bbe57f27956630dba67/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## cd233ljx/wechat-dot-bridge
+
+- Commit: `67c726e15ae2de8b60d293d6f5e81107bd0b6ebc`
+- README: https://github.com/cd233ljx/wechat-dot-bridge/blob/67c726e15ae2de8b60d293d6f5e81107bd0b6ebc/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## aaamosh/DotDial
+
+- Commit: `9f8b01ac0915916ae86ad537416b0b165864f944`
+- README: https://github.com/aaamosh/DotDial/blob/9f8b01ac0915916ae86ad537416b0b165864f944/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## awesamarth/dot-wake
+
+- Commit: `8bb9e36a7b53be3b03caf13b3c04d2d18e3037c4`
+- README: https://github.com/awesamarth/dot-wake/blob/8bb9e36a7b53be3b03caf13b3c04d2d18e3037c4/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Pradeeptalari14/tp-dots-autonomous-agents
+
+- Commit: `ba6ed1b1d8caa7fd11581fe19eac310d90f633fc`
+- README: https://github.com/Pradeeptalari14/tp-dots-autonomous-agents/blob/ba6ed1b1d8caa7fd11581fe19eac310d90f633fc/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## s1980amber-commits/mcp-webhook-events
+
+- Commit: `2a5a00540ecb96509752537a0a4de575f0b3d183`
+- README: https://github.com/s1980amber-commits/mcp-webhook-events/blob/2a5a00540ecb96509752537a0a4de575f0b3d183/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
