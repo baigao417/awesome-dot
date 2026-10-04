@@ -482,3 +482,24 @@
 - README: https://github.com/LightSpeedC/20261003-personal-ai-assistant/blob/d5c0ed2b229ea4200ca0dc5d4363af71b701e0c4/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Ares-X/Agents-Slack-Bridge
+
+- Commit: `0704e8c699121a278de42eccb5c989ae27837c36`
+- README: https://github.com/Ares-X/Agents-Slack-Bridge/blob/0704e8c699121a278de42eccb5c989ae27837c36/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## jyh1/dot-watch
+
+- Commit: `abdc3c5d2d320ecdadc8b0158d47926cfa24a9c7`
+- README: https://github.com/jyh1/dot-watch/blob/abdc3c5d2d320ecdadc8b0158d47926cfa24a9c7/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## JakeDred81/openclaw-dots-pairing
+
+- Commit: `3477998ec428f1d7d57207187397c4d79334243c`
+- README: https://github.com/JakeDred81/openclaw-dots-pairing/blob/3477998ec428f1d7d57207187397c4d79334243c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

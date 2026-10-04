@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-03。共 90 条。
+更新日期：2026-10-04。共 93 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -94,3 +94,6 @@
 | meridian-agents | community_project | Meridian — CRM, prospection, propositions, réunions, gestion de projets et comptabilité — dans Grok Bot, Muse (Meta) et OpenAI Dots. | [来源](https://github.com/signalorange/meridian-agents) |
 | pearlbook | community_project | Distinct setup paths for ChatGPT dots, local Codex, OpenClaw, Claude, and private tool hosts | [来源](https://github.com/aloopy/pearlbook) |
 | 20261003-personal-ai-assistant | community_project | Gemini Spark と ChatGPT dots は、それぞれ Gemini と ChatGPT のアプリの中の機能なので、アプリの評価に含まれる。 | [来源](https://github.com/LightSpeedC/20261003-personal-ai-assistant) |
+| Agents-Slack-Bridge | community_project | Connect Muse, Grok Bot, Hermes, and ChatGPT DOTS for collaboration in Slack. | [来源](https://github.com/Ares-X/Agents-Slack-Bridge) |
+| dot-watch | community_project | An experimental iPhone and Apple Watch client for voice calls with an existing ChatGPT Dot. | [来源](https://github.com/jyh1/dot-watch) |
+| openclaw-dots-pairing | task_template | A small, browser-mediated handoff procedure for an OpenClaw assistant and the user's existing OpenAI dot. | [来源](https://github.com/JakeDred81/openclaw-dots-pairing) |

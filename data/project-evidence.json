@@ -1211,6 +1211,48 @@
       "readmeUrl": "https://github.com/LightSpeedC/20261003-personal-ai-assistant/blob/d5c0ed2b229ea4200ca0dc5d4363af71b701e0c4/README.md",
       "readmeSha256": "d08e9d5eda0a782481268732ef80804adfba117ee028829a80b539fddce28a8d",
       "files": []
+    },
+    {
+      "repository": "Ares-X/Agents-Slack-Bridge",
+      "repositoryId": 1401854463,
+      "description": "Connect Muse, Grok Bot, Hermes, and ChatGPT DOTS through Slack for context-aware, multi-agent collaboration.",
+      "url": "https://github.com/Ares-X/Agents-Slack-Bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-04T04:05:54Z",
+      "license": "NOASSERTION",
+      "commit": "0704e8c699121a278de42eccb5c989ae27837c36",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Ares-X/Agents-Slack-Bridge/blob/0704e8c699121a278de42eccb5c989ae27837c36/README.md",
+      "readmeSha256": "29e344ad57a79eb55df09d4c890416f95be59d10664165e98e6e6ffcb6744403",
+      "files": []
+    },
+    {
+      "repository": "jyh1/dot-watch",
+      "repositoryId": 1403792676,
+      "description": "An experimental iPhone and Apple Watch client for calling your ChatGPT Dot. Native Watch audio, Smart Stack, and configurable personal builds.",
+      "url": "https://github.com/jyh1/dot-watch",
+      "stars": 0,
+      "updatedAt": "2026-10-04T02:20:24Z",
+      "license": "NOASSERTION",
+      "commit": "abdc3c5d2d320ecdadc8b0158d47926cfa24a9c7",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/jyh1/dot-watch/blob/abdc3c5d2d320ecdadc8b0158d47926cfa24a9c7/README.md",
+      "readmeSha256": "8d55661873fc2f21b2b05170f5256500f450bbbcdd682ce3806976ce7a9addb0",
+      "files": []
+    },
+    {
+      "repository": "JakeDred81/openclaw-dots-pairing",
+      "repositoryId": 1403747057,
+      "description": "Browser-mediated OpenClaw–OpenAI dots handoff instructions and templates. Workflow requirements by Jacob Frisby; CC BY 4.0. Not an official API or unattended bridge.",
+      "url": "https://github.com/JakeDred81/openclaw-dots-pairing",
+      "stars": 0,
+      "updatedAt": "2026-10-04T00:42:04Z",
+      "license": "CC-BY-4.0",
+      "commit": "3477998ec428f1d7d57207187397c4d79334243c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/JakeDred81/openclaw-dots-pairing/blob/3477998ec428f1d7d57207187397c4d79334243c/README.md",
+      "readmeSha256": "f48c30d0d977036f3a209b10ff69c3610284b1786581a02c53b507044b1cf1ee",
+      "files": []
     }
   ]
 }
