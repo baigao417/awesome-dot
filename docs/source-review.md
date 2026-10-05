@@ -559,3 +559,17 @@
 - README: https://github.com/s1980amber-commits/mcp-webhook-events/blob/2a5a00540ecb96509752537a0a4de575f0b3d183/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## itumor/opendot
+
+- Commit: `9ce0cd2bb93439916c360c97bbd262172ba73be7`
+- README: https://github.com/itumor/opendot/blob/9ce0cd2bb93439916c360c97bbd262172ba73be7/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## stonethunk/dot_watch
+
+- Commit: `3aeccd4b0171b8aa4ba3bb83e862b1d99a994877`
+- README: https://github.com/stonethunk/dot_watch/blob/3aeccd4b0171b8aa4ba3bb83e862b1d99a994877/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

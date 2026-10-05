@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-04。共 101 条。
+更新日期：2026-10-05。共 103 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -105,3 +105,5 @@
 | dot-wake | community_project | A local, menu-bar-only macOS keyword listener for your configured ChatGPT dot. | [来源](https://github.com/awesamarth/dot-wake) |
 | tp-dots-autonomous-agents | community_project | Production runtime blueprints, event mesh dispatchers, and state checkpointing engines for OpenAI Dots (v3.2). | [来源](https://github.com/Pradeeptalari14/tp-dots-autonomous-agents) |
 | mcp-webhook-events | building_block | As of 3 October 2026, a ChatGPT dot that subscribes to your event gets woken up when you deliver it, but the event's data never reaches the dot (reported here). | [来源](https://github.com/s1980amber-commits/mcp-webhook-events) |
+| opendot | community_project | opendot — an open, always-on personal agent built on DeepSeek Harness (DSH), modeled on OpenAI's dots: keeps goals, wakes on schedules and events, holds long-term memory, and acts under operator-set autonomy rules. | [来源](https://github.com/itumor/opendot) |
+| dot_watch | community_project | Native iPhone, Apple Watch and CarPlay interfaces to your existing ChatGPT Dot: the same account, conversation and character. | [来源](https://github.com/stonethunk/dot_watch) |

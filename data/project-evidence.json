@@ -1365,6 +1365,34 @@
       "readmeUrl": "https://github.com/s1980amber-commits/mcp-webhook-events/blob/2a5a00540ecb96509752537a0a4de575f0b3d183/README.md",
       "readmeSha256": "eb1cc040b10918b9fc4bd1505b946ebc38cd9090cebf9f185d702aacad41edf5",
       "files": []
+    },
+    {
+      "repository": "itumor/opendot",
+      "repositoryId": 1404824460,
+      "description": "An open, always-on personal agent built on DeepSeek Harness, modeled on OpenAI dots",
+      "url": "https://github.com/itumor/opendot",
+      "stars": 0,
+      "updatedAt": "2026-10-04T20:51:54Z",
+      "license": "NOASSERTION",
+      "commit": "9ce0cd2bb93439916c360c97bbd262172ba73be7",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/itumor/opendot/blob/9ce0cd2bb93439916c360c97bbd262172ba73be7/README.md",
+      "readmeSha256": "8063f9da6c26017b2a01ca9c170b614c2cb424310717d40a757e3d685ea916d6",
+      "files": []
+    },
+    {
+      "repository": "stonethunk/dot_watch",
+      "repositoryId": 1404786296,
+      "description": "Experimental Swift interfaces for an existing ChatGPT Dot on Apple Watch, iPhone and CarPlay.",
+      "url": "https://github.com/stonethunk/dot_watch",
+      "stars": 0,
+      "updatedAt": "2026-10-04T20:12:41Z",
+      "license": "MIT",
+      "commit": "3aeccd4b0171b8aa4ba3bb83e862b1d99a994877",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/stonethunk/dot_watch/blob/3aeccd4b0171b8aa4ba3bb83e862b1d99a994877/README.md",
+      "readmeSha256": "6f905fad8a35497ead3531beaa682bdecca74738b93fbb690f328df8032a8e46",
+      "files": []
     }
   ]
 }
