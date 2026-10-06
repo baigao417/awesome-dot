@@ -573,3 +573,24 @@
 - README: https://github.com/stonethunk/dot_watch/blob/3aeccd4b0171b8aa4ba3bb83e862b1d99a994877/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ashrocket/threads-cleanup-dot-skill
+
+- Commit: `e606f3319b4576685a8effede0cc865c32308667`
+- README: https://github.com/ashrocket/threads-cleanup-dot-skill/blob/e606f3319b4576685a8effede0cc865c32308667/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ry304/discord-dot-bridge
+
+- Commit: `b3390ae639b02fffbe1f292f82e2c2bfab343591`
+- README: https://github.com/ry304/discord-dot-bridge/blob/b3390ae639b02fffbe1f292f82e2c2bfab343591/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Torcata/watch-dot
+
+- Commit: `0ca53cc050017533e5ed8aef0436fc32e20f2ba1`
+- README: https://github.com/Torcata/watch-dot/blob/0ca53cc050017533e5ed8aef0436fc32e20f2ba1/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

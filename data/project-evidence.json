@@ -1393,6 +1393,48 @@
       "readmeUrl": "https://github.com/stonethunk/dot_watch/blob/3aeccd4b0171b8aa4ba3bb83e862b1d99a994877/README.md",
       "readmeSha256": "6f905fad8a35497ead3531beaa682bdecca74738b93fbb690f328df8032a8e46",
       "files": []
+    },
+    {
+      "repository": "ashrocket/threads-cleanup-dot-skill",
+      "repositoryId": 1406488602,
+      "description": "Reusable Threads cleanup skill for OpenAI dots and Codex",
+      "url": "https://github.com/ashrocket/threads-cleanup-dot-skill",
+      "stars": 0,
+      "updatedAt": "2026-10-06T04:52:44Z",
+      "license": "MIT",
+      "commit": "e606f3319b4576685a8effede0cc865c32308667",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ashrocket/threads-cleanup-dot-skill/blob/e606f3319b4576685a8effede0cc865c32308667/README.md",
+      "readmeSha256": "b39d9e45758fc079774f19dc3ccc72923cc26138e12ced93ef7f0fd2503267da",
+      "files": []
+    },
+    {
+      "repository": "ry304/discord-dot-bridge",
+      "repositoryId": 1406535286,
+      "description": "Experimental owner-only Discord DM bridge to an existing ChatGPT dot via MCP Events. Mock-tested; live integration unverified.",
+      "url": "https://github.com/ry304/discord-dot-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-06T02:04:38Z",
+      "license": "MIT",
+      "commit": "b3390ae639b02fffbe1f292f82e2c2bfab343591",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ry304/discord-dot-bridge/blob/b3390ae639b02fffbe1f292f82e2c2bfab343591/README.md",
+      "readmeSha256": "a16556377b9956920e336396cc6505f36388638eff91af166c6f826836f07aff",
+      "files": []
+    },
+    {
+      "repository": "Torcata/watch-dot",
+      "repositoryId": 1404853718,
+      "description": "Chatgpt Dot agent client for apple watch",
+      "url": "https://github.com/Torcata/watch-dot",
+      "stars": 0,
+      "updatedAt": "2026-10-05T23:36:39Z",
+      "license": "GPL-3.0",
+      "commit": "0ca53cc050017533e5ed8aef0436fc32e20f2ba1",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Torcata/watch-dot/blob/0ca53cc050017533e5ed8aef0436fc32e20f2ba1/README.md",
+      "readmeSha256": "026eea5a8b0a12b84bcfffeff8db0025b405a6e48eb60e91cf21a02aa31395f5",
+      "files": []
     }
   ]
 }

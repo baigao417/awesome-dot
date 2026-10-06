@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-05。共 103 条。
+更新日期：2026-10-06。共 106 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -107,3 +107,6 @@
 | mcp-webhook-events | building_block | As of 3 October 2026, a ChatGPT dot that subscribes to your event gets woken up when you deliver it, but the event's data never reaches the dot (reported here). | [来源](https://github.com/s1980amber-commits/mcp-webhook-events) |
 | opendot | community_project | opendot — an open, always-on personal agent built on DeepSeek Harness (DSH), modeled on OpenAI's dots: keeps goals, wakes on schedules and events, holds long-term memory, and acts under operator-set autonomy rules. | [来源](https://github.com/itumor/opendot) |
 | dot_watch | community_project | Native iPhone, Apple Watch and CarPlay interfaces to your existing ChatGPT Dot: the same account, conversation and character. | [来源](https://github.com/stonethunk/dot_watch) |
+| threads-cleanup-dot-skill | community_project | References: OpenAI dots, OpenAI plugin packaging, OpenAI skill sharing, TypeSafe docs. | [来源](https://github.com/ashrocket/threads-cleanup-dot-skill) |
+| discord-dot-bridge | building_block | An experimental, owner-only Discord bridge to an existing ChatGPT dot. | [来源](https://github.com/ry304/discord-dot-bridge) |
+| watch-dot | community_project | Talk to your ChatGPT Dot straight from your Apple Watch, even when your iPhone stays at home. | [来源](https://github.com/Torcata/watch-dot) |

@@ -472,6 +472,24 @@
       "file": "stonethunk.png",
       "source": "https://avatars.githubusercontent.com/u/337554165?s=96",
       "sha256": "741704648b007126c07bbe08aaa5d2134d39c65099460a78eb20b88229e88368"
+    },
+    {
+      "owner": "ashrocket",
+      "file": "ashrocket.png",
+      "source": "https://avatars.githubusercontent.com/u/713675?s=96",
+      "sha256": "2928e8365b994ffd6f7ca0dc2d3da327b21de229c7d42f6b21681a1ff2662400"
+    },
+    {
+      "owner": "ry304",
+      "file": "ry304.png",
+      "source": "https://avatars.githubusercontent.com/u/97367424?s=96",
+      "sha256": "ca23c85f0c0010431024d0432e30dfbf8fd64d00a774abd37cbd606e2462bc2e"
+    },
+    {
+      "owner": "Torcata",
+      "file": "torcata.png",
+      "source": "https://avatars.githubusercontent.com/u/337856123?s=96",
+      "sha256": "c1c3f2712937365b209704eb2b6b5bcd9c514a71cd0252df69e96918a463de52"
     }
   ]
 }
