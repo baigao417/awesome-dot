@@ -1435,6 +1435,76 @@
       "readmeUrl": "https://github.com/Torcata/watch-dot/blob/0ca53cc050017533e5ed8aef0436fc32e20f2ba1/README.md",
       "readmeSha256": "026eea5a8b0a12b84bcfffeff8db0025b405a6e48eb60e91cf21a02aa31395f5",
       "files": []
+    },
+    {
+      "repository": "Pluviobyte/dot2api",
+      "repositoryId": 1406818542,
+      "description": "Turn your OpenAI Dot into an OpenAI- and Claude-compatible API",
+      "url": "https://github.com/Pluviobyte/dot2api",
+      "stars": 1,
+      "updatedAt": "2026-10-06T06:35:29Z",
+      "license": "MIT",
+      "commit": "66a761505ff73c5dca730260efcaeb5697db81ad",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Pluviobyte/dot2api/blob/66a761505ff73c5dca730260efcaeb5697db81ad/README.md",
+      "readmeSha256": "2c83f9fc8281908a07fcfd4d899d33d7e5d9226bbb36ba0a4055da8b22e01433",
+      "files": []
+    },
+    {
+      "repository": "arjav1181/nest",
+      "repositoryId": 1407087310,
+      "description": "A colony of always-on AI agents that run your one-person content business. The open-source answer to Grok Bot, OpenAI Dots, and Meta Muse.",
+      "url": "https://github.com/arjav1181/nest",
+      "stars": 0,
+      "updatedAt": "2026-10-06T11:15:10Z",
+      "license": "MIT",
+      "commit": "eb4b94fb9522b48f23b5bd7ae2d72bf1fbca10b4",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/arjav1181/nest/blob/eb4b94fb9522b48f23b5bd7ae2d72bf1fbca10b4/README.md",
+      "readmeSha256": "11890f2d14d88c6a25fa7f214f7ebd799b345c1229df3ebdacdc3ec079947fd8",
+      "files": []
+    },
+    {
+      "repository": "JoeyWangTW/index-dispatch",
+      "repositoryId": 1406897179,
+      "description": "A self-hosted voice inbox routing Pebble Index 01 notes to Notion and tasks to OpenAI Dots.",
+      "url": "https://github.com/JoeyWangTW/index-dispatch",
+      "stars": 0,
+      "updatedAt": "2026-10-06T07:40:21Z",
+      "license": "MIT",
+      "commit": "1b8bea92b5dd63d3097627b83e27ffbe40f60a76",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/JoeyWangTW/index-dispatch/blob/1b8bea92b5dd63d3097627b83e27ffbe40f60a76/README.md",
+      "readmeSha256": "0eeeea57cb2ea9f4a95f8fc76891e788ffcbda78eddf0fd242c509989e65eafd",
+      "files": []
+    },
+    {
+      "repository": "ndunl075/opendot",
+      "repositoryId": 1407582170,
+      "description": "open source chatgpt dot that works with your openai subscription",
+      "url": "https://github.com/ndunl075/opendot",
+      "stars": 0,
+      "updatedAt": "2026-10-06T18:22:46Z",
+      "license": "NOASSERTION",
+      "commit": "b9baf75091282d0df51404db1dfe840ba800f485",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ndunl075/opendot/blob/b9baf75091282d0df51404db1dfe840ba800f485/README.md",
+      "readmeSha256": "f3cff69fb4f3863cbf79f2463b64cc77fa7097a2574aca2e627044c3fbeab30d",
+      "files": []
+    },
+    {
+      "repository": "noir-hedgehog/dots-feishu-adapter",
+      "repositoryId": 1400105159,
+      "description": "Feishu/Lark adapter for OpenAI dots and other AI agents, with WebSocket messaging and MCP integration.",
+      "url": "https://github.com/noir-hedgehog/dots-feishu-adapter",
+      "stars": 0,
+      "updatedAt": "2026-10-06T05:36:36Z",
+      "license": "NOASSERTION",
+      "commit": "22ae487973aa996777115d882118b56ab7bcb9d4",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/noir-hedgehog/dots-feishu-adapter/blob/22ae487973aa996777115d882118b56ab7bcb9d4/README.md",
+      "readmeSha256": "3f019851e03977b8720cd65187abf1e4e9f61a7000e5d18292d76f6f2395feb3",
+      "files": []
     }
   ]
 }

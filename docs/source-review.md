@@ -594,3 +594,38 @@
 - README: https://github.com/Torcata/watch-dot/blob/0ca53cc050017533e5ed8aef0436fc32e20f2ba1/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Pluviobyte/dot2api
+
+- Commit: `66a761505ff73c5dca730260efcaeb5697db81ad`
+- README: https://github.com/Pluviobyte/dot2api/blob/66a761505ff73c5dca730260efcaeb5697db81ad/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## arjav1181/nest
+
+- Commit: `eb4b94fb9522b48f23b5bd7ae2d72bf1fbca10b4`
+- README: https://github.com/arjav1181/nest/blob/eb4b94fb9522b48f23b5bd7ae2d72bf1fbca10b4/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## JoeyWangTW/index-dispatch
+
+- Commit: `1b8bea92b5dd63d3097627b83e27ffbe40f60a76`
+- README: https://github.com/JoeyWangTW/index-dispatch/blob/1b8bea92b5dd63d3097627b83e27ffbe40f60a76/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ndunl075/opendot
+
+- Commit: `b9baf75091282d0df51404db1dfe840ba800f485`
+- README: https://github.com/ndunl075/opendot/blob/b9baf75091282d0df51404db1dfe840ba800f485/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## noir-hedgehog/dots-feishu-adapter
+
+- Commit: `22ae487973aa996777115d882118b56ab7bcb9d4`
+- README: https://github.com/noir-hedgehog/dots-feishu-adapter/blob/22ae487973aa996777115d882118b56ab7bcb9d4/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

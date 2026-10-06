@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-06。共 106 条。
+更新日期：2026-10-06。共 111 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -110,3 +110,8 @@
 | threads-cleanup-dot-skill | community_project | References: OpenAI dots, OpenAI plugin packaging, OpenAI skill sharing, TypeSafe docs. | [来源](https://github.com/ashrocket/threads-cleanup-dot-skill) |
 | discord-dot-bridge | building_block | An experimental, owner-only Discord bridge to an existing ChatGPT dot. | [来源](https://github.com/ry304/discord-dot-bridge) |
 | watch-dot | community_project | Talk to your ChatGPT Dot straight from your Apple Watch, even when your iPhone stays at home. | [来源](https://github.com/Torcata/watch-dot) |
+| dot2api | building_block | Dot2API is a self-hosted gateway that exposes one OpenAI Dot through the OpenAI Chat Completions and Anthropic Messages formats. | [来源](https://github.com/Pluviobyte/dot2api) |
+| nest | community_project | The open-source answer to Grok Bot, OpenAI Dots, and Meta Muse. | [来源](https://github.com/arjav1181/nest) |
+| index-dispatch | community_project | A self-hosted voice inbox routing Pebble Index 01 notes to Notion and tasks to OpenAI Dots. | [来源](https://github.com/JoeyWangTW/index-dispatch) |
+| opendot | community_project | OpenDot is a free, open-source, self-hosted personal agent in the spirit of ChatGPT Dots. | [来源](https://github.com/ndunl075/opendot) |
+| dots-feishu-adapter | building_block | The existing ChatGPT dot must actually support installing this plugin and subscribing to message.created; that product-level prerequisite is not confirmed by offline tests. | [来源](https://github.com/noir-hedgehog/dots-feishu-adapter) |
