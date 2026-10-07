@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-06。共 111 条。
+更新日期：2026-10-07。共 113 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -115,3 +115,5 @@
 | index-dispatch | community_project | A self-hosted voice inbox routing Pebble Index 01 notes to Notion and tasks to OpenAI Dots. | [来源](https://github.com/JoeyWangTW/index-dispatch) |
 | opendot | community_project | OpenDot is a free, open-source, self-hosted personal agent in the spirit of ChatGPT Dots. | [来源](https://github.com/ndunl075/opendot) |
 | dots-feishu-adapter | building_block | The existing ChatGPT dot must actually support installing this plugin and subscribing to message.created; that product-level prerequisite is not confirmed by offline tests. | [来源](https://github.com/noir-hedgehog/dots-feishu-adapter) |
+| relay-credential-broker | building_block | A private desktop credential broker for ChatGPT Dots and other MCP clients. | [来源](https://github.com/Hola3Dprint/relay-credential-broker) |
+| incwo-dot-plugin | building_block | Portable incwo MCP workflows for ChatGPT dots | [来源](https://github.com/gbesse/incwo-dot-plugin) |

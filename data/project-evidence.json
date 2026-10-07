@@ -1505,6 +1505,34 @@
       "readmeUrl": "https://github.com/noir-hedgehog/dots-feishu-adapter/blob/22ae487973aa996777115d882118b56ab7bcb9d4/README.md",
       "readmeSha256": "3f019851e03977b8720cd65187abf1e4e9f61a7000e5d18292d76f6f2395feb3",
       "files": []
+    },
+    {
+      "repository": "Hola3Dprint/relay-credential-broker",
+      "repositoryId": 1406606006,
+      "description": "Private Windows credential broker for ChatGPT Dots with TPM encryption, MFA, browser sessions, and scoped MCP tools",
+      "url": "https://github.com/Hola3Dprint/relay-credential-broker",
+      "stars": 1,
+      "updatedAt": "2026-10-06T23:05:54Z",
+      "license": "NOASSERTION",
+      "commit": "9057f4b6d35063f3d59ab418c652ed5fcc21e4f1",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Hola3Dprint/relay-credential-broker/blob/9057f4b6d35063f3d59ab418c652ed5fcc21e4f1/README.md",
+      "readmeSha256": "2cf954a23186b46379d2e432f7e6acc604cdf1353f761faacf341d6b94a46e12",
+      "files": []
+    },
+    {
+      "repository": "gbesse/incwo-dot-plugin",
+      "repositoryId": 1407696402,
+      "description": "Portable incwo MCP workflows for ChatGPT dots",
+      "url": "https://github.com/gbesse/incwo-dot-plugin",
+      "stars": 0,
+      "updatedAt": "2026-10-06T17:28:32Z",
+      "license": "MIT",
+      "commit": "1f8fdbb76e75568c41f74edebc248924a0f9ee23",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/gbesse/incwo-dot-plugin/blob/1f8fdbb76e75568c41f74edebc248924a0f9ee23/README.md",
+      "readmeSha256": "7b98a9e002011639ed11c2fca4d71fb6133e3d51ab27971f35c93db3a823db08",
+      "files": []
     }
   ]
 }

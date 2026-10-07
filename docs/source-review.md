@@ -629,3 +629,17 @@
 - README: https://github.com/noir-hedgehog/dots-feishu-adapter/blob/22ae487973aa996777115d882118b56ab7bcb9d4/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Hola3Dprint/relay-credential-broker
+
+- Commit: `9057f4b6d35063f3d59ab418c652ed5fcc21e4f1`
+- README: https://github.com/Hola3Dprint/relay-credential-broker/blob/9057f4b6d35063f3d59ab418c652ed5fcc21e4f1/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## gbesse/incwo-dot-plugin
+
+- Commit: `1f8fdbb76e75568c41f74edebc248924a0f9ee23`
+- README: https://github.com/gbesse/incwo-dot-plugin/blob/1f8fdbb76e75568c41f74edebc248924a0f9ee23/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

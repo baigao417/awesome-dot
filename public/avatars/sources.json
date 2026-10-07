@@ -520,6 +520,18 @@
       "file": "noir-hedgehog.png",
       "source": "https://avatars.githubusercontent.com/u/261261891?s=96",
       "sha256": "34d53c7d422ba7e184b66f6e56b19352be2a34c7392fd9922dbdb15892bb663e"
+    },
+    {
+      "owner": "Hola3Dprint",
+      "file": "hola3dprint.png",
+      "source": "https://avatars.githubusercontent.com/u/292509998?s=96",
+      "sha256": "92d315968dbe259050b9460c15869a9106f8d5eac6cedebccb97fe3eb3e5ae20"
+    },
+    {
+      "owner": "gbesse",
+      "file": "gbesse.jpg",
+      "source": "https://avatars.githubusercontent.com/u/11911909?s=96",
+      "sha256": "9829613f83d8f772e875666d4610dd3eb748b9b7651df45215dc306562a9eef3"
     }
   ]
 }
