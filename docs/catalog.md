@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-07。共 113 条。
+更新日期：2026-10-07。共 117 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -117,3 +117,7 @@
 | dots-feishu-adapter | building_block | The existing ChatGPT dot must actually support installing this plugin and subscribing to message.created; that product-level prerequisite is not confirmed by offline tests. | [来源](https://github.com/noir-hedgehog/dots-feishu-adapter) |
 | relay-credential-broker | building_block | A private desktop credential broker for ChatGPT Dots and other MCP clients. | [来源](https://github.com/Hola3Dprint/relay-credential-broker) |
 | incwo-dot-plugin | building_block | Portable incwo MCP workflows for ChatGPT dots | [来源](https://github.com/gbesse/incwo-dot-plugin) |
+| chatgpt-dot-abuse-prevention-limit | community_project | I asked my ChatGPT dot a demanding question: “What's currently going on?” | [来源](https://github.com/COOLak/chatgpt-dot-abuse-prevention-limit) |
+| chatgpt-dots | community_project | A BridgeV2 bridge that connects your existing ChatGPT Dot to Beeper and Matrix. | [来源](https://github.com/beeper/chatgpt-dots) |
+| invisible_dots | alternative | invisibledots Open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and Claude Cowork. | [来源](https://github.com/feder-cr/invisible_dots) |
+| GPT-Dot-DeepSeek-BigFish | community_project | DeepSeek 鲸鱼娘·趴圈版：用于 ChatGPT Dot / Pet 的非官方同人形象与动画素材。蓝白圆环、上半身大脸表情，包含完整眨眼、拿笔画画和键盘动作。 | [来源](https://github.com/RnalU/GPT-Dot-DeepSeek-BigFish) |

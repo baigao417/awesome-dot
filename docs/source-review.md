@@ -643,3 +643,31 @@
 - README: https://github.com/gbesse/incwo-dot-plugin/blob/1f8fdbb76e75568c41f74edebc248924a0f9ee23/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## COOLak/chatgpt-dot-abuse-prevention-limit
+
+- Commit: `32e75e1720046b283c0c31c44e7b0b0e7f7fb536`
+- README: https://github.com/COOLak/chatgpt-dot-abuse-prevention-limit/blob/32e75e1720046b283c0c31c44e7b0b0e7f7fb536/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## beeper/chatgpt-dots
+
+- Commit: `3b7fd5b64621bf0ca9c7524d716d9aa3d351bbe2`
+- README: https://github.com/beeper/chatgpt-dots/blob/3b7fd5b64621bf0ca9c7524d716d9aa3d351bbe2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## feder-cr/invisible_dots
+
+- Commit: `a0bc3a640aaee95639aefa1b8b25241e1aafcecb`
+- README: https://github.com/feder-cr/invisible_dots/blob/a0bc3a640aaee95639aefa1b8b25241e1aafcecb/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## RnalU/GPT-Dot-DeepSeek-BigFish
+
+- Commit: `d09421e7188ad288fab08e68682a13858550749e`
+- README: https://github.com/RnalU/GPT-Dot-DeepSeek-BigFish/blob/d09421e7188ad288fab08e68682a13858550749e/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

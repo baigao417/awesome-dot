@@ -532,6 +532,24 @@
       "file": "gbesse.jpg",
       "source": "https://avatars.githubusercontent.com/u/11911909?s=96",
       "sha256": "9829613f83d8f772e875666d4610dd3eb748b9b7651df45215dc306562a9eef3"
+    },
+    {
+      "owner": "COOLak",
+      "file": "coolak.png",
+      "source": "https://avatars.githubusercontent.com/u/8677627?s=96",
+      "sha256": "1a18a9191e5e43b5a095bda50957077ed121f607815527d7db0f5edc89d38f76"
+    },
+    {
+      "owner": "beeper",
+      "file": "beeper.png",
+      "source": "https://avatars.githubusercontent.com/u/74791520?s=96",
+      "sha256": "d8776ded30b5e6052f241979d01da7e89809a9f7924d75aac5da611eb39dbbd3"
+    },
+    {
+      "owner": "RnalU",
+      "file": "rnalu.png",
+      "source": "https://avatars.githubusercontent.com/u/119721547?s=96",
+      "sha256": "e83177f8fb11b685bfb6466657843e6961eb8a8e7971527cab4f9d8ba1dd6ea5"
     }
   ]
 }

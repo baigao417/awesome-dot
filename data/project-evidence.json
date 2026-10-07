@@ -1533,6 +1533,62 @@
       "readmeUrl": "https://github.com/gbesse/incwo-dot-plugin/blob/1f8fdbb76e75568c41f74edebc248924a0f9ee23/README.md",
       "readmeSha256": "7b98a9e002011639ed11c2fca4d71fb6133e3d51ab27971f35c93db3a823db08",
       "files": []
+    },
+    {
+      "repository": "COOLak/chatgpt-dot-abuse-prevention-limit",
+      "repositoryId": 1408764203,
+      "description": "Evidence tracker: ChatGPT dot blocks an ordinary status request with an opaque abuse-prevention break; reset, accounting and work continuity remain unexplained.",
+      "url": "https://github.com/COOLak/chatgpt-dot-abuse-prevention-limit",
+      "stars": 0,
+      "updatedAt": "2026-10-07T13:11:39Z",
+      "license": "NOASSERTION",
+      "commit": "32e75e1720046b283c0c31c44e7b0b0e7f7fb536",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/COOLak/chatgpt-dot-abuse-prevention-limit/blob/32e75e1720046b283c0c31c44e7b0b0e7f7fb536/README.md",
+      "readmeSha256": "047e77fe6bf8e4d3878f7ffd7ee4af5c919a5dd3acd9618aaddd5ee67dc7e4d9",
+      "files": []
+    },
+    {
+      "repository": "beeper/chatgpt-dots",
+      "repositoryId": 1400174663,
+      "description": "Native ChatGPT Dots messaging bridge for Beeper",
+      "url": "https://github.com/beeper/chatgpt-dots",
+      "stars": 0,
+      "updatedAt": "2026-10-07T16:16:14Z",
+      "license": "AGPL-3.0",
+      "commit": "3b7fd5b64621bf0ca9c7524d716d9aa3d351bbe2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/beeper/chatgpt-dots/blob/3b7fd5b64621bf0ca9c7524d716d9aa3d351bbe2/README.md",
+      "readmeSha256": "6d9f6cb5eb139be4ba350a8eae0c50b2df4b280ff783e53be6c58fa79eea0666",
+      "files": []
+    },
+    {
+      "repository": "feder-cr/invisible_dots",
+      "repositoryId": 837911756,
+      "description": "Open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and Claude Cowork. AI agents, each with a virtual machine on your PC with a desktop, a shell, files, memory and skills that stay, invisible to anti-bots. Any model on OpenRouter.",
+      "url": "https://github.com/feder-cr/invisible_dots",
+      "stars": 31797,
+      "updatedAt": "2026-10-07T17:07:02Z",
+      "license": "MIT",
+      "commit": "a0bc3a640aaee95639aefa1b8b25241e1aafcecb",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/feder-cr/invisible_dots/blob/a0bc3a640aaee95639aefa1b8b25241e1aafcecb/README.md",
+      "readmeSha256": "73007644fe47f540db50905bfa9014fadb1e12c7be14158350b46549d9737ad4",
+      "files": []
+    },
+    {
+      "repository": "RnalU/GPT-Dot-DeepSeek-BigFish",
+      "repositoryId": 1408923319,
+      "description": "DeepSeek 鲸鱼娘·趴圈版：用于 ChatGPT Dot / Pet 的非官方同人动态图集与预览",
+      "url": "https://github.com/RnalU/GPT-Dot-DeepSeek-BigFish",
+      "stars": 0,
+      "updatedAt": "2026-10-07T15:06:44Z",
+      "license": "NOASSERTION",
+      "commit": "d09421e7188ad288fab08e68682a13858550749e",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/RnalU/GPT-Dot-DeepSeek-BigFish/blob/d09421e7188ad288fab08e68682a13858550749e/README.md",
+      "readmeSha256": "f40b31e1669c39e9a5c72b5999dcfab36355bfd6bfce6548449495a201391456",
+      "files": []
     }
   ]
 }
