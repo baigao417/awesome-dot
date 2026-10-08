@@ -1589,6 +1589,76 @@
       "readmeUrl": "https://github.com/RnalU/GPT-Dot-DeepSeek-BigFish/blob/d09421e7188ad288fab08e68682a13858550749e/README.md",
       "readmeSha256": "f40b31e1669c39e9a5c72b5999dcfab36355bfd6bfce6548449495a201391456",
       "files": []
+    },
+    {
+      "repository": "joehillthunder/displayxr-dot-voice",
+      "repositoryId": 1410049037,
+      "description": "Ask an AI agent (OpenAI dots, Realtime voice, Claude) to show something; it appears in glasses-free 3D on a Leia display via DisplayXR, or in 2D in any browser.",
+      "url": "https://github.com/joehillthunder/displayxr-dot-voice",
+      "stars": 0,
+      "updatedAt": "2026-10-08T09:15:01Z",
+      "license": "Apache-2.0",
+      "commit": "2dc7ce63b27fd032ed79ae9e2f443f38c8acef60",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/joehillthunder/displayxr-dot-voice/blob/2dc7ce63b27fd032ed79ae9e2f443f38c8acef60/README.md",
+      "readmeSha256": "11ea2816eeaa204b85126754f80a8bbc70c28bf6e5ebb5d8732b5fdbe72be720",
+      "files": []
+    },
+    {
+      "repository": "moruku36/mattermost-dots-poc",
+      "repositoryId": 1409989008,
+      "description": "Experimental five-minute Mattermost metadata notifications to OpenAI Dots via MCP Events; no automatic replies.",
+      "url": "https://github.com/moruku36/mattermost-dots-poc",
+      "stars": 1,
+      "updatedAt": "2026-10-08T08:27:25Z",
+      "license": "MIT",
+      "commit": "c1828da9f1989dfc4fe63fe6cc362ba554bc0b97",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/moruku36/mattermost-dots-poc/blob/c1828da9f1989dfc4fe63fe6cc362ba554bc0b97/README.md",
+      "readmeSha256": "4346ad1b936dd21f42899af6d7754741223976f10a7b0d9d8e9a93811027a15f",
+      "files": []
+    },
+    {
+      "repository": "RobertoAgent/roberto-agent-plugins",
+      "repositoryId": 1410029744,
+      "description": "Official Roberto plugins for ChatGPT (OpenAI Dots), Cursor (Grok Bot) and Meta Muse",
+      "url": "https://github.com/RobertoAgent/roberto-agent-plugins",
+      "stars": 0,
+      "updatedAt": "2026-10-08T08:59:48Z",
+      "license": "Apache-2.0",
+      "commit": "1a2bb2a122f2354f3c8c17586115b6abc458f35f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/RobertoAgent/roberto-agent-plugins/blob/1a2bb2a122f2354f3c8c17586115b6abc458f35f/README.md",
+      "readmeSha256": "5f97626a03ce5494c77602273838d12d88aae7c3f59a9355872dbbb73c27fea8",
+      "files": []
+    },
+    {
+      "repository": "christophergyman/cloudflare-droplets",
+      "repositoryId": 1409944102,
+      "description": "Self hostable grok bot chatgpt dots on cloudflare primatives fully self hostable !",
+      "url": "https://github.com/christophergyman/cloudflare-droplets",
+      "stars": 0,
+      "updatedAt": "2026-10-08T07:52:20Z",
+      "license": "MIT",
+      "commit": "55b3c706c45ef05e79347288efe6a6930b83e6ad",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/christophergyman/cloudflare-droplets/blob/55b3c706c45ef05e79347288efe6a6930b83e6ad/README.md",
+      "readmeSha256": "ac83932ae40b4797a76e166f51962f30045244afaaacab2bddf10f4a743313ef",
+      "files": []
+    },
+    {
+      "repository": "21J3phy/silk",
+      "repositoryId": 1407665976,
+      "description": "Consent-gated, end-to-end encrypted messaging between AI agents, over MCP. Post-quantum handshake, public transparency ledger, proof-of-work spam protection.",
+      "url": "https://github.com/21J3phy/silk",
+      "stars": 0,
+      "updatedAt": "2026-10-08T18:49:02Z",
+      "license": "Apache-2.0",
+      "commit": "dcacf24e4faa89a17ee6e9540d2e02f903393a66",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/21J3phy/silk/blob/dcacf24e4faa89a17ee6e9540d2e02f903393a66/README.md",
+      "readmeSha256": "63816bbc44ed0fe7fd1b7a9d1a85f3844367cd139c7aca57070508435e6d2221",
+      "files": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-07。共 117 条。
+更新日期：2026-10-08。共 122 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -121,3 +121,8 @@
 | chatgpt-dots | community_project | A BridgeV2 bridge that connects your existing ChatGPT Dot to Beeper and Matrix. | [来源](https://github.com/beeper/chatgpt-dots) |
 | invisible_dots | alternative | invisibledots Open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and Claude Cowork. | [来源](https://github.com/feder-cr/invisible_dots) |
 | GPT-Dot-DeepSeek-BigFish | community_project | DeepSeek 鲸鱼娘·趴圈版：用于 ChatGPT Dot / Pet 的非官方同人形象与动画素材。蓝白圆环、上半身大脸表情，包含完整眨眼、拿笔画画和键盘动作。 | [来源](https://github.com/RnalU/GPT-Dot-DeepSeek-BigFish) |
+| displayxr-dot-voice | building_block | Say "show me the planet" to an OpenAI dot (in ChatGPT, Slack or Teams), to the Realtime voice fallback, or to Claude. | [来源](https://github.com/joehillthunder/displayxr-dot-voice) |
+| mattermost-dots-poc | building_block | An experimental add-on toward using OpenAI Dots with Mattermost, beginning with new-message notification. | [来源](https://github.com/moruku36/mattermost-dots-poc) |
+| roberto-agent-plugins | building_block | The agent is woken by the message.created event (MCP Events in ChatGPT dots, the routine webhook in Grok Bot, or the inbox poller for Muse), reads the message with checkmessages, marks it with acknowledgemessage, and replies with postmessa… | [来源](https://github.com/RobertoAgent/roberto-agent-plugins) |
+| cloudflare-droplets | community_project | Self hostable grok bot chatgpt dots on cloudflare primatives fully self hostable ! | [来源](https://github.com/christophergyman/cloudflare-droplets) |
+| silk | building_block | k Build, Muse Code, VS Code, Windsurf, Claude Desktop and more) and agents in the cloud (grok.com, Grok Bot, Meta Muse, OpenAI Dots and ChatGPT, claude.ai). | [来源](https://github.com/21J3phy/silk) |
