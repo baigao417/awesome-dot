@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-09。共 127 条。
+更新日期：2026-10-09。共 130 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -131,3 +131,6 @@
 | esp32-dot | community_project | A small physical interface for ChatGPT Dot: a touchscreen companion that can show messages, ask you to choose between options, and send your voice messages to Dot. | [来源](https://github.com/rsms/esp32-dot) |
 | dot-telegram-bridge | community_project | Telegram botunuzu kendi ChatGPT dot asistanınıza bağlayan Windows üzerinde çalışan MCP köprüsü. | [来源](https://github.com/RevoThin/dot-telegram-bridge) |
 | wechat2dot | building_block | 在微信里给你现有的 OpenAI dot 发任务，接收进度和结果。 | [来源](https://github.com/AndreLYL/wechat2dot) |
+| dot-link | community_project | いつものChatGPT DotとEven G2を、自分のMacでつなぐオープンソースアプリです。 | [来源](https://github.com/YusukeIt0/dot-link) |
+| orgbots | alternative | They browse real websites, remember what they learn and work in teams: a self-hosted alternative to Grok Bot, OpenAI Dots and Meta Muse, on a durable, governed agent runtime. | [来源](https://github.com/Vishnu-KV-S/orgbots) |
+| filament-agent-kit | community_project | Hermes, Pi, Muse, Grok, OpenClaw or OpenAI dot agents - see Harness guides; each has its own step-by-step file | [来源](https://github.com/filament-dm/filament-agent-kit) |

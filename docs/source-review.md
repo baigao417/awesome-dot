@@ -741,3 +741,24 @@
 - README: https://github.com/AndreLYL/wechat2dot/blob/f361d73a8a25f97919ebaa2d87a281d2ab4d7cad/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## YusukeIt0/dot-link
+
+- Commit: `3c17904ef542b2b05f104e2e2d2eed0d4e683fd9`
+- README: https://github.com/YusukeIt0/dot-link/blob/3c17904ef542b2b05f104e2e2d2eed0d4e683fd9/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Vishnu-KV-S/orgbots
+
+- Commit: `2d3184059a0b5b59dd3c0407d5c26737a4fb47e2`
+- README: https://github.com/Vishnu-KV-S/orgbots/blob/2d3184059a0b5b59dd3c0407d5c26737a4fb47e2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## filament-dm/filament-agent-kit
+
+- Commit: `fe4e5b28fba61024871f7f53c01273a9148a049f`
+- README: https://github.com/filament-dm/filament-agent-kit/blob/fe4e5b28fba61024871f7f53c01273a9148a049f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

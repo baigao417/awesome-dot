@@ -1729,6 +1729,48 @@
       "readmeUrl": "https://github.com/AndreLYL/wechat2dot/blob/f361d73a8a25f97919ebaa2d87a281d2ab4d7cad/README.md",
       "readmeSha256": "c6e1f82921fb5b1ccf78d038fa21a21fbd934ca0c53dfe8d6a2b3ed841c1ffb1",
       "files": []
+    },
+    {
+      "repository": "YusukeIt0/dot-link",
+      "repositoryId": 1411825690,
+      "description": "Open-source Mac companion for your existing ChatGPT Dot and Even G2. Public signed app updates.",
+      "url": "https://github.com/YusukeIt0/dot-link",
+      "stars": 0,
+      "updatedAt": "2026-10-09T14:40:07Z",
+      "license": "MIT",
+      "commit": "3c17904ef542b2b05f104e2e2d2eed0d4e683fd9",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/YusukeIt0/dot-link/blob/3c17904ef542b2b05f104e2e2d2eed0d4e683fd9/README.md",
+      "readmeSha256": "03db14a925e41539d4cd43aa890fa5dcce5db12ea5d6e06b2fc1f34fe8611c7d",
+      "files": []
+    },
+    {
+      "repository": "Vishnu-KV-S/orgbots",
+      "repositoryId": 1411339877,
+      "description": "Open-source AI employees that work on a computer of their own: a self-hosted alternative to Grok Bot, OpenAI Dots and Meta Muse.",
+      "url": "https://github.com/Vishnu-KV-S/orgbots",
+      "stars": 1,
+      "updatedAt": "2026-10-09T12:55:35Z",
+      "license": "MIT",
+      "commit": "2d3184059a0b5b59dd3c0407d5c26737a4fb47e2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Vishnu-KV-S/orgbots/blob/2d3184059a0b5b59dd3c0407d5c26737a4fb47e2/README.md",
+      "readmeSha256": "d17f1b9578fe8428f594ca3849cb01414cbd3e66d056feabe5ec60e5f7da475c",
+      "files": []
+    },
+    {
+      "repository": "filament-dm/filament-agent-kit",
+      "repositoryId": 1372003735,
+      "description": null,
+      "url": "https://github.com/filament-dm/filament-agent-kit",
+      "stars": 0,
+      "updatedAt": "2026-10-09T17:59:33Z",
+      "license": "NOASSERTION",
+      "commit": "fe4e5b28fba61024871f7f53c01273a9148a049f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/filament-dm/filament-agent-kit/blob/fe4e5b28fba61024871f7f53c01273a9148a049f/README.md",
+      "readmeSha256": "f87b7270191c4ec59e150f2cba0b0241404a9c613016a701df4634245d0bd981",
+      "files": []
     }
   ]
 }
