@@ -1659,6 +1659,76 @@
       "readmeUrl": "https://github.com/21J3phy/silk/blob/dcacf24e4faa89a17ee6e9540d2e02f903393a66/README.md",
       "readmeSha256": "63816bbc44ed0fe7fd1b7a9d1a85f3844367cd139c7aca57070508435e6d2221",
       "files": []
+    },
+    {
+      "repository": "rokrokss/apps-of-dots",
+      "repositoryId": 1410439070,
+      "description": "Self-hosted MCP for Discord, Telegram and WhatsApp, connected to your OpenAI dot through Secure MCP Tunnel",
+      "url": "https://github.com/rokrokss/apps-of-dots",
+      "stars": 1,
+      "updatedAt": "2026-10-09T00:47:33Z",
+      "license": "MIT",
+      "commit": "5661dfafdd218118d965f3bd2cd06e2a8c3287b9",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/rokrokss/apps-of-dots/blob/5661dfafdd218118d965f3bd2cd06e2a8c3287b9/README.md",
+      "readmeSha256": "e00f4e25c2c8bdfac641380bbd54c96811fc0b633f675ebe226d81a85a7c37d8",
+      "files": []
+    },
+    {
+      "repository": "ziyouzhilong/cloudhandset-mcp",
+      "repositoryId": 1411030234,
+      "description": "Connect Codex and OpenAI Dot to your leased physical Android phones. MCP plugins, OAuth setup, and screen-based phone control.",
+      "url": "https://github.com/ziyouzhilong/cloudhandset-mcp",
+      "stars": 0,
+      "updatedAt": "2026-10-08T22:48:31Z",
+      "license": "NOASSERTION",
+      "commit": "3476c6d348332dbef6d3b2dac46cca295391559e",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ziyouzhilong/cloudhandset-mcp/blob/3476c6d348332dbef6d3b2dac46cca295391559e/README.md",
+      "readmeSha256": "4a2ac8bb6449557a4f8eba7cdfb500b23d72c3dee708144b588587cfa82d6395",
+      "files": []
+    },
+    {
+      "repository": "rsms/esp32-dot",
+      "repositoryId": 1411030429,
+      "description": "Put your ChatGPT Dot on a Waveshare Xtensa/ESP32 device",
+      "url": "https://github.com/rsms/esp32-dot",
+      "stars": 0,
+      "updatedAt": "2026-10-09T04:33:24Z",
+      "license": "NOASSERTION",
+      "commit": "9241127ae9f4aa209b6a74e30d69998b6da5490f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/rsms/esp32-dot/blob/9241127ae9f4aa209b6a74e30d69998b6da5490f/README.md",
+      "readmeSha256": "fd741356fd2e20155cbbe625ec1a77025acf29a27afe57c6bd0a6b3c934ffb6b",
+      "files": []
+    },
+    {
+      "repository": "RevoThin/dot-telegram-bridge",
+      "repositoryId": 1410917384,
+      "description": "Dot Telegram Bridge — Telegram ile ChatGPT dot arasında Windows köprüsü. Developed by Revothin Yacht Electrical System.",
+      "url": "https://github.com/RevoThin/dot-telegram-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-08T20:30:18Z",
+      "license": "NOASSERTION",
+      "commit": "0c0171ec370d6474e89c9894e229b0bb3c49dbcf",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/RevoThin/dot-telegram-bridge/blob/0c0171ec370d6474e89c9894e229b0bb3c49dbcf/README.md",
+      "readmeSha256": "ad52654f2e44b1a7a24f01ebb7019cf4c668f4d7b54bc49a6719f0d42afe780c",
+      "files": []
+    },
+    {
+      "repository": "AndreLYL/wechat2dot",
+      "repositoryId": 1411163938,
+      "description": "Give your existing OpenAI dot a WeChat entrance: tasks, progress and media through private MCP Events. Alpha.",
+      "url": "https://github.com/AndreLYL/wechat2dot",
+      "stars": 0,
+      "updatedAt": "2026-10-09T02:14:46Z",
+      "license": "MIT",
+      "commit": "f361d73a8a25f97919ebaa2d87a281d2ab4d7cad",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AndreLYL/wechat2dot/blob/f361d73a8a25f97919ebaa2d87a281d2ab4d7cad/README.md",
+      "readmeSha256": "c6e1f82921fb5b1ccf78d038fa21a21fbd934ca0c53dfe8d6a2b3ed841c1ffb1",
+      "files": []
     }
   ]
 }

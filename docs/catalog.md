@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-08。共 122 条。
+更新日期：2026-10-09。共 127 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -126,3 +126,8 @@
 | roberto-agent-plugins | building_block | The agent is woken by the message.created event (MCP Events in ChatGPT dots, the routine webhook in Grok Bot, or the inbox poller for Muse), reads the message with checkmessages, marks it with acknowledgemessage, and replies with postmessa… | [来源](https://github.com/RobertoAgent/roberto-agent-plugins) |
 | cloudflare-droplets | community_project | Self hostable grok bot chatgpt dots on cloudflare primatives fully self hostable ! | [来源](https://github.com/christophergyman/cloudflare-droplets) |
 | silk | building_block | k Build, Muse Code, VS Code, Windsurf, Claude Desktop and more) and agents in the cloud (grok.com, Grok Bot, Meta Muse, OpenAI Dots and ChatGPT, claude.ai). | [来源](https://github.com/21J3phy/silk) |
+| apps-of-dots | building_block | apps of dots Bring your apps to your OpenAI dot. | [来源](https://github.com/rokrokss/apps-of-dots) |
+| cloudhandset-mcp | building_block | Connect your own Codex or OpenAI Dot to the physical Android phones covered by your CloudHandset leases. | [来源](https://github.com/ziyouzhilong/cloudhandset-mcp) |
+| esp32-dot | community_project | A small physical interface for ChatGPT Dot: a touchscreen companion that can show messages, ask you to choose between options, and send your voice messages to Dot. | [来源](https://github.com/rsms/esp32-dot) |
+| dot-telegram-bridge | community_project | Telegram botunuzu kendi ChatGPT dot asistanınıza bağlayan Windows üzerinde çalışan MCP köprüsü. | [来源](https://github.com/RevoThin/dot-telegram-bridge) |
+| wechat2dot | building_block | 在微信里给你现有的 OpenAI dot 发任务，接收进度和结果。 | [来源](https://github.com/AndreLYL/wechat2dot) |

@@ -706,3 +706,38 @@
 - README: https://github.com/21J3phy/silk/blob/dcacf24e4faa89a17ee6e9540d2e02f903393a66/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## rokrokss/apps-of-dots
+
+- Commit: `5661dfafdd218118d965f3bd2cd06e2a8c3287b9`
+- README: https://github.com/rokrokss/apps-of-dots/blob/5661dfafdd218118d965f3bd2cd06e2a8c3287b9/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ziyouzhilong/cloudhandset-mcp
+
+- Commit: `3476c6d348332dbef6d3b2dac46cca295391559e`
+- README: https://github.com/ziyouzhilong/cloudhandset-mcp/blob/3476c6d348332dbef6d3b2dac46cca295391559e/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## rsms/esp32-dot
+
+- Commit: `9241127ae9f4aa209b6a74e30d69998b6da5490f`
+- README: https://github.com/rsms/esp32-dot/blob/9241127ae9f4aa209b6a74e30d69998b6da5490f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## RevoThin/dot-telegram-bridge
+
+- Commit: `0c0171ec370d6474e89c9894e229b0bb3c49dbcf`
+- README: https://github.com/RevoThin/dot-telegram-bridge/blob/0c0171ec370d6474e89c9894e229b0bb3c49dbcf/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AndreLYL/wechat2dot
+
+- Commit: `f361d73a8a25f97919ebaa2d87a281d2ab4d7cad`
+- README: https://github.com/AndreLYL/wechat2dot/blob/f361d73a8a25f97919ebaa2d87a281d2ab4d7cad/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
