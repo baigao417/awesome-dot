@@ -762,3 +762,17 @@
 - README: https://github.com/filament-dm/filament-agent-kit/blob/fe4e5b28fba61024871f7f53c01273a9148a049f/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Snow0416/dot-voice-skill
+
+- Commit: `e616f31321a00974d1de7d38722db5464992c63c`
+- README: https://github.com/Snow0416/dot-voice-skill/blob/e616f31321a00974d1de7d38722db5464992c63c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AaronZ345/douban-cli
+
+- Commit: `b52bc3681d658ac980a6b9d53fdb077fc50940b3`
+- README: https://github.com/AaronZ345/douban-cli/blob/b52bc3681d658ac980a6b9d53fdb077fc50940b3/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

@@ -1771,6 +1771,34 @@
       "readmeUrl": "https://github.com/filament-dm/filament-agent-kit/blob/fe4e5b28fba61024871f7f53c01273a9148a049f/README.md",
       "readmeSha256": "f87b7270191c4ec59e150f2cba0b0241404a9c613016a701df4634245d0bd981",
       "files": []
+    },
+    {
+      "repository": "Snow0416/dot-voice-skill",
+      "repositoryId": 1412682213,
+      "description": "Not implemented. Native ChatGPT dot voice customization. No working or installable plugin. See README for limitations.",
+      "url": "https://github.com/Snow0416/dot-voice-skill",
+      "stars": 0,
+      "updatedAt": "2026-10-10T02:55:45Z",
+      "license": "NOASSERTION",
+      "commit": "e616f31321a00974d1de7d38722db5464992c63c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Snow0416/dot-voice-skill/blob/e616f31321a00974d1de7d38722db5464992c63c/README.md",
+      "readmeSha256": "36545f91f79d918fb76af76212b863e9b05a1bd0d36a151c97dbf5f862b7829c",
+      "files": []
+    },
+    {
+      "repository": "AaronZ345/douban-cli",
+      "repositoryId": 1411720469,
+      "description": "豆瓣命令行工具：书影查询、豆列、评分与短评管理；提供供 Dots 使用的本地技能和 MCP 接口",
+      "url": "https://github.com/AaronZ345/douban-cli",
+      "stars": 1,
+      "updatedAt": "2026-10-10T03:51:12Z",
+      "license": "MIT",
+      "commit": "b52bc3681d658ac980a6b9d53fdb077fc50940b3",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AaronZ345/douban-cli/blob/b52bc3681d658ac980a6b9d53fdb077fc50940b3/README.md",
+      "readmeSha256": "928faef73e42c7dcaba42065ad810cf4a43eb1fec4ce69cd9e6e068c0b0735eb",
+      "files": []
     }
   ]
 }

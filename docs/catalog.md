@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-09。共 130 条。
+更新日期：2026-10-10。共 132 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -134,3 +134,5 @@
 | dot-link | community_project | いつものChatGPT DotとEven G2を、自分のMacでつなぐオープンソースアプリです。 | [来源](https://github.com/YusukeIt0/dot-link) |
 | orgbots | alternative | They browse real websites, remember what they learn and work in teams: a self-hosted alternative to Grok Bot, OpenAI Dots and Meta Muse, on a durable, governed agent runtime. | [来源](https://github.com/Vishnu-KV-S/orgbots) |
 | filament-agent-kit | community_project | Hermes, Pi, Muse, Grok, OpenClaw or OpenAI dot agents - see Harness guides; each has its own step-by-step file | [来源](https://github.com/filament-dm/filament-agent-kit) |
+| dot-voice-skill | community_project | 目标是在 ChatGPT dot 的原生通话中扩充可选声线，并支持用户自定义声音。 | [来源](https://github.com/Snow0416/dot-voice-skill) |
+| douban-cli | building_block | 支持 ChatGPT Dots 和 MCP 客户端调用。 | [来源](https://github.com/AaronZ345/douban-cli) |
