@@ -1799,6 +1799,34 @@
       "readmeUrl": "https://github.com/AaronZ345/douban-cli/blob/b52bc3681d658ac980a6b9d53fdb077fc50940b3/README.md",
       "readmeSha256": "928faef73e42c7dcaba42065ad810cf4a43eb1fec4ce69cd9e6e068c0b0735eb",
       "files": []
+    },
+    {
+      "repository": "Fanch-hui/dot-wechat-bridge",
+      "repositoryId": 1412949682,
+      "description": "多个微信成员连接同一个ChatGPT Dot，包含私有成员管理网页。",
+      "url": "https://github.com/Fanch-hui/dot-wechat-bridge",
+      "stars": 2,
+      "updatedAt": "2026-10-10T09:24:32Z",
+      "license": "MIT",
+      "commit": "0d9c42a8ae69c9b2838e7a5c86f78b4ae68f08c8",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Fanch-hui/dot-wechat-bridge/blob/0d9c42a8ae69c9b2838e7a5c86f78b4ae68f08c8/README.md",
+      "readmeSha256": "875bb96b8501673c0528680f5e4923916d2890b13cf5a712865730be032ac38a",
+      "files": []
+    },
+    {
+      "repository": "RHS059/dotcord",
+      "repositoryId": 1413363417,
+      "description": "Discord Connector for OpenAI Dots",
+      "url": "https://github.com/RHS059/dotcord",
+      "stars": 0,
+      "updatedAt": "2026-10-10T16:32:53Z",
+      "license": "NOASSERTION",
+      "commit": "99b5ae3185a3eb7b1a391e801dc5061578aeda6f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/RHS059/dotcord/blob/99b5ae3185a3eb7b1a391e801dc5061578aeda6f/README.md",
+      "readmeSha256": "58c42f01ac918ea4299a7cea7defa9d928ff2b8ee8bcca548d7ec1ff710f3d29",
+      "files": []
     }
   ]
 }

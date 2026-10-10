@@ -776,3 +776,17 @@
 - README: https://github.com/AaronZ345/douban-cli/blob/b52bc3681d658ac980a6b9d53fdb077fc50940b3/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Fanch-hui/dot-wechat-bridge
+
+- Commit: `0d9c42a8ae69c9b2838e7a5c86f78b4ae68f08c8`
+- README: https://github.com/Fanch-hui/dot-wechat-bridge/blob/0d9c42a8ae69c9b2838e7a5c86f78b4ae68f08c8/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## RHS059/dotcord
+
+- Commit: `99b5ae3185a3eb7b1a391e801dc5061578aeda6f`
+- README: https://github.com/RHS059/dotcord/blob/99b5ae3185a3eb7b1a391e801dc5061578aeda6f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

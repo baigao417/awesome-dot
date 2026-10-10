@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-10。共 132 条。
+更新日期：2026-10-10。共 134 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -136,3 +136,5 @@
 | filament-agent-kit | community_project | Hermes, Pi, Muse, Grok, OpenClaw or OpenAI dot agents - see Harness guides; each has its own step-by-step file | [来源](https://github.com/filament-dm/filament-agent-kit) |
 | dot-voice-skill | community_project | 目标是在 ChatGPT dot 的原生通话中扩充可选声线，并支持用户自定义声音。 | [来源](https://github.com/Snow0416/dot-voice-skill) |
 | douban-cli | building_block | 支持 ChatGPT Dots 和 MCP 客户端调用。 | [来源](https://github.com/AaronZ345/douban-cli) |
+| dot-wechat-bridge | community_project | 多个成员通过各自微信与同一个已有 OpenAI Dot 连续对话。Sites 托管私有成员管理网页、MCP、D1 消息队列、会话和订阅；一个 Node.js 接入服务负责多账号 ilink 长轮询及 MCP Events HTTPS 回调。 | [来源](https://github.com/Fanch-hui/dot-wechat-bridge) |
+| dotcord | community_project | Discord Connector for OpenAI Dots | [来源](https://github.com/RHS059/dotcord) |
