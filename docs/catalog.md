@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-11。共 135 条。
+更新日期：2026-10-11。共 138 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -139,3 +139,6 @@
 | dot-wechat-bridge | community_project | 多个成员通过各自微信与同一个已有 OpenAI Dot 连续对话。Sites 托管私有成员管理网页、MCP、D1 消息队列、会话和订阅；一个 Node.js 接入服务负责多账号 ilink 长轮询及 MCP Events HTTPS 回调。 | [来源](https://github.com/Fanch-hui/dot-wechat-bridge) |
 | dotcord | community_project | Discord Connector for OpenAI Dots | [来源](https://github.com/RHS059/dotcord) |
 | foxmate | alternative | An open-source, private alternative to Meta Muse, ChatGPT Dots, Grok Bot and Instinct. | [来源](https://github.com/pooriaarab/foxmate) |
+| grok-dot-bridge | building_block | Verified: Grok Bot Windows 0.68.1.0, existing ChatGPT Dot on ChatGPT web (observed 2026-10-11), custom plugin development version 1.0.0, MCP 2.0 2026-07-28, Python 3.11.2 on Debian 12. | [来源](https://github.com/UnCooe/grok-dot-bridge) |
+| orgbots-une-alternative-auto-h-berg-e-Grok-Bot-OpenAI-Dots-et-Meta-Muse. | alternative | They browse real websites, remember what they learn and work in teams: a self-hosted alternative to Grok Bot, OpenAI Dots and Meta Muse, on a durable, governed agent runtime. | [来源](https://github.com/gectcanada-sys/orgbots-une-alternative-auto-h-berg-e-Grok-Bot-OpenAI-Dots-et-Meta-Muse.) |
+| jweis-wechat-windows | building_block | 把本人微信接到 现有的 Codex / ChatGPT dot，由原助手调用原生 Windows 任务读取本地文件，再把结果回复到微信。桥接只负责通信、附件和事件；原助手保留自己的对话、工具和本机任务能力。 | [来源](https://github.com/CharlesRelentless/jweis-wechat-windows) |

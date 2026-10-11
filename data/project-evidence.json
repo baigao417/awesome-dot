@@ -1841,6 +1841,48 @@
       "readmeUrl": "https://github.com/pooriaarab/foxmate/blob/915761af02945bd8c97bb2bd90202993f3ee3462/README.md",
       "readmeSha256": "2d44917baa734169cdb42a9988314059972a5b7f339688e0ab0e230eaa2d6b92",
       "files": []
+    },
+    {
+      "repository": "UnCooe/grok-dot-bridge",
+      "repositoryId": 1414349061,
+      "description": "Minimal unofficial message bridge between an existing Grok Bot and ChatGPT Dot. Python, SQLite, MCP Events and webhook routines.",
+      "url": "https://github.com/UnCooe/grok-dot-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-11T13:29:53Z",
+      "license": "MIT",
+      "commit": "aff45858f22db4d37cd59124cf144db8173ebe3b",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/UnCooe/grok-dot-bridge/blob/aff45858f22db4d37cd59124cf144db8173ebe3b/README.md",
+      "readmeSha256": "cff5a9fd1168c50f17a7d763a3e7e12464c5f9f873f58c89446980c1dcf50286",
+      "files": []
+    },
+    {
+      "repository": "gectcanada-sys/orgbots-une-alternative-auto-h-berg-e-Grok-Bot-OpenAI-Dots-et-Meta-Muse.",
+      "repositoryId": 1412353757,
+      "description": "Open-source AI employees that work on a computer of their own: a self-hosted alternative to Grok Bot, OpenAI Dots and Meta Muse.",
+      "url": "https://github.com/gectcanada-sys/orgbots-une-alternative-auto-h-berg-e-Grok-Bot-OpenAI-Dots-et-Meta-Muse.",
+      "stars": 0,
+      "updatedAt": "2026-10-09T12:55:35Z",
+      "license": "MIT",
+      "commit": "2d3184059a0b5b59dd3c0407d5c26737a4fb47e2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/gectcanada-sys/orgbots-une-alternative-auto-h-berg-e-Grok-Bot-OpenAI-Dots-et-Meta-Muse./blob/2d3184059a0b5b59dd3c0407d5c26737a4fb47e2/README.md",
+      "readmeSha256": "d17f1b9578fe8428f594ca3849cb01414cbd3e66d056feabe5ec60e5f7da475c",
+      "files": []
+    },
+    {
+      "repository": "CharlesRelentless/jweis-wechat-windows",
+      "repositoryId": 1414027836,
+      "description": "Windows bridge from personal WeChat to an existing Codex/ChatGPT dot, with OAuth, MCP Events and native local-file task workflow",
+      "url": "https://github.com/CharlesRelentless/jweis-wechat-windows",
+      "stars": 0,
+      "updatedAt": "2026-10-11T11:02:09Z",
+      "license": "MIT",
+      "commit": "da738dd16f2580f40527af31b9af6321f6426e29",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/CharlesRelentless/jweis-wechat-windows/blob/da738dd16f2580f40527af31b9af6321f6426e29/README.md",
+      "readmeSha256": "8fd376e32a73d182fd8926601631bc0f8f9754e24ca900c9e13a403f4d90ee27",
+      "files": []
     }
   ]
 }
