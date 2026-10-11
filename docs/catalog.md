@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-10。共 134 条。
+更新日期：2026-10-11。共 135 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -138,3 +138,4 @@
 | douban-cli | building_block | 支持 ChatGPT Dots 和 MCP 客户端调用。 | [来源](https://github.com/AaronZ345/douban-cli) |
 | dot-wechat-bridge | community_project | 多个成员通过各自微信与同一个已有 OpenAI Dot 连续对话。Sites 托管私有成员管理网页、MCP、D1 消息队列、会话和订阅；一个 Node.js 接入服务负责多账号 ilink 长轮询及 MCP Events HTTPS 回调。 | [来源](https://github.com/Fanch-hui/dot-wechat-bridge) |
 | dotcord | community_project | Discord Connector for OpenAI Dots | [来源](https://github.com/RHS059/dotcord) |
+| foxmate | alternative | An open-source, private alternative to Meta Muse, ChatGPT Dots, Grok Bot and Instinct. | [来源](https://github.com/pooriaarab/foxmate) |

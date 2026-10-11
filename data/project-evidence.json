@@ -1827,6 +1827,20 @@
       "readmeUrl": "https://github.com/RHS059/dotcord/blob/99b5ae3185a3eb7b1a391e801dc5061578aeda6f/README.md",
       "readmeSha256": "58c42f01ac918ea4299a7cea7defa9d928ff2b8ee8bcca548d7ec1ff710f3d29",
       "files": []
+    },
+    {
+      "repository": "pooriaarab/foxmate",
+      "repositoryId": 1411184453,
+      "description": "An open-source, private alternative to Meta Muse, ChatGPT Dots, Grok Bot and Instinct. Runs only in your own Firefox, with a local model.",
+      "url": "https://github.com/pooriaarab/foxmate",
+      "stars": 0,
+      "updatedAt": "2026-10-11T03:48:54Z",
+      "license": "MIT",
+      "commit": "915761af02945bd8c97bb2bd90202993f3ee3462",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/pooriaarab/foxmate/blob/915761af02945bd8c97bb2bd90202993f3ee3462/README.md",
+      "readmeSha256": "2d44917baa734169cdb42a9988314059972a5b7f339688e0ab0e230eaa2d6b92",
+      "files": []
     }
   ]
 }

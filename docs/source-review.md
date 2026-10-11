@@ -790,3 +790,10 @@
 - README: https://github.com/RHS059/dotcord/blob/99b5ae3185a3eb7b1a391e801dc5061578aeda6f/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## pooriaarab/foxmate
+
+- Commit: `915761af02945bd8c97bb2bd90202993f3ee3462`
+- README: https://github.com/pooriaarab/foxmate/blob/915761af02945bd8c97bb2bd90202993f3ee3462/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
