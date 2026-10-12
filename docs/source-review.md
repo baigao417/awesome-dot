@@ -818,3 +818,17 @@
 - README: https://github.com/CharlesRelentless/jweis-wechat-windows/blob/da738dd16f2580f40527af31b9af6321f6426e29/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## guanwenpeng2001-bot/magpie-cloud-agents
+
+- Commit: `1e664708d2a38c2da60182127571fdeba73fc73a`
+- README: https://github.com/guanwenpeng2001-bot/magpie-cloud-agents/blob/1e664708d2a38c2da60182127571fdeba73fc73a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AaronZ345/xiaoheihe-cli
+
+- Commit: `f51824a7dc838638895b4eb92c412efa38819f47`
+- README: https://github.com/AaronZ345/xiaoheihe-cli/blob/f51824a7dc838638895b4eb92c412efa38819f47/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

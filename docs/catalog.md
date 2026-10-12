@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-11。共 138 条。
+更新日期：2026-10-12。共 140 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -142,3 +142,5 @@
 | grok-dot-bridge | building_block | Verified: Grok Bot Windows 0.68.1.0, existing ChatGPT Dot on ChatGPT web (observed 2026-10-11), custom plugin development version 1.0.0, MCP 2.0 2026-07-28, Python 3.11.2 on Debian 12. | [来源](https://github.com/UnCooe/grok-dot-bridge) |
 | orgbots-une-alternative-auto-h-berg-e-Grok-Bot-OpenAI-Dots-et-Meta-Muse. | alternative | They browse real websites, remember what they learn and work in teams: a self-hosted alternative to Grok Bot, OpenAI Dots and Meta Muse, on a durable, governed agent runtime. | [来源](https://github.com/gectcanada-sys/orgbots-une-alternative-auto-h-berg-e-Grok-Bot-OpenAI-Dots-et-Meta-Muse.) |
 | jweis-wechat-windows | building_block | 把本人微信接到 现有的 Codex / ChatGPT dot，由原助手调用原生 Windows 任务读取本地文件，再把结果回复到微信。桥接只负责通信、附件和事件；原助手保留自己的对话、工具和本机任务能力。 | [来源](https://github.com/CharlesRelentless/jweis-wechat-windows) |
+| magpie-cloud-agents | community_project | ces as OpenAI-compatible chat providers: OpenAI Codex Cloud and the Codex Agents API, Cursor Cloud Agents, Devin Cloud, ChatGPT Dots, and the Grok Bot desktop app. | [来源](https://github.com/guanwenpeng2001-bot/magpie-cloud-agents) |
+| xiaoheihe-cli | building_block | ChatGPT Dots 可通过已连接的电脑调用 xiaoheihe-cli。CLI 和技能需安装在该电脑上，并授予 Dot 访问权限。使用时电脑需在线，ChatGPT 桌面应用需保持打开。电脑连接文档 | [来源](https://github.com/AaronZ345/xiaoheihe-cli) |

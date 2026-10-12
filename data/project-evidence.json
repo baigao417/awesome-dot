@@ -1883,6 +1883,34 @@
       "readmeUrl": "https://github.com/CharlesRelentless/jweis-wechat-windows/blob/da738dd16f2580f40527af31b9af6321f6426e29/README.md",
       "readmeSha256": "8fd376e32a73d182fd8926601631bc0f8f9754e24ca900c9e13a403f4d90ee27",
       "files": []
+    },
+    {
+      "repository": "guanwenpeng2001-bot/magpie-cloud-agents",
+      "repositoryId": 1414768327,
+      "description": "六个厂商云代理接入 Magpie：Codex Cloud/Agents、Cursor Cloud、Devin、ChatGPT Dots、Grok Bot，各驱动真实厂商账号，非免费模型池。｜Six vendor cloud agents as Magpie providers: Codex Cloud & Agents, Cursor Cloud, Devin, ChatGPT Dots, Grok Bot. Each drives a real vendor account, not a free model pool.",
+      "url": "https://github.com/guanwenpeng2001-bot/magpie-cloud-agents",
+      "stars": 1,
+      "updatedAt": "2026-10-11T23:31:47Z",
+      "license": "MIT",
+      "commit": "1e664708d2a38c2da60182127571fdeba73fc73a",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/guanwenpeng2001-bot/magpie-cloud-agents/blob/1e664708d2a38c2da60182127571fdeba73fc73a/README.md",
+      "readmeSha256": "d4bd1d2b863a672a04041cabed1667b0e9cf5d39ecd686778f8c9f9b13ed1aa2",
+      "files": []
+    },
+    {
+      "repository": "AaronZ345/xiaoheihe-cli",
+      "repositoryId": 1412759079,
+      "description": "小黑盒游戏记录、个人评分与短评、社区内容操作 CLI，支持 SDK、REST 和 MCP",
+      "url": "https://github.com/AaronZ345/xiaoheihe-cli",
+      "stars": 4,
+      "updatedAt": "2026-10-12T03:02:43Z",
+      "license": "MIT",
+      "commit": "f51824a7dc838638895b4eb92c412efa38819f47",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AaronZ345/xiaoheihe-cli/blob/f51824a7dc838638895b4eb92c412efa38819f47/README.md",
+      "readmeSha256": "9635e1147e03f00a59ba2b32553a1c3f4b2f2cba6073b455f32e260608e5b45e",
+      "files": []
     }
   ]
 }
