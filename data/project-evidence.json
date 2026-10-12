@@ -1911,6 +1911,62 @@
       "readmeUrl": "https://github.com/AaronZ345/xiaoheihe-cli/blob/f51824a7dc838638895b4eb92c412efa38819f47/README.md",
       "readmeSha256": "9635e1147e03f00a59ba2b32553a1c3f4b2f2cba6073b455f32e260608e5b45e",
       "files": []
+    },
+    {
+      "repository": "zzaachaary/dotlink",
+      "repositoryId": 1415224291,
+      "description": "Send selected iPhone events to your ChatGPT dot. Self-hosted with Shortcuts and Cloudflare.",
+      "url": "https://github.com/zzaachaary/dotlink",
+      "stars": 1,
+      "updatedAt": "2026-10-12T07:25:36Z",
+      "license": "NOASSERTION",
+      "commit": "7f1ab182c485714ff62091f8b4b8cd1539be46b6",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zzaachaary/dotlink/blob/7f1ab182c485714ff62091f8b4b8cd1539be46b6/README.md",
+      "readmeSha256": "4325feb06a569da93578662c387762a52b6f70e7dfda2b12e485a0523da8952e",
+      "files": []
+    },
+    {
+      "repository": "curran-gehring/claude-dot",
+      "repositoryId": 1415983343,
+      "description": "A Claude Code mod that brings OpenAI's dots to Claude: an always-on helper with responsibilities, schedules, an inbox, and a guard on risky tool calls.",
+      "url": "https://github.com/curran-gehring/claude-dot",
+      "stars": 0,
+      "updatedAt": "2026-10-12T19:13:07Z",
+      "license": "MIT",
+      "commit": "e14f253a145675e8bd71e3d8b7005ec437d8f97e",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/curran-gehring/claude-dot/blob/e14f253a145675e8bd71e3d8b7005ec437d8f97e/README.md",
+      "readmeSha256": "a1d7933ba472bbd15dc8f0cbe4e8e1aea99c2675fa0193839e754bf73f2e2ae8",
+      "files": []
+    },
+    {
+      "repository": "Jitendra2205/bravo",
+      "repositoryId": 1415775472,
+      "description": "Bravo: a free AI agent that runs on your own Windows PC. An open-source alternative to ChatGPT dots and Grok Bot, with approvals enforced in code.",
+      "url": "https://github.com/Jitendra2205/bravo",
+      "stars": 0,
+      "updatedAt": "2026-10-12T15:34:14Z",
+      "license": "MIT",
+      "commit": "7117c862fe18b18cf32d16f2ff39d5005d176da8",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Jitendra2205/bravo/blob/7117c862fe18b18cf32d16f2ff39d5005d176da8/README.md",
+      "readmeSha256": "cac60226cb27806afa09b496b3d6b0c3f36c05ead3e5fbadecb5334e03f89171",
+      "files": []
+    },
+    {
+      "repository": "haochengw372-hash/ai-communication-datasets",
+      "repositoryId": 1415826672,
+      "description": "Bounded AI communication post-ID datasets, personal-agent search candidates, and reproducible method adaptations",
+      "url": "https://github.com/haochengw372-hash/ai-communication-datasets",
+      "stars": 0,
+      "updatedAt": "2026-10-12T16:04:53Z",
+      "license": "Apache-2.0",
+      "commit": "58bdc73a161b98708c7f5d6ec6160027e3114dd9",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/haochengw372-hash/ai-communication-datasets/blob/58bdc73a161b98708c7f5d6ec6160027e3114dd9/README.md",
+      "readmeSha256": "34a9420a4e4b1e6fddc75875c49b1a844d2bda171d040167cf53b199e680e997",
+      "files": []
     }
   ]
 }

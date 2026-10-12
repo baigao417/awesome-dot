@@ -832,3 +832,31 @@
 - README: https://github.com/AaronZ345/xiaoheihe-cli/blob/f51824a7dc838638895b4eb92c412efa38819f47/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## zzaachaary/dotlink
+
+- Commit: `7f1ab182c485714ff62091f8b4b8cd1539be46b6`
+- README: https://github.com/zzaachaary/dotlink/blob/7f1ab182c485714ff62091f8b4b8cd1539be46b6/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## curran-gehring/claude-dot
+
+- Commit: `e14f253a145675e8bd71e3d8b7005ec437d8f97e`
+- README: https://github.com/curran-gehring/claude-dot/blob/e14f253a145675e8bd71e3d8b7005ec437d8f97e/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Jitendra2205/bravo
+
+- Commit: `7117c862fe18b18cf32d16f2ff39d5005d176da8`
+- README: https://github.com/Jitendra2205/bravo/blob/7117c862fe18b18cf32d16f2ff39d5005d176da8/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## haochengw372-hash/ai-communication-datasets
+
+- Commit: `58bdc73a161b98708c7f5d6ec6160027e3114dd9`
+- README: https://github.com/haochengw372-hash/ai-communication-datasets/blob/58bdc73a161b98708c7f5d6ec6160027e3114dd9/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
