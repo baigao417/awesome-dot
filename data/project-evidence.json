@@ -1967,6 +1967,34 @@
       "readmeUrl": "https://github.com/haochengw372-hash/ai-communication-datasets/blob/58bdc73a161b98708c7f5d6ec6160027e3114dd9/README.md",
       "readmeSha256": "34a9420a4e4b1e6fddc75875c49b1a844d2bda171d040167cf53b199e680e997",
       "files": []
+    },
+    {
+      "repository": "zzsza/openai-dots-progress-board",
+      "repositoryId": 1417307938,
+      "description": "OpenAI Dots progress and recurring schedule board for independent private deployments",
+      "url": "https://github.com/zzsza/openai-dots-progress-board",
+      "stars": 0,
+      "updatedAt": "2026-10-13T16:02:10Z",
+      "license": "NOASSERTION",
+      "commit": "69a1009c250767353569a26c28ba6f6a02ca3803",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zzsza/openai-dots-progress-board/blob/69a1009c250767353569a26c28ba6f6a02ca3803/README.md",
+      "readmeSha256": "7564ab3a62c6ede98ae2fce2248f87a6140ebd8439100862e81cff8de01e3e20",
+      "files": []
+    },
+    {
+      "repository": "kruschdev/krusch-companion",
+      "repositoryId": 1417384853,
+      "description": "Sovereign, local-first personal AI assistant & daily companion (like OpenAI Dot or xAI Grok). Captures ambient voice thought streams into prioritized action boards with durable local memory, sub-15µs CPU cascade routing, and zero data harvesting.",
+      "url": "https://github.com/kruschdev/krusch-companion",
+      "stars": 0,
+      "updatedAt": "2026-10-13T18:39:42Z",
+      "license": "NOASSERTION",
+      "commit": "bc5068414c5d336deb134e8ae6302fbc90aec496",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/kruschdev/krusch-companion/blob/bc5068414c5d336deb134e8ae6302fbc90aec496/README.md",
+      "readmeSha256": "327e8a46ba0ac45be2f7c6d8c3d91d268891cb413f03e603b4076ebffcd8c03f",
+      "files": []
     }
   ]
 }

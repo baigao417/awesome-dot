@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-12。共 144 条。
+更新日期：2026-10-13。共 146 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -148,3 +148,5 @@
 | claude-dot | community_project | An always-on companion for Claude Code, modeled on OpenAI's dots. | [来源](https://github.com/curran-gehring/claude-dot) |
 | bravo | alternative | It is an open-source alternative to always-on agents like ChatGPT dots and Grok Bot, which come with plans of $100 a month and up. | [来源](https://github.com/Jitendra2205/bravo) |
 | ai-communication-datasets | community_project | Small, auditable X datasets for studying AI communication, with special attention to personal agents: Meta Muse, OpenAI Dots, and Grok Bot. | [来源](https://github.com/haochengw372-hash/ai-communication-datasets) |
+| openai-dots-progress-board | community_project | A personal board for tracking work and recurring schedules you assign while talking with OpenAI Dots. | [来源](https://github.com/zzsza/openai-dots-progress-board) |
+| krusch-companion | community_project | on is a sovereign, local-first personal AI assistant and daily companion (comparable to private, user-owned versions of OpenAI Dot or xAI Grok Companion). | [来源](https://github.com/kruschdev/krusch-companion) |

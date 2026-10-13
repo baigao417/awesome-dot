@@ -860,3 +860,17 @@
 - README: https://github.com/haochengw372-hash/ai-communication-datasets/blob/58bdc73a161b98708c7f5d6ec6160027e3114dd9/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## zzsza/openai-dots-progress-board
+
+- Commit: `69a1009c250767353569a26c28ba6f6a02ca3803`
+- README: https://github.com/zzsza/openai-dots-progress-board/blob/69a1009c250767353569a26c28ba6f6a02ca3803/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## kruschdev/krusch-companion
+
+- Commit: `bc5068414c5d336deb134e8ae6302fbc90aec496`
+- README: https://github.com/kruschdev/krusch-companion/blob/bc5068414c5d336deb134e8ae6302fbc90aec496/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
