@@ -874,3 +874,17 @@
 - README: https://github.com/kruschdev/krusch-companion/blob/bc5068414c5d336deb134e8ae6302fbc90aec496/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## zr9959/auto-xhs
+
+- Commit: `1bdff2548b65b5a66512acdb69f74ba39a35b3cc`
+- README: https://github.com/zr9959/auto-xhs/blob/1bdff2548b65b5a66512acdb69f74ba39a35b3cc/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## dushyantgithub/open-job-tracker
+
+- Commit: `0a20b2e4bbcd6acd6481ccccb06ac4fabebeb9ab`
+- README: https://github.com/dushyantgithub/open-job-tracker/blob/0a20b2e4bbcd6acd6481ccccb06ac4fabebeb9ab/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

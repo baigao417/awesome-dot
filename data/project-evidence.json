@@ -1995,6 +1995,34 @@
       "readmeUrl": "https://github.com/kruschdev/krusch-companion/blob/bc5068414c5d336deb134e8ae6302fbc90aec496/README.md",
       "readmeSha256": "327e8a46ba0ac45be2f7c6d8c3d91d268891cb413f03e603b4076ebffcd8c03f",
       "files": []
+    },
+    {
+      "repository": "zr9959/auto-xhs",
+      "repositoryId": 1418498291,
+      "description": "小红书全自动化运营发布（适配muse、Chatgpt dots、Grok bots）",
+      "url": "https://github.com/zr9959/auto-xhs",
+      "stars": 4,
+      "updatedAt": "2026-10-14T12:42:15Z",
+      "license": "MIT",
+      "commit": "1bdff2548b65b5a66512acdb69f74ba39a35b3cc",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zr9959/auto-xhs/blob/1bdff2548b65b5a66512acdb69f74ba39a35b3cc/README.md",
+      "readmeSha256": "5dfe2bd5c23832cd98b97a0485e1d5f21124c5700b6d72d375518a14beb87a44",
+      "files": []
+    },
+    {
+      "repository": "dushyantgithub/open-job-tracker",
+      "repositoryId": 1418823733,
+      "description": "Private job application tracker with resume onboarding, saved search preferences, and an optional Codex worker. MIT licensed.",
+      "url": "https://github.com/dushyantgithub/open-job-tracker",
+      "stars": 0,
+      "updatedAt": "2026-10-14T12:41:56Z",
+      "license": "MIT",
+      "commit": "0a20b2e4bbcd6acd6481ccccb06ac4fabebeb9ab",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/dushyantgithub/open-job-tracker/blob/0a20b2e4bbcd6acd6481ccccb06ac4fabebeb9ab/README.md",
+      "readmeSha256": "cfe70e9158245850992a9f4a4faa1553d363b89384d5c5894bc47747b4078abe",
+      "files": []
     }
   ]
 }
