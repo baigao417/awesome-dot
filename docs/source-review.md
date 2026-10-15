@@ -902,3 +902,24 @@
 - README: https://github.com/AIdevgru/dot-connect/blob/95c6057966568a61c8abefc17d1ff6293fdc7d06/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Johnnybyzhang/wecom-dot-bridge
+
+- Commit: `1982b8118b095ed0ccc681e94b6dc189d165b538`
+- README: https://github.com/Johnnybyzhang/wecom-dot-bridge/blob/1982b8118b095ed0ccc681e94b6dc189d165b538/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AvaloNero/dot-lark-bridge
+
+- Commit: `83f65486f541d5d021c025a4ccefa617595bd45d`
+- README: https://github.com/AvaloNero/dot-lark-bridge/blob/83f65486f541d5d021c025a4ccefa617595bd45d/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AvaloNero/dot-qq-bridge
+
+- Commit: `7de4192ea1648827b3562e4349baab839eaa9d90`
+- README: https://github.com/AvaloNero/dot-qq-bridge/blob/7de4192ea1648827b3562e4349baab839eaa9d90/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

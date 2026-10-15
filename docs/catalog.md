@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-15。共 150 条。
+更新日期：2026-10-15。共 153 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -154,3 +154,6 @@
 | open-job-tracker | community_project | A private job-application dashboard with resume onboarding, a Codex CLI worker, and guided integrations for ChatGPT Dots and Claude Code. | [来源](https://github.com/dushyantgithub/open-job-tracker) |
 | dot-gadget | community_project | Give your ChatGPT dot a small desk gadget it can set to READY, BUSY or ALERT, through your own relay on your Cloudflare account. | [来源](https://github.com/deadbeef101010/dot-gadget) |
 | dot-connect | community_project | Ask Claude Code, Codex, and your ChatGPT dot through durable local inboxes. | [来源](https://github.com/AIdevgru/dot-connect) |
+| wecom-dot-bridge | community_project | Com (企业微信) AI bot that forwards one owner's private-chat messages (text, images, files, quote replies) into an existing ChatGPT dot messaging room, and sends the dot's replies and files back to the same WeCom chat. | [来源](https://github.com/Johnnybyzhang/wecom-dot-bridge) |
+| dot-lark-bridge | building_block | 把飞书官方应用的本人私聊和获批群聊接到现有 OpenAI dot，再由同一个 dot 回复原会话。使用官方 Secure MCP Tunnel，不调用模型 API。 | [来源](https://github.com/AvaloNero/dot-lark-bridge) |
+| dot-qq-bridge | building_block | 把 QQ 官方机器人本人私聊接到现有 OpenAI dot，再由同一个 dot 回复原私聊。使用官方 Secure MCP Tunnel，不调用模型 API。 | [来源](https://github.com/AvaloNero/dot-qq-bridge) |

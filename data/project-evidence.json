@@ -2051,6 +2051,48 @@
       "readmeUrl": "https://github.com/AIdevgru/dot-connect/blob/95c6057966568a61c8abefc17d1ff6293fdc7d06/README.md",
       "readmeSha256": "b210e2f07b2e29f5e3a71d7381e430b8657421d1f1741ec6eebc6a9390f975e1",
       "files": []
+    },
+    {
+      "repository": "Johnnybyzhang/wecom-dot-bridge",
+      "repositoryId": 1420443964,
+      "description": "Unofficial single-owner bridge between a WeCom AI bot and your existing ChatGPT dot: text, files, quote replies, push updates",
+      "url": "https://github.com/Johnnybyzhang/wecom-dot-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-15T11:09:59Z",
+      "license": "MIT",
+      "commit": "1982b8118b095ed0ccc681e94b6dc189d165b538",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Johnnybyzhang/wecom-dot-bridge/blob/1982b8118b095ed0ccc681e94b6dc189d165b538/README.md",
+      "readmeSha256": "381a372d85b91e290a12f58f7acc99fa42d9212ebdcdc5b78c80892353af6e36",
+      "files": []
+    },
+    {
+      "repository": "AvaloNero/dot-lark-bridge",
+      "repositoryId": 1401118867,
+      "description": "Feishu/Lark bridge to your existing OpenAI dot via Secure MCP Tunnel. Private chats, configurable groups, media and reply cards. / 飞书桥：私聊、可配置群聊、媒体与回复卡片。",
+      "url": "https://github.com/AvaloNero/dot-lark-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-15T13:19:44Z",
+      "license": "MIT",
+      "commit": "83f65486f541d5d021c025a4ccefa617595bd45d",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AvaloNero/dot-lark-bridge/blob/83f65486f541d5d021c025a4ccefa617595bd45d/README.md",
+      "readmeSha256": "95922a0fc9b6b1dce74c1da1efbb9195652c20b2faf394c76da92ff49e21d132",
+      "files": []
+    },
+    {
+      "repository": "AvaloNero/dot-qq-bridge",
+      "repositoryId": 1401018864,
+      "description": "QQ C2C bridge to your existing OpenAI dot via Secure MCP Tunnel. Durable queues, streaming replies, standalone deployment. / QQ 私聊桥：持久队列、流式回复、独立部署。",
+      "url": "https://github.com/AvaloNero/dot-qq-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-15T13:19:36Z",
+      "license": "MIT",
+      "commit": "7de4192ea1648827b3562e4349baab839eaa9d90",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AvaloNero/dot-qq-bridge/blob/7de4192ea1648827b3562e4349baab839eaa9d90/README.md",
+      "readmeSha256": "17c54eb399e0688faeb7314f90b7b6e585da6ee99f1c90f949ccfcacba106425",
+      "files": []
     }
   ]
 }
