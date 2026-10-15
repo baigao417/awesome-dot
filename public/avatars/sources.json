@@ -724,6 +724,18 @@
       "file": "dushyantgithub.jpg",
       "source": "https://avatars.githubusercontent.com/u/21303607?s=96",
       "sha256": "6c4e39d071d529d55e484fc1d93ed87bfc179f8576bd4d226a7d450eef175217"
+    },
+    {
+      "owner": "deadbeef101010",
+      "file": "deadbeef101010.png",
+      "source": "https://avatars.githubusercontent.com/u/23101503?s=96",
+      "sha256": "f2c76abd9ea3a22ce77ebd877b165492bd7c228e923ccd4d085ca053201b33c0"
+    },
+    {
+      "owner": "AIdevgru",
+      "file": "aidevgru.png",
+      "source": "https://avatars.githubusercontent.com/u/157917329?s=96",
+      "sha256": "00c583e027c430d44bb83704b182c5449e7452fd1288d4e2b35cfd5b314e5b75"
     }
   ]
 }

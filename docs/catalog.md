@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-14。共 148 条。
+更新日期：2026-10-15。共 150 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -152,3 +152,5 @@
 | krusch-companion | community_project | on is a sovereign, local-first personal AI assistant and daily companion (comparable to private, user-owned versions of OpenAI Dot or xAI Grok Companion). | [来源](https://github.com/kruschdev/krusch-companion) |
 | auto-xhs | community_project | 小红书全自动化运营发布（适配muse、Chatgpt dots、Grok bots） | [来源](https://github.com/zr9959/auto-xhs) |
 | open-job-tracker | community_project | A private job-application dashboard with resume onboarding, a Codex CLI worker, and guided integrations for ChatGPT Dots and Claude Code. | [来源](https://github.com/dushyantgithub/open-job-tracker) |
+| dot-gadget | community_project | Give your ChatGPT dot a small desk gadget it can set to READY, BUSY or ALERT, through your own relay on your Cloudflare account. | [来源](https://github.com/deadbeef101010/dot-gadget) |
+| dot-connect | community_project | Ask Claude Code, Codex, and your ChatGPT dot through durable local inboxes. | [来源](https://github.com/AIdevgru/dot-connect) |

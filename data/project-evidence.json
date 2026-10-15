@@ -2023,6 +2023,34 @@
       "readmeUrl": "https://github.com/dushyantgithub/open-job-tracker/blob/0a20b2e4bbcd6acd6481ccccb06ac4fabebeb9ab/README.md",
       "readmeSha256": "cfe70e9158245850992a9f4a4faa1553d363b89384d5c5894bc47747b4078abe",
       "files": []
+    },
+    {
+      "repository": "deadbeef101010/dot-gadget",
+      "repositoryId": 1419959143,
+      "description": "Give your ChatGPT dot a desk gadget: an open-source relay on your own Cloudflare account",
+      "url": "https://github.com/deadbeef101010/dot-gadget",
+      "stars": 0,
+      "updatedAt": "2026-10-14T23:40:44Z",
+      "license": "MIT",
+      "commit": "edb12931e64890b93f017f7aa36f22b8194207d6",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/deadbeef101010/dot-gadget/blob/edb12931e64890b93f017f7aa36f22b8194207d6/README.md",
+      "readmeSha256": "8e7ce7c7cbbe949bf5584b3115555de48b69fa267e32c7296b484f97d2cdf2e9",
+      "files": []
+    },
+    {
+      "repository": "AIdevgru/dot-connect",
+      "repositoryId": 1419876722,
+      "description": "Durable local inboxes, lifecycle hooks, and scheduling for Claude Code, Codex, and ChatGPT dot",
+      "url": "https://github.com/AIdevgru/dot-connect",
+      "stars": 0,
+      "updatedAt": "2026-10-14T21:37:33Z",
+      "license": "MIT",
+      "commit": "95c6057966568a61c8abefc17d1ff6293fdc7d06",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AIdevgru/dot-connect/blob/95c6057966568a61c8abefc17d1ff6293fdc7d06/README.md",
+      "readmeSha256": "b210e2f07b2e29f5e3a71d7381e430b8657421d1f1741ec6eebc6a9390f975e1",
+      "files": []
     }
   ]
 }

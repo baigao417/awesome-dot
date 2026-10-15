@@ -888,3 +888,17 @@
 - README: https://github.com/dushyantgithub/open-job-tracker/blob/0a20b2e4bbcd6acd6481ccccb06ac4fabebeb9ab/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## deadbeef101010/dot-gadget
+
+- Commit: `edb12931e64890b93f017f7aa36f22b8194207d6`
+- README: https://github.com/deadbeef101010/dot-gadget/blob/edb12931e64890b93f017f7aa36f22b8194207d6/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AIdevgru/dot-connect
+
+- Commit: `95c6057966568a61c8abefc17d1ff6293fdc7d06`
+- README: https://github.com/AIdevgru/dot-connect/blob/95c6057966568a61c8abefc17d1ff6293fdc7d06/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
