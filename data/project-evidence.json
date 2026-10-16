@@ -2093,6 +2093,34 @@
       "readmeUrl": "https://github.com/AvaloNero/dot-qq-bridge/blob/7de4192ea1648827b3562e4349baab839eaa9d90/README.md",
       "readmeSha256": "17c54eb399e0688faeb7314f90b7b6e585da6ee99f1c90f949ccfcacba106425",
       "files": []
+    },
+    {
+      "repository": "SoumilRathi/minecraft-companions",
+      "repositoryId": 1421536419,
+      "description": "Talk to your existing Codex, Claude Code, and ChatGPT Dot conversations in Minecraft.",
+      "url": "https://github.com/SoumilRathi/minecraft-companions",
+      "stars": 0,
+      "updatedAt": "2026-10-16T02:15:47Z",
+      "license": "MIT",
+      "commit": "0f5518ced2b9e619735603a600027dbdfabea313",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/SoumilRathi/minecraft-companions/blob/0f5518ced2b9e619735603a600027dbdfabea313/README.md",
+      "readmeSha256": "e82c19166643d2d9b1914a59c7410350b1db5f0c59744ec040d1b41fc30900bc",
+      "files": []
+    },
+    {
+      "repository": "ColoNoko/astrbot-dot-mcp",
+      "repositoryId": 1418620647,
+      "description": "AstrBot plugin for dot MCP: QQ private messages, allowlisted groups, and tunnel integration.",
+      "url": "https://github.com/ColoNoko/astrbot-dot-mcp",
+      "stars": 0,
+      "updatedAt": "2026-10-16T03:20:55Z",
+      "license": "MIT",
+      "commit": "8474195bbde27849b1003adee04cf0db7e9e4117",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ColoNoko/astrbot-dot-mcp/blob/8474195bbde27849b1003adee04cf0db7e9e4117/README.md",
+      "readmeSha256": "d19d85a16a974d4dabe7acbe234280a56dead66e0fb452f0c657f74af7424a24",
+      "files": []
     }
   ]
 }

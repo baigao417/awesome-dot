@@ -923,3 +923,17 @@
 - README: https://github.com/AvaloNero/dot-qq-bridge/blob/7de4192ea1648827b3562e4349baab839eaa9d90/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## SoumilRathi/minecraft-companions
+
+- Commit: `0f5518ced2b9e619735603a600027dbdfabea313`
+- README: https://github.com/SoumilRathi/minecraft-companions/blob/0f5518ced2b9e619735603a600027dbdfabea313/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ColoNoko/astrbot-dot-mcp
+
+- Commit: `8474195bbde27849b1003adee04cf0db7e9e4117`
+- README: https://github.com/ColoNoko/astrbot-dot-mcp/blob/8474195bbde27849b1003adee04cf0db7e9e4117/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

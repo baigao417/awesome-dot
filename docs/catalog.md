@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-15。共 153 条。
+更新日期：2026-10-16。共 155 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -157,3 +157,5 @@
 | wecom-dot-bridge | community_project | Com (企业微信) AI bot that forwards one owner's private-chat messages (text, images, files, quote replies) into an existing ChatGPT dot messaging room, and sends the dot's replies and files back to the same WeCom chat. | [来源](https://github.com/Johnnybyzhang/wecom-dot-bridge) |
 | dot-lark-bridge | building_block | 把飞书官方应用的本人私聊和获批群聊接到现有 OpenAI dot，再由同一个 dot 回复原会话。使用官方 Secure MCP Tunnel，不调用模型 API。 | [来源](https://github.com/AvaloNero/dot-lark-bridge) |
 | dot-qq-bridge | building_block | 把 QQ 官方机器人本人私聊接到现有 OpenAI dot，再由同一个 dot 回复原私聊。使用官方 Secure MCP Tunnel，不调用模型 API。 | [来源](https://github.com/AvaloNero/dot-qq-bridge) |
+| minecraft-companions | community_project | Talk to your existing Codex, Claude Code, and ChatGPT Dot conversations through characters in Minecraft. | [来源](https://github.com/SoumilRathi/minecraft-companions) |
+| astrbot-dot-mcp | building_block | 让 ChatGPT Dot 接收并回复获准的 QQ 私聊与群消息，支持图片、文件和本地消息记录。AstrBot 原生插件，目标版本 AstrBot 4.28.2，使用已有的 aiocqhttp 适配器。 | [来源](https://github.com/ColoNoko/astrbot-dot-mcp) |
