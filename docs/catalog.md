@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-16。共 155 条。
+更新日期：2026-10-16。共 157 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -159,3 +159,5 @@
 | dot-qq-bridge | building_block | 把 QQ 官方机器人本人私聊接到现有 OpenAI dot，再由同一个 dot 回复原私聊。使用官方 Secure MCP Tunnel，不调用模型 API。 | [来源](https://github.com/AvaloNero/dot-qq-bridge) |
 | minecraft-companions | community_project | Talk to your existing Codex, Claude Code, and ChatGPT Dot conversations through characters in Minecraft. | [来源](https://github.com/SoumilRathi/minecraft-companions) |
 | astrbot-dot-mcp | building_block | 让 ChatGPT Dot 接收并回复获准的 QQ 私聊与群消息，支持图片、文件和本地消息记录。AstrBot 原生插件，目标版本 AstrBot 4.28.2，使用已有的 aiocqhttp 适配器。 | [来源](https://github.com/ColoNoko/astrbot-dot-mcp) |
+| baileys-dot-bridge | building_block | Connect a WhatsApp account through Baileys to an OAuth-protected MCP server, then let ChatGPT Dot receive and reply to new messages through native MCP Events. | [来源](https://github.com/miku2339/baileys-dot-bridge) |
+| dot-pet-dock | community_project | Give your ChatGPT Dot pet more room: enlarge it 50–500%, move it with an explicit handle, then lock it in place. | [来源](https://github.com/eahenle/dot-pet-dock) |

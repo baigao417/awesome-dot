@@ -937,3 +937,17 @@
 - README: https://github.com/ColoNoko/astrbot-dot-mcp/blob/8474195bbde27849b1003adee04cf0db7e9e4117/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## miku2339/baileys-dot-bridge
+
+- Commit: `de5de7ef870433d55f6901c3cee007673633ddd0`
+- README: https://github.com/miku2339/baileys-dot-bridge/blob/de5de7ef870433d55f6901c3cee007673633ddd0/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## eahenle/dot-pet-dock
+
+- Commit: `08dd0753ca47643e8527c9a34997b0644843636c`
+- README: https://github.com/eahenle/dot-pet-dock/blob/08dd0753ca47643e8527c9a34997b0644843636c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

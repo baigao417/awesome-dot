@@ -2121,6 +2121,34 @@
       "readmeUrl": "https://github.com/ColoNoko/astrbot-dot-mcp/blob/8474195bbde27849b1003adee04cf0db7e9e4117/README.md",
       "readmeSha256": "d19d85a16a974d4dabe7acbe234280a56dead66e0fb452f0c657f74af7424a24",
       "files": []
+    },
+    {
+      "repository": "miku2339/baileys-dot-bridge",
+      "repositoryId": 1421731951,
+      "description": "Baileys → OAuth MCP Events → ChatGPT Dot: deployment guides in English, 繁體中文 and 日本語.",
+      "url": "https://github.com/miku2339/baileys-dot-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-16T08:06:41Z",
+      "license": "NOASSERTION",
+      "commit": "de5de7ef870433d55f6901c3cee007673633ddd0",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/miku2339/baileys-dot-bridge/blob/de5de7ef870433d55f6901c3cee007673633ddd0/README.md",
+      "readmeSha256": "9a19c48d66aff585b4248bcf4ceffbdc6c1f69c36b4ca84577d1d123574c8739",
+      "files": []
+    },
+    {
+      "repository": "eahenle/dot-pet-dock",
+      "repositoryId": 1421422573,
+      "description": "Draggable and resizable Chrome extension for ChatGPT Dot pets",
+      "url": "https://github.com/eahenle/dot-pet-dock",
+      "stars": 0,
+      "updatedAt": "2026-10-16T16:35:34Z",
+      "license": "MIT",
+      "commit": "08dd0753ca47643e8527c9a34997b0644843636c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/eahenle/dot-pet-dock/blob/08dd0753ca47643e8527c9a34997b0644843636c/README.md",
+      "readmeSha256": "84176516807da6e994228451ab4f8a1197633c58292a96a9d006ac94f304492b",
+      "files": []
     }
   ]
 }

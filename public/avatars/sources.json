@@ -760,6 +760,18 @@
       "file": "colonoko.jpg",
       "source": "https://avatars.githubusercontent.com/u/28620357?s=96",
       "sha256": "76b5875da6ceb65345b39ffe4a8dd0f930759fec1713b347c2d7a22978e0db29"
+    },
+    {
+      "owner": "miku2339",
+      "file": "miku2339.png",
+      "source": "https://avatars.githubusercontent.com/u/107666541?s=96",
+      "sha256": "b16394b09dc8a754cf97ccb0f144a5283a6d33b0a8efbeef262cfcf312a6da0c"
+    },
+    {
+      "owner": "eahenle",
+      "file": "eahenle.png",
+      "source": "https://avatars.githubusercontent.com/u/16201240?s=96",
+      "sha256": "765312bd7059e07c754c0912a378fb2b93910c6ddab6c63ef2b98f7dce679bd4"
     }
   ]
 }
