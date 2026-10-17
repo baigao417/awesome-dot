@@ -951,3 +951,10 @@
 - README: https://github.com/eahenle/dot-pet-dock/blob/08dd0753ca47643e8527c9a34997b0644843636c/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## nickaisbitt/dotspro
+
+- Commit: `c6e081f6086c4ca23fccf7cf0e031d022a5657a9`
+- README: https://github.com/nickaisbitt/dotspro/blob/c6e081f6086c4ca23fccf7cf0e031d022a5657a9/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

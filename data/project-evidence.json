@@ -2149,6 +2149,20 @@
       "readmeUrl": "https://github.com/eahenle/dot-pet-dock/blob/08dd0753ca47643e8527c9a34997b0644843636c/README.md",
       "readmeSha256": "84176516807da6e994228451ab4f8a1197633c58292a96a9d006ac94f304492b",
       "files": []
+    },
+    {
+      "repository": "nickaisbitt/dotspro",
+      "repositoryId": 1422847779,
+      "description": "DotsPro — skills-only ChatGPT Dot plugin (dot_native_only). No MCP required.",
+      "url": "https://github.com/nickaisbitt/dotspro",
+      "stars": 0,
+      "updatedAt": "2026-10-17T01:52:09Z",
+      "license": "NOASSERTION",
+      "commit": "c6e081f6086c4ca23fccf7cf0e031d022a5657a9",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/nickaisbitt/dotspro/blob/c6e081f6086c4ca23fccf7cf0e031d022a5657a9/README.md",
+      "readmeSha256": "b1a3fb0e190da248cdb2d2ec69a38e48d691d700e81253c8120e3a167dc2f61b",
+      "files": []
     }
   ]
 }
