@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-17。共 158 条。
+更新日期：2026-10-17。共 159 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -162,3 +162,4 @@
 | baileys-dot-bridge | building_block | Connect a WhatsApp account through Baileys to an OAuth-protected MCP server, then let ChatGPT Dot receive and reply to new messages through native MCP Events. | [来源](https://github.com/miku2339/baileys-dot-bridge) |
 | dot-pet-dock | community_project | Give your ChatGPT Dot pet more room: enlarge it 50–500%, move it with an explicit handle, then lock it in place. | [来源](https://github.com/eahenle/dot-pet-dock) |
 | dotspro | building_block | Skills-only ChatGPT Dot plugin — maximise Dot manager + sub-agents (dotnativeonly), soft-ban Work/Codex. | [来源](https://github.com/nickaisbitt/dotspro) |
+| dots-field-report | community_project | A single-user field report on OpenAI Dots / Morgan, by Eliot / Goolag Account. | [来源](https://github.com/Goolagaccount/dots-field-report) |

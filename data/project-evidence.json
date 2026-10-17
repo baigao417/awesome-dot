@@ -2163,6 +2163,20 @@
       "readmeUrl": "https://github.com/nickaisbitt/dotspro/blob/c6e081f6086c4ca23fccf7cf0e031d022a5657a9/README.md",
       "readmeSha256": "b1a3fb0e190da248cdb2d2ec69a38e48d691d700e81253c8120e3a167dc2f61b",
       "files": []
+    },
+    {
+      "repository": "Goolagaccount/dots-field-report",
+      "repositoryId": 1423209389,
+      "description": "A de-identified single-user field report on OpenAI Dots reliability, by Eliot / Goolag Account. AI-generated editorial work with evidence and limitations.",
+      "url": "https://github.com/Goolagaccount/dots-field-report",
+      "stars": 0,
+      "updatedAt": "2026-10-17T10:25:51Z",
+      "license": "NOASSERTION",
+      "commit": "6249d01b16d68ecf61bc98463fdf45ffa427f53b",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Goolagaccount/dots-field-report/blob/6249d01b16d68ecf61bc98463fdf45ffa427f53b/README.md",
+      "readmeSha256": "256b74fc71a7c4b750e57214545c61a85ffde9386121ad3656d1dbe4bbcde37f",
+      "files": []
     }
   ]
 }
