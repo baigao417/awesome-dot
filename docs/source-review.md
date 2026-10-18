@@ -965,3 +965,10 @@
 - README: https://github.com/Goolagaccount/dots-field-report/blob/6249d01b16d68ecf61bc98463fdf45ffa427f53b/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## claudecoded/OpenAI-Dots-rule-validator
+
+- Commit: `eb2da16bb74f082ced43f6c4192111d1a785df7f`
+- README: https://github.com/claudecoded/OpenAI-Dots-rule-validator/blob/eb2da16bb74f082ced43f6c4192111d1a785df7f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

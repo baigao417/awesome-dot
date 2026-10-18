@@ -2177,6 +2177,20 @@
       "readmeUrl": "https://github.com/Goolagaccount/dots-field-report/blob/6249d01b16d68ecf61bc98463fdf45ffa427f53b/README.md",
       "readmeSha256": "256b74fc71a7c4b750e57214545c61a85ffde9386121ad3656d1dbe4bbcde37f",
       "files": []
+    },
+    {
+      "repository": "claudecoded/OpenAI-Dots-rule-validator",
+      "repositoryId": 1423732156,
+      "description": null,
+      "url": "https://github.com/claudecoded/OpenAI-Dots-rule-validator",
+      "stars": 0,
+      "updatedAt": "2026-10-17T21:01:13Z",
+      "license": "NOASSERTION",
+      "commit": "eb2da16bb74f082ced43f6c4192111d1a785df7f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/claudecoded/OpenAI-Dots-rule-validator/blob/eb2da16bb74f082ced43f6c4192111d1a785df7f/README.md",
+      "readmeSha256": "a0c9aac2c0211665d5eb4be6e1d1adbb6a1d37de6a3fb5c6930fa33504215c9e",
+      "files": []
     }
   ]
 }
