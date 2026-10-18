@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-18。共 160 条。
+更新日期：2026-10-18。共 161 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -164,3 +164,4 @@
 | dotspro | building_block | Skills-only ChatGPT Dot plugin — maximise Dot manager + sub-agents (dotnativeonly), soft-ban Work/Codex. | [来源](https://github.com/nickaisbitt/dotspro) |
 | dots-field-report | community_project | A single-user field report on OpenAI Dots / Morgan, by Eliot / Goolag Account. | [来源](https://github.com/Goolagaccount/dots-field-report) |
 | OpenAI-Dots-rule-validator | task_template | As OpenAI Dots run 24/7 in cloud environments with persistent memory, corrupted rules or paradoxical commands can cause execution loops, data leaks, or complete agent freeze states. | [来源](https://github.com/claudecoded/OpenAI-Dots-rule-validator) |
+| Dots | tutorial | Dots CLI and local setup guide for ChatGPT Dots | [来源](https://github.com/quivent/Dots) |

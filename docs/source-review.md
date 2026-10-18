@@ -972,3 +972,10 @@
 - README: https://github.com/claudecoded/OpenAI-Dots-rule-validator/blob/eb2da16bb74f082ced43f6c4192111d1a785df7f/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## quivent/Dots
+
+- Commit: `8aae8b644d95583233d3d40ef18186a1dadb7184`
+- README: https://github.com/quivent/Dots/blob/8aae8b644d95583233d3d40ef18186a1dadb7184/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

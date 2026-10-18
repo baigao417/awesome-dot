@@ -790,6 +790,12 @@
       "file": "claudecoded.jpg",
       "source": "https://avatars.githubusercontent.com/u/278223328?s=96",
       "sha256": "e5107bb06e86f271896bf2b31796a3d395174e9dd2503efb573b414e1badfe62"
+    },
+    {
+      "owner": "quivent",
+      "file": "quivent.png",
+      "source": "https://avatars.githubusercontent.com/u/204302642?s=96",
+      "sha256": "09f92ee9239fec90910d24c1a0cb4892885be7d84e1867a4232544c1a09ac70d"
     }
   ]
 }

@@ -2191,6 +2191,20 @@
       "readmeUrl": "https://github.com/claudecoded/OpenAI-Dots-rule-validator/blob/eb2da16bb74f082ced43f6c4192111d1a785df7f/README.md",
       "readmeSha256": "a0c9aac2c0211665d5eb4be6e1d1adbb6a1d37de6a3fb5c6930fa33504215c9e",
       "files": []
+    },
+    {
+      "repository": "quivent/Dots",
+      "repositoryId": 1424065723,
+      "description": "Dots CLI and local setup guide for ChatGPT Dots",
+      "url": "https://github.com/quivent/Dots",
+      "stars": 0,
+      "updatedAt": "2026-10-18T10:08:58Z",
+      "license": "NOASSERTION",
+      "commit": "8aae8b644d95583233d3d40ef18186a1dadb7184",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/quivent/Dots/blob/8aae8b644d95583233d3d40ef18186a1dadb7184/README.md",
+      "readmeSha256": "109c9d0ce872d8596c9237d09d686b3bed2a596b1713394a6032e8683a82698e",
+      "files": []
     }
   ]
 }
