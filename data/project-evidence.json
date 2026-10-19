@@ -2205,6 +2205,62 @@
       "readmeUrl": "https://github.com/quivent/Dots/blob/8aae8b644d95583233d3d40ef18186a1dadb7184/README.md",
       "readmeSha256": "109c9d0ce872d8596c9237d09d686b3bed2a596b1713394a6032e8683a82698e",
       "files": []
+    },
+    {
+      "repository": "dim-pan/overtime",
+      "repositoryId": 1424670272,
+      "description": "The command center for always-on AI agents doing real work. An open-source OpenAI dots and Grok Bot alternative, on your own servers from ready-made VM templates.",
+      "url": "https://github.com/dim-pan/overtime",
+      "stars": 0,
+      "updatedAt": "2026-10-18T20:41:43Z",
+      "license": "Apache-2.0",
+      "commit": "f011f732bbaad733178796e449aa1a6370728143",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/dim-pan/overtime/blob/f011f732bbaad733178796e449aa1a6370728143/README.md",
+      "readmeSha256": "a0223e14e013483f5eafd4b1bb49ae56bc8eb993d1cce27ff8a95c055d85a5b3",
+      "files": []
+    },
+    {
+      "repository": "semantic-craft/agent-fleet",
+      "repositoryId": 1425012814,
+      "description": "Let ChatGPT dots and other MCP assistants dispatch work to coding agents on your own Macs, built on Agenvo",
+      "url": "https://github.com/semantic-craft/agent-fleet",
+      "stars": 0,
+      "updatedAt": "2026-10-19T04:37:22Z",
+      "license": "Apache-2.0",
+      "commit": "9169741343a92057748471ed75ad6696034c17f0",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/semantic-craft/agent-fleet/blob/9169741343a92057748471ed75ad6696034c17f0/README.md",
+      "readmeSha256": "86cebd5d2e2df63b44d5bb8465d545897cb378732d239754eb071a0008cc046a",
+      "files": []
+    },
+    {
+      "repository": "steveseguin/ninja-p2p",
+      "repositoryId": 1188876292,
+      "description": "Reusable P2P agent communication module using VDO.Ninja WebRTC data channels. Pub/sub messaging, peer registry, offline queues, keyword triggers.",
+      "url": "https://github.com/steveseguin/ninja-p2p",
+      "stars": 4,
+      "updatedAt": "2026-10-18T21:26:47Z",
+      "license": "MIT",
+      "commit": "d9e961edaa071c7a23358a28fec4909ddb9b9045",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/steveseguin/ninja-p2p/blob/d9e961edaa071c7a23358a28fec4909ddb9b9045/README.md",
+      "readmeSha256": "457c75cd578fefedcbbd1e464eafa0b0de2ac108d0496ce01a42cc3d5acb749f",
+      "files": []
+    },
+    {
+      "repository": "guzus/agentbump",
+      "repositoryId": 1423966592,
+      "description": "Bump two phones in Safari to connect your AI agents over Inkbox A2A — YC Make Something Agents Want hackathon",
+      "url": "https://github.com/guzus/agentbump",
+      "stars": 0,
+      "updatedAt": "2026-10-18T18:22:16Z",
+      "license": "NOASSERTION",
+      "commit": "5d2d9ccdd0b4c2989298a594ebdcbcae498fdf11",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/guzus/agentbump/blob/5d2d9ccdd0b4c2989298a594ebdcbcae498fdf11/README.md",
+      "readmeSha256": "91b0b277ac0d1425971d35f65c8445b6f79d6852acac1ab12962beb264e70863",
+      "files": []
     }
   ]
 }

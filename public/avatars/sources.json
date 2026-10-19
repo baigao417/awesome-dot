@@ -796,6 +796,30 @@
       "file": "quivent.png",
       "source": "https://avatars.githubusercontent.com/u/204302642?s=96",
       "sha256": "09f92ee9239fec90910d24c1a0cb4892885be7d84e1867a4232544c1a09ac70d"
+    },
+    {
+      "owner": "dim-pan",
+      "file": "dim-pan.png",
+      "source": "https://avatars.githubusercontent.com/u/77009091?s=96",
+      "sha256": "f43d30cf329fc31adee3604545848f8cfe47ab01d1c4c3ebb58c50e94da367d4"
+    },
+    {
+      "owner": "semantic-craft",
+      "file": "semantic-craft.png",
+      "source": "https://avatars.githubusercontent.com/u/14216877?s=96",
+      "sha256": "1c64a12e87a2a176d1dd3c639972c08022d03d81c759cf8236120039c074fbab"
+    },
+    {
+      "owner": "steveseguin",
+      "file": "steveseguin.png",
+      "source": "https://avatars.githubusercontent.com/u/2575698?s=96",
+      "sha256": "332e5cfd1785aee94d7e823796ead46373e3c9b892fb69aa15369f0c66677078"
+    },
+    {
+      "owner": "guzus",
+      "file": "guzus.jpg",
+      "source": "https://avatars.githubusercontent.com/u/50664161?s=96",
+      "sha256": "ed35a994dbaaeb570436dfdf63a2e82c75bcfe51cae3e609a4af91cb513e2762"
     }
   ]
 }

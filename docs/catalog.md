@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-18。共 161 条。
+更新日期：2026-10-19。共 165 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -165,3 +165,7 @@
 | dots-field-report | community_project | A single-user field report on OpenAI Dots / Morgan, by Eliot / Goolag Account. | [来源](https://github.com/Goolagaccount/dots-field-report) |
 | OpenAI-Dots-rule-validator | task_template | As OpenAI Dots run 24/7 in cloud environments with persistent memory, corrupted rules or paradoxical commands can cause execution loops, data leaks, or complete agent freeze states. | [来源](https://github.com/claudecoded/OpenAI-Dots-rule-validator) |
 | Dots | tutorial | Dots CLI and local setup guide for ChatGPT Dots | [来源](https://github.com/quivent/Dots) |
+| overtime | alternative | An open-source OpenAI dots and Grok Bot alternative. | [来源](https://github.com/dim-pan/overtime) |
+| agent-fleet | building_block | 让手机上的 ChatGPT dots（以及 Grok Bot 等任何支持 OAuth MCP 的助手）直接给你自己电脑上的编码 agent 派活： Codex、DSH 桌面版、ZCode 桌面版，以及在 Herdr 终端里运行的 Claude Code、Codex CLI、Antigravity（agy）。 | [来源](https://github.com/semantic-craft/agent-fleet) |
+| ninja-p2p | community_project | Connect a ChatGPT Dot or another MCP agent to a Codex or OpenCode worker with ninja-p2p worker setup. | [来源](https://github.com/steveseguin/ninja-p2p) |
+| agentbump | community_project | Account → pick your agent (Grok Bot, Instinct, Muse, OpenAI Dots, Claude Code, Other) → Connect your agent shows a URL of the form …/mcp?key=…. | [来源](https://github.com/guzus/agentbump) |

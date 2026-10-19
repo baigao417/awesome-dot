@@ -979,3 +979,31 @@
 - README: https://github.com/quivent/Dots/blob/8aae8b644d95583233d3d40ef18186a1dadb7184/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## dim-pan/overtime
+
+- Commit: `f011f732bbaad733178796e449aa1a6370728143`
+- README: https://github.com/dim-pan/overtime/blob/f011f732bbaad733178796e449aa1a6370728143/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## semantic-craft/agent-fleet
+
+- Commit: `9169741343a92057748471ed75ad6696034c17f0`
+- README: https://github.com/semantic-craft/agent-fleet/blob/9169741343a92057748471ed75ad6696034c17f0/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## steveseguin/ninja-p2p
+
+- Commit: `d9e961edaa071c7a23358a28fec4909ddb9b9045`
+- README: https://github.com/steveseguin/ninja-p2p/blob/d9e961edaa071c7a23358a28fec4909ddb9b9045/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## guzus/agentbump
+
+- Commit: `5d2d9ccdd0b4c2989298a594ebdcbcae498fdf11`
+- README: https://github.com/guzus/agentbump/blob/5d2d9ccdd0b4c2989298a594ebdcbcae498fdf11/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
