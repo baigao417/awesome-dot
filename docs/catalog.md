@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-19。共 165 条。
+更新日期：2026-10-19。共 173 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -169,3 +169,11 @@
 | agent-fleet | building_block | 让手机上的 ChatGPT dots（以及 Grok Bot 等任何支持 OAuth MCP 的助手）直接给你自己电脑上的编码 agent 派活： Codex、DSH 桌面版、ZCode 桌面版，以及在 Herdr 终端里运行的 Claude Code、Codex CLI、Antigravity（agy）。 | [来源](https://github.com/semantic-craft/agent-fleet) |
 | ninja-p2p | community_project | Connect a ChatGPT Dot or another MCP agent to a Codex or OpenCode worker with ninja-p2p worker setup. | [来源](https://github.com/steveseguin/ninja-p2p) |
 | agentbump | community_project | Account → pick your agent (Grok Bot, Instinct, Muse, OpenAI Dots, Claude Code, Other) → Connect your agent shows a URL of the form …/mcp?key=…. | [来源](https://github.com/guzus/agentbump) |
+| dotter | building_block | A typed Node.js SDK and CLI for ChatGPT dots. | [来源](https://github.com/jethros-projects/dotter) |
+| dot-bridge | community_project | 把常用聊天软件接到你已有的 ChatGPT dot，用熟悉的聊天入口发消息，让同一个 dot 处理并回复。 | [来源](https://github.com/Arcueid77/dot-bridge) |
+| dot-line-bridge | building_block | 把本人发给 LINE Official Account 的私聊接到原来的 ChatGPT dot，并把 dot 的回答发回原私聊。通过官方 Secure MCP Tunnel 接入 dot，共享服务由 dot-bridge-core 提供，总仓库统一管理。 | [来源](https://github.com/Arcueid77/dot-line-bridge) |
+| dot-telegram-bridge | building_block | 在你与 Telegram bot 的私聊里使用原来的 ChatGPT dot。这个仓库负责 Telegram 收发；安装、MCP Tunnel 和多渠道管理由 DotBridge 总仓库 提供。 | [来源](https://github.com/Arcueid77/dot-telegram-bridge) |
+| dot-discord-bridge | building_block | 在你与 Discord bot 的私聊里使用原来的 ChatGPT dot。这个仓库负责 Discord 收发；安装、MCP Tunnel 和多渠道管理由 DotBridge 总仓库 提供。 | [来源](https://github.com/Arcueid77/dot-discord-bridge) |
+| dot-weixin-bridge | building_block | 把本人微信 iLink 私聊接到原来的 ChatGPT dot，并把 dot 的文字回答发回原私聊。与飞书、QQ 一样，通过官方 Secure MCP Tunnel 连接；共享运行服务由 dot-bridge-core 提供，总仓库统一安装和管理。 | [来源](https://github.com/Arcueid77/dot-weixin-bridge) |
+| dot-wecom-bridge | building_block | 把本人企业微信私聊接到原来的 ChatGPT dot。通过企业微信智能机器人长连接模式接收消息，再由官方 Secure MCP Tunnel 交给 dot，最终回复回到原私聊。 | [来源](https://github.com/Arcueid77/dot-wecom-bridge) |
+| dot-dingtalk-bridge | building_block | 把本人钉钉私聊接到原来的 ChatGPT dot。消息通过钉钉 Stream 长连接进入 DotBridge，再由官方 Secure MCP Tunnel 交给 dot；dot 的最终回复发送回同一个私聊。 | [来源](https://github.com/Arcueid77/dot-dingtalk-bridge) |

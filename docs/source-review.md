@@ -1007,3 +1007,59 @@
 - README: https://github.com/guzus/agentbump/blob/5d2d9ccdd0b4c2989298a594ebdcbcae498fdf11/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## jethros-projects/dotter
+
+- Commit: `020d2ce3ab24d45fb29dfead4ecbdeb82b1012a7`
+- README: https://github.com/jethros-projects/dotter/blob/020d2ce3ab24d45fb29dfead4ecbdeb82b1012a7/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Arcueid77/dot-bridge
+
+- Commit: `8d017ad3e9d46ecde2b8da7d49819618eca74b5a`
+- README: https://github.com/Arcueid77/dot-bridge/blob/8d017ad3e9d46ecde2b8da7d49819618eca74b5a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Arcueid77/dot-line-bridge
+
+- Commit: `7432a7df273e3d0902a162f2ae7540dba79b0681`
+- README: https://github.com/Arcueid77/dot-line-bridge/blob/7432a7df273e3d0902a162f2ae7540dba79b0681/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Arcueid77/dot-telegram-bridge
+
+- Commit: `417809682eb2c092b6039d61d5f3645a1b41e663`
+- README: https://github.com/Arcueid77/dot-telegram-bridge/blob/417809682eb2c092b6039d61d5f3645a1b41e663/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Arcueid77/dot-discord-bridge
+
+- Commit: `b493d9e067e9b9de083de930c9aeda87fce3637a`
+- README: https://github.com/Arcueid77/dot-discord-bridge/blob/b493d9e067e9b9de083de930c9aeda87fce3637a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Arcueid77/dot-weixin-bridge
+
+- Commit: `870e6aea892b3b0cf5007c1878ac2e82d8e6e832`
+- README: https://github.com/Arcueid77/dot-weixin-bridge/blob/870e6aea892b3b0cf5007c1878ac2e82d8e6e832/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Arcueid77/dot-wecom-bridge
+
+- Commit: `3dbb9f856b7fc6262a0d4cfb634b2a581d133330`
+- README: https://github.com/Arcueid77/dot-wecom-bridge/blob/3dbb9f856b7fc6262a0d4cfb634b2a581d133330/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Arcueid77/dot-dingtalk-bridge
+
+- Commit: `5c91b17911dbc586ba726f398d3bb2affea09270`
+- README: https://github.com/Arcueid77/dot-dingtalk-bridge/blob/5c91b17911dbc586ba726f398d3bb2affea09270/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

@@ -820,6 +820,18 @@
       "file": "guzus.jpg",
       "source": "https://avatars.githubusercontent.com/u/50664161?s=96",
       "sha256": "ed35a994dbaaeb570436dfdf63a2e82c75bcfe51cae3e609a4af91cb513e2762"
+    },
+    {
+      "owner": "jethros-projects",
+      "file": "jethros-projects.jpg",
+      "source": "https://avatars.githubusercontent.com/u/209575548?s=96",
+      "sha256": "a3c9409701dd9201ffb78439072a9b52c962a396e16c8e5a76007f3b251dbac5"
+    },
+    {
+      "owner": "Arcueid77",
+      "file": "arcueid77.png",
+      "source": "https://avatars.githubusercontent.com/u/17421993?s=96",
+      "sha256": "37d5c345b0327d74666abe4bcefe6d68de376b08d333c5218348ed4e248b91fe"
     }
   ]
 }
