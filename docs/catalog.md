@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-19。共 173 条。
+更新日期：2026-10-20。共 174 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -177,3 +177,4 @@
 | dot-weixin-bridge | building_block | 把本人微信 iLink 私聊接到原来的 ChatGPT dot，并把 dot 的文字回答发回原私聊。与飞书、QQ 一样，通过官方 Secure MCP Tunnel 连接；共享运行服务由 dot-bridge-core 提供，总仓库统一安装和管理。 | [来源](https://github.com/Arcueid77/dot-weixin-bridge) |
 | dot-wecom-bridge | building_block | 把本人企业微信私聊接到原来的 ChatGPT dot。通过企业微信智能机器人长连接模式接收消息，再由官方 Secure MCP Tunnel 交给 dot，最终回复回到原私聊。 | [来源](https://github.com/Arcueid77/dot-wecom-bridge) |
 | dot-dingtalk-bridge | building_block | 把本人钉钉私聊接到原来的 ChatGPT dot。消息通过钉钉 Stream 长连接进入 DotBridge，再由官方 Secure MCP Tunnel 交给 dot；dot 的最终回复发送回同一个私聊。 | [来源](https://github.com/Arcueid77/dot-dingtalk-bridge) |
+| NathanHor22 | community_project | Right now, most of my attention goes into Quipus, my sales assistant, and Digimon, a physical companion for my ChatGPT dot. | [来源](https://github.com/NathanHor22/NathanHor22) |
