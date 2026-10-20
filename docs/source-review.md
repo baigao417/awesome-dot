@@ -1070,3 +1070,10 @@
 - README: https://github.com/NathanHor22/NathanHor22/blob/99076a5cb6f721f4ced77b19bcf1114924d75911/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## nathanielangafor/numby
+
+- Commit: `5953ade1352bea9bc2da1b78e25276acb61374ad`
+- README: https://github.com/nathanielangafor/numby/blob/5953ade1352bea9bc2da1b78e25276acb61374ad/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

@@ -2387,6 +2387,20 @@
       "readmeUrl": "https://github.com/NathanHor22/NathanHor22/blob/99076a5cb6f721f4ced77b19bcf1114924d75911/README.md",
       "readmeSha256": "f53e207ac4d83438e9431ee48045ec8dc2baec47d3a1b85eb4bff3946c65b5ea",
       "files": []
+    },
+    {
+      "repository": "nathanielangafor/numby",
+      "repositoryId": 1425413048,
+      "description": "Your existing AI agent, in your phone’s messages. Open-source gateway for texts, photos and files, with agent-led setup. Runtime support varies.",
+      "url": "https://github.com/nathanielangafor/numby",
+      "stars": 0,
+      "updatedAt": "2026-10-20T08:34:57Z",
+      "license": "MIT",
+      "commit": "5953ade1352bea9bc2da1b78e25276acb61374ad",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/nathanielangafor/numby/blob/5953ade1352bea9bc2da1b78e25276acb61374ad/README.md",
+      "readmeSha256": "21c6bb98affedac4b56dec77e90bc5931e2c21d61d567731e73349c66b46f46f",
+      "files": []
     }
   ]
 }
