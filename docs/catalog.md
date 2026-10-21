@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-21。共 178 条。
+更新日期：2026-10-21。共 181 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -182,3 +182,6 @@
 | appubot | alternative | A Grok Bot, OpenAI dots and Meta Muse alternative for Mac, Windows and Linux. | [来源](https://github.com/sarthakguptadev/appubot) |
 | dots-on-cloudflare | community_project | An exploration of how to build an always-on personal agent, similar to OpenAI's dots, on Cloudflare. | [来源](https://github.com/zeke/dots-on-cloudflare) |
 | dot-gateway | building_block | 让 ChatGPT Dot 通过 OpenAI Secure MCP Tunnel，跟本机的编码 agent（默认是 DeepSeek Harness dsh --profile acp）进行多轮会话。Dot 可以一轮接一轮地追问，agent 会记得上下文；网关重启、机器重启以后，用同一个 sessionId 还能接着聊。 | [来源](https://github.com/YinMinghhh/dot-gateway) |
+| AgentDock | community_project | 把 ChatGPT dot、Grok Bot 里的每个 Bot、Copilot、Devin、Muse 当成一排可呼叫的联系人： 一键呼叫 · 一键闭麦 · 一键挂断或切到下一位。不是聊天窗口，不是模型路由器。 | [来源](https://github.com/we1jia/AgentDock) |
+| dot-pet | community_project | 캐릭터를 클릭하면 옆에 투명한 말풍선과 입력창이 열리고, 본인의 ChatGPT dot과 대화할 수 있습니다. | [来源](https://github.com/itsyennie/dot-pet) |
+| buzz-agent-bridge | community_project | ChatGPT Dot is the first implemented provider, using MCP Events and authenticated job tools. | [来源](https://github.com/indiebrix/buzz-agent-bridge) |

@@ -2443,6 +2443,48 @@
       "readmeUrl": "https://github.com/YinMinghhh/dot-gateway/blob/5c82488b09fc1d0b440b63a692f50ff8a9f77c71/README.md",
       "readmeSha256": "a0d72fc41ad1a9e6e08a9ece7286b06cd6f509c63b3e20688efa1b7d60f85374",
       "files": []
+    },
+    {
+      "repository": "we1jia/AgentDock",
+      "repositoryId": 1424612318,
+      "description": "A Liquid Glass voice speed-dial for your AI agents — call, mute, hang up and switch between ChatGPT dot, Grok Bot, Copilot, Devin and more. macOS, Tauri 2 + Rust.",
+      "url": "https://github.com/we1jia/AgentDock",
+      "stars": 6,
+      "updatedAt": "2026-10-21T15:35:00Z",
+      "license": "MIT",
+      "commit": "dbd3df85c63469d6359d1faa863125f82505ad62",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/we1jia/AgentDock/blob/dbd3df85c63469d6359d1faa863125f82505ad62/README.md",
+      "readmeSha256": "aee7a2c8b82074694a19237c299228d457236dcef0c695b80efa3bd17580ffd6",
+      "files": []
+    },
+    {
+      "repository": "itsyennie/dot-pet",
+      "repositoryId": 1428047137,
+      "description": "Windows desktop companion with a floating character and ChatGPT dot speech bubbles",
+      "url": "https://github.com/itsyennie/dot-pet",
+      "stars": 0,
+      "updatedAt": "2026-10-21T08:59:00Z",
+      "license": "NOASSERTION",
+      "commit": "4d00a61ebcd6edccd1d5d66133988cd3a3e87200",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/itsyennie/dot-pet/blob/4d00a61ebcd6edccd1d5d66133988cd3a3e87200/README.md",
+      "readmeSha256": "092af94fe390de0ce0fe810446d22d6f79d2cc04947e9f15ed18dd546caaa35f",
+      "files": []
+    },
+    {
+      "repository": "indiebrix/buzz-agent-bridge",
+      "repositoryId": 1428611378,
+      "description": "Connect existing remote AI assistants to Buzz through ACP and durable jobs",
+      "url": "https://github.com/indiebrix/buzz-agent-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-21T16:02:29Z",
+      "license": "MIT",
+      "commit": "ebafc588c44c9e301e1a57c6d2bd1e63f6d0e0e3",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/indiebrix/buzz-agent-bridge/blob/ebafc588c44c9e301e1a57c6d2bd1e63f6d0e0e3/README.md",
+      "readmeSha256": "5f9245193d39717089efbb1ab737a944d72888c9e991aac01cce5545dfcf7475",
+      "files": []
     }
   ]
 }

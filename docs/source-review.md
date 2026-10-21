@@ -1098,3 +1098,24 @@
 - README: https://github.com/YinMinghhh/dot-gateway/blob/5c82488b09fc1d0b440b63a692f50ff8a9f77c71/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## we1jia/AgentDock
+
+- Commit: `dbd3df85c63469d6359d1faa863125f82505ad62`
+- README: https://github.com/we1jia/AgentDock/blob/dbd3df85c63469d6359d1faa863125f82505ad62/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## itsyennie/dot-pet
+
+- Commit: `4d00a61ebcd6edccd1d5d66133988cd3a3e87200`
+- README: https://github.com/itsyennie/dot-pet/blob/4d00a61ebcd6edccd1d5d66133988cd3a3e87200/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## indiebrix/buzz-agent-bridge
+
+- Commit: `ebafc588c44c9e301e1a57c6d2bd1e63f6d0e0e3`
+- README: https://github.com/indiebrix/buzz-agent-bridge/blob/ebafc588c44c9e301e1a57c6d2bd1e63f6d0e0e3/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
