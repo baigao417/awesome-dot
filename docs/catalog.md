@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-20。共 175 条。
+更新日期：2026-10-21。共 178 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -179,3 +179,6 @@
 | dot-dingtalk-bridge | building_block | 把本人钉钉私聊接到原来的 ChatGPT dot。消息通过钉钉 Stream 长连接进入 DotBridge，再由官方 Secure MCP Tunnel 交给 dot；dot 的最终回复发送回同一个私聊。 | [来源](https://github.com/Arcueid77/dot-dingtalk-bridge) |
 | NathanHor22 | community_project | Right now, most of my attention goes into Quipus, my sales assistant, and Digimon, a physical companion for my ChatGPT dot. | [来源](https://github.com/NathanHor22/NathanHor22) |
 | numby | building_block | Grok Bot and OpenAI dot need a verified wake integration before automatic texting is ready. | [来源](https://github.com/nathanielangafor/numby) |
+| appubot | alternative | A Grok Bot, OpenAI dots and Meta Muse alternative for Mac, Windows and Linux. | [来源](https://github.com/sarthakguptadev/appubot) |
+| dots-on-cloudflare | community_project | An exploration of how to build an always-on personal agent, similar to OpenAI's dots, on Cloudflare. | [来源](https://github.com/zeke/dots-on-cloudflare) |
+| dot-gateway | building_block | 让 ChatGPT Dot 通过 OpenAI Secure MCP Tunnel，跟本机的编码 agent（默认是 DeepSeek Harness dsh --profile acp）进行多轮会话。Dot 可以一轮接一轮地追问，agent 会记得上下文；网关重启、机器重启以后，用同一个 sessionId 还能接着聊。 | [来源](https://github.com/YinMinghhh/dot-gateway) |

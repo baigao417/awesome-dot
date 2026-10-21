@@ -1077,3 +1077,24 @@
 - README: https://github.com/nathanielangafor/numby/blob/5953ade1352bea9bc2da1b78e25276acb61374ad/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## sarthakguptadev/appubot
+
+- Commit: `51c45ed183b1db4ff25c4fcf15ebc40b9efaa4b8`
+- README: https://github.com/sarthakguptadev/appubot/blob/51c45ed183b1db4ff25c4fcf15ebc40b9efaa4b8/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## zeke/dots-on-cloudflare
+
+- Commit: `9d509d6c04706266cd7b551231367be0fc58e6c5`
+- README: https://github.com/zeke/dots-on-cloudflare/blob/9d509d6c04706266cd7b551231367be0fc58e6c5/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## YinMinghhh/dot-gateway
+
+- Commit: `5c82488b09fc1d0b440b63a692f50ff8a9f77c71`
+- README: https://github.com/YinMinghhh/dot-gateway/blob/5c82488b09fc1d0b440b63a692f50ff8a9f77c71/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

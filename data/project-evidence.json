@@ -2401,6 +2401,48 @@
       "readmeUrl": "https://github.com/nathanielangafor/numby/blob/5953ade1352bea9bc2da1b78e25276acb61374ad/README.md",
       "readmeSha256": "21c6bb98affedac4b56dec77e90bc5931e2c21d61d567731e73349c66b46f46f",
       "files": []
+    },
+    {
+      "repository": "sarthakguptadev/appubot",
+      "repositoryId": 1423435354,
+      "description": "Free Grok Bot, OpenAI dots and Meta Muse alternative: AI bots that use the real apps on your own Mac, Windows or Linux PC and answer you on Telegram. Runs on Claude Code, Codex, Copilot, Cursor, Grok or OpenCode. Also an alternative to MausBot, OpenBot, OpenClaw, Hermes Agent, Manus and Claude Cowork.",
+      "url": "https://github.com/sarthakguptadev/appubot",
+      "stars": 1,
+      "updatedAt": "2026-10-21T04:29:57Z",
+      "license": "NOASSERTION",
+      "commit": "51c45ed183b1db4ff25c4fcf15ebc40b9efaa4b8",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/sarthakguptadev/appubot/blob/51c45ed183b1db4ff25c4fcf15ebc40b9efaa4b8/README.md",
+      "readmeSha256": "7a9fbead37f5b93dc0bbcef6e11523431feacbffafbb0d5146e1e692fab410ea",
+      "files": []
+    },
+    {
+      "repository": "zeke/dots-on-cloudflare",
+      "repositoryId": 1427825731,
+      "description": "Exploring an always-on personal agent, like OpenAI dots, built on Cloudflare",
+      "url": "https://github.com/zeke/dots-on-cloudflare",
+      "stars": 0,
+      "updatedAt": "2026-10-21T03:21:16Z",
+      "license": "NOASSERTION",
+      "commit": "9d509d6c04706266cd7b551231367be0fc58e6c5",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zeke/dots-on-cloudflare/blob/9d509d6c04706266cd7b551231367be0fc58e6c5/README.md",
+      "readmeSha256": "cf0c436e89df5a067402b15a18d71740dacb107a8be693d7b52439c3a8f76cc4",
+      "files": []
+    },
+    {
+      "repository": "YinMinghhh/dot-gateway",
+      "repositoryId": 1427256698,
+      "description": "MCP gateway that lets ChatGPT Dot drive local ACP coding agents (dsh) as multi-turn sessions / 让 ChatGPT Dot 通过 MCP 驱动本机 ACP 编码 agent 多轮会话的网关",
+      "url": "https://github.com/YinMinghhh/dot-gateway",
+      "stars": 0,
+      "updatedAt": "2026-10-21T04:40:38Z",
+      "license": "MIT",
+      "commit": "5c82488b09fc1d0b440b63a692f50ff8a9f77c71",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/YinMinghhh/dot-gateway/blob/5c82488b09fc1d0b440b63a692f50ff8a9f77c71/README.md",
+      "readmeSha256": "a0d72fc41ad1a9e6e08a9ece7286b06cd6f509c63b3e20688efa1b7d60f85374",
+      "files": []
     }
   ]
 }
