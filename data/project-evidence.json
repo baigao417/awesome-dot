@@ -2485,6 +2485,20 @@
       "readmeUrl": "https://github.com/indiebrix/buzz-agent-bridge/blob/ebafc588c44c9e301e1a57c6d2bd1e63f6d0e0e3/README.md",
       "readmeSha256": "5f9245193d39717089efbb1ab737a944d72888c9e991aac01cce5545dfcf7475",
       "files": []
+    },
+    {
+      "repository": "ArtemShatokhin/kortix-always-on-agent",
+      "repositoryId": 1429037441,
+      "description": "An open-source alternative to OpenAI dots: an always-on Kortix agent that turns customer feedback into reviewed change requests, with its grants and merge rule in the repo.",
+      "url": "https://github.com/ArtemShatokhin/kortix-always-on-agent",
+      "stars": 0,
+      "updatedAt": "2026-10-21T23:37:00Z",
+      "license": "NOASSERTION",
+      "commit": "144d30ce1f783e19ee9e173a47f437c0ca214d3e",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ArtemShatokhin/kortix-always-on-agent/blob/144d30ce1f783e19ee9e173a47f437c0ca214d3e/README.md",
+      "readmeSha256": "8ed96e50163a688505e253b0a993667bd86d9e32cc6c959f9d0663293e1f7906",
+      "files": []
     }
   ]
 }

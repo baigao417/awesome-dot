@@ -1119,3 +1119,10 @@
 - README: https://github.com/indiebrix/buzz-agent-bridge/blob/ebafc588c44c9e301e1a57c6d2bd1e63f6d0e0e3/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ArtemShatokhin/kortix-always-on-agent
+
+- Commit: `144d30ce1f783e19ee9e173a47f437c0ca214d3e`
+- README: https://github.com/ArtemShatokhin/kortix-always-on-agent/blob/144d30ce1f783e19ee9e173a47f437c0ca214d3e/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
