@@ -2499,6 +2499,48 @@
       "readmeUrl": "https://github.com/ArtemShatokhin/kortix-always-on-agent/blob/144d30ce1f783e19ee9e173a47f437c0ca214d3e/README.md",
       "readmeSha256": "8ed96e50163a688505e253b0a993667bd86d9e32cc6c959f9d0663293e1f7906",
       "files": []
+    },
+    {
+      "repository": "uezo/dots-bridge",
+      "repositoryId": 1429641136,
+      "description": "Use OpenAI dots from your own apps: a bridge with a Python client and an OpenAI-compatible API.",
+      "url": "https://github.com/uezo/dots-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-22T11:29:28Z",
+      "license": "MIT",
+      "commit": "46010a7bd840ae673cccf432d321e53732243152",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/uezo/dots-bridge/blob/46010a7bd840ae673cccf432d321e53732243152/README.md",
+      "readmeSha256": "b514bf38b5651793db47bc22f36d7b5f729193025084e8893fc3126cca666d14",
+      "files": []
+    },
+    {
+      "repository": "hostkimjang/dots-tsnet",
+      "repositoryId": 1429890951,
+      "description": "ChatGPT Dots 클라우드 컴퓨터의 apt/pip 다운로드를 Tailscale exit node로 보내고, root 없이 apt 패키지를 설치하는 dots-tailscale 확장",
+      "url": "https://github.com/hostkimjang/dots-tsnet",
+      "stars": 0,
+      "updatedAt": "2026-10-22T16:50:42Z",
+      "license": "MIT",
+      "commit": "fdcd1d733c579a948c1d9cbc4f543dd138537e7c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/hostkimjang/dots-tsnet/blob/fdcd1d733c579a948c1d9cbc4f543dd138537e7c/README.md",
+      "readmeSha256": "ad120dddefb9c6a84c96e7e59b34538d00aba1877a6060d653069a1d6a57a05e",
+      "files": []
+    },
+    {
+      "repository": "jerome-queck/emmy",
+      "repositoryId": 1429928552,
+      "description": "Flexible chief-of-staff operating kit for ChatGPT Dot Emmy, with local-first Codex routing and verifiable evidence.",
+      "url": "https://github.com/jerome-queck/emmy",
+      "stars": 0,
+      "updatedAt": "2026-10-22T15:27:21Z",
+      "license": "NOASSERTION",
+      "commit": "42e89be569605ebf0dd1a830e33cda3b38b899c9",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/jerome-queck/emmy/blob/42e89be569605ebf0dd1a830e33cda3b38b899c9/README.md",
+      "readmeSha256": "d5f39b889509ec368d2798968eb5d3c0e1a4a07af819dfc2a1d135ac5831a7c0",
+      "files": []
     }
   ]
 }

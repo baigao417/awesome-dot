@@ -1126,3 +1126,24 @@
 - README: https://github.com/ArtemShatokhin/kortix-always-on-agent/blob/144d30ce1f783e19ee9e173a47f437c0ca214d3e/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## uezo/dots-bridge
+
+- Commit: `46010a7bd840ae673cccf432d321e53732243152`
+- README: https://github.com/uezo/dots-bridge/blob/46010a7bd840ae673cccf432d321e53732243152/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## hostkimjang/dots-tsnet
+
+- Commit: `fdcd1d733c579a948c1d9cbc4f543dd138537e7c`
+- README: https://github.com/hostkimjang/dots-tsnet/blob/fdcd1d733c579a948c1d9cbc4f543dd138537e7c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## jerome-queck/emmy
+
+- Commit: `42e89be569605ebf0dd1a830e33cda3b38b899c9`
+- README: https://github.com/jerome-queck/emmy/blob/42e89be569605ebf0dd1a830e33cda3b38b899c9/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

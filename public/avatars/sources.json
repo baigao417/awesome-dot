@@ -886,6 +886,24 @@
       "file": "artemshatokhin.jpg",
       "source": "https://avatars.githubusercontent.com/u/48524991?s=96",
       "sha256": "e8949cf644382ffc0d9c9c4aaf4b1433f460ee17668ac19605dbaa55c9f7a38c"
+    },
+    {
+      "owner": "uezo",
+      "file": "uezo.png",
+      "source": "https://avatars.githubusercontent.com/u/19625242?s=96",
+      "sha256": "b0ae1ca74ce1a4e5b032d83b29e9deede406f4160cd04973888841cad4a9d7a3"
+    },
+    {
+      "owner": "hostkimjang",
+      "file": "hostkimjang.png",
+      "source": "https://avatars.githubusercontent.com/u/37247073?s=96",
+      "sha256": "21441dfca6a6b587a331a734b15ebd972bc0fce2018d50d0d46d1c0503f65463"
+    },
+    {
+      "owner": "jerome-queck",
+      "file": "jerome-queck.png",
+      "source": "https://avatars.githubusercontent.com/u/218933877?s=96",
+      "sha256": "996fa06ae81f66346d806c5bbb2d35944178e5bf71ec0fcd32a090337cc9d046"
     }
   ]
 }

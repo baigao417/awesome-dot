@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-22。共 182 条。
+更新日期：2026-10-22。共 185 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -186,3 +186,6 @@
 | dot-pet | community_project | 캐릭터를 클릭하면 옆에 투명한 말풍선과 입력창이 열리고, 본인의 ChatGPT dot과 대화할 수 있습니다. | [来源](https://github.com/itsyennie/dot-pet) |
 | buzz-agent-bridge | community_project | ChatGPT Dot is the first implemented provider, using MCP Events and authenticated job tools. | [来源](https://github.com/indiebrix/buzz-agent-bridge) |
 | kortix-always-on-agent | alternative | OpenAI's dots are a serious piece of work: an always-on agent in ChatGPT with its own cloud computer, live since 2026-09-29. | [来源](https://github.com/ArtemShatokhin/kortix-always-on-agent) |
+| dots-bridge | building_block | A Python bridge between external applications and OpenAI dots, using HTTP and MCP Events. | [来源](https://github.com/uezo/dots-bridge) |
+| dots-tsnet | community_project | ChatGPT Dots 클라우드 컴퓨터의 터미널에서 apt-get install, pip install, curl 같은 다운로드가 내 집 PC나 중계 서버를 거쳐 인터넷으로 나가게 해 줍니다. | [来源](https://github.com/hostkimjang/dots-tsnet) |
+| emmy | community_project | Emmy is Jerome's ChatGPT Dot, coordinating ongoing work across projects and machines. | [来源](https://github.com/jerome-queck/emmy) |
