@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-22。共 185 条。
+更新日期：2026-10-23。共 186 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -189,3 +189,4 @@
 | dots-bridge | building_block | A Python bridge between external applications and OpenAI dots, using HTTP and MCP Events. | [来源](https://github.com/uezo/dots-bridge) |
 | dots-tsnet | community_project | ChatGPT Dots 클라우드 컴퓨터의 터미널에서 apt-get install, pip install, curl 같은 다운로드가 내 집 PC나 중계 서버를 거쳐 인터넷으로 나가게 해 줍니다. | [来源](https://github.com/hostkimjang/dots-tsnet) |
 | emmy | community_project | Emmy is Jerome's ChatGPT Dot, coordinating ongoing work across projects and machines. | [来源](https://github.com/jerome-queck/emmy) |
+| dot-mcp-hub | building_block | A working, self-hosted MCP hub that a ChatGPT dot can drive: QQ message read/send/recall, media, event subscriptions, and server-side self-iteration. | [来源](https://github.com/dwgx/dot-mcp-hub) |

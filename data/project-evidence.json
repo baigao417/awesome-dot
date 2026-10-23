@@ -2541,6 +2541,20 @@
       "readmeUrl": "https://github.com/jerome-queck/emmy/blob/42e89be569605ebf0dd1a830e33cda3b38b899c9/README.md",
       "readmeSha256": "d5f39b889509ec368d2798968eb5d3c0e1a4a07af819dfc2a1d135ac5831a7c0",
       "files": []
+    },
+    {
+      "repository": "dwgx/dot-mcp-hub",
+      "repositoryId": 1429991419,
+      "description": "Field notes + protocol + portable plugin package for driving a self-hosted MCP hub from a ChatGPT dot",
+      "url": "https://github.com/dwgx/dot-mcp-hub",
+      "stars": 0,
+      "updatedAt": "2026-10-22T16:22:14Z",
+      "license": "NOASSERTION",
+      "commit": "230806bffc326e4c60bbbf2717a1aa8e4106f874",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/dwgx/dot-mcp-hub/blob/230806bffc326e4c60bbbf2717a1aa8e4106f874/README.md",
+      "readmeSha256": "1a9c00c92d674b3be125a390fc819d6bfea2f3096e693a91d80706f52026ae6f",
+      "files": []
     }
   ]
 }

@@ -1147,3 +1147,10 @@
 - README: https://github.com/jerome-queck/emmy/blob/42e89be569605ebf0dd1a830e33cda3b38b899c9/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## dwgx/dot-mcp-hub
+
+- Commit: `230806bffc326e4c60bbbf2717a1aa8e4106f874`
+- README: https://github.com/dwgx/dot-mcp-hub/blob/230806bffc326e4c60bbbf2717a1aa8e4106f874/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
