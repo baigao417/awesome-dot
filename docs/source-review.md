@@ -1154,3 +1154,17 @@
 - README: https://github.com/dwgx/dot-mcp-hub/blob/230806bffc326e4c60bbbf2717a1aa8e4106f874/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## keenranger/dot-cloud-g2
+
+- Commit: `12d2cb898aed7f6bcb7badee3ccc6ba57d17b78c`
+- README: https://github.com/keenranger/dot-cloud-g2/blob/12d2cb898aed7f6bcb7badee3ccc6ba57d17b78c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Flysky701/dot-im-gateway
+
+- Commit: `5423e45431a564f5c97f91faaf08c07499e82527`
+- README: https://github.com/Flysky701/dot-im-gateway/blob/5423e45431a564f5c97f91faaf08c07499e82527/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

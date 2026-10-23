@@ -2555,6 +2555,34 @@
       "readmeUrl": "https://github.com/dwgx/dot-mcp-hub/blob/230806bffc326e4c60bbbf2717a1aa8e4106f874/README.md",
       "readmeSha256": "1a9c00c92d674b3be125a390fc819d6bfea2f3096e693a91d80706f52026ae6f",
       "files": []
+    },
+    {
+      "repository": "keenranger/dot-cloud-g2",
+      "repositoryId": 1430740549,
+      "description": "Connect ChatGPT Dots to Even G2 through a hosted MCP relay and an Even Hub companion.",
+      "url": "https://github.com/keenranger/dot-cloud-g2",
+      "stars": 0,
+      "updatedAt": "2026-10-23T09:45:31Z",
+      "license": "NOASSERTION",
+      "commit": "12d2cb898aed7f6bcb7badee3ccc6ba57d17b78c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/keenranger/dot-cloud-g2/blob/12d2cb898aed7f6bcb7badee3ccc6ba57d17b78c/README.md",
+      "readmeSha256": "7207d1e45b9bcab7c44a074b12fd2a691d083c1c2159059d9d7731adbcc8c97e",
+      "files": []
+    },
+    {
+      "repository": "Flysky701/dot-im-gateway",
+      "repositoryId": 1429249588,
+      "description": "Private QQ and Weixin gateway for an existing OpenAI dot, with durable queues and offline validation.",
+      "url": "https://github.com/Flysky701/dot-im-gateway",
+      "stars": 0,
+      "updatedAt": "2026-10-23T11:23:11Z",
+      "license": "MIT",
+      "commit": "5423e45431a564f5c97f91faaf08c07499e82527",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Flysky701/dot-im-gateway/blob/5423e45431a564f5c97f91faaf08c07499e82527/README.md",
+      "readmeSha256": "c845b1c98a5073906b75beaef66beeee07c411e56a5d876caa3fbe87e133cf9f",
+      "files": []
     }
   ]
 }
