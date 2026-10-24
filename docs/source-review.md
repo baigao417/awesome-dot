@@ -1168,3 +1168,10 @@
 - README: https://github.com/Flysky701/dot-im-gateway/blob/5423e45431a564f5c97f91faaf08c07499e82527/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## fijimunkii/paperclip-dot-tunnel
+
+- Commit: `7cd49e0cf50dd3ebf90714cfb3ee938c43dd1a2e`
+- README: https://github.com/fijimunkii/paperclip-dot-tunnel/blob/7cd49e0cf50dd3ebf90714cfb3ee938c43dd1a2e/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

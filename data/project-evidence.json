@@ -2583,6 +2583,20 @@
       "readmeUrl": "https://github.com/Flysky701/dot-im-gateway/blob/5423e45431a564f5c97f91faaf08c07499e82527/README.md",
       "readmeSha256": "c845b1c98a5073906b75beaef66beeee07c411e56a5d876caa3fbe87e133cf9f",
       "files": []
+    },
+    {
+      "repository": "fijimunkii/paperclip-dot-tunnel",
+      "repositoryId": 1432217389,
+      "description": null,
+      "url": "https://github.com/fijimunkii/paperclip-dot-tunnel",
+      "stars": 0,
+      "updatedAt": "2026-10-24T13:37:40Z",
+      "license": "MIT",
+      "commit": "7cd49e0cf50dd3ebf90714cfb3ee938c43dd1a2e",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/fijimunkii/paperclip-dot-tunnel/blob/7cd49e0cf50dd3ebf90714cfb3ee938c43dd1a2e/README.md",
+      "readmeSha256": "ab5bcc22af66b5aeaa1b6b9a32f3ee7899984493e38e021c250426d850b534e2",
+      "files": []
     }
   ]
 }

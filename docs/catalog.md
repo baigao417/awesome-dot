@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-23。共 188 条。
+更新日期：2026-10-24。共 189 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -192,3 +192,4 @@
 | dot-mcp-hub | building_block | A working, self-hosted MCP hub that a ChatGPT dot can drive: QQ message read/send/recall, media, event subscriptions, and server-side self-iteration. | [来源](https://github.com/dwgx/dot-mcp-hub) |
 | dot-cloud-g2 | building_block | Dot Cloud G2 connects Even G2 to ChatGPT Dot without a Mac relay, using a Sites-hosted relay and an Even Hub companion. | [来源](https://github.com/keenranger/dot-cloud-g2) |
 | dot-im-gateway | community_project | 让同一个已有 OpenAI dot 接收 QQ / 微信本人私聊任务，并向原渠道回复。网关负责身份、消息、队列和媒体，不执行任务，不创建 Agent，不调用模型 API，不访问未公开的 dot 内部接口。 | [来源](https://github.com/Flysky701/dot-im-gateway) |
+| paperclip-dot-tunnel | building_block | Connect ChatGPT's Dot to a self-hosted Paperclip without opening it to the internet. | [来源](https://github.com/fijimunkii/paperclip-dot-tunnel) |
