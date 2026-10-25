@@ -1175,3 +1175,10 @@
 - README: https://github.com/fijimunkii/paperclip-dot-tunnel/blob/7cd49e0cf50dd3ebf90714cfb3ee938c43dd1a2e/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Ladbaby/TresorBot
+
+- Commit: `396a2c6e0d80512d89d1a217fd92087dfe3cee27`
+- README: https://github.com/Ladbaby/TresorBot/blob/396a2c6e0d80512d89d1a217fd92087dfe3cee27/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

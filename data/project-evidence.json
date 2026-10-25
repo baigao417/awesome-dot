@@ -2597,6 +2597,20 @@
       "readmeUrl": "https://github.com/fijimunkii/paperclip-dot-tunnel/blob/7cd49e0cf50dd3ebf90714cfb3ee938c43dd1a2e/README.md",
       "readmeSha256": "ab5bcc22af66b5aeaa1b6b9a32f3ee7899984493e38e021c250426d850b534e2",
       "files": []
+    },
+    {
+      "repository": "Ladbaby/TresorBot",
+      "repositoryId": 1426493394,
+      "description": "🌐Personal & multi-agent harness connecting all existing LLM apps together",
+      "url": "https://github.com/Ladbaby/TresorBot",
+      "stars": 0,
+      "updatedAt": "2026-10-25T03:53:03Z",
+      "license": "MIT",
+      "commit": "396a2c6e0d80512d89d1a217fd92087dfe3cee27",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Ladbaby/TresorBot/blob/396a2c6e0d80512d89d1a217fd92087dfe3cee27/README.md",
+      "readmeSha256": "8f52f3729c9c631dc10419bfa96acb4903d14e88e5cfff55f689ce4537439af1",
+      "files": []
     }
   ]
 }
