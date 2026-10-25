@@ -2611,6 +2611,34 @@
       "readmeUrl": "https://github.com/Ladbaby/TresorBot/blob/396a2c6e0d80512d89d1a217fd92087dfe3cee27/README.md",
       "readmeSha256": "8f52f3729c9c631dc10419bfa96acb4903d14e88e5cfff55f689ce4537439af1",
       "files": []
+    },
+    {
+      "repository": "Tests4gptplay/dsh-dots",
+      "repositoryId": 1433162002,
+      "description": "为 DeepSeek Harness 提供 ChatGPT Dots 网页接入，支持 ChatGPT 账号登录、原生风格界面，以及自动适配明暗主题的状态栏图标。",
+      "url": "https://github.com/Tests4gptplay/dsh-dots",
+      "stars": 0,
+      "updatedAt": "2026-10-25T16:16:45Z",
+      "license": "MIT",
+      "commit": "0f4e19788ecc6f4a51aa88b9d916dda7198567e7",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Tests4gptplay/dsh-dots/blob/0f4e19788ecc6f4a51aa88b9d916dda7198567e7/README.md",
+      "readmeSha256": "60d8940cfacef370b776005937fba0d028e1ae30d15fa6a827b7f321a939cf88",
+      "files": []
+    },
+    {
+      "repository": "vingeraycn/dotg",
+      "repositoryId": 1431774071,
+      "description": "Talk to your ChatGPT Dot from Telegram. A local Mac bridge with Agent-guided setup. Public beta.",
+      "url": "https://github.com/vingeraycn/dotg",
+      "stars": 0,
+      "updatedAt": "2026-10-25T09:43:39Z",
+      "license": "MIT",
+      "commit": "45d68f80060d4039ed887eceed555dba67f01872",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/vingeraycn/dotg/blob/45d68f80060d4039ed887eceed555dba67f01872/README.md",
+      "readmeSha256": "793ec60edbde3ece21acefe3e0bf5ce5b7376f8368c7d92dddf3665db93e7060",
+      "files": []
     }
   ]
 }

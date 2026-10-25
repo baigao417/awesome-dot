@@ -1182,3 +1182,17 @@
 - README: https://github.com/Ladbaby/TresorBot/blob/396a2c6e0d80512d89d1a217fd92087dfe3cee27/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Tests4gptplay/dsh-dots
+
+- Commit: `0f4e19788ecc6f4a51aa88b9d916dda7198567e7`
+- README: https://github.com/Tests4gptplay/dsh-dots/blob/0f4e19788ecc6f4a51aa88b9d916dda7198567e7/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## vingeraycn/dotg
+
+- Commit: `45d68f80060d4039ed887eceed555dba67f01872`
+- README: https://github.com/vingeraycn/dotg/blob/45d68f80060d4039ed887eceed555dba67f01872/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
