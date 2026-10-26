@@ -1203,3 +1203,17 @@
 - README: https://github.com/UyNewNas/qqbridge-dot-backend/blob/4b243472289b56c335a700e2e831f010e1b2a7ee/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## devhims/dot-phone-call
+
+- Commit: `75b798d6f82f2099190f776bd0664a118b66f40d`
+- README: https://github.com/devhims/dot-phone-call/blob/75b798d6f82f2099190f776bd0664a118b66f40d/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## 1235357/agent-continue
+
+- Commit: `17069c4b50bcd15dc6f82cd8530c0d13488d1eb1`
+- README: https://github.com/1235357/agent-continue/blob/17069c4b50bcd15dc6f82cd8530c0d13488d1eb1/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

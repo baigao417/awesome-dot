@@ -2653,6 +2653,34 @@
       "readmeUrl": "https://github.com/UyNewNas/qqbridge-dot-backend/blob/4b243472289b56c335a700e2e831f010e1b2a7ee/README.md",
       "readmeSha256": "8f519fde088cb656433e892597ce3d1636d6413834b6e4fa87907a9253cfc487",
       "files": []
+    },
+    {
+      "repository": "devhims/dot-phone-call",
+      "repositoryId": 1434038939,
+      "description": "Call and be called by your ChatGPT Dot from a real phone number, in Dot’s own voice. Runs locally on your Mac with Twilio and a Chrome extension.",
+      "url": "https://github.com/devhims/dot-phone-call",
+      "stars": 0,
+      "updatedAt": "2026-10-26T09:39:24Z",
+      "license": "MIT",
+      "commit": "75b798d6f82f2099190f776bd0664a118b66f40d",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/devhims/dot-phone-call/blob/75b798d6f82f2099190f776bd0664a118b66f40d/README.md",
+      "readmeSha256": "327a649a28aefe4605ae1fda1dd33c1ed09a8bc2159b3129bc145c45846a1f54",
+      "files": []
+    },
+    {
+      "repository": "1235357/agent-continue",
+      "repositoryId": 1430632634,
+      "description": "Privacy-first Chrome / Edge extension for continuous background prompts to ChatGPT and Your dot. Local document import, queues, pause controls, and no focus stealing.",
+      "url": "https://github.com/1235357/agent-continue",
+      "stars": 0,
+      "updatedAt": "2026-10-26T08:10:27Z",
+      "license": "MIT",
+      "commit": "17069c4b50bcd15dc6f82cd8530c0d13488d1eb1",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/1235357/agent-continue/blob/17069c4b50bcd15dc6f82cd8530c0d13488d1eb1/README.md",
+      "readmeSha256": "6f28e86fb6ebac9868b4ece49f295dd4b519dde06419e723c81723a4f899fca7",
+      "files": []
     }
   ]
 }

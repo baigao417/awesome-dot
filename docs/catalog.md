@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-26。共 193 条。
+更新日期：2026-10-26。共 195 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -197,3 +197,5 @@
 | dsh-dots | community_project | 为 DeepSeek Harness 提供 ChatGPT Dots 网页接入，支持 ChatGPT 账号登录、原生风格界面，以及自动适配明暗主题的状态栏图标。 | [来源](https://github.com/Tests4gptplay/dsh-dots) |
 | dotg | community_project | Talk to your existing ChatGPT Dot from Telegram. | [来源](https://github.com/vingeraycn/dotg) |
 | qqbridge-dot-backend | building_block | 本机运行的是桥接、工具和事件服务，负责思考和回复的是 ChatGPT Dot。工具调用通过官方 Secure MCP Tunnel 抵达本机，事件通过签名 HTTPS 回调抵达 ChatGPT；本地网关不调用模型 API。 | [来源](https://github.com/UyNewNas/qqbridge-dot-backend) |
+| dot-phone-call | community_project | Make and receive phone-number calls with your own ChatGPT Dot, using its native voice. | [来源](https://github.com/devhims/dot-phone-call) |
+| agent-continue | task_template | 自动归一化兼容 ChatGPT Dot 会话动态路由（兼容 /dots/home 与 /dots/c/ 双向跳转），地址变化不误判失效。 | [来源](https://github.com/1235357/agent-continue) |
