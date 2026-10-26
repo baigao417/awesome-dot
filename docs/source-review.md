@@ -1196,3 +1196,10 @@
 - README: https://github.com/vingeraycn/dotg/blob/45d68f80060d4039ed887eceed555dba67f01872/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## UyNewNas/qqbridge-dot-backend
+
+- Commit: `4b243472289b56c335a700e2e831f010e1b2a7ee`
+- README: https://github.com/UyNewNas/qqbridge-dot-backend/blob/4b243472289b56c335a700e2e831f010e1b2a7ee/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
