@@ -1217,3 +1217,10 @@
 - README: https://github.com/1235357/agent-continue/blob/17069c4b50bcd15dc6f82cd8530c0d13488d1eb1/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## raitoxlol/everett
+
+- Commit: `af7464be18d6f28840e895e123ce4eb3bd6a1e5a`
+- README: https://github.com/raitoxlol/everett/blob/af7464be18d6f28840e895e123ce4eb3bd6a1e5a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

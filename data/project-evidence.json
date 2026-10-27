@@ -2681,6 +2681,20 @@
       "readmeUrl": "https://github.com/1235357/agent-continue/blob/17069c4b50bcd15dc6f82cd8530c0d13488d1eb1/README.md",
       "readmeSha256": "6f28e86fb6ebac9868b4ece49f295dd4b519dde06419e723c81723a4f899fca7",
       "files": []
+    },
+    {
+      "repository": "raitoxlol/everett",
+      "repositoryId": 1387405103,
+      "description": "One layer above all your AI coding agents: see every session, route work, agents message agents, shared memory, MCP.",
+      "url": "https://github.com/raitoxlol/everett",
+      "stars": 2,
+      "updatedAt": "2026-10-26T23:23:52Z",
+      "license": "MIT",
+      "commit": "af7464be18d6f28840e895e123ce4eb3bd6a1e5a",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/raitoxlol/everett/blob/af7464be18d6f28840e895e123ce4eb3bd6a1e5a/README.md",
+      "readmeSha256": "9e2de148c555634e1d90204446eb9aff4e2dae576252d850fbae996d04f3ea9a",
+      "files": []
     }
   ]
 }
