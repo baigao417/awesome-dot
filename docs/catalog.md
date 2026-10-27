@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-27。共 196 条。
+更新日期：2026-10-27。共 197 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -200,3 +200,4 @@
 | dot-phone-call | community_project | Make and receive phone-number calls with your own ChatGPT Dot, using its native voice. | [来源](https://github.com/devhims/dot-phone-call) |
 | agent-continue | task_template | 自动归一化兼容 ChatGPT Dot 会话动态路由（兼容 /dots/home 与 /dots/c/ 双向跳转），地址变化不误判失效。 | [来源](https://github.com/1235357/agent-continue) |
 | everett | building_block | OpenAI dots and Grok Bot connect through registered external MCP inboxes. | [来源](https://github.com/raitoxlol/everett) |
+| Dotdeck | community_project | eck is a vendor-neutral, cross-cloud command switchboard engineered to orchestrate autonomous, closed cloud AI agents ( OpenAI Dots , xAI Grok Bots , Meta Muse , and Claude Cloud Agents ) within a unified visual canvas, holding approval ch… | [来源](https://github.com/Souheil007/Dotdeck) |

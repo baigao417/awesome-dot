@@ -2695,6 +2695,20 @@
       "readmeUrl": "https://github.com/raitoxlol/everett/blob/af7464be18d6f28840e895e123ce4eb3bd6a1e5a/README.md",
       "readmeSha256": "9e2de148c555634e1d90204446eb9aff4e2dae576252d850fbae996d04f3ea9a",
       "files": []
+    },
+    {
+      "repository": "Souheil007/Dotdeck",
+      "repositoryId": 1434219395,
+      "description": "Mission control & multiplayer visual canvas for 24/7 cloud AI agents (OpenAI Dots, Grok Bots, Meta Muse, Claude). Wire, watch live thoughts, and steer your autonomous AI workforce.",
+      "url": "https://github.com/Souheil007/Dotdeck",
+      "stars": 0,
+      "updatedAt": "2026-10-27T11:29:39Z",
+      "license": "NOASSERTION",
+      "commit": "511c9d3139585e0f612dec7a3933e6b7e84eb591",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Souheil007/Dotdeck/blob/511c9d3139585e0f612dec7a3933e6b7e84eb591/README.md",
+      "readmeSha256": "feb8cdc7bfe09f1ec3aa184e7bda31982ab826133c6f12cd3abe6ad48b2b449c",
+      "files": []
     }
   ]
 }

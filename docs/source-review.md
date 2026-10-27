@@ -1224,3 +1224,10 @@
 - README: https://github.com/raitoxlol/everett/blob/af7464be18d6f28840e895e123ce4eb3bd6a1e5a/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Souheil007/Dotdeck
+
+- Commit: `511c9d3139585e0f612dec7a3933e6b7e84eb591`
+- README: https://github.com/Souheil007/Dotdeck/blob/511c9d3139585e0f612dec7a3933e6b7e84eb591/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
