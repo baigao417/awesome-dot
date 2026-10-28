@@ -2709,6 +2709,48 @@
       "readmeUrl": "https://github.com/Souheil007/Dotdeck/blob/511c9d3139585e0f612dec7a3933e6b7e84eb591/README.md",
       "readmeSha256": "feb8cdc7bfe09f1ec3aa184e7bda31982ab826133c6f12cd3abe6ad48b2b449c",
       "files": []
+    },
+    {
+      "repository": "legrch/kanban",
+      "repositoryId": 1435899860,
+      "description": null,
+      "url": "https://github.com/legrch/kanban",
+      "stars": 0,
+      "updatedAt": "2026-10-27T21:49:39Z",
+      "license": "MIT",
+      "commit": "6a92b9a926f782feceaba9dc4d42c01c7255e2f0",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/legrch/kanban/blob/6a92b9a926f782feceaba9dc4d42c01c7255e2f0/README.md",
+      "readmeSha256": "80a23564a97c6e1f02ad293c1bb549f6456fb415705a95773187d7a3f3aa46d8",
+      "files": []
+    },
+    {
+      "repository": "zhound420/proactive-agent-methodology",
+      "repositoryId": 1436171273,
+      "description": "Agent-adaptable methodology + reference implementation for dots-style proactive behavior: read-only research, journaling, proposals, approval gates.",
+      "url": "https://github.com/zhound420/proactive-agent-methodology",
+      "stars": 0,
+      "updatedAt": "2026-10-27T21:39:54Z",
+      "license": "MIT",
+      "commit": "b53977a3e106aee691fd639d5c14ed8aa898e424",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zhound420/proactive-agent-methodology/blob/b53977a3e106aee691fd639d5c14ed8aa898e424/README.md",
+      "readmeSha256": "5a0e08c338817b85100d2493713f5e5989f64e2324d56223153d508fc01a302f",
+      "files": []
+    },
+    {
+      "repository": "zhangjian94cn/magpie-cloud-agents-macos",
+      "repositoryId": 1436501456,
+      "description": "Magpie cloud-agent providers with macOS Grok Bot app-drive support",
+      "url": "https://github.com/zhangjian94cn/magpie-cloud-agents-macos",
+      "stars": 0,
+      "updatedAt": "2026-10-28T05:12:20Z",
+      "license": "MIT",
+      "commit": "fe17db7ebee5b28617d41d89a67601bc8f96498b",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zhangjian94cn/magpie-cloud-agents-macos/blob/fe17db7ebee5b28617d41d89a67601bc8f96498b/README.md",
+      "readmeSha256": "93602e318e4b31706137752e29eb1e858af98d7f514880325c0d2f485b359e16",
+      "files": []
     }
   ]
 }

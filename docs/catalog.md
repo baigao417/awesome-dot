@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-27。共 197 条。
+更新日期：2026-10-28。共 200 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -201,3 +201,6 @@
 | agent-continue | task_template | 自动归一化兼容 ChatGPT Dot 会话动态路由（兼容 /dots/home 与 /dots/c/ 双向跳转），地址变化不误判失效。 | [来源](https://github.com/1235357/agent-continue) |
 | everett | building_block | OpenAI dots and Grok Bot connect through registered external MCP inboxes. | [来源](https://github.com/raitoxlol/everett) |
 | Dotdeck | community_project | eck is a vendor-neutral, cross-cloud command switchboard engineered to orchestrate autonomous, closed cloud AI agents ( OpenAI Dots , xAI Grok Bots , Meta Muse , and Claude Cloud Agents ) within a unified visual canvas, holding approval ch… | [来源](https://github.com/Souheil007/Dotdeck) |
+| kanban | community_project | Set up your own private Kanban for your OpenAI dot in ChatGPT, or run it locally on your computer. | [来源](https://github.com/legrch/kanban) |
+| proactive-agent-methodology | community_project | A complete, agent-consumable specification for giving any AI agent OpenAI dots-style proactive behavior — always-looking-for-ways-to-help, without ever acting without approval. | [来源](https://github.com/zhound420/proactive-agent-methodology) |
+| magpie-cloud-agents-macos | community_project | ces as OpenAI-compatible chat providers: OpenAI Codex Cloud and the Codex Agents API, Cursor Cloud Agents, Devin Cloud, ChatGPT Dots, and the Grok Bot desktop app. | [来源](https://github.com/zhangjian94cn/magpie-cloud-agents-macos) |

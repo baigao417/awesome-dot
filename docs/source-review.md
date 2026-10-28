@@ -1231,3 +1231,24 @@
 - README: https://github.com/Souheil007/Dotdeck/blob/511c9d3139585e0f612dec7a3933e6b7e84eb591/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## legrch/kanban
+
+- Commit: `6a92b9a926f782feceaba9dc4d42c01c7255e2f0`
+- README: https://github.com/legrch/kanban/blob/6a92b9a926f782feceaba9dc4d42c01c7255e2f0/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## zhound420/proactive-agent-methodology
+
+- Commit: `b53977a3e106aee691fd639d5c14ed8aa898e424`
+- README: https://github.com/zhound420/proactive-agent-methodology/blob/b53977a3e106aee691fd639d5c14ed8aa898e424/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## zhangjian94cn/magpie-cloud-agents-macos
+
+- Commit: `fe17db7ebee5b28617d41d89a67601bc8f96498b`
+- README: https://github.com/zhangjian94cn/magpie-cloud-agents-macos/blob/fe17db7ebee5b28617d41d89a67601bc8f96498b/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
