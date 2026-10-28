@@ -2751,6 +2751,48 @@
       "readmeUrl": "https://github.com/zhangjian94cn/magpie-cloud-agents-macos/blob/fe17db7ebee5b28617d41d89a67601bc8f96498b/README.md",
       "readmeSha256": "93602e318e4b31706137752e29eb1e858af98d7f514880325c0d2f485b359e16",
       "files": []
+    },
+    {
+      "repository": "Phoobobo/grokbot-bridge-herdr",
+      "repositoryId": 1436329007,
+      "description": "Herdr plugin + gbb CLI: let Grok Bot drive, watch and take over agent panes",
+      "url": "https://github.com/Phoobobo/grokbot-bridge-herdr",
+      "stars": 0,
+      "updatedAt": "2026-10-28T12:00:13Z",
+      "license": "MIT",
+      "commit": "10ba287bc29f61d732f670f008fc3efa8fd87946",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Phoobobo/grokbot-bridge-herdr/blob/10ba287bc29f61d732f670f008fc3efa8fd87946/README.md",
+      "readmeSha256": "69dfe361b051444b6fcc4a385b45d240cb1bbffe2ac17c9a45a9bcd38ff6fb99",
+      "files": []
+    },
+    {
+      "repository": "kush-coder/autopilot-open-duet",
+      "repositoryId": 1437004806,
+      "description": "Official Build & Verified Release | Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent.",
+      "url": "https://github.com/kush-coder/autopilot-open-duet",
+      "stars": 0,
+      "updatedAt": "2026-10-28T11:42:22Z",
+      "license": "Apache-2.0",
+      "commit": "61810849583abb49643411d638a775c4fbe03873",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/kush-coder/autopilot-open-duet/blob/61810849583abb49643411d638a775c4fbe03873/README.md",
+      "readmeSha256": "e330f1715beb20cf8e2854c64d6e0b60610642d1e81112c02227cfde9ebca203",
+      "files": []
+    },
+    {
+      "repository": "Phoobobo/dots-tunnel-bridge",
+      "repositoryId": 1437013790,
+      "description": "ChatGPT Dot <-> local agents via OpenAI Secure MCP Tunnel (fork of uezo/dots-bridge with loopback no-auth mode + dotctl)",
+      "url": "https://github.com/Phoobobo/dots-tunnel-bridge",
+      "stars": 0,
+      "updatedAt": "2026-10-28T11:58:10Z",
+      "license": "MIT",
+      "commit": "250450cfde9ae1da1677bcc753b363e657dc71d3",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Phoobobo/dots-tunnel-bridge/blob/250450cfde9ae1da1677bcc753b363e657dc71d3/README.md",
+      "readmeSha256": "ac82ed16dc190f117780a507c79142fcd6b4200db1497761d8650dc65981ac21",
+      "files": []
     }
   ]
 }

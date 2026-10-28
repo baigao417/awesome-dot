@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-28。共 200 条。
+更新日期：2026-10-28。共 203 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -204,3 +204,6 @@
 | kanban | community_project | Set up your own private Kanban for your OpenAI dot in ChatGPT, or run it locally on your computer. | [来源](https://github.com/legrch/kanban) |
 | proactive-agent-methodology | community_project | A complete, agent-consumable specification for giving any AI agent OpenAI dots-style proactive behavior — always-looking-for-ways-to-help, without ever acting without approval. | [来源](https://github.com/zhound420/proactive-agent-methodology) |
 | magpie-cloud-agents-macos | community_project | ces as OpenAI-compatible chat providers: OpenAI Codex Cloud and the Codex Agents API, Cursor Cloud Agents, Devin Cloud, ChatGPT Dots, and the Grok Bot desktop app. | [来源](https://github.com/zhangjian94cn/magpie-cloud-agents-macos) |
+| grokbot-bridge-herdr | building_block | el-bridge (a fork of uezo/dots-bridge, exposed to ChatGPT through OpenAI Secure MCP Tunnel) wraps gbb as MCP tools so a ChatGPT dot can drive local coding agents too. | [来源](https://github.com/Phoobobo/grokbot-bridge-herdr) |
+| autopilot-open-duet | alternative | Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent. | [来源](https://github.com/kush-coder/autopilot-open-duet) |
+| dots-tunnel-bridge | building_block | 让本机程序 / agent 与 ChatGPT Dot 双向通信：本机不开任何入站端口，经 OpenAI Secure MCP Tunnel 出站连接。 | [来源](https://github.com/Phoobobo/dots-tunnel-bridge) |

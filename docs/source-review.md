@@ -1252,3 +1252,24 @@
 - README: https://github.com/zhangjian94cn/magpie-cloud-agents-macos/blob/fe17db7ebee5b28617d41d89a67601bc8f96498b/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Phoobobo/grokbot-bridge-herdr
+
+- Commit: `10ba287bc29f61d732f670f008fc3efa8fd87946`
+- README: https://github.com/Phoobobo/grokbot-bridge-herdr/blob/10ba287bc29f61d732f670f008fc3efa8fd87946/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## kush-coder/autopilot-open-duet
+
+- Commit: `61810849583abb49643411d638a775c4fbe03873`
+- README: https://github.com/kush-coder/autopilot-open-duet/blob/61810849583abb49643411d638a775c4fbe03873/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Phoobobo/dots-tunnel-bridge
+
+- Commit: `250450cfde9ae1da1677bcc753b363e657dc71d3`
+- README: https://github.com/Phoobobo/dots-tunnel-bridge/blob/250450cfde9ae1da1677bcc753b363e657dc71d3/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
