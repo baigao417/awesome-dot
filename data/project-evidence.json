@@ -2793,6 +2793,48 @@
       "readmeUrl": "https://github.com/Phoobobo/dots-tunnel-bridge/blob/250450cfde9ae1da1677bcc753b363e657dc71d3/README.md",
       "readmeSha256": "ac82ed16dc190f117780a507c79142fcd6b4200db1497761d8650dc65981ac21",
       "files": []
+    },
+    {
+      "repository": "tertiarycourses/TGS-2024043854-Build-a-Human-AI-Workforce-with-Autonomous-AI-Agents",
+      "repositoryId": 1292187748,
+      "description": "WSQ TGS-2024043854 · 2-day course: always-on AI assistants, Hermes Desktop office automation and Hermes Kanban agent teams, with eight hands-on activities and human oversight.",
+      "url": "https://github.com/tertiarycourses/TGS-2024043854-Build-a-Human-AI-Workforce-with-Autonomous-AI-Agents",
+      "stars": 1,
+      "updatedAt": "2026-10-29T17:45:20Z",
+      "license": "NOASSERTION",
+      "commit": "6eaab1f68966e480edb63fcab6bd9864cbb39194",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/tertiarycourses/TGS-2024043854-Build-a-Human-AI-Workforce-with-Autonomous-AI-Agents/blob/6eaab1f68966e480edb63fcab6bd9864cbb39194/README.md",
+      "readmeSha256": "f87af35118683a2d75108a133f7c29bcca46486de396ea4ee0d308cf8e4b5321",
+      "files": []
+    },
+    {
+      "repository": "hyeshik/dot-mini",
+      "repositoryId": 1438558675,
+      "description": "Unofficial OpenAI Dots Interface in macOS Menu Bar",
+      "url": "https://github.com/hyeshik/dot-mini",
+      "stars": 0,
+      "updatedAt": "2026-10-29T17:05:37Z",
+      "license": "NOASSERTION",
+      "commit": "6daa3899965b1886fa710bbf18f0c58cec9a9a27",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/hyeshik/dot-mini/blob/6daa3899965b1886fa710bbf18f0c58cec9a9a27/README.md",
+      "readmeSha256": "ace51016b21bf21b3c5eefb0413e400d9535895f4d8cae10797584409a991821",
+      "files": []
+    },
+    {
+      "repository": "openaidot/openaidot",
+      "repositoryId": 1437989879,
+      "description": null,
+      "url": "https://github.com/openaidot/openaidot",
+      "stars": 0,
+      "updatedAt": "2026-10-29T05:31:42Z",
+      "license": "MIT",
+      "commit": "c17ec8a513bdbc151cd8d10ae072815d1eb5e694",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/openaidot/openaidot/blob/c17ec8a513bdbc151cd8d10ae072815d1eb5e694/README.md",
+      "readmeSha256": "42ed8b36a92d02ad0c628dce20e82fd79815c833f074c2c903ccabd2793fd6c4",
+      "files": []
     }
   ]
 }

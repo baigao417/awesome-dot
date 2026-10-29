@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-28。共 203 条。
+更新日期：2026-10-29。共 206 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -207,3 +207,6 @@
 | grokbot-bridge-herdr | building_block | el-bridge (a fork of uezo/dots-bridge, exposed to ChatGPT through OpenAI Secure MCP Tunnel) wraps gbb as MCP tools so a ChatGPT dot can drive local coding agents too. | [来源](https://github.com/Phoobobo/grokbot-bridge-herdr) |
 | autopilot-open-duet | alternative | Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent. | [来源](https://github.com/kush-coder/autopilot-open-duet) |
 | dots-tunnel-bridge | building_block | 让本机程序 / agent 与 ChatGPT Dot 双向通信：本机不开任何入站端口，经 OpenAI Secure MCP Tunnel 出站连接。 | [来源](https://github.com/Phoobobo/dots-tunnel-bridge) |
+| TGS-2024043854-Build-a-Human-AI-Workforce-with-Autonomous-AI-Agents | tutorial | Then you get a one-slide briefing on each always-on "Big Five" agent (Meta Muse, OpenAI Dots, Grok Bot, Claude Duet and Manus Cue), each with an embedded setup video, and set up one accessible assistant against a training Gmail and Calenda… | [来源](https://github.com/tertiarycourses/TGS-2024043854-Build-a-Human-AI-Workforce-with-Autonomous-AI-Agents) |
+| dot-mini | community_project | A small, unofficial macOS menu bar app for your ChatGPT dot. | [来源](https://github.com/hyeshik/dot-mini) |
+| openaidot | community_project | 本仓库是 ChatGPT Dot（dotbot / dwgx的宝宝） 运维的接手文档，不是产品代码。 | [来源](https://github.com/openaidot/openaidot) |
