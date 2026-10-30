@@ -1294,3 +1294,24 @@
 - README: https://github.com/openaidot/openaidot/blob/c17ec8a513bdbc151cd8d10ae072815d1eb5e694/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ArTechIslandapps/kurokit-mcp-zh-cn
+
+- Commit: `98b6e3ac4e8e0653049e15d3799227cb4f6966c2`
+- README: https://github.com/ArTechIslandapps/kurokit-mcp-zh-cn/blob/98b6e3ac4e8e0653049e15d3799227cb4f6966c2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ArTechIslandapps/kurokit-mcp-zh-tw
+
+- Commit: `8d24319334a405552999283acf0aa28271999a7a`
+- README: https://github.com/ArTechIslandapps/kurokit-mcp-zh-tw/blob/8d24319334a405552999283acf0aa28271999a7a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## kenhuangus/owasp-top-10-for-personal-ai-agents
+
+- Commit: `5ecf6c61b842d39d18895008dcb2de8529236601`
+- README: https://github.com/kenhuangus/owasp-top-10-for-personal-ai-agents/blob/5ecf6c61b842d39d18895008dcb2de8529236601/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

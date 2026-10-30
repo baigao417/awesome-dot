@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-29。共 206 条。
+更新日期：2026-10-30。共 209 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -210,3 +210,6 @@
 | TGS-2024043854-Build-a-Human-AI-Workforce-with-Autonomous-AI-Agents | tutorial | Then you get a one-slide briefing on each always-on "Big Five" agent (Meta Muse, OpenAI Dots, Grok Bot, Claude Duet and Manus Cue), each with an embedded setup video, and set up one accessible assistant against a training Gmail and Calenda… | [来源](https://github.com/tertiarycourses/TGS-2024043854-Build-a-Human-AI-Workforce-with-Autonomous-AI-Agents) |
 | dot-mini | community_project | A small, unofficial macOS menu bar app for your ChatGPT dot. | [来源](https://github.com/hyeshik/dot-mini) |
 | openaidot | community_project | 本仓库是 ChatGPT Dot（dotbot / dwgx的宝宝） 运维的接手文档，不是产品代码。 | [来源](https://github.com/openaidot/openaidot) |
+| kurokit-mcp-zh-cn | building_block | Meta Muse 和 OpenAI dots 使用各自的连接器或插件目录，目前尚未收录 KuroKit。在向用户承诺这些应用的配置方式之前，请先查看客户端支持矩阵。 | [来源](https://github.com/ArTechIslandapps/kurokit-mcp-zh-cn) |
+| kurokit-mcp-zh-tw | building_block | Meta Muse 與 OpenAI dots 使用各自的連接器或外掛目錄，KuroKit 目前尚未上架。在向使用者承諾這些應用程式的安裝方式之前，請先查看用戶端支援矩陣。 | [来源](https://github.com/ArTechIslandapps/kurokit-mcp-zh-tw) |
+| owasp-top-10-for-personal-ai-agents | community_project | Reference mitigation: paa10-guard (policy guard, MCP proxy, hooks, skill, and packs for Meta Muse, Grok Bot, OpenAI Dots and Claude Duet) | [来源](https://github.com/kenhuangus/owasp-top-10-for-personal-ai-agents) |

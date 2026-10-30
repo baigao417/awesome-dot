@@ -2835,6 +2835,48 @@
       "readmeUrl": "https://github.com/openaidot/openaidot/blob/c17ec8a513bdbc151cd8d10ae072815d1eb5e694/README.md",
       "readmeSha256": "42ed8b36a92d02ad0c628dce20e82fd79815c833f074c2c903ccabd2793fd6c4",
       "files": []
+    },
+    {
+      "repository": "ArTechIslandapps/kurokit-mcp-zh-cn",
+      "repositoryId": 1437949196,
+      "description": "KuroKit 是一个 AI Agent 原生的网页变更监控平台 (MCP Native)。自动追踪网页更新、竞品降价与政府招标，过滤杂讯并推播至 Email、Telegram、Webhook 或直接串接 Claude / ChatGPT Dots/ Cursor / Grok Bot / Meta Muse！",
+      "url": "https://github.com/ArTechIslandapps/kurokit-mcp-zh-cn",
+      "stars": 0,
+      "updatedAt": "2026-10-29T17:43:09Z",
+      "license": "CC-BY-4.0",
+      "commit": "98b6e3ac4e8e0653049e15d3799227cb4f6966c2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ArTechIslandapps/kurokit-mcp-zh-cn/blob/98b6e3ac4e8e0653049e15d3799227cb4f6966c2/README.md",
+      "readmeSha256": "970094a20f75e20cbea0a002f7c98069cc89199e979912af9e13fdbbb7e4a2c8",
+      "files": []
+    },
+    {
+      "repository": "ArTechIslandapps/kurokit-mcp-zh-tw",
+      "repositoryId": 1437946262,
+      "description": "KuroKit 是一個 AI Agent 原生的網頁變更監控平台 (MCP Native)。自動追蹤網頁更新、競品降價與政府招標，過濾雜訊並推播至 Email、Telegram、Webhook 或直接串接 Claude / ChatGPT Dots/ Cursor / Grok Bot / Meta Muse！",
+      "url": "https://github.com/ArTechIslandapps/kurokit-mcp-zh-tw",
+      "stars": 0,
+      "updatedAt": "2026-10-29T17:40:36Z",
+      "license": "CC-BY-4.0",
+      "commit": "8d24319334a405552999283acf0aa28271999a7a",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ArTechIslandapps/kurokit-mcp-zh-tw/blob/8d24319334a405552999283acf0aa28271999a7a/README.md",
+      "readmeSha256": "ac2f642bcda94cf35f4485a9e81e85cd2c1b473b1fd77105f107fa96434c5273",
+      "files": []
+    },
+    {
+      "repository": "kenhuangus/owasp-top-10-for-personal-ai-agents",
+      "repositoryId": 1439143850,
+      "description": "Draft OWASP Top 10 for Personal AI Agents (PAA10). Reference mitigation: github.com/kenhuangus/paa10-guard",
+      "url": "https://github.com/kenhuangus/owasp-top-10-for-personal-ai-agents",
+      "stars": 0,
+      "updatedAt": "2026-10-30T04:42:45Z",
+      "license": "Apache-2.0",
+      "commit": "5ecf6c61b842d39d18895008dcb2de8529236601",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/kenhuangus/owasp-top-10-for-personal-ai-agents/blob/5ecf6c61b842d39d18895008dcb2de8529236601/README.md",
+      "readmeSha256": "223915d8590e22610c60bf8de5d6766ba26b687cc632621e74d0a91004244df0",
+      "files": []
     }
   ]
 }
