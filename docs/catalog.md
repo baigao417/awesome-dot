@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-30。共 209 条。
+更新日期：2026-10-30。共 212 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -213,3 +213,6 @@
 | kurokit-mcp-zh-cn | building_block | Meta Muse 和 OpenAI dots 使用各自的连接器或插件目录，目前尚未收录 KuroKit。在向用户承诺这些应用的配置方式之前，请先查看客户端支持矩阵。 | [来源](https://github.com/ArTechIslandapps/kurokit-mcp-zh-cn) |
 | kurokit-mcp-zh-tw | building_block | Meta Muse 與 OpenAI dots 使用各自的連接器或外掛目錄，KuroKit 目前尚未上架。在向使用者承諾這些應用程式的安裝方式之前，請先查看用戶端支援矩陣。 | [来源](https://github.com/ArTechIslandapps/kurokit-mcp-zh-tw) |
 | owasp-top-10-for-personal-ai-agents | community_project | Reference mitigation: paa10-guard (policy guard, MCP proxy, hooks, skill, and packs for Meta Muse, Grok Bot, OpenAI Dots and Claude Duet) | [来源](https://github.com/kenhuangus/owasp-top-10-for-personal-ai-agents) |
+| weixin-agent-bridge | building_block | Chat with your ChatGPT dot from Weixin (WeChat) ClawBot, using a self-hosted Cloudflare bridge. | [来源](https://github.com/devinqiu888/weixin-agent-bridge) |
+| 5dive | alternative | An open-source alternative to Grok Bot and OpenAI Dots, on any model you bring. | [来源](https://github.com/5dive-ai/5dive) |
+| dots-tsapt | community_project | Install apt packages on a ChatGPT Dots cloud computer without root. | [来源](https://github.com/e-kotov/dots-tsapt) |

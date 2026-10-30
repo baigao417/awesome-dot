@@ -1315,3 +1315,24 @@
 - README: https://github.com/kenhuangus/owasp-top-10-for-personal-ai-agents/blob/5ecf6c61b842d39d18895008dcb2de8529236601/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## devinqiu888/weixin-agent-bridge
+
+- Commit: `99b24f4733f9a345b03122d2ca0ed8ccbbe2cbf2`
+- README: https://github.com/devinqiu888/weixin-agent-bridge/blob/99b24f4733f9a345b03122d2ca0ed8ccbbe2cbf2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## 5dive-ai/5dive
+
+- Commit: `86dedfa37e18fc9f686f44559a1944f479a9e49f`
+- README: https://github.com/5dive-ai/5dive/blob/86dedfa37e18fc9f686f44559a1944f479a9e49f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## e-kotov/dots-tsapt
+
+- Commit: `ec11e9dbe9c8235229602ab366e3980efda6b881`
+- README: https://github.com/e-kotov/dots-tsapt/blob/ec11e9dbe9c8235229602ab366e3980efda6b881/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

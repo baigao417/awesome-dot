@@ -2877,6 +2877,48 @@
       "readmeUrl": "https://github.com/kenhuangus/owasp-top-10-for-personal-ai-agents/blob/5ecf6c61b842d39d18895008dcb2de8529236601/README.md",
       "readmeSha256": "223915d8590e22610c60bf8de5d6766ba26b687cc632621e74d0a91004244df0",
       "files": []
+    },
+    {
+      "repository": "devinqiu888/weixin-agent-bridge",
+      "repositoryId": 1439387848,
+      "description": "Self-hosted Weixin ClawBot bridge for ChatGPT dots, powered by Cloudflare Workers, Durable Objects, OAuth and MCP Events.",
+      "url": "https://github.com/devinqiu888/weixin-agent-bridge",
+      "stars": 1,
+      "updatedAt": "2026-10-30T07:07:40Z",
+      "license": "MIT",
+      "commit": "99b24f4733f9a345b03122d2ca0ed8ccbbe2cbf2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/devinqiu888/weixin-agent-bridge/blob/99b24f4733f9a345b03122d2ca0ed8ccbbe2cbf2/README.md",
+      "readmeSha256": "8c099f4bfad96ea4418acf509ef2f3e65414ffd05027cd5799b405ea911ad825",
+      "files": []
+    },
+    {
+      "repository": "5dive-ai/5dive",
+      "repositoryId": 1239570688,
+      "description": "Run your own AI team from your phone. Claude Code, Codex and more on your own server: shared tasks, always-on agents, a small composable bash core. MIT. An open-source alternative to Grok Bot and OpenAI Dots.",
+      "url": "https://github.com/5dive-ai/5dive",
+      "stars": 80,
+      "updatedAt": "2026-10-30T18:04:31Z",
+      "license": "MIT",
+      "commit": "86dedfa37e18fc9f686f44559a1944f479a9e49f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/5dive-ai/5dive/blob/86dedfa37e18fc9f686f44559a1944f479a9e49f/README.md",
+      "readmeSha256": "b32ce1c4cb232cb07188c915619a9c9df0efe8780c6e22a6714ab6ffece3c3d9",
+      "files": []
+    },
+    {
+      "repository": "e-kotov/dots-tsapt",
+      "repositoryId": 1440013307,
+      "description": "Install apt packages on a ChatGPT Dots computer without root, through the platform proxy",
+      "url": "https://github.com/e-kotov/dots-tsapt",
+      "stars": 0,
+      "updatedAt": "2026-10-30T17:34:32Z",
+      "license": "MIT",
+      "commit": "ec11e9dbe9c8235229602ab366e3980efda6b881",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/e-kotov/dots-tsapt/blob/ec11e9dbe9c8235229602ab366e3980efda6b881/README.md",
+      "readmeSha256": "db898c93b1061ec27773086c24d822319889a9a8a769393f702ff9e94d6a2d7f",
+      "files": []
     }
   ]
 }
