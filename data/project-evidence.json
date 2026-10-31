@@ -2919,6 +2919,20 @@
       "readmeUrl": "https://github.com/e-kotov/dots-tsapt/blob/ec11e9dbe9c8235229602ab366e3980efda6b881/README.md",
       "readmeSha256": "db898c93b1061ec27773086c24d822319889a9a8a769393f702ff9e94d6a2d7f",
       "files": []
+    },
+    {
+      "repository": "taazkareem/clickup-mcp-server",
+      "repositoryId": 1122513274,
+      "description": "ClickUp MCP Server - Integrate ClickUp project management with AI through Model Context Protocol",
+      "url": "https://github.com/taazkareem/clickup-mcp-server",
+      "stars": 53,
+      "updatedAt": "2026-10-31T03:29:54Z",
+      "license": "NOASSERTION",
+      "commit": "9375eb823137cdb6089ee6cae57255d0fc4a3433",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/taazkareem/clickup-mcp-server/blob/9375eb823137cdb6089ee6cae57255d0fc4a3433/README.md",
+      "readmeSha256": "3c44d87f72360c64a1cf68a8e8641644b52567b8ce1f8f6b192882a7ad0f985b",
+      "files": []
     }
   ]
 }

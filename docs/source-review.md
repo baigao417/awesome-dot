@@ -1336,3 +1336,10 @@
 - README: https://github.com/e-kotov/dots-tsapt/blob/ec11e9dbe9c8235229602ab366e3980efda6b881/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## taazkareem/clickup-mcp-server
+
+- Commit: `9375eb823137cdb6089ee6cae57255d0fc4a3433`
+- README: https://github.com/taazkareem/clickup-mcp-server/blob/9375eb823137cdb6089ee6cae57255d0fc4a3433/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
