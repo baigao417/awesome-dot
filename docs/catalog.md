@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-10-31。共 213 条。
+更新日期：2026-11-01。共 214 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -217,3 +217,4 @@
 | 5dive | alternative | An open-source alternative to Grok Bot and OpenAI Dots, on any model you bring. | [来源](https://github.com/5dive-ai/5dive) |
 | dots-tsapt | community_project | Install apt packages on a ChatGPT Dots cloud computer without root. | [来源](https://github.com/e-kotov/dots-tsapt) |
 | clickup-mcp-server | building_block | Note: This section covers OpenAI's native ChatGPT Dots agent feature (not the unrelated GetDot analytics product). | [来源](https://github.com/taazkareem/clickup-mcp-server) |
+| AnyModelBot | alternative | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feish… | [来源](https://github.com/modelflare-ai/AnyModelBot) |

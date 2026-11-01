@@ -2933,6 +2933,20 @@
       "readmeUrl": "https://github.com/taazkareem/clickup-mcp-server/blob/9375eb823137cdb6089ee6cae57255d0fc4a3433/README.md",
       "readmeSha256": "3c44d87f72360c64a1cf68a8e8641644b52567b8ce1f8f6b192882a7ad0f985b",
       "files": []
+    },
+    {
+      "repository": "modelflare-ai/AnyModelBot",
+      "repositoryId": 1435475558,
+      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "stars": 1,
+      "updatedAt": "2026-11-01T05:43:06Z",
+      "license": "MIT",
+      "commit": "f2bb24eea68f2381b586e6c8fc139aa438ff585f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/modelflare-ai/AnyModelBot/blob/f2bb24eea68f2381b586e6c8fc139aa438ff585f/README.md",
+      "readmeSha256": "c399031e6d67f80becf753651fda6051f09973c6ad509279b3e3711471b428a8",
+      "files": []
     }
   ]
 }

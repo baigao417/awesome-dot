@@ -1343,3 +1343,10 @@
 - README: https://github.com/taazkareem/clickup-mcp-server/blob/9375eb823137cdb6089ee6cae57255d0fc4a3433/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## modelflare-ai/AnyModelBot
+
+- Commit: `f2bb24eea68f2381b586e6c8fc139aa438ff585f`
+- README: https://github.com/modelflare-ai/AnyModelBot/blob/f2bb24eea68f2381b586e6c8fc139aa438ff585f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
