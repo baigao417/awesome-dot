@@ -1066,6 +1066,12 @@
       "file": "modelflare-ai.jpg",
       "source": "https://avatars.githubusercontent.com/u/267078600?s=96",
       "sha256": "fa84cb0d4b579086494d2709b444282cf9b718ababb33f9623056d4c962c611d"
+    },
+    {
+      "owner": "LearnPrompt",
+      "file": "learnprompt.jpg",
+      "source": "https://avatars.githubusercontent.com/u/131418633?s=96",
+      "sha256": "783c03bec23bae65d00b51120e30200ece6739692b8bfcbe27cf1f4477b76561"
     }
   ]
 }

@@ -2947,6 +2947,20 @@
       "readmeUrl": "https://github.com/modelflare-ai/AnyModelBot/blob/f2bb24eea68f2381b586e6c8fc139aa438ff585f/README.md",
       "readmeSha256": "c399031e6d67f80becf753651fda6051f09973c6ad509279b3e3711471b428a8",
       "files": []
+    },
+    {
+      "repository": "LearnPrompt/seedacne-dots",
+      "repositoryId": 1441051917,
+      "description": "把自己的 Seedacne Managed Agent 接入 OpenAI Dots：三步上手、独立授权清单、私有 MCP 模板与真实视频案例。",
+      "url": "https://github.com/LearnPrompt/seedacne-dots",
+      "stars": 0,
+      "updatedAt": "2026-11-01T15:22:10Z",
+      "license": "NOASSERTION",
+      "commit": "eef13c436da984e0076a76bb0541b67726905a6f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/LearnPrompt/seedacne-dots/blob/eef13c436da984e0076a76bb0541b67726905a6f/README.md",
+      "readmeSha256": "fa9ac5b2b7c641b3d9d62241b75cd99c27be2bd5b5aeb19b126cb51dd088a49a",
+      "files": []
     }
   ]
 }

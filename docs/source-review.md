@@ -1350,3 +1350,10 @@
 - README: https://github.com/modelflare-ai/AnyModelBot/blob/f2bb24eea68f2381b586e6c8fc139aa438ff585f/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## LearnPrompt/seedacne-dots
+
+- Commit: `eef13c436da984e0076a76bb0541b67726905a6f`
+- README: https://github.com/LearnPrompt/seedacne-dots/blob/eef13c436da984e0076a76bb0541b67726905a6f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
