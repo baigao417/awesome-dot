@@ -1357,3 +1357,10 @@
 - README: https://github.com/LearnPrompt/seedacne-dots/blob/eef13c436da984e0076a76bb0541b67726905a6f/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## as9coder/Mobileagent
+
+- Commit: `12c2a22e5b2b29b9d5213abbd283bfd49d3f99c8`
+- README: https://github.com/as9coder/Mobileagent/blob/12c2a22e5b2b29b9d5213abbd283bfd49d3f99c8/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

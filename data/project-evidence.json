@@ -2961,6 +2961,20 @@
       "readmeUrl": "https://github.com/LearnPrompt/seedacne-dots/blob/eef13c436da984e0076a76bb0541b67726905a6f/README.md",
       "readmeSha256": "fa9ac5b2b7c641b3d9d62241b75cd99c27be2bd5b5aeb19b126cb51dd088a49a",
       "files": []
+    },
+    {
+      "repository": "as9coder/Mobileagent",
+      "repositoryId": 1442488878,
+      "description": null,
+      "url": "https://github.com/as9coder/Mobileagent",
+      "stars": 0,
+      "updatedAt": "2026-11-02T04:53:03Z",
+      "license": "NOASSERTION",
+      "commit": "12c2a22e5b2b29b9d5213abbd283bfd49d3f99c8",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/as9coder/Mobileagent/blob/12c2a22e5b2b29b9d5213abbd283bfd49d3f99c8/README.md",
+      "readmeSha256": "f53f01cc226cc663078e681bfc216d01be9ab2eec06f5442831522da2035aa84",
+      "files": []
     }
   ]
 }
