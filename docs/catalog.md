@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-02。共 216 条。
+更新日期：2026-11-02。共 217 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -220,3 +220,4 @@
 | AnyModelBot | alternative | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feish… | [来源](https://github.com/modelflare-ai/AnyModelBot) |
 | seedacne-dots | building_block | 把自己的火山方舟视觉创作 Agent 接入 OpenAI Dots，在对话里提交需求、查询进度、取得图片或视频。本项目提供可交给 Codex 执行的配置提示词、私有 MCP 源码和一次真实视频案例。 | [来源](https://github.com/LearnPrompt/seedacne-dots) |
 | Mobileagent | community_project | It's inspired by xAI's Grok Bot and OpenAI's ChatGPT dots, and it uses OpenRouter so you can use any model you like. | [来源](https://github.com/as9coder/Mobileagent) |
+| DotCord | building_block | DotCord is a standalone bridge for bringing your OpenAI dot into Discord. | [来源](https://github.com/nyxbydesign/DotCord) |

@@ -2975,6 +2975,20 @@
       "readmeUrl": "https://github.com/as9coder/Mobileagent/blob/12c2a22e5b2b29b9d5213abbd283bfd49d3f99c8/README.md",
       "readmeSha256": "f53f01cc226cc663078e681bfc216d01be9ab2eec06f5442831522da2035aa84",
       "files": []
+    },
+    {
+      "repository": "nyxbydesign/DotCord",
+      "repositoryId": 1443285164,
+      "description": "Bridge your OpenAI dot to Discord through MCP Events, with sender-scoped context, image reads and ordered replies.",
+      "url": "https://github.com/nyxbydesign/DotCord",
+      "stars": 0,
+      "updatedAt": "2026-11-02T18:06:19Z",
+      "license": "GPL-3.0",
+      "commit": "a8e38150175af0f218b38ccfa5a4b7ad76c50580",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/nyxbydesign/DotCord/blob/a8e38150175af0f218b38ccfa5a4b7ad76c50580/README.md",
+      "readmeSha256": "99dd8aa2b4a98c3d03249d83ed49e31e32a6afd0688c374b3d117d0f2cd03f5c",
+      "files": []
     }
   ]
 }
