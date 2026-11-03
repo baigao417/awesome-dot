@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-03。共 221 条。
+更新日期：2026-11-03。共 222 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -225,3 +225,4 @@
 | dm-dot | building_block | Send a message to your ChatGPT dot from anywhere. | [来源](https://github.com/amxv/dm-dot) |
 | memory-bridge-personal-ai-agent | community_project | Portable external memory and consent-scoped sync adapters for Muse and ChatGPT dot. | [来源](https://github.com/BrianChen33/memory-bridge-personal-ai-agent) |
 | claude-code-mcp-server | building_block | Muse by Meta, Grok Bot by SpaceXSI, ChatGPT Dots by OpenAI, Claude Duet by Anthropic, etc) orchestrate Claude Code cloud sessions natively via the Claude Code CLI. | [来源](https://github.com/sohampatwardhan/claude-code-mcp-server) |
+| floatdot | community_project | Your ChatGPT Dot, one click away. | [来源](https://github.com/Nameless-Cinder/floatdot) |

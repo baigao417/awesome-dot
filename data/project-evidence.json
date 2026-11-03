@@ -3045,6 +3045,20 @@
       "readmeUrl": "https://github.com/sohampatwardhan/claude-code-mcp-server/blob/ca2066acd86a7f8c595495f7f61f81c0fdbf30f2/README.md",
       "readmeSha256": "97ba4f050450eac191d1b432416025b98584e1c6f303f8bf13fcf51271a50f02",
       "files": []
+    },
+    {
+      "repository": "Nameless-Cinder/floatdot",
+      "repositoryId": 1408014493,
+      "description": "Your ChatGPT Dot, one click away. An unofficial floating desktop widget for ChatGPT.",
+      "url": "https://github.com/Nameless-Cinder/floatdot",
+      "stars": 0,
+      "updatedAt": "2026-11-02T22:49:47Z",
+      "license": "NOASSERTION",
+      "commit": "a5056bd39d47afdda13dc93ee45896ead01fbf91",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Nameless-Cinder/floatdot/blob/a5056bd39d47afdda13dc93ee45896ead01fbf91/README.md",
+      "readmeSha256": "c7e9632946749295ce0fd4a59ec254bf3b87101d74d28c39c35ea6ee680eecaf",
+      "files": []
     }
   ]
 }

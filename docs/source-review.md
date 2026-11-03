@@ -1399,3 +1399,10 @@
 - README: https://github.com/sohampatwardhan/claude-code-mcp-server/blob/ca2066acd86a7f8c595495f7f61f81c0fdbf30f2/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Nameless-Cinder/floatdot
+
+- Commit: `a5056bd39d47afdda13dc93ee45896ead01fbf91`
+- README: https://github.com/Nameless-Cinder/floatdot/blob/a5056bd39d47afdda13dc93ee45896ead01fbf91/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
