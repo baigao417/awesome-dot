@@ -1371,3 +1371,31 @@
 - README: https://github.com/nyxbydesign/DotCord/blob/a8e38150175af0f218b38ccfa5a4b7ad76c50580/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## aravhawk/agent-bridge
+
+- Commit: `5442fb863739c55bc7e96da24714d1c328794fa6`
+- README: https://github.com/aravhawk/agent-bridge/blob/5442fb863739c55bc7e96da24714d1c328794fa6/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## amxv/dm-dot
+
+- Commit: `a2b854ef4530355bbeaf1a6c2ee2c32ce74d5982`
+- README: https://github.com/amxv/dm-dot/blob/a2b854ef4530355bbeaf1a6c2ee2c32ce74d5982/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## BrianChen33/memory-bridge-personal-ai-agent
+
+- Commit: `b9c20e8085994d764ccb2787dfd9219b94f5c8e5`
+- README: https://github.com/BrianChen33/memory-bridge-personal-ai-agent/blob/b9c20e8085994d764ccb2787dfd9219b94f5c8e5/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## sohampatwardhan/claude-code-mcp-server
+
+- Commit: `ca2066acd86a7f8c595495f7f61f81c0fdbf30f2`
+- README: https://github.com/sohampatwardhan/claude-code-mcp-server/blob/ca2066acd86a7f8c595495f7f61f81c0fdbf30f2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

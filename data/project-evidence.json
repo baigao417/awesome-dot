@@ -2989,6 +2989,62 @@
       "readmeUrl": "https://github.com/nyxbydesign/DotCord/blob/a8e38150175af0f218b38ccfa5a4b7ad76c50580/README.md",
       "readmeSha256": "99dd8aa2b4a98c3d03249d83ed49e31e32a6afd0688c374b3d117d0f2cd03f5c",
       "files": []
+    },
+    {
+      "repository": "aravhawk/agent-bridge",
+      "repositoryId": 1424774061,
+      "description": "Connect your Grok Bot to your OpenAI Dot. A self-hosted MCP inbox for handoffs, status updates and private files.",
+      "url": "https://github.com/aravhawk/agent-bridge",
+      "stars": 0,
+      "updatedAt": "2026-11-03T03:21:47Z",
+      "license": "Apache-2.0",
+      "commit": "5442fb863739c55bc7e96da24714d1c328794fa6",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/aravhawk/agent-bridge/blob/5442fb863739c55bc7e96da24714d1c328794fa6/README.md",
+      "readmeSha256": "6903275b7d2120ae9902dd7666a6158bfb16b8695d8e19a2e5a55aab682ee6b4",
+      "files": []
+    },
+    {
+      "repository": "amxv/dm-dot",
+      "repositoryId": 1443300249,
+      "description": "MCP/REST bridge to message your ChatGPT dot",
+      "url": "https://github.com/amxv/dm-dot",
+      "stars": 1,
+      "updatedAt": "2026-11-03T00:02:43Z",
+      "license": "Apache-2.0",
+      "commit": "a2b854ef4530355bbeaf1a6c2ee2c32ce74d5982",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/amxv/dm-dot/blob/a2b854ef4530355bbeaf1a6c2ee2c32ce74d5982/README.md",
+      "readmeSha256": "2d0015d65c241f2d0f55e8b496584671ce7f43d0a34dbd4fe980ea7d76b849e4",
+      "files": []
+    },
+    {
+      "repository": "BrianChen33/memory-bridge-personal-ai-agent",
+      "repositoryId": 1443683261,
+      "description": "Portable external memory and consent-scoped sync adapters for Muse and ChatGPT dot.",
+      "url": "https://github.com/BrianChen33/memory-bridge-personal-ai-agent",
+      "stars": 0,
+      "updatedAt": "2026-11-03T04:10:53Z",
+      "license": "AGPL-3.0",
+      "commit": "b9c20e8085994d764ccb2787dfd9219b94f5c8e5",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/BrianChen33/memory-bridge-personal-ai-agent/blob/b9c20e8085994d764ccb2787dfd9219b94f5c8e5/README.md",
+      "readmeSha256": "e154842b0e0a28084942c3e46e3772e281c2b8f4530750ea23ff8a45faaef8ca",
+      "files": []
+    },
+    {
+      "repository": "sohampatwardhan/claude-code-mcp-server",
+      "repositoryId": 1427519685,
+      "description": "MCP server that lets AI agents (Muse, Grok, and other MCP clients) orchestrate Claude Code cloud sessions natively via the Claude Code CLI.",
+      "url": "https://github.com/sohampatwardhan/claude-code-mcp-server",
+      "stars": 0,
+      "updatedAt": "2026-11-03T04:53:29Z",
+      "license": "MIT",
+      "commit": "ca2066acd86a7f8c595495f7f61f81c0fdbf30f2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/sohampatwardhan/claude-code-mcp-server/blob/ca2066acd86a7f8c595495f7f61f81c0fdbf30f2/README.md",
+      "readmeSha256": "97ba4f050450eac191d1b432416025b98584e1c6f303f8bf13fcf51271a50f02",
+      "files": []
     }
   ]
 }
