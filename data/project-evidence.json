@@ -3059,6 +3059,48 @@
       "readmeUrl": "https://github.com/Nameless-Cinder/floatdot/blob/a5056bd39d47afdda13dc93ee45896ead01fbf91/README.md",
       "readmeSha256": "c7e9632946749295ce0fd4a59ec254bf3b87101d74d28c39c35ea6ee680eecaf",
       "files": []
+    },
+    {
+      "repository": "guangxiangdebizi/mambabot-oss",
+      "repositoryId": 1438614505,
+      "description": "开源、自托管的 24 小时常驻 AI Agent，Grok Bot / ChatGPT dots / Meta Muse 这类产品的开源替代：在手机上使用你自己服务器上的 Claude Code，带项目、文件面板、终端、实时浏览器和定时任务。Open-source, self-hosted, always-on AI agent powered by Claude Code.",
+      "url": "https://github.com/guangxiangdebizi/mambabot-oss",
+      "stars": 1,
+      "updatedAt": "2026-11-04T13:56:44Z",
+      "license": "GPL-3.0",
+      "commit": "2b4dab6b3c7f8f25f9afd4536391bb0bc91dd688",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/guangxiangdebizi/mambabot-oss/blob/2b4dab6b3c7f8f25f9afd4536391bb0bc91dd688/README.md",
+      "readmeSha256": "b30535c8b8c1f0b0add3862524cad8104397b855a9b3b7a19badb94bc13c7bd6",
+      "files": []
+    },
+    {
+      "repository": "emetwebstudio/dot-audio-guide",
+      "repositoryId": 1445236032,
+      "description": "Two abilities for ChatGPT dots: let other people talk to your dots, and let your dots hear computer audio. A practical Windows routing guide using Voicemeeter Banana, with a tested Discord example.",
+      "url": "https://github.com/emetwebstudio/dot-audio-guide",
+      "stars": 1,
+      "updatedAt": "2026-11-04T08:22:55Z",
+      "license": "NOASSERTION",
+      "commit": "c92a446a55ea51714befa2f0d04ed5c6ccfaf043",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/emetwebstudio/dot-audio-guide/blob/c92a446a55ea51714befa2f0d04ed5c6ccfaf043/README.md",
+      "readmeSha256": "1baf6dd88cb06e517938cf0c9c9b112f3f14387313b2feaa6d37f62354c02a94",
+      "files": []
+    },
+    {
+      "repository": "DolphinMiner/agentstudio",
+      "repositoryId": 1444222722,
+      "description": "Your personal agents, under one roof. AgentStudio brings Grok Bot, Muse, Cue, ChatGPT and any A2A or ACP agent into one local-first Mac app: talk to all of them in one inbox, and approve what they do before they do it. Open source, and nothing leaves your Mac.🏠",
+      "url": "https://github.com/DolphinMiner/agentstudio",
+      "stars": 1,
+      "updatedAt": "2026-11-04T16:47:34Z",
+      "license": "Apache-2.0",
+      "commit": "b8398111767a415eda97bbd7e2d0ddc65234b31e",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/DolphinMiner/agentstudio/blob/b8398111767a415eda97bbd7e2d0ddc65234b31e/README.md",
+      "readmeSha256": "cb56905a6586cbdec7f9b1d5869ddb66444cb6a0d50ae0f633f3dcc7e440f1c3",
+      "files": []
     }
   ]
 }

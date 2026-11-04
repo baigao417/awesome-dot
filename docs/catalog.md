@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-03。共 222 条。
+更新日期：2026-11-04。共 225 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -226,3 +226,6 @@
 | memory-bridge-personal-ai-agent | community_project | Portable external memory and consent-scoped sync adapters for Muse and ChatGPT dot. | [来源](https://github.com/BrianChen33/memory-bridge-personal-ai-agent) |
 | claude-code-mcp-server | building_block | Muse by Meta, Grok Bot by SpaceXSI, ChatGPT Dots by OpenAI, Claude Duet by Anthropic, etc) orchestrate Claude Code cloud sessions natively via the Claude Code CLI. | [来源](https://github.com/sohampatwardhan/claude-code-mcp-server) |
 | floatdot | community_project | Your ChatGPT Dot, one click away. | [来源](https://github.com/Nameless-Cinder/floatdot) |
+| mambabot-oss | building_block | 开源、自托管的 24 小时常驻 AI Agent：Grok Bot、ChatGPT dots、Meta Muse 这一类产品的开源版。 | [来源](https://github.com/guangxiangdebizi/mambabot-oss) |
+| dot-audio-guide | tutorial | Let other people talk to your ChatGPT dots. | [来源](https://github.com/emetwebstudio/dot-audio-guide) |
+| agentstudio | community_project | ady use, through your own sign-in on the Mac: Grok Bot (every bot of your account, with its own name and avatar), Muse, ChatGPT Dots and Cue (sign in with Manus, or use a Manus API key). | [来源](https://github.com/DolphinMiner/agentstudio) |

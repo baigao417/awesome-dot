@@ -1114,6 +1114,24 @@
       "file": "nameless-cinder.jpg",
       "source": "https://avatars.githubusercontent.com/u/97306128?s=96",
       "sha256": "d5e30cf60b10acb65165426e8957e892ac98bcea483ef272f206a6c28ac9899b"
+    },
+    {
+      "owner": "guangxiangdebizi",
+      "file": "guangxiangdebizi.jpg",
+      "source": "https://avatars.githubusercontent.com/u/154864206?s=96",
+      "sha256": "14b800f0d739203d45b7a5797b26dec559418426300c3292fccee73ade9bd020"
+    },
+    {
+      "owner": "emetwebstudio",
+      "file": "emetwebstudio.png",
+      "source": "https://avatars.githubusercontent.com/u/338393344?s=96",
+      "sha256": "5d421896797467182966bd748da17bd3f776ff133946a14ee8ddd0a9b29f8382"
+    },
+    {
+      "owner": "DolphinMiner",
+      "file": "dolphinminer.jpg",
+      "source": "https://avatars.githubusercontent.com/u/113647610?s=96",
+      "sha256": "43cb243bf480a2ed9ecbcafb379822bc8637c81cc50e3654eb721f000b16d0ca"
     }
   ]
 }

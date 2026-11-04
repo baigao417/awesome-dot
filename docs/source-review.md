@@ -1406,3 +1406,24 @@
 - README: https://github.com/Nameless-Cinder/floatdot/blob/a5056bd39d47afdda13dc93ee45896ead01fbf91/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## guangxiangdebizi/mambabot-oss
+
+- Commit: `2b4dab6b3c7f8f25f9afd4536391bb0bc91dd688`
+- README: https://github.com/guangxiangdebizi/mambabot-oss/blob/2b4dab6b3c7f8f25f9afd4536391bb0bc91dd688/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## emetwebstudio/dot-audio-guide
+
+- Commit: `c92a446a55ea51714befa2f0d04ed5c6ccfaf043`
+- README: https://github.com/emetwebstudio/dot-audio-guide/blob/c92a446a55ea51714befa2f0d04ed5c6ccfaf043/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## DolphinMiner/agentstudio
+
+- Commit: `b8398111767a415eda97bbd7e2d0ddc65234b31e`
+- README: https://github.com/DolphinMiner/agentstudio/blob/b8398111767a415eda97bbd7e2d0ddc65234b31e/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
