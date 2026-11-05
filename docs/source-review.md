@@ -1427,3 +1427,10 @@
 - README: https://github.com/DolphinMiner/agentstudio/blob/b8398111767a415eda97bbd7e2d0ddc65234b31e/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## BaeHenryS/bud-relay
+
+- Commit: `9e976e062953a13a66fea163019383ac37c657aa`
+- README: https://github.com/BaeHenryS/bud-relay/blob/9e976e062953a13a66fea163019383ac37c657aa/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

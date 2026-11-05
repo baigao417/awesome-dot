@@ -3101,6 +3101,20 @@
       "readmeUrl": "https://github.com/DolphinMiner/agentstudio/blob/b8398111767a415eda97bbd7e2d0ddc65234b31e/README.md",
       "readmeSha256": "cb56905a6586cbdec7f9b1d5869ddb66444cb6a0d50ae0f633f3dcc7e440f1c3",
       "files": []
+    },
+    {
+      "repository": "BaeHenryS/bud-relay",
+      "repositoryId": 1446190440,
+      "description": "Self-hosted MCP mailbox so your Claude, ChatGPT dot and Muse agents can message each other",
+      "url": "https://github.com/BaeHenryS/bud-relay",
+      "stars": 1,
+      "updatedAt": "2026-11-05T03:04:29Z",
+      "license": "MIT",
+      "commit": "9e976e062953a13a66fea163019383ac37c657aa",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/BaeHenryS/bud-relay/blob/9e976e062953a13a66fea163019383ac37c657aa/README.md",
+      "readmeSha256": "7f1afed8cd2f172b2eb6ef12cd7700f2e1bff04aa4052cfe5ddd4c64d866d14d",
+      "files": []
     }
   ]
 }

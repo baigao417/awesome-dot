@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-04。共 225 条。
+更新日期：2026-11-05。共 226 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -229,3 +229,4 @@
 | mambabot-oss | building_block | 开源、自托管的 24 小时常驻 AI Agent：Grok Bot、ChatGPT dots、Meta Muse 这一类产品的开源版。 | [来源](https://github.com/guangxiangdebizi/mambabot-oss) |
 | dot-audio-guide | tutorial | Let other people talk to your ChatGPT dots. | [来源](https://github.com/emetwebstudio/dot-audio-guide) |
 | agentstudio | community_project | ady use, through your own sign-in on the Mac: Grok Bot (every bot of your account, with its own name and avatar), Muse, ChatGPT Dots and Cue (sign in with Manus, or use a Manus API key). | [来源](https://github.com/DolphinMiner/agentstudio) |
+| bud-relay | building_block | ChatGPT dots, Meta Muse and Claude Duet can only be reached through their own apps; bud-relay lets you (or a script, or another agent) send them a request and get the reply back. | [来源](https://github.com/BaeHenryS/bud-relay) |
