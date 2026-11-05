@@ -1434,3 +1434,10 @@
 - README: https://github.com/BaeHenryS/bud-relay/blob/9e976e062953a13a66fea163019383ac37c657aa/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Tygb99/discord-mac-ai-bridge
+
+- Commit: `300a54908cdc26300bf5b694b615a90e25af250f`
+- README: https://github.com/Tygb99/discord-mac-ai-bridge/blob/300a54908cdc26300bf5b694b615a90e25af250f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

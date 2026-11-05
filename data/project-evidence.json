@@ -3115,6 +3115,20 @@
       "readmeUrl": "https://github.com/BaeHenryS/bud-relay/blob/9e976e062953a13a66fea163019383ac37c657aa/README.md",
       "readmeSha256": "7f1afed8cd2f172b2eb6ef12cd7700f2e1bff04aa4052cfe5ddd4c64d866d14d",
       "files": []
+    },
+    {
+      "repository": "Tygb99/discord-mac-ai-bridge",
+      "repositoryId": 1446794179,
+      "description": "Use AI chat apps on your Mac (Grok Bot, Instinct over iMessage, Pickle, ChatGPT dots) from Discord channels. Personal tool, not affiliated.",
+      "url": "https://github.com/Tygb99/discord-mac-ai-bridge",
+      "stars": 0,
+      "updatedAt": "2026-11-05T09:28:27Z",
+      "license": "MIT",
+      "commit": "300a54908cdc26300bf5b694b615a90e25af250f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Tygb99/discord-mac-ai-bridge/blob/300a54908cdc26300bf5b694b615a90e25af250f/README.md",
+      "readmeSha256": "e744a6eb3a6f6149e9950dacd372e81c762687d5e2c4370a2268f9b3fdffeba5",
+      "files": []
     }
   ]
 }
