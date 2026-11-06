@@ -3157,6 +3157,20 @@
       "readmeUrl": "https://github.com/Hellridergo/meu-dot/blob/27c2b9849e51246482afd117560640230e177f17/README.md",
       "readmeSha256": "04d2b1bf371c06b74a15a6b83a8700da6a97020e6c3fa4f61c01c98745345208",
       "files": []
+    },
+    {
+      "repository": "onittindwani-ai/ai-employee-kit-openai-dots-grok-bot",
+      "repositoryId": 1448076472,
+      "description": "25 ready AI employees for sales, hiring and operations, with setup prompts for OpenAI Dots and Grok Bot and a guide on which to use for each job.",
+      "url": "https://github.com/onittindwani-ai/ai-employee-kit-openai-dots-grok-bot",
+      "stars": 0,
+      "updatedAt": "2026-11-06T09:36:55Z",
+      "license": "MIT",
+      "commit": "798f19f38111170291b0dcbbf6d2cd7806ddf107",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/onittindwani-ai/ai-employee-kit-openai-dots-grok-bot/blob/798f19f38111170291b0dcbbf6d2cd7806ddf107/README.md",
+      "readmeSha256": "e5d9d44f27f5e69698847f9c01b9e555d847f22da7608eac98037b504def37a4",
+      "files": []
     }
   ]
 }

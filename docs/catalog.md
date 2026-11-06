@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-06。共 229 条。
+更新日期：2026-11-06。共 230 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -233,3 +233,4 @@
 | discord-mac-ai-bridge | community_project | Use AI chat apps on your Mac (Grok Bot, Instinct over iMessage, Pickle, ChatGPT dots) from Discord channels. Personal tool, not affiliated. | [来源](https://github.com/Tygb99/discord-mac-ai-bridge) |
 | dotbble | building_block | Talk to your ChatGPT dot through a Pebble Index ring. | [来源](https://github.com/maddiedreese/dotbble) |
 | meu-dot | building_block | Meu Dot turns a round AMOLED board into a companion for your ChatGPT Dot that runs in the palm of your hand. | [来源](https://github.com/Hellridergo/meu-dot) |
+| ai-employee-kit-openai-dots-grok-bot | task_template | 25 ready AI employees for sales, hiring and operations, with the exact setup prompts for both OpenAI Dots and Grok Bot, and a guide on which one to use for each job. | [来源](https://github.com/onittindwani-ai/ai-employee-kit-openai-dots-grok-bot) |
