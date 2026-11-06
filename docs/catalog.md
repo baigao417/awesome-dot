@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-05。共 227 条。
+更新日期：2026-11-06。共 229 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -231,3 +231,5 @@
 | agentstudio | community_project | ady use, through your own sign-in on the Mac: Grok Bot (every bot of your account, with its own name and avatar), Muse, ChatGPT Dots and Cue (sign in with Manus, or use a Manus API key). | [来源](https://github.com/DolphinMiner/agentstudio) |
 | bud-relay | building_block | ChatGPT dots, Meta Muse and Claude Duet can only be reached through their own apps; bud-relay lets you (or a script, or another agent) send them a request and get the reply back. | [来源](https://github.com/BaeHenryS/bud-relay) |
 | discord-mac-ai-bridge | community_project | Use AI chat apps on your Mac (Grok Bot, Instinct over iMessage, Pickle, ChatGPT dots) from Discord channels. Personal tool, not affiliated. | [来源](https://github.com/Tygb99/discord-mac-ai-bridge) |
+| dotbble | building_block | Talk to your ChatGPT dot through a Pebble Index ring. | [来源](https://github.com/maddiedreese/dotbble) |
+| meu-dot | building_block | Meu Dot turns a round AMOLED board into a companion for your ChatGPT Dot that runs in the palm of your hand. | [来源](https://github.com/Hellridergo/meu-dot) |

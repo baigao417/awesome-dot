@@ -1441,3 +1441,17 @@
 - README: https://github.com/Tygb99/discord-mac-ai-bridge/blob/300a54908cdc26300bf5b694b615a90e25af250f/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## maddiedreese/dotbble
+
+- Commit: `b31663fa144239d52131af22144f74f7b0ced3b2`
+- README: https://github.com/maddiedreese/dotbble/blob/b31663fa144239d52131af22144f74f7b0ced3b2/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Hellridergo/meu-dot
+
+- Commit: `27c2b9849e51246482afd117560640230e177f17`
+- README: https://github.com/Hellridergo/meu-dot/blob/27c2b9849e51246482afd117560640230e177f17/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

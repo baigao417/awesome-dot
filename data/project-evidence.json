@@ -3129,6 +3129,34 @@
       "readmeUrl": "https://github.com/Tygb99/discord-mac-ai-bridge/blob/300a54908cdc26300bf5b694b615a90e25af250f/README.md",
       "readmeSha256": "e744a6eb3a6f6149e9950dacd372e81c762687d5e2c4370a2268f9b3fdffeba5",
       "files": []
+    },
+    {
+      "repository": "maddiedreese/dotbble",
+      "repositoryId": 1447528283,
+      "description": "Talk to your ChatGPT dot through a Pebble Index ring. Pair once; phone-to-OpenAI delivery with no always-on Mac.",
+      "url": "https://github.com/maddiedreese/dotbble",
+      "stars": 0,
+      "updatedAt": "2026-11-05T21:39:07Z",
+      "license": "MIT",
+      "commit": "b31663fa144239d52131af22144f74f7b0ced3b2",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/maddiedreese/dotbble/blob/b31663fa144239d52131af22144f74f7b0ced3b2/README.md",
+      "readmeSha256": "017696036f4ba46e175fcdd671428f76aa2a8dde11445976ddcc44ece9f528e0",
+      "files": []
+    },
+    {
+      "repository": "Hellridergo/meu-dot",
+      "repositoryId": 1447647622,
+      "description": "A ChatGPT Dot that runs in the palm of your hand: a round AMOLED ESP32-S3 companion, an Android app and a ChatGPT Sites bridge. EN · PT-BR",
+      "url": "https://github.com/Hellridergo/meu-dot",
+      "stars": 0,
+      "updatedAt": "2026-11-06T01:44:11Z",
+      "license": "NOASSERTION",
+      "commit": "27c2b9849e51246482afd117560640230e177f17",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Hellridergo/meu-dot/blob/27c2b9849e51246482afd117560640230e177f17/README.md",
+      "readmeSha256": "04d2b1bf371c06b74a15a6b83a8700da6a97020e6c3fa4f61c01c98745345208",
+      "files": []
     }
   ]
 }
