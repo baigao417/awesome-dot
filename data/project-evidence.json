@@ -3171,6 +3171,20 @@
       "readmeUrl": "https://github.com/onittindwani-ai/ai-employee-kit-openai-dots-grok-bot/blob/798f19f38111170291b0dcbbf6d2cd7806ddf107/README.md",
       "readmeSha256": "e5d9d44f27f5e69698847f9c01b9e555d847f22da7608eac98037b504def37a4",
       "files": []
+    },
+    {
+      "repository": "dandacompany/fitfit-practice",
+      "repositoryId": 1448892671,
+      "description": "실습용 가상 필라테스 센터 페이지 (Hermes Bot × OpenAI Dots 강의 7.3). 실제 예약되지 않습니다.",
+      "url": "https://github.com/dandacompany/fitfit-practice",
+      "stars": 0,
+      "updatedAt": "2026-11-07T00:40:50Z",
+      "license": "NOASSERTION",
+      "commit": "fd038b391a13b23d0f3792c94942b3d1ee611228",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/dandacompany/fitfit-practice/blob/fd038b391a13b23d0f3792c94942b3d1ee611228/README.md",
+      "readmeSha256": "10313d40c8f8a2cd9b94a6dcb263066b272a1ad4b7bf25abc7576a8abfd7bf8b",
+      "files": []
     }
   ]
 }

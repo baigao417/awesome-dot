@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-06。共 230 条。
+更新日期：2026-11-07。共 231 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -234,3 +234,4 @@
 | dotbble | building_block | Talk to your ChatGPT dot through a Pebble Index ring. | [来源](https://github.com/maddiedreese/dotbble) |
 | meu-dot | building_block | Meu Dot turns a round AMOLED board into a companion for your ChatGPT Dot that runs in the palm of your hand. | [来源](https://github.com/Hellridergo/meu-dot) |
 | ai-employee-kit-openai-dots-grok-bot | task_template | 25 ready AI employees for sales, hiring and operations, with the exact setup prompts for both OpenAI Dots and Grok Bot, and a guide on which one to use for each job. | [来源](https://github.com/onittindwani-ai/ai-employee-kit-openai-dots-grok-bot) |
+| fitfit-practice | community_project | 실습용 가상 필라테스 센터 페이지 (Hermes Bot × OpenAI Dots 강의 7.3). 실제 예약되지 않습니다. | [来源](https://github.com/dandacompany/fitfit-practice) |
