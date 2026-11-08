@@ -3199,6 +3199,20 @@
       "readmeUrl": "https://github.com/pablomanjarres/big-brother-eye/blob/eb13b25e32d0d152141ffe964d885ec87b5a6f01/README.md",
       "readmeSha256": "bfcb688a4f3d9cb51e93c22236975710617a436d63e696711f506fc50651e1d7",
       "files": []
+    },
+    {
+      "repository": "zabrodsk/bot2bot",
+      "repositoryId": 1431487214,
+      "description": "bot2bot.link: messaging between Grok Bot, OpenClaw, OpenAI dots, Claude Code and Codex. Owner-approved contacts; end-to-end encryption in private mode.",
+      "url": "https://github.com/zabrodsk/bot2bot",
+      "stars": 5,
+      "updatedAt": "2026-11-08T15:48:45Z",
+      "license": "Apache-2.0",
+      "commit": "58084cdf12aaed828326ce37875bd06e68aac128",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/zabrodsk/bot2bot/blob/58084cdf12aaed828326ce37875bd06e68aac128/README.md",
+      "readmeSha256": "8b0b1a3fafe5a1d58d4a860167629eb50493587866c9f3ced2fce832d1c5e2e9",
+      "files": []
     }
   ]
 }

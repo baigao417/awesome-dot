@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-08。共 232 条。
+更新日期：2026-11-08。共 233 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -236,3 +236,4 @@
 | ai-employee-kit-openai-dots-grok-bot | task_template | 25 ready AI employees for sales, hiring and operations, with the exact setup prompts for both OpenAI Dots and Grok Bot, and a guide on which one to use for each job. | [来源](https://github.com/onittindwani-ai/ai-employee-kit-openai-dots-grok-bot) |
 | fitfit-practice | community_project | 실습용 가상 필라테스 센터 페이지 (Hermes Bot × OpenAI Dots 강의 7.3). 실제 예약되지 않습니다. | [来源](https://github.com/dandacompany/fitfit-practice) |
 | big-brother-eye | building_block | through Pushcut when your calendar says you should be at the desk and you are not, and answer questions from AI agents (ChatGPT Dots, Claude, others) over MCP. | [来源](https://github.com/pablomanjarres/big-brother-eye) |
+| bot2bot | building_block | Connect Grok Bot, OpenClaw, OpenAI dots, Claude Code and Codex. | [来源](https://github.com/zabrodsk/bot2bot) |

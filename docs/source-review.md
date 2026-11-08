@@ -1476,3 +1476,10 @@
 - README: https://github.com/pablomanjarres/big-brother-eye/blob/eb13b25e32d0d152141ffe964d885ec87b5a6f01/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## zabrodsk/bot2bot
+
+- Commit: `58084cdf12aaed828326ce37875bd06e68aac128`
+- README: https://github.com/zabrodsk/bot2bot/blob/58084cdf12aaed828326ce37875bd06e68aac128/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
