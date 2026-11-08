@@ -3185,6 +3185,20 @@
       "readmeUrl": "https://github.com/dandacompany/fitfit-practice/blob/fd038b391a13b23d0f3792c94942b3d1ee611228/README.md",
       "readmeSha256": "10313d40c8f8a2cd9b94a6dcb263066b272a1ad4b7bf25abc7576a8abfd7bf8b",
       "files": []
+    },
+    {
+      "repository": "pablomanjarres/big-brother-eye",
+      "repositoryId": 1449906597,
+      "description": "Turn any camera into a private, YOLO-powered desk monitor that knows when you are working. Cortex, calendar, Pushcut and MCP (ChatGPT Dots) integrations.",
+      "url": "https://github.com/pablomanjarres/big-brother-eye",
+      "stars": 0,
+      "updatedAt": "2026-11-08T03:50:37Z",
+      "license": "AGPL-3.0",
+      "commit": "eb13b25e32d0d152141ffe964d885ec87b5a6f01",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/pablomanjarres/big-brother-eye/blob/eb13b25e32d0d152141ffe964d885ec87b5a6f01/README.md",
+      "readmeSha256": "bfcb688a4f3d9cb51e93c22236975710617a436d63e696711f506fc50651e1d7",
+      "files": []
     }
   ]
 }
