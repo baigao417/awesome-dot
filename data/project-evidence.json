@@ -3213,6 +3213,20 @@
       "readmeUrl": "https://github.com/zabrodsk/bot2bot/blob/58084cdf12aaed828326ce37875bd06e68aac128/README.md",
       "readmeSha256": "8b0b1a3fafe5a1d58d4a860167629eb50493587866c9f3ced2fce832d1c5e2e9",
       "files": []
+    },
+    {
+      "repository": "cfngc4594/dot-tui",
+      "repositoryId": 1445080306,
+      "description": "An open-source terminal client for ChatGPT dot. Chat, browse conversation history, and attach images from your terminal. Built with Rust and Ratatui.",
+      "url": "https://github.com/cfngc4594/dot-tui",
+      "stars": 0,
+      "updatedAt": "2026-11-09T12:17:22Z",
+      "license": "Apache-2.0",
+      "commit": "c52d9233658c6f5a91a48f7f24848324a20fffe0",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/cfngc4594/dot-tui/blob/c52d9233658c6f5a91a48f7f24848324a20fffe0/README.md",
+      "readmeSha256": "7dd398f9bd971e79e5010418357e9fedd7055b5829feada838a54761392e557d",
+      "files": []
     }
   ]
 }

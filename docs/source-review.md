@@ -1483,3 +1483,10 @@
 - README: https://github.com/zabrodsk/bot2bot/blob/58084cdf12aaed828326ce37875bd06e68aac128/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## cfngc4594/dot-tui
+
+- Commit: `c52d9233658c6f5a91a48f7f24848324a20fffe0`
+- README: https://github.com/cfngc4594/dot-tui/blob/c52d9233658c6f5a91a48f7f24848324a20fffe0/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
