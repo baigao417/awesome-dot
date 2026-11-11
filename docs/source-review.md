@@ -1490,3 +1490,17 @@
 - README: https://github.com/cfngc4594/dot-tui/blob/c52d9233658c6f5a91a48f7f24848324a20fffe0/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## PoetCoderJun/linkedin-apply-for-agents
+
+- Commit: `aebcada948242a67a72aaee2db4be8290230a14d`
+- README: https://github.com/PoetCoderJun/linkedin-apply-for-agents/blob/aebcada948242a67a72aaee2db4be8290230a14d/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## AnalystAIlab/ai-assistant-failure-cases
+
+- Commit: `b138f1986a3f3107332cf77ddfcb93a28139e54c`
+- README: https://github.com/AnalystAIlab/ai-assistant-failure-cases/blob/b138f1986a3f3107332cf77ddfcb93a28139e54c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

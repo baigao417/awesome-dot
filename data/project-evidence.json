@@ -3227,6 +3227,34 @@
       "readmeUrl": "https://github.com/cfngc4594/dot-tui/blob/c52d9233658c6f5a91a48f7f24848324a20fffe0/README.md",
       "readmeSha256": "7dd398f9bd971e79e5010418357e9fedd7055b5829feada838a54761392e557d",
       "files": []
+    },
+    {
+      "repository": "PoetCoderJun/linkedin-apply-for-agents",
+      "repositoryId": 1450898633,
+      "description": "LinkedIn auto apply skill for personal agents — Grok Bot, OpenAI Dots, Claude, Codex, and similar agent runtimes.",
+      "url": "https://github.com/PoetCoderJun/linkedin-apply-for-agents",
+      "stars": 12,
+      "updatedAt": "2026-11-11T03:22:04Z",
+      "license": "MIT",
+      "commit": "aebcada948242a67a72aaee2db4be8290230a14d",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/PoetCoderJun/linkedin-apply-for-agents/blob/aebcada948242a67a72aaee2db4be8290230a14d/README.md",
+      "readmeSha256": "8fd6417eb485744f7b08744d8d3f383947b415ca74eb315b9c85d8235c0bfb11",
+      "files": []
+    },
+    {
+      "repository": "AnalystAIlab/ai-assistant-failure-cases",
+      "repositoryId": 1453331309,
+      "description": "Everyday requests where AI assistants got something wrong, with prompts to rerun them. Data on Hugging Face.",
+      "url": "https://github.com/AnalystAIlab/ai-assistant-failure-cases",
+      "stars": 1,
+      "updatedAt": "2026-11-11T00:24:41Z",
+      "license": "NOASSERTION",
+      "commit": "b138f1986a3f3107332cf77ddfcb93a28139e54c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/AnalystAIlab/ai-assistant-failure-cases/blob/b138f1986a3f3107332cf77ddfcb93a28139e54c/README.md",
+      "readmeSha256": "a4fa91977eef9c5f045ea8e5d9ada2b6e125be5d655c455587635e2beda6729e",
+      "files": []
     }
   ]
 }

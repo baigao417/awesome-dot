@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-09。共 234 条。
+更新日期：2026-11-11。共 236 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -238,3 +238,5 @@
 | big-brother-eye | building_block | through Pushcut when your calendar says you should be at the desk and you are not, and answer questions from AI agents (ChatGPT Dots, Claude, others) over MCP. | [来源](https://github.com/pablomanjarres/big-brother-eye) |
 | bot2bot | building_block | Connect Grok Bot, OpenClaw, OpenAI dots, Claude Code and Codex. | [来源](https://github.com/zabrodsk/bot2bot) |
 | dot-tui | community_project | dot-tui is an open-source terminal user interface (TUI) for chatting with your ChatGPT dot. | [来源](https://github.com/cfngc4594/dot-tui) |
+| linkedin-apply-for-agents | community_project | 最建议用 Grok Bot 或 OpenAI Dots。 | [来源](https://github.com/PoetCoderJun/linkedin-apply-for-agents) |
+| ai-assistant-failure-cases | task_template | Release 2026-11-09: 17 cases, 4 assistants (ChatGPT dots, Grok Bot, Instinct and Muse), 27 requests and 108 results, asked between 2026-10-19 and 2026-10-30. | [来源](https://github.com/AnalystAIlab/ai-assistant-failure-cases) |
