@@ -1504,3 +1504,10 @@
 - README: https://github.com/AnalystAIlab/ai-assistant-failure-cases/blob/b138f1986a3f3107332cf77ddfcb93a28139e54c/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## JacksonHuang517/dotsignal
+
+- Commit: `4aea009780731b2f231a12d2ad47039207c956c3`
+- README: https://github.com/JacksonHuang517/dotsignal/blob/4aea009780731b2f231a12d2ad47039207c956c3/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

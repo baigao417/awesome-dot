@@ -3255,6 +3255,20 @@
       "readmeUrl": "https://github.com/AnalystAIlab/ai-assistant-failure-cases/blob/b138f1986a3f3107332cf77ddfcb93a28139e54c/README.md",
       "readmeSha256": "a4fa91977eef9c5f045ea8e5d9ada2b6e125be5d655c455587635e2beda6729e",
       "files": []
+    },
+    {
+      "repository": "JacksonHuang517/dotsignal",
+      "repositoryId": 1453641189,
+      "description": "DotSignal for ChatGPT — Cloud events from Feishu messages, tasks, calendars and NetEase email headers, so ChatGPT Dot can remind you to reply, decide and follow up.",
+      "url": "https://github.com/JacksonHuang517/dotsignal",
+      "stars": 0,
+      "updatedAt": "2026-11-11T07:30:18Z",
+      "license": "MIT",
+      "commit": "4aea009780731b2f231a12d2ad47039207c956c3",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/JacksonHuang517/dotsignal/blob/4aea009780731b2f231a12d2ad47039207c956c3/README.md",
+      "readmeSha256": "e3fbb8151cfba69a44f2ae4bc97d579c49121cbcbc7c952c836dc6df9d0dbe03",
+      "files": []
     }
   ]
 }
