@@ -1532,3 +1532,10 @@
 - README: https://github.com/modelnorth/apex/blob/572cd735b2423e3cf2db7fc723b552f8932ae4b4/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## ohld/whatsapp-mcp-chatgpt-dot
+
+- Commit: `00300f91de4a0cd62d965b80ee92caed8dd9a3ce`
+- README: https://github.com/ohld/whatsapp-mcp-chatgpt-dot/blob/00300f91de4a0cd62d965b80ee92caed8dd9a3ce/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

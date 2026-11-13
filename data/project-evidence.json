@@ -3311,6 +3311,20 @@
       "readmeUrl": "https://github.com/modelnorth/apex/blob/572cd735b2423e3cf2db7fc723b552f8932ae4b4/README.md",
       "readmeSha256": "3c03b4887c6719580411f8d29050a3fb48a673a2c1cadf71c5555aab0f8ba86b",
       "files": []
+    },
+    {
+      "repository": "ohld/whatsapp-mcp-chatgpt-dot",
+      "repositoryId": 1456448779,
+      "description": "Self-hosted WhatsApp MCP server for ChatGPT Dot and ChatGPT apps. Connect your ChatGPT Dot to WhatsApp: read chats, real-time incoming messages via MCP Events webhooks, send replies. Stdlib-only Python, WAHA, OAuth 2.1, allowlists, send caps, Docker Compose.",
+      "url": "https://github.com/ohld/whatsapp-mcp-chatgpt-dot",
+      "stars": 0,
+      "updatedAt": "2026-11-13T10:15:38Z",
+      "license": "MIT",
+      "commit": "00300f91de4a0cd62d965b80ee92caed8dd9a3ce",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/ohld/whatsapp-mcp-chatgpt-dot/blob/00300f91de4a0cd62d965b80ee92caed8dd9a3ce/README.md",
+      "readmeSha256": "38339a65767677fd869d0d66eb710f286943772ae3bb362d7fc2abf3468eb07c",
+      "files": []
     }
   ]
 }
