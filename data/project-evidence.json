@@ -3269,6 +3269,48 @@
       "readmeUrl": "https://github.com/JacksonHuang517/dotsignal/blob/4aea009780731b2f231a12d2ad47039207c956c3/README.md",
       "readmeSha256": "e3fbb8151cfba69a44f2ae4bc97d579c49121cbcbc7c952c836dc6df9d0dbe03",
       "files": []
+    },
+    {
+      "repository": "agentlas-ai/Agentlas-OS",
+      "repositoryId": 1258962324,
+      "description": "The Open-Source AI Agent OS inspired by OpenAI Dots, Meta Muse, OpenClaw, Hermes & Mem0. Autonomous 3-tier headhunting, Receipt & Verifier loops, scoped memory, and BYOM for Claude Code, Codex & Cursor.",
+      "url": "https://github.com/agentlas-ai/Agentlas-OS",
+      "stars": 1455,
+      "updatedAt": "2026-11-13T05:38:35Z",
+      "license": "Apache-2.0",
+      "commit": "86f1bf3528c715a4ea12e0f9c7a5dd5568655699",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/agentlas-ai/Agentlas-OS/blob/86f1bf3528c715a4ea12e0f9c7a5dd5568655699/README.md",
+      "readmeSha256": "92745bcbda858d7fd1de4efc68abdea029ab788bc7defbbd1fe5c1ad4e5e6a57",
+      "files": []
+    },
+    {
+      "repository": "oss-invisible/dots",
+      "repositoryId": 850759104,
+      "description": "invisible dots: open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.",
+      "url": "https://github.com/oss-invisible/dots",
+      "stars": 48,
+      "updatedAt": "2026-11-12T23:59:12Z",
+      "license": "MIT",
+      "commit": "616bfacbfbd0b3fdeef32d8f53c8bb7c000e54c4",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/oss-invisible/dots/blob/616bfacbfbd0b3fdeef32d8f53c8bb7c000e54c4/README.md",
+      "readmeSha256": "6be3842add81202a08646df328b36b957723be27e222c1b6ec3f406e23ad3805",
+      "files": []
+    },
+    {
+      "repository": "modelnorth/apex",
+      "repositoryId": 1456150510,
+      "description": null,
+      "url": "https://github.com/modelnorth/apex",
+      "stars": 0,
+      "updatedAt": "2026-11-13T05:06:02Z",
+      "license": "Apache-2.0",
+      "commit": "572cd735b2423e3cf2db7fc723b552f8932ae4b4",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/modelnorth/apex/blob/572cd735b2423e3cf2db7fc723b552f8932ae4b4/README.md",
+      "readmeSha256": "3c03b4887c6719580411f8d29050a3fb48a673a2c1cadf71c5555aab0f8ba86b",
+      "files": []
     }
   ]
 }

@@ -1511,3 +1511,24 @@
 - README: https://github.com/JacksonHuang517/dotsignal/blob/4aea009780731b2f231a12d2ad47039207c956c3/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## agentlas-ai/Agentlas-OS
+
+- Commit: `86f1bf3528c715a4ea12e0f9c7a5dd5568655699`
+- README: https://github.com/agentlas-ai/Agentlas-OS/blob/86f1bf3528c715a4ea12e0f9c7a5dd5568655699/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## oss-invisible/dots
+
+- Commit: `616bfacbfbd0b3fdeef32d8f53c8bb7c000e54c4`
+- README: https://github.com/oss-invisible/dots/blob/616bfacbfbd0b3fdeef32d8f53c8bb7c000e54c4/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## modelnorth/apex
+
+- Commit: `572cd735b2423e3cf2db7fc723b552f8932ae4b4`
+- README: https://github.com/modelnorth/apex/blob/572cd735b2423e3cf2db7fc723b552f8932ae4b4/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

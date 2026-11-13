@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-11。共 237 条。
+更新日期：2026-11-13。共 240 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -241,3 +241,6 @@
 | linkedin-apply-for-agents | community_project | 最建议用 Grok Bot 或 OpenAI Dots。 | [来源](https://github.com/PoetCoderJun/linkedin-apply-for-agents) |
 | ai-assistant-failure-cases | task_template | Release 2026-11-09: 17 cases, 4 assistants (ChatGPT dots, Grok Bot, Instinct and Muse), 27 requests and 108 results, asked between 2026-10-19 and 2026-10-30. | [来源](https://github.com/AnalystAIlab/ai-assistant-failure-cases) |
 | dotsignal | building_block | DotSignal 将飞书消息、待办、日程和网易企业邮箱的新邮件头接入云端事件服务，由 ChatGPT Dot 根据订阅提醒你需要回复、拍板或跟进的事项。自托管服务器独立采集，不依赖你的 Mac 在线。 | [来源](https://github.com/JacksonHuang517/dotsignal) |
+| Agentlas-OS | alternative | An open-source AI agent OS inspired by OpenAI Dots, Meta Muse, Claude Duet, Nous Hermes, and Mem0. | [来源](https://github.com/agentlas-ai/Agentlas-OS) |
+| dots | alternative | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. | [来源](https://github.com/oss-invisible/dots) |
+| apex | community_project | Built to obsolete centralized personal AI services (Instinct AI, Claude Duet, OpenAI Dots). | [来源](https://github.com/modelnorth/apex) |
