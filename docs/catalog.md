@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-13。共 241 条。
+更新日期：2026-11-14。共 243 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -245,3 +245,5 @@
 | dots | alternative | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. | [来源](https://github.com/oss-invisible/dots) |
 | apex | community_project | Built to obsolete centralized personal AI services (Instinct AI, Claude Duet, OpenAI Dots). | [来源](https://github.com/modelnorth/apex) |
 | whatsapp-mcp-chatgpt-dot | building_block | Connect your ChatGPT Dot to WhatsApp. | [来源](https://github.com/ohld/whatsapp-mcp-chatgpt-dot) |
+| ppc-agents | community_project | ChatGPT and OpenAI dots use the same managers as one file. | [来源](https://github.com/adplug-app/ppc-agents) |
+| agentlink | community_project | t: Claude Code, Codex of OpenClaw op je eigen computer, of een agent met een eigen cloudcomputer, zoals Grok Bot of een OpenAI dot. | [来源](https://github.com/appfabriek/agentlink) |

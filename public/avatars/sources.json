@@ -1228,6 +1228,18 @@
       "file": "ohld.jpg",
       "source": "https://avatars.githubusercontent.com/u/5613295?s=96",
       "sha256": "f9bb1449087d1228280ec05b1fbddde32aa31c1b5f2e6d1d49ab5b76d89e53dd"
+    },
+    {
+      "owner": "adplug-app",
+      "file": "adplug-app.png",
+      "source": "https://avatars.githubusercontent.com/u/349442884?s=96",
+      "sha256": "f778ac95eb6d94dedb1a2359513b255fd7469b074237768af28e35927c8fcb51"
+    },
+    {
+      "owner": "appfabriek",
+      "file": "appfabriek.png",
+      "source": "https://avatars.githubusercontent.com/u/257388377?s=96",
+      "sha256": "29e108df68a1581216eea158fba267d04c4412f48e3f34cd4b4a3cf8d7de8c49"
     }
   ]
 }

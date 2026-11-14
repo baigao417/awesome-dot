@@ -3325,6 +3325,34 @@
       "readmeUrl": "https://github.com/ohld/whatsapp-mcp-chatgpt-dot/blob/00300f91de4a0cd62d965b80ee92caed8dd9a3ce/README.md",
       "readmeSha256": "38339a65767677fd869d0d66eb710f286943772ae3bb362d7fc2abf3468eb07c",
       "files": []
+    },
+    {
+      "repository": "adplug-app/ppc-agents",
+      "repositoryId": 1457790360,
+      "description": "AdPlug's ad account managers for Google Ads, Meta Ads and LinkedIn Ads: plugins for Claude, Claude Code and Codex, and one-file managers for ChatGPT and OpenAI dots.",
+      "url": "https://github.com/adplug-app/ppc-agents",
+      "stars": 0,
+      "updatedAt": "2026-11-14T13:39:06Z",
+      "license": "MIT",
+      "commit": "fc3f599cfb2287176bbb6e3429869c26ada748bd",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/adplug-app/ppc-agents/blob/fc3f599cfb2287176bbb6e3429869c26ada748bd/README.md",
+      "readmeSha256": "95f4e0b1e5a0a87c4df22d3ce882202975f9456f10e50eeae6eb671e9e021041",
+      "files": []
+    },
+    {
+      "repository": "appfabriek/agentlink",
+      "repositoryId": 1412249277,
+      "description": "agentlink: chat vanuit de app met je eigen agent (Claude Code, Codex, OpenClaw). Releases van de client.",
+      "url": "https://github.com/appfabriek/agentlink",
+      "stars": 0,
+      "updatedAt": "2026-11-14T13:02:42Z",
+      "license": "NOASSERTION",
+      "commit": "80ac76fcf19cc035fc327980e9926193f083cf1f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/appfabriek/agentlink/blob/80ac76fcf19cc035fc327980e9926193f083cf1f/README.md",
+      "readmeSha256": "0f4953d7447af93fff0d46f219d1def3612f1d9d707f98f6430e3563adcce09e",
+      "files": []
     }
   ]
 }

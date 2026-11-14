@@ -1539,3 +1539,17 @@
 - README: https://github.com/ohld/whatsapp-mcp-chatgpt-dot/blob/00300f91de4a0cd62d965b80ee92caed8dd9a3ce/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## adplug-app/ppc-agents
+
+- Commit: `fc3f599cfb2287176bbb6e3429869c26ada748bd`
+- README: https://github.com/adplug-app/ppc-agents/blob/fc3f599cfb2287176bbb6e3429869c26ada748bd/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## appfabriek/agentlink
+
+- Commit: `80ac76fcf19cc035fc327980e9926193f083cf1f`
+- README: https://github.com/appfabriek/agentlink/blob/80ac76fcf19cc035fc327980e9926193f083cf1f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

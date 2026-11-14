@@ -200,5 +200,7 @@
   "agentlas-ai":"./avatars/agentlas-ai.png",
   "oss-invisible":"./avatars/oss-invisible.jpg",
   "modelnorth":"./avatars/modelnorth.png",
-  "ohld":"./avatars/ohld.jpg"
+  "ohld":"./avatars/ohld.jpg",
+  "adplug-app":"./avatars/adplug-app.png",
+  "appfabriek":"./avatars/appfabriek.png"
 }
