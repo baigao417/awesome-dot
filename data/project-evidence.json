@@ -3353,6 +3353,34 @@
       "readmeUrl": "https://github.com/appfabriek/agentlink/blob/80ac76fcf19cc035fc327980e9926193f083cf1f/README.md",
       "readmeSha256": "0f4953d7447af93fff0d46f219d1def3612f1d9d707f98f6430e3563adcce09e",
       "files": []
+    },
+    {
+      "repository": "Coke1120/Dots-Agent-Bridge",
+      "repositoryId": 1442486725,
+      "description": "A private, secure MCP bridge connecting ChatGPT Dots with OpenBot, Hermes and other AI agents through OAuth and asynchronous messaging.",
+      "url": "https://github.com/Coke1120/Dots-Agent-Bridge",
+      "stars": 0,
+      "updatedAt": "2026-11-16T04:15:28Z",
+      "license": "MIT",
+      "commit": "17bc9dda55256fd85ed93056706b51670dd8e53f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Coke1120/Dots-Agent-Bridge/blob/17bc9dda55256fd85ed93056706b51670dd8e53f/README.md",
+      "readmeSha256": "1dccc108b0e3a7741f03560bd9a998ea59623bf1a0d1fc9f50c0dbda2ef4fbb7",
+      "files": []
+    },
+    {
+      "repository": "hirengavit/gpsc-dot-jobs",
+      "repositoryId": 1402529865,
+      "description": "Job traffic between Material Studio and the ChatGPT Dot (Gujarati translation)",
+      "url": "https://github.com/hirengavit/gpsc-dot-jobs",
+      "stars": 0,
+      "updatedAt": "2026-11-16T06:27:24Z",
+      "license": "NOASSERTION",
+      "commit": "b39a2fae4e22668a9aafe416c6272d19546b6f56",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/hirengavit/gpsc-dot-jobs/blob/b39a2fae4e22668a9aafe416c6272d19546b6f56/README.md",
+      "readmeSha256": "ebbdab183d8306ecf1064850e4f7b1ef0ad35abe8365b2259b41158fc6675285",
+      "files": []
     }
   ]
 }

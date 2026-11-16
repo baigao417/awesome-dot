@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-14。共 243 条。
+更新日期：2026-11-16。共 245 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -247,3 +247,5 @@
 | whatsapp-mcp-chatgpt-dot | building_block | Connect your ChatGPT Dot to WhatsApp. | [来源](https://github.com/ohld/whatsapp-mcp-chatgpt-dot) |
 | ppc-agents | community_project | ChatGPT and OpenAI dots use the same managers as one file. | [来源](https://github.com/adplug-app/ppc-agents) |
 | agentlink | community_project | t: Claude Code, Codex of OpenClaw op je eigen computer, of een agent met een eigen cloudcomputer, zoals Grok Bot of een OpenAI dot. | [来源](https://github.com/appfabriek/agentlink) |
+| Dots-Agent-Bridge | building_block | Secure, OAuth-scoped MCP bridge connecting ChatGPT Dots with OpenBot, Hermes, and other AI agents through asynchronous messaging and events. | [来源](https://github.com/Coke1120/Dots-Agent-Bridge) |
+| gpsc-dot-jobs | community_project | Job traffic between Material Studio and the ChatGPT Dot. | [来源](https://github.com/hirengavit/gpsc-dot-jobs) |

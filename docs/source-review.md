@@ -1553,3 +1553,17 @@
 - README: https://github.com/appfabriek/agentlink/blob/80ac76fcf19cc035fc327980e9926193f083cf1f/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## Coke1120/Dots-Agent-Bridge
+
+- Commit: `17bc9dda55256fd85ed93056706b51670dd8e53f`
+- README: https://github.com/Coke1120/Dots-Agent-Bridge/blob/17bc9dda55256fd85ed93056706b51670dd8e53f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## hirengavit/gpsc-dot-jobs
+
+- Commit: `b39a2fae4e22668a9aafe416c6272d19546b6f56`
+- README: https://github.com/hirengavit/gpsc-dot-jobs/blob/b39a2fae4e22668a9aafe416c6272d19546b6f56/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
