@@ -3381,6 +3381,62 @@
       "readmeUrl": "https://github.com/hirengavit/gpsc-dot-jobs/blob/b39a2fae4e22668a9aafe416c6272d19546b6f56/README.md",
       "readmeSha256": "ebbdab183d8306ecf1064850e4f7b1ef0ad35abe8365b2259b41158fc6675285",
       "files": []
+    },
+    {
+      "repository": "qybaihe/bothub",
+      "repositoryId": 1444179327,
+      "description": "All your personal AI agents (Grok Bot, ChatGPT Dot, Meta Muse, Hark) in one native macOS & Windows workspace — multi-account, multi-bot sidebar & right-side workbench.",
+      "url": "https://github.com/qybaihe/bothub",
+      "stars": 1,
+      "updatedAt": "2026-11-16T13:02:05Z",
+      "license": "MIT",
+      "commit": "9ef03a17d823c9f10769428de1398c3889e314f7",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/qybaihe/bothub/blob/9ef03a17d823c9f10769428de1398c3889e314f7/README.md",
+      "readmeSha256": "c4fdac0e219784a1bb010d9d157cfc4c1763c05f0ddcdadeb7db742f4cd4f9af",
+      "files": []
+    },
+    {
+      "repository": "alexx-ftw/chatgpt-quote-reply",
+      "repositoryId": 1460556199,
+      "description": "Quote selected text exclusively in ChatGPT Dots. Lightweight userscript with automatic updates, silent insertion, no auto-send and no telemetry.",
+      "url": "https://github.com/alexx-ftw/chatgpt-quote-reply",
+      "stars": 0,
+      "updatedAt": "2026-11-16T21:29:50Z",
+      "license": "MIT",
+      "commit": "aa4b23689dd815a330e6a616ca8580a89e5f6c3e",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/alexx-ftw/chatgpt-quote-reply/blob/aa4b23689dd815a330e6a616ca8580a89e5f6c3e/README.md",
+      "readmeSha256": "68148657fe40a9dc00df1a64a3f05ac1a6c1bf52c6ff7efbcd801d4f6b9432f3",
+      "files": []
+    },
+    {
+      "repository": "engmsaleh/joinbot-plugin",
+      "repositoryId": 1460362544,
+      "description": "JoinBot plugin: put your AI agent in Zoom, Meet and Teams calls, where it answers out loud. For Grok Bot, ChatGPT Dots and Claude Duet.",
+      "url": "https://github.com/engmsaleh/joinbot-plugin",
+      "stars": 0,
+      "updatedAt": "2026-11-16T19:12:02Z",
+      "license": "MIT",
+      "commit": "f92490a99ab830b45a6927d609d24e526435979f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/engmsaleh/joinbot-plugin/blob/f92490a99ab830b45a6927d609d24e526435979f/README.md",
+      "readmeSha256": "656ea36751fae07553a34855576129a94ef5e993a07efc6bb96b2082a8d9f386",
+      "files": []
+    },
+    {
+      "repository": "myelinagent/Myelin-AI",
+      "repositoryId": 1247027568,
+      "description": "Drop-in memory layer for AI agents — bi-temporal facts, cite() outcome-conditioned learning, apoptosis-based forgetting, working-memory sessions, and a memory-aware multi-step agent orchestrator (OpenAI + Gemini). `pip install myelin-ai`.",
+      "url": "https://github.com/myelinagent/Myelin-AI",
+      "stars": 0,
+      "updatedAt": "2026-11-16T21:39:55Z",
+      "license": "MIT",
+      "commit": "034db5d508a5483a8ea299ef1b999c3f72b8c76f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/myelinagent/Myelin-AI/blob/034db5d508a5483a8ea299ef1b999c3f72b8c76f/README.md",
+      "readmeSha256": "b905dd0fa868e596da9713516804ba20595520ec7ccdd2937ecc990056901a9a",
+      "files": []
     }
   ]
 }

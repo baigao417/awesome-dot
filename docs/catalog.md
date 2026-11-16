@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-16。共 245 条。
+更新日期：2026-11-16。共 249 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -249,3 +249,7 @@
 | agentlink | community_project | t: Claude Code, Codex of OpenClaw op je eigen computer, of een agent met een eigen cloudcomputer, zoals Grok Bot of een OpenAI dot. | [来源](https://github.com/appfabriek/agentlink) |
 | Dots-Agent-Bridge | building_block | Secure, OAuth-scoped MCP bridge connecting ChatGPT Dots with OpenBot, Hermes, and other AI agents through asynchronous messaging and events. | [来源](https://github.com/Coke1120/Dots-Agent-Bridge) |
 | gpsc-dot-jobs | community_project | Job traffic between Material Studio and the ChatGPT Dot. | [来源](https://github.com/hirengavit/gpsc-dot-jobs) |
+| bothub | community_project | Run Grok Bot, ChatGPT Dot, Meta Muse, and Hark side by side on macOS & Windows — with multi-account isolation, automatic multi-bot sidebar sync, and a Grok-style right-side workbench. | [来源](https://github.com/qybaihe/bothub) |
+| chatgpt-quote-reply | community_project | Userscript 1.0.4 para añadir fragmentos seleccionados al borrador exclusivamente en Dots, en chatgpt.com/dots y chatgpt.com/dots/.... | [来源](https://github.com/alexx-ftw/chatgpt-quote-reply) |
+| joinbot-plugin | building_block | One package for Grok Bot, ChatGPT Dots and Claude Duet; the same MCP server also works in OpenBot, Rakazo, MausBot and dusk bot. | [来源](https://github.com/engmsaleh/joinbot-plugin) |
+| Myelin-AI | community_project | Agents that run on someone else's computer (OpenAI Dots, Grok Bot, a hosted assistant with "custom connectors") cannot start a program on your machine. | [来源](https://github.com/myelinagent/Myelin-AI) |
