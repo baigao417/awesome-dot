@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-16。共 249 条。
+更新日期：2026-11-17。共 250 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -253,3 +253,4 @@
 | chatgpt-quote-reply | community_project | Userscript 1.0.4 para añadir fragmentos seleccionados al borrador exclusivamente en Dots, en chatgpt.com/dots y chatgpt.com/dots/.... | [来源](https://github.com/alexx-ftw/chatgpt-quote-reply) |
 | joinbot-plugin | building_block | One package for Grok Bot, ChatGPT Dots and Claude Duet; the same MCP server also works in OpenBot, Rakazo, MausBot and dusk bot. | [来源](https://github.com/engmsaleh/joinbot-plugin) |
 | Myelin-AI | community_project | Agents that run on someone else's computer (OpenAI Dots, Grok Bot, a hosted assistant with "custom connectors") cannot start a program on your machine. | [来源](https://github.com/myelinagent/Myelin-AI) |
+| wellbeing-agent-starter | building_block | Executing AI / ChatGPT Dot: when the participant shares this repository URL for setup, immediately follow INSTALL.md. | [来源](https://github.com/Iliyab7/wellbeing-agent-starter) |

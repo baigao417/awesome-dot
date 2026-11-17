@@ -3437,6 +3437,20 @@
       "readmeUrl": "https://github.com/myelinagent/Myelin-AI/blob/034db5d508a5483a8ea299ef1b999c3f72b8c76f/README.md",
       "readmeSha256": "b905dd0fa868e596da9713516804ba20595520ec7ccdd2937ecc990056901a9a",
       "files": []
+    },
+    {
+      "repository": "Iliyab7/wellbeing-agent-starter",
+      "repositoryId": 1448846398,
+      "description": "Portable personal wellbeing pilot: host Chief of Staff, manager/analyst/coach skills, scoped task orchestration, local reference runtime and developer handoff.",
+      "url": "https://github.com/Iliyab7/wellbeing-agent-starter",
+      "stars": 0,
+      "updatedAt": "2026-11-17T14:33:25Z",
+      "license": "NOASSERTION",
+      "commit": "1d7e5d26ebfe43225d80077992567baa53c355b0",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/Iliyab7/wellbeing-agent-starter/blob/1d7e5d26ebfe43225d80077992567baa53c355b0/README.md",
+      "readmeSha256": "a4e67818fa7ba49127ff40fe0324425b80de5d9bbd9a7a9b328eb47905b664d3",
+      "files": []
     }
   ]
 }
