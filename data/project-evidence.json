@@ -3451,6 +3451,20 @@
       "readmeUrl": "https://github.com/Iliyab7/wellbeing-agent-starter/blob/1d7e5d26ebfe43225d80077992567baa53c355b0/README.md",
       "readmeSha256": "a4e67818fa7ba49127ff40fe0324425b80de5d9bbd9a7a9b328eb47905b664d3",
       "files": []
+    },
+    {
+      "repository": "samyeei/dot-on-wrist",
+      "repositoryId": 1462272444,
+      "description": "A community watch bridge for ChatGPT Dot on M5Stack StopWatch and Apple Watch",
+      "url": "https://github.com/samyeei/dot-on-wrist",
+      "stars": 0,
+      "updatedAt": "2026-11-18T06:35:53Z",
+      "license": "NOASSERTION",
+      "commit": "9f2ac86475510bfa7dffee6dcb81c4ec32889511",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/samyeei/dot-on-wrist/blob/9f2ac86475510bfa7dffee6dcb81c4ec32889511/README.md",
+      "readmeSha256": "2eadca16629777364d192aacbf16504b99176be9afb74fff758301c55280cfd1",
+      "files": []
     }
   ]
 }
