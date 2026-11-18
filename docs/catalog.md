@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-18。共 251 条。
+更新日期：2026-11-18。共 252 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -255,3 +255,4 @@
 | Myelin-AI | community_project | Agents that run on someone else's computer (OpenAI Dots, Grok Bot, a hosted assistant with "custom connectors") cannot start a program on your machine. | [来源](https://github.com/myelinagent/Myelin-AI) |
 | wellbeing-agent-starter | building_block | Executing AI / ChatGPT Dot: when the participant shares this repository URL for setup, immediately follow INSTALL.md. | [来源](https://github.com/Iliyab7/wellbeing-agent-starter) |
 | dot-on-wrist | community_project | Talk to your ChatGPT Dot conversation from an M5Stack StopWatch or Apple Watch. | [来源](https://github.com/samyeei/dot-on-wrist) |
+| dot-qq-native-bridge | community_project | 把一个 QQ 机器人的本人私聊接到已有的 ChatGPT dot。文字直接进入原 dot 对话；纯图片和文件会在本机加密暂存，等你发下一条文字说明后一起提交。支持 Markdown、长回答以及 dot 生成的附件。默认只同步从 QQ 发起的回复。 | [来源](https://github.com/nuo1z/dot-qq-native-bridge) |

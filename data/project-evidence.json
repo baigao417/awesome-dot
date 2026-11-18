@@ -3465,6 +3465,20 @@
       "readmeUrl": "https://github.com/samyeei/dot-on-wrist/blob/9f2ac86475510bfa7dffee6dcb81c4ec32889511/README.md",
       "readmeSha256": "2eadca16629777364d192aacbf16504b99176be9afb74fff758301c55280cfd1",
       "files": []
+    },
+    {
+      "repository": "nuo1z/dot-qq-native-bridge",
+      "repositoryId": 1462924146,
+      "description": "将本人 QQ 私聊接入已有的 ChatGPT dot，支持 Markdown、图片、文件和主动消息同步。",
+      "url": "https://github.com/nuo1z/dot-qq-native-bridge",
+      "stars": 0,
+      "updatedAt": "2026-11-18T14:40:51Z",
+      "license": "MIT",
+      "commit": "cf0fe7b63d0a3f52935a79858d0f5ea5d4f72790",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/nuo1z/dot-qq-native-bridge/blob/cf0fe7b63d0a3f52935a79858d0f5ea5d4f72790/README.md",
+      "readmeSha256": "51793dadacf77eb090e62f3e4d3af178b2097c49363dcb91917be63bf3c3d88f",
+      "files": []
     }
   ]
 }

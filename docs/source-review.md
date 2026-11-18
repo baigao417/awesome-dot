@@ -1609,3 +1609,10 @@
 - README: https://github.com/samyeei/dot-on-wrist/blob/9f2ac86475510bfa7dffee6dcb81c4ec32889511/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## nuo1z/dot-qq-native-bridge
+
+- Commit: `cf0fe7b63d0a3f52935a79858d0f5ea5d4f72790`
+- README: https://github.com/nuo1z/dot-qq-native-bridge/blob/cf0fe7b63d0a3f52935a79858d0f5ea5d4f72790/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
