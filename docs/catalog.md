@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-22。共 253 条。
+更新日期：2026-11-23。共 255 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -257,3 +257,5 @@
 | dot-on-wrist | community_project | Talk to your ChatGPT Dot conversation from an M5Stack StopWatch or Apple Watch. | [来源](https://github.com/samyeei/dot-on-wrist) |
 | dot-qq-native-bridge | community_project | 把一个 QQ 机器人的本人私聊接到已有的 ChatGPT dot。文字直接进入原 dot 对话；纯图片和文件会在本机加密暂存，等你发下一条文字说明后一起提交。支持 Markdown、长回答以及 dot 生成的附件。默认只同步从 QQ 发起的回复。 | [来源](https://github.com/nuo1z/dot-qq-native-bridge) |
 | dottie-forever | community_project | Set your own phrases to wake ChatGPT Dot and put it back on standby. | [来源](https://github.com/teereximus1337/dottie-forever) |
+| heydot | community_project | Say "Hey Dot" (or "Hey" plus whatever you named your dot) from across the room, and your ChatGPT dot picks up. | [来源](https://github.com/thaninbew/heydot) |
+| workstation | community_project | A keyboard-first Omarchy Quattro profile for personal mail, any number of isolated Microsoft 365 tenants, OneDrive, ChatGPT Dot, and engineering agents. | [来源](https://github.com/shah/workstation) |

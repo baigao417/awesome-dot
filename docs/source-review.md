@@ -1623,3 +1623,17 @@
 - README: https://github.com/teereximus1337/dottie-forever/blob/9120cc860cc73306bc6593d30ee8a9b65cd72f36/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## thaninbew/heydot
+
+- Commit: `f5bb71bed5a9c4642be1b33595939fd82100a8da`
+- README: https://github.com/thaninbew/heydot/blob/f5bb71bed5a9c4642be1b33595939fd82100a8da/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## shah/workstation
+
+- Commit: `60ae9fbecdc6c5c711dc300020781425eab004cf`
+- README: https://github.com/shah/workstation/blob/60ae9fbecdc6c5c711dc300020781425eab004cf/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
