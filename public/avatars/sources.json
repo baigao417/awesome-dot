@@ -1312,6 +1312,12 @@
       "file": "shah.jpg",
       "source": "https://avatars.githubusercontent.com/u/47497?s=96",
       "sha256": "d9d711c5879a338fe5e6deb181527608673a01ef02be4537ceb1c1349841f6cf"
+    },
+    {
+      "owner": "atemaguer",
+      "file": "atemaguer.png",
+      "source": "https://avatars.githubusercontent.com/u/25001132?s=96",
+      "sha256": "d43a6f7d3ccee124ef75503407d83110d169f756241a1e929ed8c3efd5043a3e"
     }
   ]
 }

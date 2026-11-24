@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-23。共 255 条。
+更新日期：2026-11-24。共 256 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -259,3 +259,4 @@
 | dottie-forever | community_project | Set your own phrases to wake ChatGPT Dot and put it back on standby. | [来源](https://github.com/teereximus1337/dottie-forever) |
 | heydot | community_project | Say "Hey Dot" (or "Hey" plus whatever you named your dot) from across the room, and your ChatGPT dot picks up. | [来源](https://github.com/thaninbew/heydot) |
 | workstation | community_project | A keyboard-first Omarchy Quattro profile for personal mail, any number of isolated Microsoft 365 tenants, OneDrive, ChatGPT Dot, and engineering agents. | [来源](https://github.com/shah/workstation) |
+| supertag | community_project | What Devin Bots, OpenAI dots, and Grok Bot offer: teammates that stay available, remember past work, act without being asked, and work alongside your team. | [来源](https://github.com/atemaguer/supertag) |

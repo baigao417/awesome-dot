@@ -1637,3 +1637,10 @@
 - README: https://github.com/shah/workstation/blob/60ae9fbecdc6c5c711dc300020781425eab004cf/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## atemaguer/supertag
+
+- Commit: `8754d1292143972836f97e8355f00715911edd61`
+- README: https://github.com/atemaguer/supertag/blob/8754d1292143972836f97e8355f00715911edd61/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
