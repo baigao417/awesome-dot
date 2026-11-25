@@ -1644,3 +1644,10 @@
 - README: https://github.com/atemaguer/supertag/blob/8754d1292143972836f97e8355f00715911edd61/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## EstKe/dot-to-t3
+
+- Commit: `7fd26ff713611b090ee9f30ef4802d025ff463af`
+- README: https://github.com/EstKe/dot-to-t3/blob/7fd26ff713611b090ee9f30ef4802d025ff463af/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
