@@ -1651,3 +1651,10 @@
 - README: https://github.com/EstKe/dot-to-t3/blob/7fd26ff713611b090ee9f30ef4802d025ff463af/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## caiomsantos95/omarchy-personal-agents-drawer
+
+- Commit: `130a5c0771b875a993e7fccf7c11edd3e8fcdf12`
+- README: https://github.com/caiomsantos95/omarchy-personal-agents-drawer/blob/130a5c0771b875a993e7fccf7c11edd3e8fcdf12/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

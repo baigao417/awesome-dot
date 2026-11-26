@@ -3549,6 +3549,20 @@
       "readmeUrl": "https://github.com/EstKe/dot-to-t3/blob/7fd26ff713611b090ee9f30ef4802d025ff463af/README.md",
       "readmeSha256": "d1da8643a9fb77ddb0af379f36d40c8325464fdae75730b8289bb3482b6ecc93",
       "files": []
+    },
+    {
+      "repository": "caiomsantos95/omarchy-personal-agents-drawer",
+      "repositoryId": 1472555091,
+      "description": "Claude Duet and Muse in a pre-rendered drawer that slides in from the right edge, themed like the rest of Omarchy.",
+      "url": "https://github.com/caiomsantos95/omarchy-personal-agents-drawer",
+      "stars": 0,
+      "updatedAt": "2026-11-26T14:34:09Z",
+      "license": "MIT",
+      "commit": "130a5c0771b875a993e7fccf7c11edd3e8fcdf12",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/caiomsantos95/omarchy-personal-agents-drawer/blob/130a5c0771b875a993e7fccf7c11edd3e8fcdf12/README.md",
+      "readmeSha256": "6ba3239c2b3cd6a3c71e80c29bc34797d16d2a0758dd158a9fea5b9295c65b79",
+      "files": []
     }
   ]
 }

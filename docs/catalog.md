@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-25。共 257 条。
+更新日期：2026-11-26。共 258 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -261,3 +261,4 @@
 | workstation | community_project | A keyboard-first Omarchy Quattro profile for personal mail, any number of isolated Microsoft 365 tenants, OneDrive, ChatGPT Dot, and engineering agents. | [来源](https://github.com/shah/workstation) |
 | supertag | community_project | What Devin Bots, OpenAI dots, and Grok Bot offer: teammates that stay available, remember past work, act without being asked, and work alongside your team. | [来源](https://github.com/atemaguer/supertag) |
 | dot-to-t3 | community_project | This guide shows how to start a task on your T3 Code host from a ChatGPT Dot. | [来源](https://github.com/EstKe/dot-to-t3) |
+| omarchy-personal-agents-drawer | community_project | e pointer on the right edge of the screen, and a drawer slides in over whatever you are doing with Claude Duet, Muse or ChatGPT Dots already loaded and signed in. | [来源](https://github.com/caiomsantos95/omarchy-personal-agents-drawer) |
