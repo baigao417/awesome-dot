@@ -3619,6 +3619,34 @@
       "readmeUrl": "https://github.com/screenpipe/screenpipe-cloud/blob/0506bb781355321d749e93a62c04c1d027d2cd7a/README.md",
       "readmeSha256": "59ceaf54d5818146603cb34422061b77db0cf4aca49e4f8760c4e5c95e101cd4",
       "files": []
+    },
+    {
+      "repository": "pcg562240/qq-vps-assistant-bridge",
+      "repositoryId": 1474630506,
+      "description": "Owner-only QQ bot pairing and Linux VPS deployment for MUSE and OpenAI Dots",
+      "url": "https://github.com/pcg562240/qq-vps-assistant-bridge",
+      "stars": 0,
+      "updatedAt": "2026-11-27T15:57:27Z",
+      "license": "MIT",
+      "commit": "b0f109610da5a8749fb5c256c1631a3153e45624",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/pcg562240/qq-vps-assistant-bridge/blob/b0f109610da5a8749fb5c256c1631a3153e45624/README.md",
+      "readmeSha256": "01d675d17a1cc861e7cca4919a6eb49cc539622266976a29324f937a92f3aeb3",
+      "files": []
+    },
+    {
+      "repository": "HanryYu/terminal-openai-dot",
+      "repositoryId": 1474483040,
+      "description": "Independent terminal client for OpenAI Dot with native Rex workspace panes",
+      "url": "https://github.com/HanryYu/terminal-openai-dot",
+      "stars": 0,
+      "updatedAt": "2026-11-27T13:41:39Z",
+      "license": "MIT",
+      "commit": "377ec69679c64e7e2a080a170d618238e1cd4f59",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/HanryYu/terminal-openai-dot/blob/377ec69679c64e7e2a080a170d618238e1cd4f59/README.md",
+      "readmeSha256": "5a9a024dbf5ad67c8af77f3624f962e4f914c7ec6a80881e49919b52908dbfb6",
+      "files": []
     }
   ]
 }

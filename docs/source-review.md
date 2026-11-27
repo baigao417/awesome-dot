@@ -1686,3 +1686,17 @@
 - README: https://github.com/screenpipe/screenpipe-cloud/blob/0506bb781355321d749e93a62c04c1d027d2cd7a/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## pcg562240/qq-vps-assistant-bridge
+
+- Commit: `b0f109610da5a8749fb5c256c1631a3153e45624`
+- README: https://github.com/pcg562240/qq-vps-assistant-bridge/blob/b0f109610da5a8749fb5c256c1631a3153e45624/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## HanryYu/terminal-openai-dot
+
+- Commit: `377ec69679c64e7e2a080a170d618238e1cd4f59`
+- README: https://github.com/HanryYu/terminal-openai-dot/blob/377ec69679c64e7e2a080a170d618238e1cd4f59/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
