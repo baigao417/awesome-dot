@@ -3563,6 +3563,62 @@
       "readmeUrl": "https://github.com/caiomsantos95/omarchy-personal-agents-drawer/blob/130a5c0771b875a993e7fccf7c11edd3e8fcdf12/README.md",
       "readmeSha256": "6ba3239c2b3cd6a3c71e80c29bc34797d16d2a0758dd158a9fea5b9295c65b79",
       "files": []
+    },
+    {
+      "repository": "5dive-ai/5dive-mcp",
+      "repositoryId": 1288036886,
+      "description": "MCP server for 5dive: run your self-hosted AI agent team from Claude Duet, OpenAI dots, Grok Bot, Meta Muse or any other assistant.",
+      "url": "https://github.com/5dive-ai/5dive-mcp",
+      "stars": 1,
+      "updatedAt": "2026-11-27T06:46:28Z",
+      "license": "MIT",
+      "commit": "098898baded9ad238bae788a8e9fbe14f4032b8f",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/5dive-ai/5dive-mcp/blob/098898baded9ad238bae788a8e9fbe14f4032b8f/README.md",
+      "readmeSha256": "3594e854a9475b73edc1e84664cc74d852a4510d03770e45ce1a7afa26a68c13",
+      "files": []
+    },
+    {
+      "repository": "apoorvdarshan/dot-bridge",
+      "repositoryId": 1473711293,
+      "description": "A macOS menu bar app that connects ChatGPT dots to local files, shell commands, and Codex through MCP, with pairing approved on your Mac.",
+      "url": "https://github.com/apoorvdarshan/dot-bridge",
+      "stars": 0,
+      "updatedAt": "2026-11-27T01:08:16Z",
+      "license": "NOASSERTION",
+      "commit": "256c5832575a52d74ca2e02af484d417bc0c4836",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/apoorvdarshan/dot-bridge/blob/256c5832575a52d74ca2e02af484d417bc0c4836/README.md",
+      "readmeSha256": "f73e567b717fd393db6c24d42f5e36657de45c1ea6b6d9db640ac310524408a6",
+      "files": []
+    },
+    {
+      "repository": "bartholo4/gemini-super-agent",
+      "repositoryId": 1474033854,
+      "description": "Gysa (Gemini Super Agent) — 24/7 Cloud + Local Personal Super Agent Architecture, Research & Roadmap",
+      "url": "https://github.com/bartholo4/gemini-super-agent",
+      "stars": 0,
+      "updatedAt": "2026-11-27T05:51:35Z",
+      "license": "MIT",
+      "commit": "f589ea22a5af9455b7c4bc0ac6f19c9d37b8ff2c",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/bartholo4/gemini-super-agent/blob/f589ea22a5af9455b7c4bc0ac6f19c9d37b8ff2c/README.md",
+      "readmeSha256": "d2dd15a1e0e901902208d563ea8383c733e87592c812247963d89445e031ef81",
+      "files": []
+    },
+    {
+      "repository": "screenpipe/screenpipe-cloud",
+      "repositoryId": 1388306936,
+      "description": "Read-only Screenpipe Data Sync plugin for Claude, ChatGPT, and Codex",
+      "url": "https://github.com/screenpipe/screenpipe-cloud",
+      "stars": 0,
+      "updatedAt": "2026-11-27T02:12:17Z",
+      "license": "NOASSERTION",
+      "commit": "0506bb781355321d749e93a62c04c1d027d2cd7a",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/screenpipe/screenpipe-cloud/blob/0506bb781355321d749e93a62c04c1d027d2cd7a/README.md",
+      "readmeSha256": "59ceaf54d5818146603cb34422061b77db0cf4aca49e4f8760c4e5c95e101cd4",
+      "files": []
     }
   ]
 }

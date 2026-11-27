@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-26。共 258 条。
+更新日期：2026-11-27。共 262 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -262,3 +262,7 @@
 | supertag | community_project | What Devin Bots, OpenAI dots, and Grok Bot offer: teammates that stay available, remember past work, act without being asked, and work alongside your team. | [来源](https://github.com/atemaguer/supertag) |
 | dot-to-t3 | community_project | This guide shows how to start a task on your T3 Code host from a ChatGPT Dot. | [来源](https://github.com/EstKe/dot-to-t3) |
 | omarchy-personal-agents-drawer | community_project | e pointer on the right edge of the screen, and a drawer slides in over whatever you are doing with Claude Duet, Muse or ChatGPT Dots already loaded and signed in. | [来源](https://github.com/caiomsantos95/omarchy-personal-agents-drawer) |
+| 5dive-mcp | building_block | Run your self-hosted 5dive team from Claude Duet, OpenAI dots, Grok Bot, Meta Muse or any other assistant. | [来源](https://github.com/5dive-ai/5dive-mcp) |
+| dot-bridge | building_block | Ask your ChatGPT dot from your phone to check a file or start a Codex task on your Mac. | [来源](https://github.com/apoorvdarshan/dot-bridge) |
+| gemini-super-agent | community_project | In late 2026, personal AI crossed the watershed from passive chat to always-on proactive Super Agents (OpenAI Dots, Claude Duet, DeepSeek/DSH Super-agent, Devin Bots, OpenClaw). | [来源](https://github.com/bartholo4/gemini-super-agent) |
+| screenpipe-cloud | community_project | A directory listing does not confirm that a ChatGPT Dot can use the plugin. | [来源](https://github.com/screenpipe/screenpipe-cloud) |

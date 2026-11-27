@@ -1658,3 +1658,31 @@
 - README: https://github.com/caiomsantos95/omarchy-personal-agents-drawer/blob/130a5c0771b875a993e7fccf7c11edd3e8fcdf12/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## 5dive-ai/5dive-mcp
+
+- Commit: `098898baded9ad238bae788a8e9fbe14f4032b8f`
+- README: https://github.com/5dive-ai/5dive-mcp/blob/098898baded9ad238bae788a8e9fbe14f4032b8f/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## apoorvdarshan/dot-bridge
+
+- Commit: `256c5832575a52d74ca2e02af484d417bc0c4836`
+- README: https://github.com/apoorvdarshan/dot-bridge/blob/256c5832575a52d74ca2e02af484d417bc0c4836/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## bartholo4/gemini-super-agent
+
+- Commit: `f589ea22a5af9455b7c4bc0ac6f19c9d37b8ff2c`
+- README: https://github.com/bartholo4/gemini-super-agent/blob/f589ea22a5af9455b7c4bc0ac6f19c9d37b8ff2c/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## screenpipe/screenpipe-cloud
+
+- Commit: `0506bb781355321d749e93a62c04c1d027d2cd7a`
+- README: https://github.com/screenpipe/screenpipe-cloud/blob/0506bb781355321d749e93a62c04c1d027d2cd7a/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
