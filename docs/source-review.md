@@ -1700,3 +1700,10 @@
 - README: https://github.com/HanryYu/terminal-openai-dot/blob/377ec69679c64e7e2a080a170d618238e1cd4f59/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## rodrigorivera-telos/ai-harness-usage-reports
+
+- Commit: `5afd2b737713590a52764c629188ef76c1f1c882`
+- README: https://github.com/rodrigorivera-telos/ai-harness-usage-reports/blob/5afd2b737713590a52764c629188ef76c1f1c882/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.

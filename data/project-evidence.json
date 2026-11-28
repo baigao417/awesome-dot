@@ -3647,6 +3647,20 @@
       "readmeUrl": "https://github.com/HanryYu/terminal-openai-dot/blob/377ec69679c64e7e2a080a170d618238e1cd4f59/README.md",
       "readmeSha256": "5a9a024dbf5ad67c8af77f3624f962e4f914c7ec6a80881e49919b52908dbfb6",
       "files": []
+    },
+    {
+      "repository": "rodrigorivera-telos/ai-harness-usage-reports",
+      "repositoryId": 1474972909,
+      "description": "Token usage reports from building the same app with Grok Bot, Claude Duet and ChatGPT Dot",
+      "url": "https://github.com/rodrigorivera-telos/ai-harness-usage-reports",
+      "stars": 0,
+      "updatedAt": "2026-11-27T22:40:46Z",
+      "license": "NOASSERTION",
+      "commit": "5afd2b737713590a52764c629188ef76c1f1c882",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/rodrigorivera-telos/ai-harness-usage-reports/blob/5afd2b737713590a52764c629188ef76c1f1c882/README.md",
+      "readmeSha256": "705dfd383dcfeeeff726e3b95d359495cebabd9d756d6eac2bda8e3a2a6f1fff",
+      "files": []
     }
   ]
 }
