@@ -3661,6 +3661,34 @@
       "readmeUrl": "https://github.com/rodrigorivera-telos/ai-harness-usage-reports/blob/5afd2b737713590a52764c629188ef76c1f1c882/README.md",
       "readmeSha256": "705dfd383dcfeeeff726e3b95d359495cebabd9d756d6eac2bda8e3a2a6f1fff",
       "files": []
+    },
+    {
+      "repository": "marouane53/django-glass",
+      "repositoryId": 1460580698,
+      "description": null,
+      "url": "https://github.com/marouane53/django-glass",
+      "stars": 4,
+      "updatedAt": "2026-11-28T16:31:49Z",
+      "license": "AGPL-3.0",
+      "commit": "fcb4a21cb7e453c187f71d4d9ef369edc013b563",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/marouane53/django-glass/blob/fcb4a21cb7e453c187f71d4d9ef369edc013b563/README.md",
+      "readmeSha256": "895bfb1179aa0290ab51f74962e428c1391eabab5320214c7bc7f1fff20c0b1c",
+      "files": []
+    },
+    {
+      "repository": "jamesenh/mp-news-studio",
+      "repositoryId": 1475495571,
+      "description": null,
+      "url": "https://github.com/jamesenh/mp-news-studio",
+      "stars": 0,
+      "updatedAt": "2026-11-28T16:04:52Z",
+      "license": "MIT",
+      "commit": "7cf61d00f5bb3dcfb438448d431d0a365df82ccc",
+      "readmePath": "README.md",
+      "readmeUrl": "https://github.com/jamesenh/mp-news-studio/blob/7cf61d00f5bb3dcfb438448d431d0a365df82ccc/README.md",
+      "readmeSha256": "7596b43aa0c04e16c37a11b99b3499c61d91f5ddd5cd296bc3831f49afb33576",
+      "files": []
     }
   ]
 }

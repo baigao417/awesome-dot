@@ -1,6 +1,6 @@
 # Awesome Dot 收录清单
 
-更新日期：2026-11-28。共 265 条。
+更新日期：2026-11-28。共 267 条。
 
 | 名称 | 类型 | Dot 的具体角色 | 出处 |
 | --- | --- | --- | --- |
@@ -269,3 +269,5 @@
 | qq-vps-assistant-bridge | community_project | 在自己的 Linux VPS 上保活腾讯官方 QQ 机器人，把扫码本人的纯文本私聊交给 MUSE 或 OpenAI Dots，再回到同一个 QQ 私聊。两种接法可以共用一台 VPS，但各用不同的 AppID、运行用户、队列和凭据。 | [来源](https://github.com/pcg562240/qq-vps-assistant-bridge) |
 | terminal-openai-dot | community_project | A lightweight terminal client (openai-dot) for OpenAI Dot cloud conversations. | [来源](https://github.com/HanryYu/terminal-openai-dot) |
 | ai-harness-usage-reports | community_project | I built the same app (Maybe) with three agent harnesses: Grok Bot, Claude Duet and ChatGPT Dot. | [来源](https://github.com/rodrigorivera-telos/ai-harness-usage-reports) |
+| django-glass | community_project | Django is an Android client for Meta smart glasses with conversational AI, cloud speech, a separate OpenAI Dots call mode and selectable spoken notifications. | [来源](https://github.com/marouane53/django-glass) |
+| mp-news-studio | building_block | Agent 自主搜索与新闻回传：Hermes、ChatGPT Dot 等 Agent 每轮读取圈子的共享采集指南，自行选择网页搜索、浏览器、RSS / Atom 或新闻 API。提交新闻时可附上采集观测，验证过的方式会自动进入指南，供下一轮 Agent 复用。 | [来源](https://github.com/jamesenh/mp-news-studio) |

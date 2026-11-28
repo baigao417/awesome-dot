@@ -1707,3 +1707,17 @@
 - README: https://github.com/rodrigorivera-telos/ai-harness-usage-reports/blob/5afd2b737713590a52764c629188ef76c1f1c882/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## marouane53/django-glass
+
+- Commit: `fcb4a21cb7e453c187f71d4d9ef369edc013b563`
+- README: https://github.com/marouane53/django-glass/blob/fcb4a21cb7e453c187f71d4d9ef369edc013b563/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
+
+## jamesenh/mp-news-studio
+
+- Commit: `7cf61d00f5bb3dcfb438448d431d0a365df82ccc`
+- README: https://github.com/jamesenh/mp-news-studio/blob/7cf61d00f5bb3dcfb438448d431d0a365df82ccc/README.md
+- Inspected paths: README only; no code review
+- Scope: bounded excerpts only; not installed, executed or security-audited.
