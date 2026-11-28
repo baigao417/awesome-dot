@@ -1568,10 +1568,10 @@
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
 
-## qybaihe/bothub
+## qybaihe/botark
 
-- Commit: `9ef03a17d823c9f10769428de1398c3889e314f7`
-- README: https://github.com/qybaihe/bothub/blob/9ef03a17d823c9f10769428de1398c3889e314f7/README.md
+- Commit: `0994e49046d88b1b59b4002fccfc737cb85a20d6`
+- README: https://github.com/qybaihe/botark/blob/0994e49046d88b1b59b4002fccfc737cb85a20d6/README.md
 - Inspected paths: README only; no code review
 - Scope: bounded excerpts only; not installed, executed or security-audited.
 

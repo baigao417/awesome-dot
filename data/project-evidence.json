@@ -3383,17 +3383,17 @@
       "files": []
     },
     {
-      "repository": "qybaihe/bothub",
+      "repository": "qybaihe/botark",
       "repositoryId": 1444179327,
-      "description": "All your personal AI agents (Grok Bot, ChatGPT Dot, Meta Muse, Hark) in one native macOS & Windows workspace — multi-account, multi-bot sidebar & right-side workbench.",
-      "url": "https://github.com/qybaihe/bothub",
-      "stars": 1,
-      "updatedAt": "2026-11-16T13:02:05Z",
+      "description": "All your personal AI agents (Grok Bot, ChatGPT Dot, Meta Muse, Hark & Hermes) in one native macOS & Windows workspace.",
+      "url": "https://github.com/qybaihe/botark",
+      "stars": 141,
+      "updatedAt": "2026-11-25T03:01:25Z",
       "license": "MIT",
-      "commit": "9ef03a17d823c9f10769428de1398c3889e314f7",
+      "commit": "0994e49046d88b1b59b4002fccfc737cb85a20d6",
       "readmePath": "README.md",
-      "readmeUrl": "https://github.com/qybaihe/bothub/blob/9ef03a17d823c9f10769428de1398c3889e314f7/README.md",
-      "readmeSha256": "c4fdac0e219784a1bb010d9d157cfc4c1763c05f0ddcdadeb7db742f4cd4f9af",
+      "readmeUrl": "https://github.com/qybaihe/botark/blob/0994e49046d88b1b59b4002fccfc737cb85a20d6/README.md",
+      "readmeSha256": "7b2aaac37573a421fc6f1ab93dfafa9f8185bcafcff753b5cfc7938fbba35f18",
       "files": []
     },
     {
